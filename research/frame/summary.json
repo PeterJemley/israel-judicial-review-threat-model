@@ -1,0 +1,27 @@
+{
+ "rows": 122,
+ "entries_read": 139,
+ "challenged": 14,
+ "unchallenged": 108,
+ "merged_from_more_than_one_reader": 15,
+ "published_or_year_only_dates": 5,
+ "rows_through_january_2023": 114,
+ "by_subject": {
+  "Knesset": 42,
+  "Israel Lands": 1,
+  "President": 8,
+  "Government": 29,
+  "State Economy": 16,
+  "Army": 1,
+  "Jerusalem": 4,
+  "Judiciary": 4,
+  "State Comptroller": 3,
+  "Freedom of Occupation": 4,
+  "Human Dignity and Liberty": 1,
+  "State Budget (temporary Basic Law)": 6,
+  "Referendum": 1,
+  "Nation State": 1,
+  "Torah Study": 1
+ },
+ "unmatched_challenges": []
+}

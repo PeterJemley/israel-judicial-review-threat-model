@@ -16,6 +16,10 @@ The note separates the article's existential-threat sentence into four claims, s
 
 Conjecture. Nothing in the note is a finding. T1 was run once, on 22 October 2026, on nine blind-recoded rows, and was inconclusive under its pre-registered rule before any outcome was looked at: one discordant row against a minimum of six. The other three tests are designs. Each revision is a commit; substantive changes are also logged in the note's change log with the date and reason.
 
+## First in the queue
+
+Issue 6, pinned: every Knesset website has been unreachable from this project since it began, so the search for the unit, the vote records for four rows and the bill texts were all done without it. It gates the comparison sample and the two 2023 rows, and it takes precedence over the other open issues.
+
 ## Criticism
 
 Open an issue. A refutation is worth as much as a confirmation here, and the note says what would count as one for each conjecture.

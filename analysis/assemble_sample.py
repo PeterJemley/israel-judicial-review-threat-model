@@ -1,11 +1,16 @@
 #!/usr/bin/env python3
 """Assemble the comparison sample's codebook from the batch coding files (change log (ah), (aj), (ak)).
 
-Usage: python3 assemble_sample.py CODING_DIR OUT_CSV
-Reads rows.json and, for each batch n, coder-A-b{n}.json, coder-B-b{n}.json, adjudications-b{n}.json
-(optional), circumstances-b{n}.json (optional), docket-b{n}.json (optional). Writes one row per sampled
-enactment with the same predictor columns as the main codebook, the predictions under both beneficiary
-signs for description, the outcome (Not challenged), provenance, and the one-vote check fields.
+Usage: python3 assemble_sample.py CODING_DIR OUT_CSV [MANIFEST [FRAME_CSV]]
+Reads the manifest (default rows.json, the first draw; rows-redraw.json for the redraw of change log (al))
+and, for each batch n, coder-A-b{n}.json, coder-B-b{n}.json, adjudications-b{n}*.json (optional),
+circumstances-b{n}.json (optional), docket-b{n}.json (optional). Coding is looked up by batch and by the
+sequence number under which the batch filed it (the manifest's coded_seq, else seq), since the first
+draw's batches and the redraw's use different frames' numbers. Writes one row per sampled enactment with
+the same predictor columns as the main codebook, the predictions under both beneficiary signs for
+description, the outcome, provenance, and the one-vote check fields. With FRAME_CSV, the outcome is
+Not challenged only where the frame records a verification that found no challenge; otherwise it is
+left blank and the row is listed as unverified.
 """
 import sys, json, csv, io, os, glob, re
 sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
@@ -15,45 +20,64 @@ CODER_PREDICTORS = ["named_beneficiary","immediate_effect","coalition_only","exp
 PREDICTORS = ["named_beneficiary","situated_beneficiary","immediate_effect","coalition_only","expedited","scope","temporary_provision","targets_judiciary","deviation_tier","direction"]
 PRED_IN = ["named_beneficiary","situated_beneficiary","immediate_effect","coalition_only","expedited","deviation_tier","direction"]
 
+BATCH = re.compile(r"-b(\d+)")
+
+def batch_of(path):
+    return int(BATCH.search(os.path.basename(path)).group(1))
+
 def load_all(d, prefix):
+    """{(batch, seq): value} from every {prefix}-b{n}.json."""
     out = {}
     for path in sorted(glob.glob(os.path.join(d, f"{prefix}-b*.json"))):
+        b = batch_of(path)
         data = json.load(io.open(path, encoding="utf-8"))
         for k, v in data.items():
-            if k.isdigit(): out[k] = v
+            if k.isdigit(): out[(b, k)] = v
     return out
 
 def load_adj(d):
+    """{(batch, seq, variable): ruling} from every adjudications-b{n}*.json; later files override earlier ones."""
     adj = {}
     for path in sorted(glob.glob(os.path.join(d, "adjudications-b*.json"))):
+        b = batch_of(path)
         for a in json.load(io.open(path, encoding="utf-8")).get("adjudications", []):
-            adj[(str(a["enactment"]), a["variable"])] = a
+            adj[(b, str(a["enactment"]), a["variable"])] = a
     return adj
 
-def main(d, out):
-    manifest = json.load(io.open(os.path.join(d, "rows.json"), encoding="utf-8"))
+def main(d, out, manifest_name="rows.json", frame_csv=None):
+    manifest = json.load(io.open(os.path.join(d, manifest_name), encoding="utf-8"))
+    verified = None
+    if frame_csv:
+        verified = {r["seq"]: r.get("verified", "") for r in csv.DictReader(io.open(frame_csv, encoding="utf-8"))}
     A, B = load_all(d, "coder-A"), load_all(d, "coder-B")
     C, K = load_all(d, "circumstances"), load_all(d, "docket")
     adj = load_adj(d)
     rows, agree = [], {v: [] for v in CODER_PREDICTORS}
+    unverified = []
     for m in manifest:
-        k = m["seq"]
+        b, c = m["batch"], m.get("coded_seq", m["seq"])
+        k = (b, c)
         if k not in A and k not in B: continue
-        row = {"seq": k, "batch": m["batch"], "case": m["title_he"], "title_en": m["title_en"], "year": m["passage_date"][:4], "passage_date": m["passage_date"],
-               "enactment_type": m["kind"], "subject": m["subject"], "unit": "c"}
+        row = {"seq": m["seq"], "batch": b, "coded_seq": c, "first_draw_seq": m.get("first_draw_seq", m["seq"]), "case": m["title_he"], "title_en": m["title_en"],
+               "year": m["passage_date"][:4], "passage_date": m["passage_date"], "enactment_type": m["kind"], "subject": m["subject"], "unit": "c"}
         prov = {}
         for v in CODER_PREDICTORS:
             va = (A.get(k, {}).get(v) or {}).get("value", "") or ""
             vb = (B.get(k, {}).get(v) or {}).get("value", "") or ""
             if k in A and k in B: agree[v].append((va, vb))
-            if (k, v) in adj: row[v] = adj[(k, v)]["value"]; prov[v] = "adjudicated"
+            if (b, c, v) in adj: row[v] = adj[(b, c, v)]["value"]; prov[v] = "adjudicated"
             elif va == vb: row[v] = va; prov[v] = "agreed" if va else "both blank"
             else: row[v] = ""; prov[v] = f"disagreement unresolved (A={va!r}, B={vb!r})"
         sb = (C.get(k, {}).get("situated_beneficiary") or {})
         row["situated_beneficiary"] = sb.get("value", "") or ""; prov["situated_beneficiary"] = f"circumstances reader, closed list {sb.get('list_version','(ae)')}" if row["situated_beneficiary"] else "not coded"
         dk = K.get(k, {})
         row["litigation_timing"] = (dk.get("litigation_timing") or {}).get("value", "") or ""
-        row["outcome"] = (dk.get("outcome") or {}).get("value", "Not challenged") if dk else "Not challenged"
+        if verified is None:
+            row["outcome"] = (dk.get("outcome") or {}).get("value", "Not challenged") if dk else "Not challenged"
+        elif verified.get(m["seq"], "").startswith("2026-10-22: No challenge"):
+            row["outcome"] = "Not challenged"
+        else:
+            row["outcome"] = ""; unverified.append(m["seq"])
         row["primary_analysis"] = "No"
         pred_in = {s: row[s] for s in PRED_IN}
         cls, dp, ep, grp = classify(pred_in, bkey=PRIMARY_BENEFICIARY)
@@ -68,7 +92,7 @@ def main(d, out):
         row["final_vote_B"] = str(fb.get("value", "")) + (f" [{fb.get('note','')}]" if fb.get("note") else "")
         row["provenance"] = "; ".join(f"{v}: {prov[v]}" for v in PREDICTORS)
         rows.append(row)
-    cols = ["seq","batch","case","title_en","year","passage_date","enactment_type","subject","unit"] + PREDICTORS + ["litigation_timing","outcome","primary_analysis","F","class","decision_rule_prediction","elite_prediction","group","F_text","class_text","decision_rule_prediction_text","group_text","final_vote_A","final_vote_B","provenance"]
+    cols = ["seq","batch","coded_seq","first_draw_seq","case","title_en","year","passage_date","enactment_type","subject","unit"] + PREDICTORS + ["litigation_timing","outcome","primary_analysis","F","class","decision_rule_prediction","elite_prediction","group","F_text","class_text","decision_rule_prediction_text","group_text","final_vote_A","final_vote_B","provenance"]
     with io.open(out, "w", encoding="utf-8", newline="") as f:
         w = csv.DictWriter(f, fieldnames=cols); w.writeheader(); w.writerows(rows)
     kap = {v: {"kappa": (None if kappa([a for a, b in p], [b for a, b in p]) is None else round(kappa([a for a, b in p], [b for a, b in p]), 3)) if p else None,
@@ -77,7 +101,10 @@ def main(d, out):
     for r in rows:
         ids = set(re.findall(r"vote\s*(\d{3,6})", r["final_vote_A"] + " " + r["final_vote_B"]))
         for i in ids: shared.setdefault(i, []).append(r["seq"])
-    summary = {"rows_coded": len(rows), "by_batch": {b: sum(1 for r in rows if r["batch"] == b) for b in (1, 2, 3)},
+    summary = {"manifest": manifest_name, "rows_in_manifest": len(manifest), "rows_coded": len(rows),
+               "not_yet_coded": [m["seq"] for m in manifest if (m["batch"], m.get("coded_seq", m["seq"])) not in A and (m["batch"], m.get("coded_seq", m["seq"])) not in B],
+               "unverified_outcome": unverified,
+               "by_batch": {b: sum(1 for r in rows if r["batch"] == b) for b in sorted({m["batch"] for m in manifest})},
                "agreement": kap,
                "unresolved_disagreements": [(r["seq"], v) for r in rows for v in CODER_PREDICTORS if r["provenance"].find(f"{v}: disagreement") >= 0],
                "F_distribution": {str(f): sum(1 for r in rows if r["F"] == f) for f in (0, 1, 2, 3, 4)},
@@ -88,4 +115,4 @@ def main(d, out):
     print(json.dumps(summary, indent=1, ensure_ascii=False))
 
 if __name__ == "__main__":
-    main(sys.argv[1], sys.argv[2])
+    main(*sys.argv[1:5])

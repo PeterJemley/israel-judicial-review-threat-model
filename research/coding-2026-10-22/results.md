@@ -119,3 +119,35 @@ With the situated sign in F, row 4 moves from F of 2 to 3 and stays Undetermined
 ### Disclosures for this pass
 
 The reader is a language model and reported court outcomes reaching it through search-result summaries for every enactment but the 2016 budget, none opened. It read pages through a fetch tool that summarises text, instructed to omit decisions. It did not consult the judiciary's docket. For the 1969 ratification law and the 1994 override it could not establish a pending proceeding from any permitted source without reading decision text, so those codings rest on the enactments' own clauses alone. Its sources for the 2023 rows are dated press reports from before passage; the 2023 Incapacity coding also cites the indictment of January 2020 as a pending proceeding concerning the prime minister.
+
+## Second addendum, 22 October 2026: the situated sign under the tightened list
+
+The closed list was tightened (note, change log item (ae)) and a fresh circumstances reader, with no knowledge of the first reader's work, coded the nine rows under it from the amended sheet. Its report is `circumstances.json`; the first reader's report under the earlier list is kept as `circumstances-ac.json`. Fresh expectations had been recorded in item (ae) before the reader ran.
+
+### The reader's values against the recorded expectations
+
+| Row | Enactment | Expected | Coded | What the reader relied on |
+|---|---|---|---|---|
+| 1 | Human Dignity and Liberty 1992 | No | No | no clause, proceeding or step found; link would rest on motive |
+| 2 | Elections financing law 1969 | No | No | the single-instance clause touches every incumbent faction alike |
+| 3 | Confirmation of validity law 1969 | No | No | a blanket validation; no permitted dated source for a pending petition |
+| 4 | Freedom of Occupation override 1994 | No | No | the saving deadline binds any government relying on existing law; the override is general |
+| 5 | Two-year budget 2016 | Yes | Yes | item 4: a temporary provision for the sitting government's own budget, tabled as a government bill |
+| 6 | Budget deadline 2020 | Yes | Yes | item 3: a dissolution deadline that bound the sitting government, moved on the night it ran out |
+| 7 | Nation-State 2018 | No | No | no clause, proceeding or step found |
+| 8 | Incapacity 2023 | Yes | Yes | item 2: the attorney general's letter of 1 February 2023; item 1: the unfitness petition of 9 February 2023 with responses ordered by 12 March |
+| 9 | Reasonableness 2023 | Yes | Yes | item 1: the petition against the Ben Gvir appointment, on reasonableness grounds, pending on the day of passage |
+
+Nine of nine expectations met. The reader flagged an ambiguity in the tightened wording on rows 8 and 9: both enactments are general in form, so on a reading under which a rule that successors would also enjoy is never Yes, both would be No. The reader coded them Yes on the reading that the alteration which must be unshared is the alteration in the live matter, not the form of the rule, which is the reading the list was written to express; the note's change log item (af) makes that explicit in step 3 and discloses that the clarification was written after the reader's choice was seen. Under the alternative reading row 9 would fall from F of 4 to 3 and stay Adverse-predicted from the Sharp row, and row 8 is uncoded in any case, so the verdict is the same under both readings.
+
+### Effect on the analysis
+
+The 1994 override returns to F of 2 and stays Undetermined. Reasonableness stays at F of 4 in the purpose-driven group. The configuration is N = 5, K = 4, D_A = 1, D_N = 0; Inconclusive before outcomes; the secondary analysis 11a reproduces the first run; the two analyses classify no row differently and differ only in the group label of Reasonableness.
+
+### Disclosures for this pass
+
+- The reader is a language model and reported court outcomes reaching it through search-result titles and summaries for every enactment but the 1992 Basic Law and the 1969 ratification law, none opened.
+- The reader's working folder, which the session shares with earlier work, already held files whose names included case names (among them files named for the 1969 and 1995 cases and for petitions); the reader reported not opening them and using four Knesset file identifiers from their names only to re-download the same gazette PDFs through the Internet Archive. That is a leak of case names into a role meant not to see them, and future readers are to be given a fresh folder and told not to list the shared one.
+- For Reasonableness the reader opened the article reporting the disposition of the Ben Gvir appointment petition, instructing its fetch tool to return only the publication date and filing date; the headline, seen in search results, had already disclosed that petition's disposition, which is not the enactment's outcome.
+- For Incapacity the gazette text of the amendment could not be retrieved, and the reader took the quoted text of the operative section from a Knesset court filing hosted by a research institute, dated after passage; the extraction exposed lines of the Knesset's arguments, which the reader reported not using.
+- The 1969 ratification law is No for want of a permitted dated source for the earlier petition; the reader notes the cell should be revisited if one is supplied. Under the list it would be No in any case, because the petition had been decided before passage and a judgment already given is not an admissible fact.

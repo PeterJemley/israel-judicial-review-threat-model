@@ -1,0 +1,180 @@
+{
+  "39": {
+    "situated_beneficiary": {
+      "value": "No",
+      "person_or_government": "none identified",
+      "matter": "none identified; the enactment's operative provision could not be read",
+      "admissible_fact": "none; no permitted source reachable from here contains the text of this amendment or any closed-list fact about it",
+      "fact_date": null,
+      "source": "none (see note)",
+      "source_date": null,
+      "support": "none",
+      "list_version": "(ae), adopted 2026-10-22, as clarified by (af) the same day",
+      "note": "Text sought at: the Nevo consolidated page btl0631.htm via web.archive.org (blocked for curl, WebFetch and the browser pane) and directly (Nevo now sits behind a one-time-code login, both the htm page and the Law_word/law14/LAW-1555.pdf gazette file); the Knesset PDF (fs.knesset.gov.il redirects to a geo-block page); he.wikisource.org (no page for the 1992 Basic Law: The Government; the 2001 page lists the 1992 law only as חוק קודם); WIPO Lex (no entry for the repealed 1992 law); Open Knesset committee protocols (the Constitution Committee protocol of 28.2.1996 lists Government amendment bills 4, 5 and 6 but nothing about the January 1996 law); NYU Faculty Digital Archive (holds single plenum sittings, none found for 1–3 January 1996; the site search is not query-filtered); JTA site search (no 1995–96 results surfaced); the Hebrew Wikipedia article on the 1992 law and an IDI survey article (neither mentions a January 1996 amendment). With no text and no closed-list fact established, coded No under the no-inference rule; see deviations."
+    }
+  },
+  "42": {
+    "situated_beneficiary": {
+      "value": "No",
+      "person_or_government": "none; the provision binds the Central Elections Committee at every Knesset election",
+      "matter": "none live under the closed list; the amendment shortens the standing period for publishing election results in Reshumot from fourteen days to eight",
+      "admissible_fact": "none. Item 3 considered and rejected: the fourteen-day period is a standing statutory period touching every incumbent committee alike, not a dated deadline binding the sitting government or an officeholder; items 1, 2 not found; item 4: WIPO Lex notes list no transitional or temporary provision",
+      "fact_date": null,
+      "source": "WIPO Lex IL104, consolidated Hebrew text of Basic Law: The Knesset, note on ס״ח תשנ״ו מס׳ 1565 מיום 27.2.1996 עמ׳ 100 (ה״ח 2507); Knesset Constitution, Law and Justice Committee protocol, 28.2.1996 (Open Knesset document 476345.DOC), explaining the eight-day rule as serving the Prime Minister run-off timetable",
+      "source_date": "WIPO Lex consolidated text (current); committee protocol 1996-02-28",
+      "support": "תוצאות הבחירות יפורסמו ברשומות תוך שמונה ימים מיום הבחירות",
+      "list_version": "(ae), adopted 2026-10-22, as clarified by (af) the same day",
+      "note": "Identification caveat: WIPO Lex ties the law at ס״ח 1565 עמ׳ 100 (the sheet's citation for seq 42) to section 11; the he.wikisource.org markers (תשנ״ו, תשנ״ו־2 …) do not say which marker is which gazette page, so section 11 is taken from WIPO Lex. Looked for a pending proceeding or formal step concerning the publication of results or the 1996 election timetable in the committee record and web searches: none found. The Knesset PDF 13_lsr_211249.pdf itself was unreachable (geo-block, archive blocked)."
+    }
+  },
+  "45": {
+    "situated_beneficiary": {
+      "value": "No",
+      "person_or_government": "none; the provision governs how any candidate for Prime Minister is proposed",
+      "matter": "none live under the closed list; the amendment (as prepared for second and third reading on the day of passage) fixes the party's standing in a Prime Minister candidacy and three routes by which a candidate may be put forward",
+      "admissible_fact": "none. No court proceeding or formal step concerning a candidacy found; no deadline moved by this provision; no single-instance or sunset clause appears in the committee's description",
+      "fact_date": null,
+      "source": "Knesset Constitution, Law and Justice Committee protocol, 28.2.1996 (Open Knesset document 476345.DOC): approval of הצעת חוק-יסוד: הממשלה (תיקון מס׳ 6) for second and third reading without reservations",
+      "source_date": "1996-02-28",
+      "support": "עיקר ההצעה הוא מעמד המפלגה בנסיבות של הגשת מועמדות לראשות ממשלה וקביעת שלוש האלטרנטיבות",
+      "list_version": "(ae), adopted 2026-10-22, as clarified by (af) the same day",
+      "note": "The gazette text (ס״ח 1568 עמ׳ 114) was unreachable (Nevo login wall, Knesset geo-block, archive blocked). The same committee session approved two further Government amendment bills, numbered there 4 (a minister holding an additional citizenship) and 5 (the run-off to be held fourteen days after the first round, with results published within eight days), with the chair saying final numbering would follow the order of amendments; whichever of the three is the law at עמ׳ 114, each is a general rule for Prime Minister elections touching every candidate, minister or committee alike, and none moves a dated deadline binding the sitting government. Searched the committee record and the web for a pending proceeding or formal step about a specific candidacy before 28.2.1996: none found."
+    }
+  },
+  "48": {
+    "situated_beneficiary": {
+      "value": "No",
+      "person_or_government": "none; the saving clause covers every enactment in force before the Basic Law, whoever relies on it",
+      "matter": "none live under the closed list; section 10 (saving of laws) extended from two years to four years",
+      "admissible_fact": "none. Item 3: the lapse date is a sunset on pre-existing legislation, not a deadline binding the sitting government or an officeholder, and a government relying on existing law satisfies no item; item 4: the sunset does not apply to the sitting government's own measure or term; items 1, 2: no pending proceeding or formal step concerning a specific law's lapse under section 10 as of 30.10.1996 found in permitted sources",
+      "fact_date": null,
+      "source": "he.wikisource.org consolidated text of חוק-יסוד: חופש העיסוק (section 10 annotated [תיקון: תשנ״ז, תשנ״ח]; citation list ס״ח תשנ״ז, 4); the sheet's own description of the amendment (two to four years); searches in English and Hebrew for a petition pending before the vote",
+      "source_date": "Wikisource text as read 2026-10-22",
+      "support": "10. הוראת שעה [תיקון: תשנ״ז, תשנ״ח] — ס״ח תשנ״ז, 4",
+      "list_version": "(ae), adopted 2026-10-22, as clarified by (af) the same day",
+      "note": "The Knesset PDF 14_lsr_211361.pdf was unreachable; the 1996 wording (four years) rests on the sheet's description and the Wikisource annotation. Web searches for a High Court petition pending in October 1996 about a pre-1994 law due to lapse under section 10 returned only general descriptions of the Basic Law and a 1993 ruling on meat imports (recorded in deviations; dated before the 1994 Basic Law, so not a proceeding pending on the day of passage)."
+    }
+  },
+  "51": {
+    "situated_beneficiary": {
+      "value": "No",
+      "person_or_government": "none; section 8(b) covers every law passed within a year of the Basic Law's commencement (i.e. in 1994–95), section 10 covers all pre-existing legislation",
+      "matter": "none live under the closed list; section 8(b) added (the four-year expiry of override laws does not apply to a law passed before one year from commencement) and section 10 extended to 1 Nisan 5762 (14.3.2002)",
+      "admissible_fact": "none. Item 4: section 8(b) is a closed-class clause, but the laws it covers were enacted in 1994–95 under the 13th Knesset, not measures of the government sitting on 18.3.1998, and a government relying on existing law satisfies no item; item 3: the expiry dates bind the laws, not the sitting government or an officeholder; items 1, 2: no pending proceeding or formal step found",
+      "fact_date": null,
+      "source": "he.wikisource.org consolidated text of חוק-יסוד: חופש העיסוק, sections 8(b) and 10 with annotations [תיקון: תשנ״ח], citation ס״ח תשנ״ח, 178; search-result snippet of the Knesset PDF 14_lsr_211484.pdf (passed 18.3.1998, כ׳ באדר התשנ״ח)",
+      "source_date": "Wikisource text as read 2026-10-22",
+      "support": "ההוראה בדבר פקיעת תוקף, כאמור בסעיף קטן (א), לא תחול על חוק שהתקבל לפני תום שנה ממועד תחילתו של חוק־יסוד זה",
+      "list_version": "(ae), adopted 2026-10-22, as clarified by (af) the same day",
+      "note": "The Knesset PDF itself was unreachable (geo-block, archive blocked). Searched in English and Hebrew for a petition pending before 18.3.1998 against an override law or a pre-1994 law whose validity turned on sections 8 or 10: nothing dated before passage found; see deviations for court material that surfaced in snippets."
+    }
+  },
+  "54": {
+    "situated_beneficiary": {
+      "value": "No",
+      "person_or_government": "none identified",
+      "matter": "none identified; the enactment's operative provision could not be read",
+      "admissible_fact": "none; no permitted source reachable from here contains the text of this amendment or any closed-list fact about it",
+      "fact_date": null,
+      "source": "none (see note)",
+      "source_date": null,
+      "support": "none",
+      "list_version": "(ae), adopted 2026-10-22, as clarified by (af) the same day",
+      "note": "Text sought at: Nevo (login wall, both btl0631.htm and Law_word/law14/LAW-1698.pdf), the Knesset PDF (geo-blocked), web.archive.org (blocked), he.wikisource.org and WIPO Lex (no 1992 Government law), Open Knesset committee protocols of the 14th Knesset (found Knesset Committee protocols of 23.2.1998, 26.10.1998 and 4.2.1999, none on this bill; a Constitution Committee protocol on a bill of the same number turned out to be from 30.11.1994 and to amend the 1968 law), JVL/MFA Knesset summaries (mention only the Knesset dissolution law of 4.1.1999), Hebrew and English web searches (which indicate the removal of the ministers cap was Amendment No. 9 later in 1999, not this law). With no text and no closed-list fact established, coded No under the no-inference rule; a court-decision snippet that mentioned this amendment reached me unopened, see deviations."
+    }
+  },
+  "58": {
+    "situated_beneficiary": {
+      "value": "No",
+      "person_or_government": "none; the provisions apply to whoever holds the Speaker's office or is the senior member at any Knesset",
+      "matter": "none live under the closed list; the amendment replaces the eldest member (זקן) with the senior member (ותיק) in section 13 and section 20(a) and defines ותיק, amends section 20A(b) on a deputy filling in when the Speaker is temporarily unable to serve, and the marginal heading of section 35",
+      "admissible_fact": "none. Item 4: WIPO Lex lists no transitional or temporary provision; items 1, 2: no court proceeding or formal step concerning the Speaker's office or the seniority rule found; item 3: no dated deadline moved",
+      "fact_date": null,
+      "source": "WIPO Lex IL104 consolidated Basic Law: The Knesset, note on ס״ח תש״ס מס׳ 1750 מיום 8.8.2000 עמ׳ 261 (ה״ח 2894); search-result snippet of the Knesset PDF 15_lsr_300247.pdf (passed 31.7.2000, כ״ח בתמוז התש״ס); he.wikisource.org consolidated sections 13, 20, 20א (markers תש״ס־2)",
+      "source_date": "WIPO Lex and Wikisource texts as read 2026-10-22",
+      "support": "התיקון עוסק בארבעה סעיפים: סעיף 13, סעיף 20(א), סעיף 20א(ב) וסעיף 35 (search snippet of 15_lsr_300247.pdf)",
+      "list_version": "(ae), adopted 2026-10-22, as clarified by (af) the same day",
+      "note": "The Knesset PDF itself was unreachable; content rests on the WIPO Lex notes and the indexed snippet of the PDF. Looked in the WIPO notes for a transitional clause (none) and in web searches for any proceeding or formal step about the Speaker then in office or the opening of a Knesset before 31.7.2000 (none found)."
+    }
+  },
+  "61": {
+    "situated_beneficiary": {
+      "value": "No",
+      "person_or_government": "considered: Prime Minister Ehud Barak and the sitting government (Barak had submitted his resignation and remained in office pending a special election); the person enabled to stand, Benjamin Netanyahu, was not in office",
+      "matter": "the special election for Prime Minister due on 6.2.2001 under section 10(a) of the 1992 law, following the Prime Minister's resignation",
+      "admissible_fact": "none established under the closed list. Item 1: no court proceeding found. Item 2: the resignation was the Prime Minister's own step, not a step taken against him or against a government measure. Item 3: the sources show the enactment did not move the 6.2.2001 date. Item 4: the enacted text could not be retrieved, so whether it carries a single-instance clause confined to that special election could not be verified; the sheet's title for the law carries no הוראת שעה",
+      "fact_date": "resignation submitted Saturday 9.12.2000 (press of 14.12.2000) / 10.12.2000 (press of 19.12.2000); special election date 6.2.2001; amendment passed 18.12.2000",
+      "source": "Christian Science Monitor, News in Brief, 14.12.2000 (Barak resigned the previous Saturday; bill allowing a non-member to run passed its preliminary reading 67–35); Knesset Constitution, Law and Justice Committee protocol, 18.12.2000 (Open Knesset 496009.DOC); Knesset Committee protocol, 18.12.2000, special debate procedures for הצעת חוק-יסוד: הממשלה (תיקון), referred to as חוק נתניהו (Open Knesset 490967.DOC); Jerusalem Post 19.12.2000 as reproduced by the Jewish Virtual Library (passed 18.12.2000, 65–45, 4 abstentions); Yated Ne'eman 20.12.2000 (chareidi.org)",
+      "source_date": "2000-12-14; 2000-12-18; 2000-12-18; 2000-12-19; 2000-12-20",
+      "support": "ברגע זה המצב הוא שיש לנו עילה לעריכת בחירות מיוחדות ... דהיינו, ב-6 בפברואר 2001 (Constitution Committee, 18.12.2000)",
+      "list_version": "(ae), adopted 2026-10-22, as clarified by (af) the same day",
+      "note": "The gazette text (ס״ח 1762 עמ׳ 48) was unreachable (Nevo login wall, Knesset geo-block, archive blocked); the operative content (a person who is not a member of the Knesset may stand for Prime Minister in a special election) rests on the press reports and the committee records above. The Yated Ne'eman report describes it as enabling a non-member to stand in these special elections; the Jerusalem Post report does not say whether it was temporary or permanent. If the adjudicator can read the enacted text and it contains a clause confined to the special election following the resignation of 9/10.12.2000, item 4 should be re-examined. Under the no-inference rule the cell is coded No."
+    }
+  },
+  "64": {
+    "situated_beneficiary": {
+      "value": "No",
+      "person_or_government": "none; the repealed section governed the convening of any Knesset",
+      "matter": "none live under the closed list; section 32 repealed (if the Knesset was not convened within the four weeks of section 31, it convened on the Monday of the fifth week)",
+      "admissible_fact": "none. WIPO Lex lists no transitional provision; no court proceeding, formal step or dated deadline concerning the convening of the Knesset found",
+      "fact_date": null,
+      "source": "WIPO Lex IL104 consolidated Basic Law: The Knesset, note on ס״ח תשס״א מס׳ 1796 מיום 24.6.2001 עמ׳ 426 (ה״ח 3002); he.wikisource.org consolidated text, section 32 marked (בוטל) [תיקון: תשס״א־4]",
+      "source_date": "WIPO Lex and Wikisource texts as read 2026-10-22",
+      "support": "ביטול סעיף 32 — לא כונסה הכנסת בארבעת השבועות כאמור בסעיף הקודם, תתכנס ביום ב׳ של השבוע החמישי",
+      "list_version": "(ae), adopted 2026-10-22, as clarified by (af) the same day",
+      "note": "The Knesset PDF 15_lsr_300374.pdf was unreachable; content from WIPO Lex. Looked for a pending proceeding or formal step about convening the 15th Knesset in June 2001: none found."
+    }
+  },
+  "67": {
+    "situated_beneficiary": {
+      "value": "No",
+      "person_or_government": "none; consequential amendment whose commencement was deferred to the first day of the 16th Knesset (28.1.2003)",
+      "matter": "none live under the closed list; section 11(a)(2) amended (the President's functions under Basic Law: The Government, as to dissolution of the Knesset and the Prime Minister's resignation) and section 12 amended (the countersignature exception now reads documents connected with forming the government or dissolving the Knesset); Wikisource also marks section 20 of Basic Law: The Knesset with this gazette issue",
+      "admissible_fact": "none. The commencement date 28.1.2003 is a deferral to the next Knesset, not a deadline binding the sitting government or an officeholder; no single-instance clause; no court proceeding or formal step found",
+      "fact_date": null,
+      "source": "WIPO Lex consolidated Basic Law: The President of the State (text 385543), note on the amendment of ס״ח תשס״ב מס׳ 1809 עמ׳ 2 (ה״ח תשס״א 3027 עמ׳ 764), numbered there No. 5 and recorded as originally numbered 6, commencement 28.1.2003; he.wikisource.org consolidated President law, sections 11 and 12 annotated [תיקון: תשנ״ו, תשס״ב]",
+      "source_date": "WIPO Lex and Wikisource texts as read 2026-10-22",
+      "support": "ימלא את התפקידים שיוחדו לו בחוק-יסוד: הממשלה, לענין פיזור הכנסת והתפטרות ראש הממשלה",
+      "list_version": "(ae), adopted 2026-10-22, as clarified by (af) the same day",
+      "note": "Numbering caveat: the sheet calls this Amendment No. 6; WIPO Lex numbers the same gazette item No. 5 and says it was originally numbered 6. The Knesset PDF 15_lsr_300419.pdf was unreachable. No search beyond the texts was made for a pending matter, since the provisions are consequential drafting with deferred commencement."
+    }
+  },
+  "70": {
+    "situated_beneficiary": {
+      "value": "No",
+      "person_or_government": "none; the provision creates a standing route for ending any judge's tenure",
+      "matter": "none live under the closed list; section 7(4) amended so that a judge's tenure may end on a decision of the Judicial Selection Committee proposed by its chair, the Ombudsman for complaints against judges, or the President of the Supreme Court, adopted by at least seven members",
+      "admissible_fact": "none. No single-instance or sunset clause in section 7; no court proceeding, formal step or dated deadline concerning an identifiable judge found",
+      "fact_date": null,
+      "source": "he.wikisource.org consolidated text of חוק-יסוד: השפיטה, section 7 annotated [תיקון: תשס״ב], citation ס״ח תשס״ב, 598; WIPO Lex entry for the Judiciary law (search snippet: ס״ח תשס״ב מס׳ 1864 מיום 5.8.2002)",
+      "source_date": "Wikisource text as read 2026-10-22",
+      "support": "החלטה של הועדה לבחירת שופטים שהציע יושב ראש הועדה, נציב תלונות הציבור על שופטים או נשיא בית המשפט העליון",
+      "list_version": "(ae), adopted 2026-10-22, as clarified by (af) the same day",
+      "note": "The Knesset PDF 15_lsr_300551.pdf was unreachable. One web search on the amendment returned only descriptions of the section and of the Ombudsman's role; no dated report of a pending proceeding or formal step against a particular judge before 24.7.2002 surfaced, and no further press search was run within the call budget."
+    }
+  },
+  "73": {
+    "situated_beneficiary": {
+      "value": "No",
+      "person_or_government": "none; a one-word cross-reference change in section 6A(a)",
+      "matter": "none live under the closed list; in section 6A(a) the words בחוק הבחירות לכנסת (the conditions for a faction split) are replaced by בחוק",
+      "admissible_fact": "none. WIPO Lex lists no transitional provision; no court proceeding or formal step concerning a particular member's departure from a faction, and no dated deadline, found before 24.3.2004",
+      "fact_date": null,
+      "source": "WIPO Lex IL104 consolidated Basic Law: The Knesset, note on ס״ח תשס״ד מס׳ 1933 מיום 30.3.2004 עמ׳ 336 (ה״ח הכנסת תשס״ד מס׳ 37 עמ׳ 48); search-result snippet of the Knesset PDF 16_lsr_300994.pdf (passed 24.3.2004, ב׳ בניסן התשס״ד, signed Katsav, Sharon, Rivlin); he.wikisource.org section 6א annotated [תיקון: תשנ״א, תשנ״ו־3, תשס״ד]",
+      "source_date": "WIPO Lex and Wikisource texts as read 2026-10-22",
+      "support": "הוראה זו לא תחול על התפלגות סיעה בתנאים שנקבעו בחוק",
+      "list_version": "(ae), adopted 2026-10-22, as clarified by (af) the same day",
+      "note": "The Knesset PDF itself was unreachable. A Hebrew web search for a faction-split dispute or petition in early 2004 returned Knesset Committee agenda items of 26.1.2004 and 9.2.2004 on a private bill about faction splits (Elections Law amendment) and nothing about a pending proceeding or a petition served against a particular member."
+    }
+  },
+  "deviations": [
+    "Access: web.archive.org was unreachable by curl (sandbox), by WebFetch (blocked) and by the browser pane (navigation denied); fs.knesset.gov.il redirects to a geo-block page; nevo.co.il (both the law_html pages and the Law_word gazette PDFs) now sits behind a one-time-code login; archive.ph, gov.il/apps/elections, hamichlol.org.il and albawaba.com returned blocks or 403. As a result none of the twelve gazette texts linked in the sheet could be opened; texts were taken instead from he.wikisource.org consolidated pages (read in full in the browser pane for the Knesset, Freedom of Occupation and Judiciary laws), from WIPO Lex consolidated texts with amendment notes (wipo.int/wipolex, texts 385541 and 385543; a mirror of the enactments' consolidated text, not on the permitted list by name), from search-result snippets of the indexed Knesset PDFs, and from Knesset committee protocols hosted by Open Knesset (production.oknesset.org), which are Knesset records.",
+    "Not found: the texts of seq 39 (Government, January 1996), seq 54 (Government Amendment No. 8, January 1999) and seq 61 (Government Amendment No. 10, December 2000) could not be read in any form; seq 61's content rests on dated press reports and Knesset committee records; seq 45's content rests on the Knesset Constitution Committee protocol of the day of passage. Those four cells are coded No because no closed-list fact was established, not because the texts were examined.",
+    "Working folder: WebFetch saved binary downloads (Word protocols, two PDFs) into the session's tool-results folder outside the fresh scratch subfolder; each was copied into the scratch subfolder circ-b2/dl for text conversion. No other folder was listed, opened or searched.",
+    "Secondary sources used only to look for leads, not as the basis of any code: the Hebrew Wikipedia article on the 1992 Basic Law: The Government (no 1996 amendment described); an IDI survey article on Basic Law amendments (no entries for these years); Jewish Virtual Library pages (Knesset highlights for the 13th and 14th Knessets, and a page reproducing a Jerusalem Post report of 19.12.2000, which is the press source cited for seq 61); an MFA election page surfaced only in a search summary. A Christian Science Monitor brief of 14.12.2000 and a Yated Ne'eman report of 20.12.2000 (press) were read for seq 61.",
+    "Page closed: a PDF fetched from idi.org.il under the title incapacitation-of-prime-minister-response-of-knesset turned out to be a 2023 High Court petition (HCJ 2412/23 and 2466/23 on Prime Minister incapacity, unrelated to any sampled enactment); I read only its first lines and three grep hits on ממלא מקום, then deleted it. A Word file fetched as a possible protocol on Amendment No. 6 was the 1991 Constitution Committee protocol on the original direct-election bill; another, on a bill numbered Amendment No. 8, was the 30.11.1994 Constitution Committee protocol on an amendment to the 1968 law. Both were set aside.",
+    "Court outcomes that reached me through search-result summaries or snippets without opening the page: (a) for seq 54, a Globes item summarized as a High Court ruling about the Central Elections Committee chair and the Knesset's term that attributes an interpretive difficulty to an omission in Amendment No. 8; not opened, not used; (b) for seq 48/51, a snippet describing the 22.10.1993 High Court ruling on meat-import licences under the 1992 Basic Law: Freedom of Occupation, and an IDI snippet about a 1997 ruling on investment-portfolio licensing; neither concerns a sampled enactment and neither was opened; (c) the he.wikisource.org Judiciary page itself carries a note that Amendment No. 3 (2023, section 15(d1)) was voided in HCJ 5658/23; not a sampled enactment, read only as part of the page text.",
+    "Numbering: WIPO Lex numbers the Knesset law at ס״ח 1565 עמ׳ 100 (seq 42) as Amendment No. 20 amending section 11, and the laws of 27.2.1996 (ס״ח 1566 עמ׳ 106) and 29.2.1996 (ס״ח 1568 עמ׳ 112) as Nos. 19 and 21 adding section 5A; the Wikisource markers do not state page assignments. WIPO Lex numbers the President law at ס״ח 1809 עמ׳ 2 (seq 67) as No. 5, recorded as originally numbered 6. For seq 45 the Constitution Committee's own numbering of the three Government amendment bills approved on 28.2.1996 (4, 5, 6) was stated to be provisional.",
+    "Budget: about 80 tool calls were used; no dedicated press search for a pending matter was run for seq 64 and seq 67, whose provisions are consequential drafting, nor beyond one search each for seq 58, 70 and 73."
+  ]
+}

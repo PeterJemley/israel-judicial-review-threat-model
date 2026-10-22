@@ -1,0 +1,130 @@
+{
+ "rows_coded": 12,
+ "by_batch": {
+  "1": 12,
+  "2": 0,
+  "3": 0
+ },
+ "agreement": {
+  "named_beneficiary": {
+   "kappa": 1.0,
+   "agree": 12,
+   "n": 12
+  },
+  "immediate_effect": {
+   "kappa": 1.0,
+   "agree": 12,
+   "n": 12
+  },
+  "coalition_only": {
+   "kappa": 0.4,
+   "agree": 10,
+   "n": 12
+  },
+  "expedited": {
+   "kappa": 0.6,
+   "agree": 10,
+   "n": 12
+  },
+  "scope": {
+   "kappa": 1.0,
+   "agree": 12,
+   "n": 12
+  },
+  "temporary_provision": {
+   "kappa": 1.0,
+   "agree": 12,
+   "n": 12
+  },
+  "targets_judiciary": {
+   "kappa": 1.0,
+   "agree": 12,
+   "n": 12
+  },
+  "deviation_tier": {
+   "kappa": 0.368,
+   "agree": 8,
+   "n": 12
+  },
+  "direction": {
+   "kappa": 1.0,
+   "agree": 12,
+   "n": 12
+  }
+ },
+ "unresolved_disagreements": [],
+ "F_distribution": {
+  "0": 0,
+  "1": 0,
+  "2": 2,
+  "3": 0,
+  "4": 0
+ },
+ "uncoded_for_F": [
+  "1",
+  "4",
+  "7",
+  "10",
+  "13",
+  "19",
+  "22",
+  "25",
+  "31",
+  "35"
+ ],
+ "direction": {
+  "Illiberal": 0,
+  "Liberal": 1,
+  "Neutral": 11,
+  "": 0
+ },
+ "one_vote_check": {
+  "vote_ids_shared_by_two_rows": {},
+  "rows_reporting_a_joint_vote_or_no_final_vote": [
+   [
+    "1",
+    " [No final vote found: Knesset record sitting of 12 Feb 1958 not in any archive capture; no dated press report located. "
+   ],
+   [
+    "4",
+    " [No final vote found (see coalition_only note).]"
+   ],
+   [
+    "7",
+    " [No final vote found (see coalition_only note).]"
+   ],
+   [
+    "10",
+    " [No final vote found (see coalition_only note).]"
+   ],
+   [
+    "13",
+    "31 March 1976; third reading passed without opposition, no count recorded; Knesset record (Divrei HaKnesset), sitting 28"
+   ],
+   [
+    "16",
+    "30 July 1980; 69 for, 15 against; Christian Science Monitor, 31 July 1980 (dated press report) [The press report concern"
+   ],
+   [
+    "19",
+    " [No final vote found (see coalition_only note).]"
+   ],
+   [
+    "25",
+    " [No final vote found (see coalition_only note).]"
+   ],
+   [
+    "28",
+    "12 February 1991; 82 for, 2 against, 2 abstaining; Knesset record (Divrei HaKnesset), sitting 266 of the 12th Knesset, e"
+   ],
+   [
+    "31",
+    " [No final vote found (see coalition_only note).]"
+   ],
+   [
+    "35",
+    " [No final vote found: the Knesset record of the 18 March 1992 sitting (sitting 399, the last of the 12th Knesset) is no"
+   ]
+  ]
+ }
+}

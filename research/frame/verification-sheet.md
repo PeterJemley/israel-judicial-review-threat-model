@@ -1,0 +1,60 @@
+# Verification sheet for the comparison sample, 2026-10-22
+
+You are a docket reader. For each of the 36 enactments below, determine whether it was ever challenged before the Supreme Court of Israel, sitting as the High Court of Justice or in any other capacity, from its passage to today, 22 October 2026. "Challenged" means a petition or appeal that attacked the enactment's validity, its binding force, or its application as an abuse of the Knesset's constituent power, whatever the result: granted, dismissed, dismissed in limine, moot, withdrawn, or pending. A case that merely applied or interpreted the enactment, or attacked an ordinary statute under it, is not a challenge; record such cases in the note if you find them, because they are useful, but code them as no challenge.
+
+## Where to look, in order
+
+1. Chief Justice Hayut's survey of challenges to Basic Laws in HCJ 5658/23 (Versa translation, versa.cardozo.yu.edu/node/705) and Bar-On v. Knesset (HCJ 4908/10, Versa), which list the earlier cases.
+2. Hebrew Wikipedia's article on the Basic Law concerned (its amendments section often names petitions), and its articles on the amendment where one exists.
+3. The petitioners' own case lists: the Movement for Quality Government (mqg.org.il), the Association for Civil Rights in Israel (acri.org.il), Adalah (adalah.org), the Israel Democracy Institute's case pages (idi.org.il).
+4. Nevo's case law search and the judiciary's database (supremedecisions.court.gov.il), if reachable; Versa's index and search.
+5. Hebrew and English press searches on the amendment's title or subject together with בג"ץ / עתירה / High Court / petition.
+
+Knesset sites are geo-blocked; web.archive.org is reachable. Work in a fresh subfolder of your scratch directory and do not list or open other folders there. Do not read, list or search any file in the repository folder this session works in. Do not write or modify any file; return your result in your final message only.
+
+## What to record for each row
+
+"seq" (the number below), "verdict" ("No challenge found" or "Challenged"), "search" (the sources and search terms you tried, in enough detail that another reader could repeat them), "related_cases" (cases that applied or interpreted the enactment without attacking it, if any, with citations), and if Challenged: "case" (number and name), "filed", "judgment_date", "outcome_class" (one of: Struck, Deferred, Narrowed by interpretation, Invalidity warning, Declared ultra vires, Upheld, Applied, Not recognized, Review foreclosed, Not decided, Pending), "source" (URLs or citations), "note".
+
+## The rows
+
+- seq 1: חוק-יסוד: הכנסת — Basic Law: The Knesset; passed 1958-02-12 (passed); ס"ח תשי"ח 244, עמ' 69 (20.2.1958); amends: none (enactment); kind: enactment.
+- seq 4: חוק-יסוד: הכנסת (תיקון מס' 3) — Basic Law: The Knesset (Amendment No. 3); passed 1959-08-06 (passed); ס"ח תשי"ט 291, עמ' 210 (16.8.1959); amends: חוק-יסוד: הכנסת; kind: amendment.
+- seq 7: חוק-יסוד: הכנסת (תיקון מס' 4) — Basic Law: The Knesset (Amendment No. 4); passed 1967-03-14 (passed); ס"ח תשכ"ז 493, עמ' 24 (23.3.1967); amends: חוק-יסוד: הכנסת; kind: amendment.
+- seq 10: חוק-יסוד: הממשלה (תיקון) — Basic Law: The Government (Amendment); passed 1973-07-23 (passed); ס"ח 711, תשל"ג, עמ' 236 (2.8.1973); amends: Basic Law: The Government (1968); kind: amendment.
+- seq 13: חוק-יסוד: הצבא — Basic Law: The Army; passed 1976-03-31 (passed); ס"ח 806, תשל"ו, עמ' 154 (9.4.1976); amends: Basic Law: The Army; kind: enactment.
+- seq 16: חוק-יסוד: ירושלים בירת ישראל — Basic Law: Jerusalem, Capital of Israel; passed 1980-07-30 (passed); ס"ח 980, תש"ם, עמ' 186 (5.8.1980); amends: Basic Law: Jerusalem, Capital of Israel; kind: enactment.
+- seq 19: חוק-יסוד: משק המדינה (תיקון) — Basic Law: The State Economy (Amendment) [Amendment No. 1]; passed 1982-05-24 (passed); ס״ח תשמ״ב 1052, עמ' 170 (1.6.1982); amends: Basic Law: The State Economy (s. 1, s. 3); kind: amendment.
+- seq 22: חוק-יסוד: הממשלה (תיקון מס' 4) — Basic Law: The Government (Amendment No. 4); passed 1984-09-13 (passed); ס"ח 1124, תשמ"ד, עמ' 220 (21.9.1984); amends: Basic Law: The Government (1968); kind: amendment.
+- seq 25: חוק-יסוד: מבקר המדינה — Basic Law: The State Comptroller; passed 1988-02-15 (passed); ס"ח 1237, תשמ"ח, עמ' 30 (24.2.1988); amends: Basic Law: The State Comptroller; kind: enactment.
+- seq 28: חוק-יסוד: הכנסת (תיקון מס' 12) — Basic Law: The Knesset (Amendment No. 12); passed 1991-02-12 (passed); ס"ח 1345, תשנ"א, עמ' 90 (22.2.1991); the Government provisions (section 3) at עמ' 91; amends: Basic Law: The Government (1968) | Basic Law: The Knesset | חוק-יסוד: הכנסת | חוק-יסוד: הממשלה (התשכ"ח-1968); kind: amendment.
+- seq 31: חוק-יסוד: משק המדינה (תיקון מס' 4) — Basic Law: The State Economy (Amendment No. 4); passed 1991-12-31 (passed); ס״ח תשנ״ב 1378, עמ' 40 (8.1.1992); amends: Basic Law: The State Economy (new s. 3A, multi-year budget); kind: amendment.
+- seq 35: חוק-יסוד: הממשלה (התשנ״ב) — Basic Law: The Government (1992) — indirect amendment of the State Economy law; passed 1992-03-18 (passed); ס״ח תשנ״ב 1396, עמ' 214; amending section (s. 58) at עמ' 224 (14.4.1992); amends: Basic Law: The Government (1968) | Basic Law: The Government (1992) | Basic Law: The Government (principal; covered by another reader) | Basic Law: The State Economy (s. 3B, via s. 58; Nevo counts it as State Economy Amendment No. 5) | חוק-יסוד: הכנסת | חוק-יסוד: הממשלה (התשכ"ח-1968) (replaced); kind: re-enactment.
+- seq 39: חוק-יסוד: הממשלה (תיקון) — Basic Law: The Government (Amendment); passed 1996-01-02 (passed); ס"ח 1555, תשנ"ו, עמ' 30 (12.1.1996); amends: Basic Law: The Government (1992); kind: amendment.
+- seq 42: חוק-יסוד: הכנסת (תיקון מס' 20) — Basic Law: The Knesset (Amendment No. 20); passed 1996-02-26 (passed); ס"ח תשנ"ו 1565, עמ' 100 (27.2.1996); amends: חוק-יסוד: הכנסת; kind: amendment.
+- seq 45: חוק-יסוד: הממשלה (תיקון מס' 6) — Basic Law: The Government (Amendment No. 6); passed 1996-02-28 (passed); ס"ח 1568, תשנ"ו, עמ' 114 (29.2.1996); amends: Basic Law: The Government (1992); kind: amendment.
+- seq 48: חוק-יסוד: חופש העיסוק (תיקון) — Basic Law: Freedom of Occupation (Amendment) [No. 1]; passed 1996-10-30 (passed); ס״ח תשנ״ז 1602, עמ' 4 (7.11.1996); amends: Basic Law: Freedom of Occupation (s. 10: saving of laws extended from two to four years); kind: amendment.
+- seq 51: חוק-יסוד: חופש העיסוק (תיקון מס' 2) — Basic Law: Freedom of Occupation (Amendment No. 2); passed 1998-03-18 (passed); ס״ח תשנ״ח 1662, עמ' 178 (19.3.1998); amends: Basic Law: Freedom of Occupation (s. 8(b) added; s. 10 saving of laws extended to 14.3.2002); kind: amendment.
+- seq 54: חוק-יסוד: הממשלה (תיקון מס' 8) — Basic Law: The Government (Amendment No. 8); passed 1999-01-04 (passed); ס"ח 1698, תשנ"ט, עמ' 52 (10.1.1999); amends: Basic Law: The Government (1992); kind: amendment.
+- seq 58: חוק-יסוד: הכנסת (תיקון מס' 27) — Basic Law: The Knesset (Amendment No. 27); passed 2000-07-31 (passed); ס"ח תש"ס 1750, עמ' 261 (8.8.2000); amends: חוק-יסוד: הכנסת; kind: amendment.
+- seq 61: חוק-יסוד: הממשלה (תיקון מס' 10) — Basic Law: The Government (Amendment No. 10); passed 2000-12-18 (passed); ס"ח 1762, תשס"א, עמ' 48 (19.12.2000); amends: Basic Law: The Government (1992); kind: amendment.
+- seq 64: חוק-יסוד: הכנסת (תיקון מס' 31) — Basic Law: The Knesset (Amendment No. 31); passed 2001-06-18 (passed); ס"ח תשס"א 1796, עמ' 426 (24.6.2001); amends: חוק-יסוד: הכנסת; kind: amendment.
+- seq 67: חוק-יסוד: נשיא המדינה (תיקון מס' 6) — Basic Law: The President of the State (Amendment No. 6); passed 2001-10-16 (passed); ס"ח 1809, תשס"ב, עמ' 2 (30.10.2001); amends: Basic Law: The President of the State | חוק-יסוד: הכנסת; kind: amendment.
+- seq 70: חוק-יסוד: השפיטה (תיקון מס' 2) — Basic Law: The Judiciary (Amendment No. 2); passed 2002-07-24 (passed); ס״ח תשס״ב 1864, עמ' 598 (5.8.2002); amends: Basic Law: The Judiciary (s. 7(4): Ombudsman for complaints against judges added); kind: amendment.
+- seq 73: חוק-יסוד: הכנסת (תיקון מס' 36) — Basic Law: The Knesset (Amendment No. 36); passed 2004-03-24 (passed); ס"ח תשס"ד 1933, עמ' 336 (30.3.2004); amends: חוק-יסוד: הכנסת; kind: amendment.
+- seq 76: חוק-יסוד: הכנסת (תיקון מס' 38) — Basic Law: The Knesset (Amendment No. 38); passed 2007-03-21 (passed); ס"ח תשס"ז 2090, עמ' 158 (28.3.2007); amends: חוק-יסוד: הכנסת; kind: amendment.
+- seq 80: חוק-יסוד: תקציב המדינה לשנים 2009 עד 2012 (הוראות מיוחדות) (הוראת שעה) (תיקון מס' 2), התשע״ג–2013 — Basic Law: The State Budget for 2009 to 2012 (Special Provisions) (Temporary Provision) (Amendment No. 2), 2013 [extends to 2013]; passed 2013-03-19 (passed); ס״ח תשע״ג 2391, עמ' 52 (20.3.2013); amends: Basic Law: The State Budget for 2009 to 2012 (retitled 'for 2009 to 2012 and for 2013'); kind: temporary provision.
+- seq 83: חוק-יסוד: נשיא המדינה (תיקון מס' 9) — Basic Law: The President of the State (Amendment No. 9); passed 2013-10-29 (passed); ס"ח 2411, תשע"ד, עמ' 32 (7.11.2013); amends: Basic Law: The President of the State; kind: amendment.
+- seq 86: חוק-יסוד: הכנסת (תיקון מס' 41) — Basic Law: The Knesset (Amendment No. 41); passed 2014-05-19 (passed); ס"ח 2452, תשע"ד, עמ' 554 (22.5.2014); amends: Basic Law: The Government (2001) | Basic Law: The Knesset | Basic Law: The President of the State | חוק-יסוד: הכנסת | חוק-יסוד: הממשלה; kind: amendment.
+- seq 89: חוק-יסוד: הכנסת (תיקון מס' 42 והוראת שעה) — Basic Law: The Knesset (Amendment No. 42 and Temporary Provision); passed 2015-07-30 (passed); ס"ח 2500, תשע"ה, עמ' 248 (6.8.2015); the Government provisions (section 4) at עמ' 249; amends: Basic Law: The Government (2001) | Basic Law: The Knesset | חוק-יסוד: הכנסת | חוק-יסוד: הממשלה; kind: temporary provision.
+- seq 94: חוק-יסוד: משק המדינה (תיקון מס' 9) — Basic Law: The State Economy (Amendment No. 9); passed 2016-12-12 (passed); ס״ח תשע״ז 2587, עמ' 32 (12.12.2016); amends: Basic Law: The State Economy (s. 3); kind: amendment.
+- seq 97: חוק-יסוד: הממשלה (תיקון מס' 5) — Basic Law: The Government (Amendment No. 5); passed 2018-01-10 (passed); ס"ח 2682, תשע"ח, עמ' 112 (14.1.2018); amends: Basic Law: The Government (2001); kind: amendment.
+- seq 101: חוק-יסוד: משק המדינה (תיקון מס' 10 והוראת שעה לשנת 2020) — Basic Law: The State Economy (Amendment No. 10 and Temporary Provision for 2020); passed 2020-04-07 (passed); ס״ח תש״ף 2791, עמ' 16 (temporary provision) and עמ' 18 (Amendment No. 10) (7.4.2020); amends: Basic Law: The State Economy (s. 3B: continuing-budget temporary provision for 2020, and permanent amendment); kind: temporary provision.
+- seq 105: חוק-יסוד: משק המדינה (תיקון מס' 10 והוראת שעה לשנת 2020) (תיקון מס' 2) — Basic Law: The State Economy (Amendment No. 10 and Temporary Provision for 2020) (Amendment No. 2); passed 2020-07-16 (published); ס״ח תש״ף 2828, עמ' 230 (16.7.2020); amends: Basic Law: The State Economy (temporary provision for 2020 in s. 3B); kind: temporary provision.
+- seq 109: חוק-יסוד: משק המדינה (תיקון מס' 10 והוראת שעה לשנת 2020) (תיקון מס' 6) — Basic Law: The State Economy (Amendment No. 10 and Temporary Provision for 2020) (Amendment No. 6); passed 2020-09-30 (passed); ס״ח תשפ״א 2858, עמ' 28 (30.9.2020); amends: Basic Law: The State Economy (temporary provision for 2020 in s. 3B); kind: temporary provision.
+- seq 112: חוק-יסוד: הממשלה (תיקון מס' 10) — Basic Law: The Government (Amendment No. 10); passed 2021-07-27 (passed); ס"ח 2920, תשפ"א, עמ' 382 (28.7.2021); amends: Basic Law: The Government (2001); kind: amendment.
+- seq 118: חוק-יסוד: משק המדינה (תיקון מס' 14) — Basic Law: The State Economy (Amendment No. 14); passed 2023-12-17 (published); ס״ח תשפ״ד 3127, עמ' 278 (17.12.2023); amends: Basic Law: The State Economy (s. 3A1); kind: amendment.
+
+## Output
+
+Return exactly one JSON object as the complete text of your final message: a key "rows" holding a list with one object per row in the order above, and a key "deviations" listing sources you could not reach, searches you could not complete, and anything a reviewer should check. No prose outside the JSON.

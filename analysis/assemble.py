@@ -61,8 +61,10 @@ def main(d, out):
                 row[v] = va; prov[v] = "agreed" if va != "" else "both blank"
             else:
                 row[v] = ""; prov[v] = f"disagreement unresolved (A={va!r}, B={vb!r})"
-        sb = (CIRC.get(k, {}).get("situated_beneficiary") or {}).get("value", "")
-        row["situated_beneficiary"] = sb; prov["situated_beneficiary"] = "circumstances reader" if sb else "not coded"
+        sbcell = CIRC.get(k, {}).get("situated_beneficiary") or {}
+        sb = sbcell.get("value", "")
+        listver = sbcell.get("list_version") or CIRC.get("closed_list_version") or "(ac)"
+        row["situated_beneficiary"] = sb; prov["situated_beneficiary"] = f"circumstances reader, closed list {listver}" if sb else "not coded"
         dk = DOCK.get(k, {})
         row["litigation_timing"] = (dk.get("litigation_timing") or {}).get("value", "")
         row["outcome"] = (dk.get("outcome") or {}).get("value", "")

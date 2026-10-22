@@ -1,19 +1,21 @@
 # Circumstances sheet, 2026-10-22
 
+Closed list version: (ae), adopted 2026-10-22. Record this version in each cell's "list_version" field. The earlier version, (ac), is in the repository's history at commit 0a33212.
+
 You are the circumstances reader. You code one variable, `situated_beneficiary`, for the nine enactments below. You work alone. You have not seen, and must not seek, any outcome of any court case about these enactments.
 
 ## The variable
 
-`situated_beneficiary`: Yes if, on the day of passage, the enactment's operative provision would alter the legal position of an identifiable person then in office, or of the sitting government, in a matter then live; No otherwise.
+`situated_beneficiary`: Yes if, on the day of passage, the enactment's operative provision would alter the legal position of an identifiable person then in office, or of the sitting government, in a matter then live, in a way that successors or other actors would not share; No otherwise.
 
 A matter is live only on facts dated no later than the day of passage, from this closed list:
 
 1. a proceeding pending before a court concerning that person or that matter;
 2. a formal step already taken against that person or against the government's measure, such as an attorney general's opinion, an indictment, or a petition served;
-3. a fixed deadline that the enactment moves;
-4. a single-instance or sunset clause in the enactment itself.
+3. a fixed deadline that the enactment moves, where the deadline binds the sitting government or an officeholder;
+4. a single-instance or sunset clause in the enactment itself, where the single instance or the sunset applies to the sitting government's own measure or term.
 
-Excluded: judgments on the enactment, commentary, and your own belief about motive. An enactment whose operative provision is general, and whose connection to a live matter rests on motive alone, is No. Where you code Yes, name the person or the government, the matter, the admissible fact, the fact's date, and the source with its date. Where you code No, say what you looked for and where.
+A clause that touches every incumbent alike, or any government relying on existing law, satisfies no item. Excluded: judgments on the enactment, commentary, and your own belief about motive. An enactment whose operative provision is general, and whose connection to a live matter rests on motive alone, is No. Where you code Yes, name the person or the government, the matter, the admissible fact, the fact's date, and the source with its date. Where you code No, say what you looked for and where.
 
 ## Rules of the sheet
 
@@ -40,4 +42,4 @@ The Knesset's websites are geo-blocked from here. The NYU Faculty Digital Archiv
 
 ## Output
 
-Return one JSON object with a key for each enactment number 1 to 9. Each value is an object with one key, `situated_beneficiary`, whose value is an object with: "value" (Yes or No), "person_or_government", "matter", "admissible_fact" (which item of the closed list, and the fact), "fact_date", "source" (URL or document name), "source_date", "support" (a quotation of at most 25 words or a data point), and "note" (optional; for No, the search made). Add a top-level "deviations" list describing any page you had to close, any source outside the permitted list you used and why, anything you could not find, and any court outcome that reached you through a search-result snippet without your opening the page.
+Return one JSON object with a key for each enactment number 1 to 9. Each value is an object with one key, `situated_beneficiary`, whose value is an object with: "value" (Yes or No), "person_or_government", "matter", "admissible_fact" (which item of the closed list, and the fact), "fact_date", "source" (URL or document name), "source_date", "support" (a quotation of at most 25 words or a data point), "list_version" (the version named at the top of this sheet), and "note" (optional; for No, the search made). Add a top-level "deviations" list describing any page you had to close, any source outside the permitted list you used and why, anything you could not find, and any court outcome that reached you through a search-result snippet without your opening the page.

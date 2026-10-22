@@ -1,0 +1,167 @@
+{
+  "19": {
+    "situated_beneficiary": {
+      "value": "No",
+      "person_or_government": null,
+      "matter": null,
+      "admissible_fact": "None that qualifies. I found one item 2 fact: the Attorney General's announced decision to charge a sitting minister. The enactment has no direct legal effect on that criminal matter, and it changes every minister's tenure alike.",
+      "fact_date": null,
+      "source": "Enactment text: ס״ח 1026, תשמ״א, עמ׳ 280. Internet Archive capture 20250414005136 of fs.knesset.gov.il/9/law/9_lsr_208440.pdf. Also JTA, 'Minister to Be Charged with Taking Bribes'.",
+      "source_date": "1981-05-27 (gazette); 1980-12-02 (JTA)",
+      "support": "s. 21A(a): ראש הממשלה רשאי, לאחר שהודיע לממשלה על כוונתו לעשות כן, להעביר שר מכהונתו",
+      "list_version": "(ae), adopted 2026-10-22, as clarified by (af)",
+      "note": "Operative provision: s. 4 now makes each minister answerable to the Prime Minister. New s. 21A lets any Prime Minister remove any minister after notifying the government; the removal takes effect 48 hours after delivery. The text has no single-instance, sunset, transitional or deadline clause. I looked for pre-passage court proceedings and formal steps concerning a sitting minister. JTA of 2 Dec 1980 reports that AG Yitzhak Zamir announced he would charge the Minister of Religious Affairs (Aharon Abuhatzeira) with bribery, which is an item 2 fact. The removal power does not touch that criminal matter, though. The only change it makes, to a minister's security of tenure, falls equally on every minister of this and any later government. So the link rests on motive alone, and the code is No. I searched the JTA and UPI archives for 1980–81 and found no pending court case about removing a minister. I could not locate the bill's explanatory notes (ה״ח 1537, p. 370)."
+    }
+  },
+  "22": {
+    "situated_beneficiary": {
+      "value": "No",
+      "person_or_government": null,
+      "matter": null,
+      "admissible_fact": "None found.",
+      "fact_date": null,
+      "source": "Enactment text on he.wikisource.org/wiki/חוק-יסוד:_השפיטה, with its amendment tags (ס״ח תשמ״ד 1110, עמ׳ 78).",
+      "source_date": "1984-03-08 (gazette); page read 2026-10-22",
+      "support": "Data point: the untagged 1984 sections (1–3, 5–14, 16–24) name no person, case, term or date. The only date in the text is the passage line, 28 Feb 1984.",
+      "list_version": "(ae), adopted 2026-10-22, as clarified by (af)",
+      "note": "This is a new Basic Law. It sets out judicial power, independence, the appointment and tenure of judges, the courts' structure, appeal, further hearing, retrial, binding precedent and entrenchment. The text tags every clause that names a Knesset term or a single use (ss. 4(d)–(f), 4A, 4B) and s. 15(d1) as later amendments, so they fall outside this row. As passed in 1984 the law has no transitional, single-instance, sunset or deadline clause, and it binds every judge and every government alike. Because no provision bears on a particular person or on the sitting government's own measure, there was nothing to tie a pending proceeding to. I made no press search beyond reading the text. No admissible fact."
+    }
+  },
+  "25": {
+    "situated_beneficiary": {
+      "value": "No",
+      "person_or_government": null,
+      "matter": null,
+      "admissible_fact": "None that qualifies.",
+      "fact_date": null,
+      "source": "Enactment text: ס״ח תשמ״ז 1215, עמ׳ 120. Internet Archive capture 20210515050237 of fs.knesset.gov.il/11/law/11_lsr_210455.pdf. Also JTA, 5 Sept 1984 (seen as a search snippet).",
+      "source_date": "1987-05-27 (gazette); 1984-09-05 (JTA)",
+      "support": "s. 2: סעיף 1 יחול לענין הבחירות לכנסת השתים-עשרה ואילך",
+      "list_version": "(ae), adopted 2026-10-22, as clarified by (af)",
+      "note": "Operative provision, new s. 6(b): an Israeli citizen who also holds a foreign citizenship that can be released may not stand for the Knesset unless, by the time the list is submitted, he has done everything required of him to be released. The rule applies from the 12th Knesset elections to every dual-citizen candidate alike. It has no single-instance or sunset clause and moves no deadline. I looked for pending proceedings or formal steps about a sitting MK's foreign citizenship. A JTA search snippet dated 5 Sept 1984 says MK Meir Kahane's US citizenship was then 'under State Department review', which is a US administrative matter. I found no permitted source showing where that matter stood on 19 May 1987. Either way, the enactment has no direct legal effect on a foreign proceeding, and it treats all dual-citizen candidates the same, so any link to one MK rests on motive. I searched JTA and UPI. I could not locate the bill's explanatory notes (ה״ח 1748)."
+    }
+  },
+  "28": {
+    "situated_beneficiary": {
+      "value": "Yes",
+      "person_or_government": "The government in office when the law took effect: the government headed by Prime Minister Yitzhak Shamir, who signs the enactment as Prime Minister.",
+      "matter": "The make-up of the sitting government's ministerial committee for national security. The new cap (no more than half the cabinet) is lifted for the sitting government alone.",
+      "admissible_fact": "Item 4. The enactment's own transitional clause (s. 2) applies the new s. 27(b)–(c) to the government in office at commencement but exempts that government alone from the cap on the committee's size, for its term only. Every later government is bound by the cap.",
+      "fact_date": "1991-02-05",
+      "source": "חוק-יסוד: הממשלה (תיקון מס׳ 5), ס״ח 1344, התשנ״א, עמ׳ 86. Internet Archive capture 20220618023516 of fs.knesset.gov.il/12/law/12_lsr_210831.pdf.",
+      "source_date": "1991-02-15 (publication); passed 1991-02-05",
+      "support": "הוראות סעיף 1 יחולו גם על הממשלה המכהנת ביום תחילתו של חוק-יסוד זה, למעט ההוראה בדבר הגבלת מספרם של חברי ועדת השרים",
+      "list_version": "(ae), adopted 2026-10-22, as clarified by (af)",
+      "note": "Operative provision: from the formation of each government there must be a ministerial committee for national security. Its members are the PM (chair), the Defence, Foreign and Finance ministers, and the deputy PM if one is appointed. The government may add members, but only up to half the cabinet. There must also be a standing national-security advisory staff. The Yes rests on item 4 alone: the transitional clause carves the sitting government out of the cap for its own term, an alteration its successors do not share. I did not establish how large the sitting committee actually was, so I do not rely on that. A reader who confined item 4 to clauses that end a measure, rather than exempt a government from a new limit, could read this differently."
+    }
+  },
+  "31": {
+    "situated_beneficiary": {
+      "value": "No",
+      "person_or_government": null,
+      "matter": null,
+      "admissible_fact": "None found.",
+      "fact_date": null,
+      "source": "Enactment text: ס״ח תשנ״א 1366, עמ׳ 208. Internet Archive capture 20210515050929 of fs.knesset.gov.il/12/law/12_lsr_210894.pdf.",
+      "source_date": "1991-07-31 (gazette)",
+      "support": "s. 21(b): בתקנון ניתן לקבוע הוראות בדבר סמכותן של הועדות לזמן נושא משרה או ממלא תפקיד בשירות המדינה",
+      "list_version": "(ae), adopted 2026-10-22, as clarified by (af)",
+      "note": "Operative provision: the Knesset Rules may let committees summon office-holders in the civil service, local authorities, religious councils, statutory corporations and government companies, and require them to give information. Summonses go through the responsible minister or the head of the body, either of whom may appear in the official's place. The text has no single-instance, sunset, transitional or deadline clause, and it applies to every government and official alike. I looked for a pending proceeding or formal step on which the provision would act directly: one search of JTA and UPI for 1991 refusals to appear before committees found none. I did not locate the bill's explanatory notes (ה״ח 2030, 15.1.1991, p. 124)."
+    }
+  },
+  "35": {
+    "situated_beneficiary": {
+      "value": "No",
+      "person_or_government": null,
+      "matter": null,
+      "admissible_fact": "None found.",
+      "fact_date": null,
+      "source": "Enactment text: ס״ח תשנ״ב 1392, עמ׳ 162. Internet Archive capture 20210512114725 of fs.knesset.gov.il/12/law/12_lsr_210809.pdf.",
+      "source_date": "1992-03-26 (gazette)",
+      "support": "s. 2: תחילתו של חוק זה עם תחילת כהונתה של הכנסת השלוש-עשרה",
+      "list_version": "(ae), adopted 2026-10-22, as clarified by (af)",
+      "note": "Operative provision, new s. 21(c): a standing committee may have no more than 15 members, or 17 for Foreign Affairs and Defence and for Finance. Putting the start off to the 13th Knesset spares every sitting MK alike. It does not concern the government or any officeholder's live matter, and it is a commencement clause, not a sunset on the government's own measure or term. I read the text and found no closed-list fact. I made no further press search. Bill: ה״ח 2017 (24.10.1990), p. 5."
+    }
+  },
+  "39": {
+    "situated_beneficiary": {
+      "value": "No",
+      "person_or_government": null,
+      "matter": null,
+      "admissible_fact": "None found.",
+      "fact_date": null,
+      "source": "Enactment text: ס״ח 1494, תשנ״ה, עמ׳ 42. Internet Archive capture 20240207224624 of fs.knesset.gov.il/13/law/13_lsr_211068.pdf.",
+      "source_date": "1994-12-20 (gazette); passed 1994-12-19",
+      "support": "s. 3: לענין חוק זה, אין נפקה מינה אם הפרישה או ההתפלגות היו לפני תחילתו של חוק זה או לאחריה",
+      "list_version": "(ae), adopted 2026-10-22, as clarified by (af)",
+      "note": "Operative provision: ss. 5(b1) and 34(b) bar an MK who has left his faction from becoming a minister or deputy minister during that Knesset. The amendment exempts a faction split that meets the conditions in the Knesset Elections Law, and s. 3 extends the exemption to splits made before commencement. Because it reaches back, MKs who had already split from a faction in the 13th Knesset would gain, and so would a government wanting to appoint them. But the clause is general (any qualifying split, before or after). It is not a single-instance or sunset clause and moves no deadline. To be Yes it would need a pending court proceeding, petition, AG opinion or other formal step about a split MK's appointment dated on or before 19 Dec 1994. I searched for one in JTA, UPI, the Hebrew web, Open Knesset and the NYU Faculty Digital Archive mirror of Divrei HaKnesset. The NYU mirror holds only selected 13th-Knesset sittings: neither 19 Dec 1994 nor the first reading. I found nothing. I could not locate the bill's explanatory notes (ה״ח 2323, 9.11.1994, p. 118). Any link to particular MKs rests on motive, so the code is No."
+    }
+  },
+  "42": {
+    "situated_beneficiary": {
+      "value": "No",
+      "person_or_government": null,
+      "matter": null,
+      "admissible_fact": "None found.",
+      "fact_date": null,
+      "source": "Enactment text: ס״ח 1559, תשנ״ו, עמ׳ 52. Internet Archive capture 20220618023422 of fs.knesset.gov.il/13/law/13_lsr_211263.pdf. Also the consolidated 1968 law on Nevo (Internet Archive capture 20220526214853 of law19/btl0630.htm) for the context of s. 21(d).",
+      "source_date": "1996-01-31 (gazette); passed 1996-01-22",
+      "support": "Words added to s. 21(d) of the 1968 law: אך לא יותר מאשר לתקופה של שלושה חודשים",
+      "list_version": "(ae), adopted 2026-10-22, as clarified by (af)",
+      "note": "Under s. 21(d) of the 1968 law, when a minister's tenure ends the government names another minister to fill the post, with Knesset approval, and the PM fills it in the meantime. The amendment limits the PM's interim stint to three months. After that the PM, with the government's approval, may appoint an MK as minister for up to one year without Knesset approval. New s. 36(b) of the 1992 law says the same. The rule is general, binding any government. It has no single-instance, sunset or transitional clause and moves no existing deadline. I looked for a ministry vacant and held by the PM on 22 Jan 1996 that was the subject of a pending proceeding or formal step, using Hebrew web and press searches. I found none. The bill was tabled in 1995: Nevo cites ה״ח תשנ״ה 2362, p. 287, while the gazette's OCR reads 2562, 31.1.1995."
+    }
+  },
+  "45": {
+    "situated_beneficiary": {
+      "value": "No",
+      "person_or_government": null,
+      "matter": null,
+      "admissible_fact": "None found.",
+      "fact_date": null,
+      "source": "Enactment text: ס״ח תשנ״ו 1566, עמ׳ 106. Internet Archive capture 20210515060506 of fs.knesset.gov.il/13/law/13_lsr_211248.pdf.",
+      "source_date": "1996-02-27 (gazette)",
+      "support": "New s. 5A: רשימת מועמדים לכנסת תוגש על ידי מפלגה בלבד",
+      "list_version": "(ae), adopted 2026-10-22, as clarified by (af)",
+      "note": "Operative provisions: candidate lists may be submitted only by registered parties. Section 6A(a) is conformed to refer to a party represented by the faction. The s. 7 candidacy bar is widened from senior army officers to all army officers, and to police and prison officers as set by law. All of it is general, with no single-instance, sunset, transitional or deadline clause. I read the text and found no pending proceeding or formal step that it acts on directly. I made no separate press search. Bill: ה״ח 2499 (19.2.1996), p. 537."
+    }
+  },
+  "48": {
+    "situated_beneficiary": {
+      "value": "No",
+      "person_or_government": null,
+      "matter": null,
+      "admissible_fact": "None found.",
+      "fact_date": null,
+      "source": "Enactment text: ס״ח 1568, תשנ״ו, עמ׳ 113. Internet Archive capture 20220618023442 of fs.knesset.gov.il/13/law/13_lsr_211242.pdf. Also the consolidated 1992 law on Nevo (Internet Archive capture 20211121021517 of law19/btl0631.htm) for the earlier wording of s. 9.",
+      "source_date": "1996-02-29 (gazette); passed 1996-02-28",
+      "support": "s. 9(a)(3): מפלגה שהגישה רשימת מועמדים לכנסת, ושחמישים אלף בעלי זכות בחירה הודיעו בכתב על תמיכתם במועמד",
+      "list_version": "(ae), adopted 2026-10-22, as clarified by (af)",
+      "note": "Operative provision: replaces s. 9 of the 1992 law, which says who may nominate a candidate for Prime Minister. The faction route now runs through parties represented by outgoing factions totalling at least 10 MKs. The 50,000-voter route now needs a party that has submitted a Knesset list, where before 50,000 voters could nominate on their own. The law also repeals Amendment No. 3, published 27.2.1996. The rule is general, and the sitting government party's own power to nominate is unchanged. It has no single-instance or sunset clause and moves no deadline. I searched JTA and UPI for a petition or formal step about a PM nomination pending on 28 Feb 1996 and found none. The bill (ה״ח 2514) was published on the day of passage."
+    }
+  },
+  "51": {
+    "situated_beneficiary": {
+      "value": "No",
+      "person_or_government": null,
+      "matter": null,
+      "admissible_fact": "None found.",
+      "fact_date": null,
+      "source": "Enactment text: ס״ח תשנ״ו 1582, עמ׳ 234. Internet Archive capture 20191114234512 of fs.knesset.gov.il/13/law/13_lsr_211292.pdf.",
+      "source_date": "1996-03-21 (gazette); passed 1996-03-12",
+      "support": "New s. 15(a): אני מתחייב לשמור אמונים למדינת ישראל ולמלא באמונה את שליחותי בכנסת",
+      "list_version": "(ae), adopted 2026-10-22, as clarified by (af)",
+      "note": "Operative provisions: replaces ss. 14–15. The opening sitting is to be regulated by law and is to reflect the state's character and heritage. A new MK oath is set, and the Knesset Law is amended to fix the ceremony (Psalm 122, excerpts from the Declaration of Independence, Hatikvah) and the oath for MKs who are absent or join later. It binds every MK alike and has no single-instance, sunset or deadline clause. I read the text and found no pending proceeding or formal step that it acts on directly. I made no separate press search. Bill: ה״ח 2497 (19.2.1996), p. 529."
+    }
+  },
+  "deviations": [
+    "Working folder: the dispatching instruction said to write no file anywhere, so I created no scratch subfolder and saved nothing to disk. I read gazette PDFs and archived Nevo pages in memory (osascript with PDFKit; curl piped to stdout). The tool harness itself saved one oversized command output (the text of the Nevo 1968 law page) to its own tool-results directory; I did not write it.",
+    "Court outcome reached through a page the sheet lists as a text source: the WebFetch summary of he.wikisource.org/wiki/חוק-יסוד:_השפיטה (seq 22) repeated the page's tag on s. 15(d1), which shows that a later (2023) amendment to that Basic Law was cancelled in a numbered High Court case. That concerns a later amendment, not the 1984 enactment. I did not follow it or use it.",
+    "Court outcome reached through a search snippet, page not opened: a UPI/JTA snippet said a US federal court had ordered Meir Kahane's US citizenship reinstated. This bears on the matter I examined for seq 25. Not used.",
+    "Court outcome reached through a search-result summary, page not opened: a reference to the 1993 High Court ruling in the Deri/Pinhasi matter as concerning the Prime Minister's power to remove a minister, which is the power seq 19 created. Not used.",
+    "Search-result titles naming court outcomes, not opened: JTA 'Court Rules Kol, Hausner Must Stay in Cabinet' (an unrelated pre-1981 matter); JTA 'Court Ruling Disqualifying Kahane Seen As Boon to Likud' (a 1988 disqualification, not one of these enactments); and Jerusalem Post items on later Basic Law amendments about Deri.",
+    "Non-permitted sources (Wikipedia, hamichlol, IDI commentary) appeared in search results. I used them only as pointers for where to search and relied on none of them for any fact.",
+    "Not found: Knesset plenum records for 19 Dec 1994 and for the first reading of ה״ח 2323 (seq 39). The NYU Faculty Digital Archive mirror holds only selected 13th-Knesset sittings (Jewish Settlements Archival Project). Also not found: the explanatory notes of ה״ח 1537 (seq 19), 1748 (seq 25), 2323 (seq 39), 2362 (seq 42) and 2514 (seq 48). The Knesset sites are geo-blocked (fs.knesset.gov.il returned 303).",
+    "The Internet Archive rate-limited requests several times. Retries succeeded, and all eleven enactment texts were read.",
+    "Gazette OCR anomalies: in seq 42 the passage footnote reads '1966' for 1996, and the bill reads 2562 dated 31.1.1995, where Nevo gives ה״ח תשנ״ה 2362, p. 287. In seq 45 the bill date line shows the Hebrew year as תשנ״ד beside 19 Feb 1996; Nevo has ה״ח תשנ״ו 2499, p. 537."
+  ]
+}

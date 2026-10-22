@@ -1,0 +1,82 @@
+{
+ "coalition_only": {
+  "kappa": 0.83,
+  "agree": 8,
+  "n": 9,
+  "disagreements": [
+   "8"
+  ]
+ },
+ "deviation_tier": {
+  "kappa": 0.757,
+  "agree": 8,
+  "n": 9,
+  "disagreements": [
+   "2"
+  ]
+ },
+ "direction": {
+  "kappa": 0.812,
+  "agree": 8,
+  "n": 9,
+  "disagreements": [
+   "8"
+  ]
+ },
+ "expedited": {
+  "kappa": 0.571,
+  "agree": 7,
+  "n": 9,
+  "disagreements": [
+   "2",
+   "3"
+  ]
+ },
+ "immediate_effect": {
+  "kappa": 0.0,
+  "agree": 8,
+  "n": 9,
+  "disagreements": [
+   "8"
+  ]
+ },
+ "named_beneficiary": {
+  "kappa": 0.743,
+  "agree": 8,
+  "n": 9,
+  "disagreements": [
+   "2"
+  ]
+ },
+ "required_majority_met": {
+  "kappa": 0.0,
+  "agree": 8,
+  "n": 9,
+  "disagreements": [
+   "3"
+  ]
+ },
+ "scope": {
+  "kappa": 0.4,
+  "agree": 7,
+  "n": 9,
+  "disagreements": [
+   "2",
+   "8"
+  ]
+ },
+ "targets_judiciary": {
+  "kappa": 0.609,
+  "agree": 8,
+  "n": 9,
+  "disagreements": [
+   "4"
+  ]
+ },
+ "temporary_provision": {
+  "kappa": 1.0,
+  "agree": 9,
+  "n": 9,
+  "disagreements": []
+ }
+}

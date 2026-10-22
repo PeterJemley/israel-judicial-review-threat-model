@@ -40,6 +40,7 @@ Fourteen rows. Seven were in the codebook already: the 1992 Basic Law: Human Dig
 - Five rows carry the gazette publication date because no archive capture of the Knesset PDF exists: three 2020 amendments to the State Economy temporary provision and the 2023 Amendments No. 13 and 14 to Basic Law: The State Economy. A passage date is at most days earlier and the ordering is unaffected unless another law passed in between.
 - The window from December 2025 to October 2026 could not be checked against the Knesset's own database; Wikisource and Nevo show nothing after Basic Law: The Government (Amendment No. 13) of May 2025 except Basic Law: Torah Study.
 - Two laws bear the published title Basic Law: The Knesset (Amendment No. 8), one of 1974 and one of 1981, and none bears No. 5; Nevo renumbers the 1974 law. The frame keeps published titles. Basic Law: The Knesset (Amendment No. 16) is an ordinary statute and is in the separate list.
+- Two laws bear the published title Basic Law: The President of the State (Amendment No. 6), one of 16 October 2001 and one of 28 July 2003; the gazette prints both so. WIPO Lex numbers the 2001 law No. 5, "originally numbered 6", and the Government reader found that Nevo and the Knesset database count the 1969 pensions statute as the President law's first amendment. The frame keeps published titles.
 - The challenge reader did not reach the judgments on the judiciary's site; its classifications for the 1994 Porat petition and the 1999 case are provisional, as its notes say, and the outcome classes it recorded are the reader's, not the protocol's step 4 codings, which the docket reader assigns when a row is coded.
 - Eleven ordinary statutes that touched Basic Laws (transitional laws, two convening laws, a fiscal-year law, and the 1994 committee-size law the Knesset numbered as a Basic Law amendment) are in the readers' lists and not in the frame, as the counting rule requires.
 
@@ -52,6 +53,27 @@ Made on 22 October 2026 under the rule in item (ah), by the build script's `--dr
 On 22 October 2026 two docket readers, eighteen rows each, searched for any petition or appeal that attacked a sampled enactment's validity, binding force or application as an abuse of constituent power, in the order the verification sheet sets: Hayut's survey in the Reasonableness judgment and the Bar-On judgment, Hebrew Wikipedia's Basic Law articles, the petitioners' sites, Versa, and Hebrew and English press searches. The 1992 Basic Law: The Government, which one reader had first searched only through its State Economy provision, was searched again as a whole law in a second pass. Result: no challenge found on any of the 36 rows, each with its search recorded in the `verification_search` column and the cases that applied or interpreted the enactment, without attacking it, in `related_cases`. No row moved to the challenged set, so the sample stands at 36 and the draw is unchanged.
 
 Three limits. First, every verdict rests on absence in the sources searched: neither reader reached the judiciary's database or Nevo's case search, and the petitioners' case lists surfaced only through web searches, so a petition that left no trace in Hayut's survey, Wikipedia or the press would be missed. Second, one judgment call is recorded on the 2020 State Economy temporary provision (row 101): the Shafir petitions attacked the later Amendment No. 50 to Basic Law: The Knesset, which amended that provision, not the provision as enacted in April 2020; the reader coded no challenge and said a reviewer who treats an attack on a later amendment of a provision as an attack on the provision would re-code. Third, the readers could not read most of the amendments' own texts, because the Knesset's PDFs are geo-blocked and the archive was unreachable from their fetch tool, so several rows' contents are described from secondary sources and flagged in the notes; that affects the coding to come, not the verification.
+
+## A defect found during coding: eight merged rows
+
+On 22 October 2026, while the sample was being coded, one coder reported that sampled row 67 holds two laws: Basic Law: The President of the State (Amendment No. 6) and Basic Law: The Knesset (Amendment No. 34). Both came from one bill, passed on 16 October 2001 and are printed on the same gazette page, but each has its own title and its own Knesset PDF. The build script merges reader entries on the gazette issue and page, so two separately titled laws printed on one page became one row. `analysis/frame_merge_check.py` groups the readers' entries by that key and reports every group that names more than one law; its output is `merge-defect.json`.
+
+| Gazette issue, page | Frame row | Laws merged into it | Passage date |
+|---|---|---|---|
+| 1016, 168 | 17 | Knesset Amendments No. 7 and No. 8 | 1 April 1981 |
+| 1494, 42 | 37 | Government Amendment No. 8; Knesset Amendment No. 17 | 19 and 12 December 1994 |
+| 1568, 112 | 46 | Knesset Amendments No. 21 and No. 22 | 28 February 1996 |
+| 1568, 113 | 44 | Government Amendments No. 4 and No. 5 | 28 February 1996 |
+| 1582, 234 | 47 | President Amendment No. 3; Knesset Amendment No. 23 | 12 March 1996 |
+| 1809, 30 | 67 (sampled) | President Amendment No. 6; Knesset Amendment No. 34 | 16 October 2001 |
+| 1898, 524 | 72 | President Amendments No. 6 and No. 7 | 28 July 2003 |
+| 2715, 636 | 98 | Government Amendment No. 6; Knesset Amendment No. 47 | 30 April 2018 |
+
+In every group the laws have different Knesset PDFs, listed in `merge-defect.json`. The frame should therefore have 130 rows, not 122. None of the eight rows is challenged, so the unchallenged population is 116, not 108. Row 37 merges laws passed a week apart and carries the later date, 19 December 1994. The defect does not touch the challenged set.
+
+What it does to the draw. The draw is every third unchallenged row from the first. The first merged row is row 17, in 1981. Splitting it shifts every later position by one, and each further split shifts it again. A draw from a corrected frame would give 39 rows. A simulation that splits each merged row in place gives an overlap of only 8 with the 36 rows drawn: the six rows before 1981, and rows 45 and 70 by coincidence. The other 28 drawn rows would leave the sample and 31 rows would enter it. The exact list depends on how the two laws in each split row are ordered, since they share a date and a page.
+
+The choice between correcting the frame and redrawing, or keeping the draw as made from the frame as built, is open and recorded in the change log when made. Until then the frame, the draw and the coding stand as they are, and row 67 is coded as one enactment, as both coders coded it.
 
 ## What comes next
 

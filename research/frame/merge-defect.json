@@ -1,0 +1,452 @@
+{
+ "rows_in_frame": 122,
+ "merged_groups": 8,
+ "laws_missing_from_frame": 8,
+ "rows_in_corrected_frame": 130,
+ "sampled_rows_affected": [
+  67
+ ],
+ "challenged_rows_affected": [],
+ "groups": [
+  {
+   "gazette_key": [
+    "1016",
+    "168"
+   ],
+   "frame_rows": [
+    {
+     "seq": 17,
+     "title_en": "Basic Law: The Knesset (Amendment No. 7)",
+     "passage_date": "1981-04-01",
+     "challenged": "No",
+     "sampled": "No"
+    }
+   ],
+   "distinct_laws": [
+    {
+     "subject": "Knesset",
+     "amendment_no": "7",
+     "titles_he": [
+      "חוק-יסוד: הכנסת (תיקון מס' 7)"
+     ],
+     "titles_en": [
+      "Basic Law: The Knesset (Amendment No. 7)"
+     ],
+     "passage_dates": [
+      "1981-04-01"
+     ],
+     "law_pdfs": [
+      "9_lsr_211790"
+     ],
+     "readers": [
+      "knesset"
+     ]
+    },
+    {
+     "subject": "Knesset",
+     "amendment_no": "8",
+     "titles_he": [
+      "חוק-יסוד: הכנסת (תיקון מס' 8)"
+     ],
+     "titles_en": [
+      "Basic Law: The Knesset (Amendment No. 8)"
+     ],
+     "passage_dates": [
+      "1981-04-01"
+     ],
+     "law_pdfs": [
+      "9_lsr_208448"
+     ],
+     "readers": [
+      "knesset"
+     ]
+    }
+   ]
+  },
+  {
+   "gazette_key": [
+    "1494",
+    "42"
+   ],
+   "frame_rows": [
+    {
+     "seq": 37,
+     "title_en": "Basic Law: The Government (Amendment No. 8)",
+     "passage_date": "1994-12-19",
+     "challenged": "No",
+     "sampled": "No"
+    }
+   ],
+   "distinct_laws": [
+    {
+     "subject": "Government",
+     "amendment_no": "8",
+     "titles_he": [
+      "חוק-יסוד: הממשלה (תיקון מס' 8)"
+     ],
+     "titles_en": [
+      "Basic Law: The Government (Amendment No. 8)"
+     ],
+     "passage_dates": [
+      "1994-12-19"
+     ],
+     "law_pdfs": [
+      "13_lsr_211068"
+     ],
+     "readers": [
+      "government"
+     ]
+    },
+    {
+     "subject": "Knesset",
+     "amendment_no": "17",
+     "titles_he": [
+      "חוק-יסוד: הכנסת (תיקון מס' 17)"
+     ],
+     "titles_en": [
+      "Basic Law: The Knesset (Amendment No. 17)"
+     ],
+     "passage_dates": [
+      "1994-12-12"
+     ],
+     "law_pdfs": [
+      "13_lsr_211009"
+     ],
+     "readers": [
+      "knesset"
+     ]
+    }
+   ]
+  },
+  {
+   "gazette_key": [
+    "1568",
+    "112"
+   ],
+   "frame_rows": [
+    {
+     "seq": 46,
+     "title_en": "Basic Law: The Knesset (Amendment No. 21)",
+     "passage_date": "1996-02-28",
+     "challenged": "No",
+     "sampled": "No"
+    }
+   ],
+   "distinct_laws": [
+    {
+     "subject": "Knesset",
+     "amendment_no": "21",
+     "titles_he": [
+      "חוק-יסוד: הכנסת (תיקון מס' 21)"
+     ],
+     "titles_en": [
+      "Basic Law: The Knesset (Amendment No. 21)"
+     ],
+     "passage_dates": [
+      "1996-02-28"
+     ],
+     "law_pdfs": [
+      "13_lsr_211240"
+     ],
+     "readers": [
+      "knesset"
+     ]
+    },
+    {
+     "subject": "Knesset",
+     "amendment_no": "22",
+     "titles_he": [
+      "חוק-יסוד: הכנסת (תיקון מס' 22)"
+     ],
+     "titles_en": [
+      "Basic Law: The Knesset (Amendment No. 22)"
+     ],
+     "passage_dates": [
+      "1996-02-28"
+     ],
+     "law_pdfs": [
+      "13_lsr_211241"
+     ],
+     "readers": [
+      "knesset"
+     ]
+    }
+   ]
+  },
+  {
+   "gazette_key": [
+    "1568",
+    "113"
+   ],
+   "frame_rows": [
+    {
+     "seq": 44,
+     "title_en": "Basic Law: The Government (Amendment No. 4)",
+     "passage_date": "1996-02-28",
+     "challenged": "No",
+     "sampled": "No"
+    }
+   ],
+   "distinct_laws": [
+    {
+     "subject": "Government",
+     "amendment_no": "4",
+     "titles_he": [
+      "חוק-יסוד: הממשלה (תיקון מס' 4)"
+     ],
+     "titles_en": [
+      "Basic Law: The Government (Amendment No. 4)"
+     ],
+     "passage_dates": [
+      "1996-02-28"
+     ],
+     "law_pdfs": [
+      "13_lsr_211242"
+     ],
+     "readers": [
+      "government"
+     ]
+    },
+    {
+     "subject": "Government",
+     "amendment_no": "5",
+     "titles_he": [
+      "חוק-יסוד: הממשלה (תיקון מס' 5)"
+     ],
+     "titles_en": [
+      "Basic Law: The Government (Amendment No. 5)"
+     ],
+     "passage_dates": [
+      "1996-02-28"
+     ],
+     "law_pdfs": [
+      "13_lsr_211243"
+     ],
+     "readers": [
+      "government"
+     ]
+    }
+   ]
+  },
+  {
+   "gazette_key": [
+    "1582",
+    "234"
+   ],
+   "frame_rows": [
+    {
+     "seq": 47,
+     "title_en": "Basic Law: The President of the State (Amendment No. 3), 5756-1996",
+     "passage_date": "1996-03-12",
+     "challenged": "No",
+     "sampled": "No"
+    }
+   ],
+   "distinct_laws": [
+    {
+     "subject": "Knesset",
+     "amendment_no": "23",
+     "titles_he": [
+      "חוק-יסוד: הכנסת (תיקון מס' 23)"
+     ],
+     "titles_en": [
+      "Basic Law: The Knesset (Amendment No. 23)"
+     ],
+     "passage_dates": [
+      "1996-03-12"
+     ],
+     "law_pdfs": [
+      "13_lsr_211292"
+     ],
+     "readers": [
+      "knesset"
+     ]
+    },
+    {
+     "subject": "President",
+     "amendment_no": "3",
+     "titles_he": [
+      "חוק-יסוד: נשיא המדינה (תיקון מס' 3), התשנ\"ו-1996"
+     ],
+     "titles_en": [
+      "Basic Law: The President of the State (Amendment No. 3), 5756-1996"
+     ],
+     "passage_dates": [
+      "1996-03-12"
+     ],
+     "law_pdfs": [
+      "13_lsr_211291"
+     ],
+     "readers": [
+      "government"
+     ]
+    }
+   ]
+  },
+  {
+   "gazette_key": [
+    "1809",
+    "30"
+   ],
+   "frame_rows": [
+    {
+     "seq": 67,
+     "title_en": "Basic Law: The President of the State (Amendment No. 6)",
+     "passage_date": "2001-10-16",
+     "challenged": "No",
+     "sampled": "Yes"
+    }
+   ],
+   "distinct_laws": [
+    {
+     "subject": "Knesset",
+     "amendment_no": "34",
+     "titles_he": [
+      "חוק-יסוד: הכנסת (תיקון מס' 34)"
+     ],
+     "titles_en": [
+      "Basic Law: The Knesset (Amendment No. 34)"
+     ],
+     "passage_dates": [
+      "2001-10-16"
+     ],
+     "law_pdfs": [
+      "15_lsr_300419"
+     ],
+     "readers": [
+      "knesset"
+     ]
+    },
+    {
+     "subject": "President",
+     "amendment_no": "6",
+     "titles_he": [
+      "חוק-יסוד: נשיא המדינה (תיקון מס' 6)"
+     ],
+     "titles_en": [
+      "Basic Law: The President of the State (Amendment No. 6)"
+     ],
+     "passage_dates": [
+      "2001-10-16"
+     ],
+     "law_pdfs": [
+      "15_lsr_300418"
+     ],
+     "readers": [
+      "government"
+     ]
+    }
+   ]
+  },
+  {
+   "gazette_key": [
+    "1898",
+    "524"
+   ],
+   "frame_rows": [
+    {
+     "seq": 72,
+     "title_en": "Basic Law: The President of the State (Amendment No. 6)",
+     "passage_date": "2003-07-28",
+     "challenged": "No",
+     "sampled": "No"
+    }
+   ],
+   "distinct_laws": [
+    {
+     "subject": "President",
+     "amendment_no": "6",
+     "titles_he": [
+      "חוק-יסוד: נשיא המדינה (תיקון מס' 6)"
+     ],
+     "titles_en": [
+      "Basic Law: The President of the State (Amendment No. 6)"
+     ],
+     "passage_dates": [
+      "2003-07-28"
+     ],
+     "law_pdfs": [
+      "16_lsr_299861"
+     ],
+     "readers": [
+      "government"
+     ]
+    },
+    {
+     "subject": "President",
+     "amendment_no": "7",
+     "titles_he": [
+      "חוק-יסוד: נשיא המדינה (תיקון מס' 7)"
+     ],
+     "titles_en": [
+      "Basic Law: The President of the State (Amendment No. 7)"
+     ],
+     "passage_dates": [
+      "2003-07-28"
+     ],
+     "law_pdfs": [
+      "16_lsr_299862"
+     ],
+     "readers": [
+      "government"
+     ]
+    }
+   ]
+  },
+  {
+   "gazette_key": [
+    "2715",
+    "636"
+   ],
+   "frame_rows": [
+    {
+     "seq": 98,
+     "title_en": "Basic Law: The Government (Amendment No. 6)",
+     "passage_date": "2018-04-30",
+     "challenged": "No",
+     "sampled": "No"
+    }
+   ],
+   "distinct_laws": [
+    {
+     "subject": "Government",
+     "amendment_no": "6",
+     "titles_he": [
+      "חוק-יסוד: הממשלה (תיקון מס' 6)"
+     ],
+     "titles_en": [
+      "Basic Law: The Government (Amendment No. 6)"
+     ],
+     "passage_dates": [
+      "2018-04-30"
+     ],
+     "law_pdfs": [
+      "20_lsr_499367"
+     ],
+     "readers": [
+      "government"
+     ]
+    },
+    {
+     "subject": "Knesset",
+     "amendment_no": "47",
+     "titles_he": [
+      "חוק-יסוד: הכנסת (תיקון מס' 47)"
+     ],
+     "titles_en": [
+      "Basic Law: The Knesset (Amendment No. 47)"
+     ],
+     "passage_dates": [
+      "2018-04-30"
+     ],
+     "law_pdfs": [
+      "20_lsr_493816"
+     ],
+     "readers": [
+      "knesset"
+     ]
+    }
+   ]
+  }
+ ]
+}

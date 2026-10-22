@@ -2,11 +2,19 @@
 """Build the chronological frame of laws titled Basic Law (change log (ah)).
 
 Usage: python3 build_frame.py FRAME_DIR OUT_CSV [--draw]
-Reads every frame-*.json in FRAME_DIR (each with "entries") and challenges.json (with "challenged").
+Reads every frame-*.json in FRAME_DIR (each with "entries"), challenges.json (with "challenged") and
+same-page-order.json (the printed order of laws passed the same day on the same gazette page).
 One row per law as passed; entries reported by two readers for the same law (indirect amendments)
-are merged on the gazette reference (issue and page), else on title and year. Challenged enactments
+are merged when they share the gazette issue and page and name the same law (the Basic Law first
+named in the title and the amendment number), else on title and year. Rows are ordered by passage
+date, then gazette issue and page as numbers, then printed order on the page. Challenged enactments
 are matched on subject, passage date (or year) and amendment number. With --draw, every third
 unchallenged row from the first in chronological order is marked sampled (positions 1, 4, 7, ...).
+
+Corrected on 22 October 2026 (change log (al)): the first version merged on issue and page alone,
+which collapsed eight pairs of separately titled laws printed on one page into single rows, read
+a date as the page where the page had one digit, and ordered same-day rows by the text of the
+gazette reference. analysis/frame_merge_check.py keeps the first version's key as a record.
 """
 import sys, json, csv, io, os, re, glob
 
@@ -31,10 +39,16 @@ def subject_of(title):
 
 KIND_RANK = {"enactment": 0, "re-enactment": 1, "temporary provision": 2, "amendment and temporary provision": 3, "amendment": 4}
 
+PAGE = re.compile(r"(?:עמוד|עמ['׳’]?)\s*(\d+)")
+
 def gazette_key(g):
-    """Key on the Sefer HaHukkim issue number and page: the first two numbers of two or more digits."""
-    nums = [n for n in DIGITS.findall(g or "") if len(n) >= 2]
-    return tuple(nums[:2]) if len(nums) >= 2 else None
+    """(issue, page) of a Sefer HaHukkim reference: the page is the number after the page marker,
+    the issue the first number of two or more digits before it. None if either is missing."""
+    g = g or ""
+    m = PAGE.search(g)
+    if not m: return None
+    issue = [n for n in DIGITS.findall(g[:m.start()]) if len(n) >= 2]
+    return (issue[0], m.group(1)) if issue else None
 
 def year_of(d):
     m = re.match(r"(\d{4})", d or "")
@@ -45,10 +59,35 @@ def amendment_no(title):
     m = re.search(r"תיקון\s*מס['\"]?\s*(\d+)", t)
     return m.group(1) if m else ""
 
+def law_identity(title_he):
+    """The Basic Law first named in the title and the amendment number ("" for none)."""
+    return (subject_of(title_he), amendment_no(title_he))
+
 def entry_key(e):
     gk = gazette_key(e.get("gazette"))
-    if gk: return ("g",) + gk
+    if gk: return ("g",) + gk + law_identity(e.get("title_he"))
     return ("t", norm_text(e.get("title_he")), year_of(e.get("passage_date")))
+
+SUFFIX = re.compile(r"\s+[—–-]\s+indirect amendment\b.*$")
+
+def own_title_en(t):
+    """The law's own English title, without a reader's ' — indirect amendment of ...' suffix."""
+    return SUFFIX.sub("", t or "")
+
+def load_page_order(d):
+    """{(issue, page): {law_identity: rank}} from same-page-order.json."""
+    path = os.path.join(d, "same-page-order.json")
+    out = {}
+    if not os.path.exists(path): return out
+    for g in json.load(io.open(path, encoding="utf-8")).get("pages", []):
+        out[tuple(g["gazette"])] = {(x["subject"], x["amendment_no"]): i for i, x in enumerate(g["order"])}
+    return out
+
+def sort_key(r, page_order):
+    gk = gazette_key(r["gazette"])
+    issue, page = (int(gk[0]), int(gk[1])) if gk else (10**6, 10**6)
+    rank = page_order.get(gk, {}).get(law_identity(r["title_he"]), 0) if gk else 0
+    return (r["passage_date"] or "9999", issue, page, rank)
 
 def load_frames(d):
     rows, order = {}, []
@@ -69,11 +108,15 @@ def load_frames(d):
                     r["passage_date"] = e["passage_date"]; r["date_basis"] = "passed"
                 if e.get("note"): r["notes"].append(f"{reader}: {e['note']}")
             else:
-                rows[k] = {"key": k, "title_he": e.get("title_he", ""), "title_en": e.get("title_en", ""),
+                te = e.get("title_en", "") or ""
+                notes = [f"{reader}: {e['note']}"] if e.get("note") else []
+                if own_title_en(te) != te:
+                    notes.append(f"build: title_en shortened from the reporting reader's phrasing '{te}' to the law's own title, because the suffix led coders to treat the row as the indirect amendment only")
+                rows[k] = {"key": k, "title_he": e.get("title_he", ""), "title_en": own_title_en(te),
                            "passage_date": e.get("passage_date", "") or "", "date_basis": e.get("date_basis", ""),
                            "gazette": e.get("gazette", ""), "amends": sorted(set(e.get("amends") or [])),
                            "principal_subject": e.get("principal_subject", ""), "kind": e.get("kind", ""),
-                           "sources": sorted(set(src)), "notes": [f"{reader}: {e['note']}"] if e.get("note") else [], "readers": [reader]}
+                           "sources": sorted(set(src)), "notes": notes, "readers": [reader]}
                 order.append(k)
     return [rows[k] for k in order]
 
@@ -96,7 +139,8 @@ def match_challenge(c, rows):
 
 def main(d, out, draw=False):
     rows = load_frames(d)
-    rows.sort(key=lambda r: (r["passage_date"] or "9999", r["gazette"]))
+    page_order = load_page_order(d)
+    rows.sort(key=lambda r: sort_key(r, page_order))
     for r in rows:
         r["subject"] = subject_of(r["title_he"]) or r["principal_subject"]
         r["challenged"] = "No"; r["challenge_case"] = ""; r["challenge_outcome"] = ""

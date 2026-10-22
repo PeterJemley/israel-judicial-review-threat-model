@@ -1,0 +1,127 @@
+{
+  "1": {
+    "situated_beneficiary": {
+      "value": "No",
+      "person_or_government": null,
+      "matter": null,
+      "admissible_fact": null,
+      "fact_date": null,
+      "source": "https://he.wikisource.org/wiki/חוק-יסוד:_כבוד_האדם_וחירותו (text as enacted 17 March 1992, ס״ח תשנ״ב 150)",
+      "source_date": "1992-03-17 (text); page consulted 2026-10-22",
+      "support": "Sections 1–12 are general; s.10 is an open-ended savings clause: אין בחוק־יסוד זה כדי לפגוע בתקפו של דין שהיה קיים ערב תחילתו.",
+      "note": "Searched: (a) the enactment's text for a temporary provision, sunset, fixed date or single named person/body/law — none (s.10 preserves all prior law without time limit; s.12 is conditional on an emergency, not dated); (b) web search for press/JTA reports dated on or before 17 March 1992 of a pending proceeding, attorney-general step or deadline that the law's operative sections would alter — only general accounts of passage in the last days of the 12th Knesset; nothing identifying a person then in office or the sitting (Shamir) government in a live matter. Connection to any matter would rest on motive alone, so No."
+    }
+  },
+  "2": {
+    "situated_beneficiary": {
+      "value": "Yes",
+      "person_or_government": "The parties/factions of the outgoing Sixth Knesset named in the First and Second Schedules (the Alignment, Gahal, the National Religious Front, the Independent Liberals, Agudat Yisrael, Rakah, Poalei Agudat Yisrael, HaOlam HaZeh–Koah Hadash, Maki, Progress and Development, Cooperation and Brotherhood, the Israeli Druze faction, Arab-Jewish Brotherhood, MK D. Ben-Gurion; Free Centre in the Second Schedule), which include the parties of the sitting Eshkol government",
+      "matter": "Public financing of those factions' campaigns for the Knesset and local elections fixed for 28 October 1969 (ט״ז בחשון תש״ל)",
+      "admissible_fact": "Item 4 (single-instance clause in the enactment itself): the law is confined by its title to the elections ׳בשנת תש״ל׳; s.1 defines ׳בחירות׳ as the elections due on 28 October 1969; s.2(a) allocates fixed sums (14,400,000 lirot in total) to the parties named in the First Schedule and 480,000 lirot to the party named in the Second Schedule; ss.5, 6, 9 and 12 set fixed dates (1 August 1969, 10 September 1969, 1 July 1969, 30 November 1969).",
+      "fact_date": "1969-02-19 (day of passage; the clause is in the enactment)",
+      "source": "ספר החוקים 550, תשכ״ט, עמ׳ 18 — Knesset copy fs.knesset.gov.il/6/law/6_lsr_208008.PDF, read from the Internet Archive capture https://web.archive.org/web/20230312184944/https://fs.knesset.gov.il//6/law/6_lsr_208008.PDF",
+      "source_date": "1969 (footnote: נתקבל בכנסת ביום א׳ באדר תשכ״ט (19 בפברואר 1969); bill ה״ח 807, p. 54)",
+      "support": "לכל המפלגות המנויות בתוספת הראשונה יוקצב מאוצר המדינה סכום כולל של 14,400,000 לירות למימון הוצאות הבחירות",
+      "note": "The operative provision is not general: it names the beneficiaries and the single election. No petition or attorney-general step dated on or before 19 February 1969 was sought, since the single-instance clause suffices; see deviations for court-related snippets that were ignored."
+    }
+  },
+  "3": {
+    "situated_beneficiary": {
+      "value": "Yes",
+      "person_or_government": "The sitting (Meir) government and the Sixth-Knesset factions named in the financing law's schedules",
+      "matter": "The validity of the named election laws, in particular חוק הבחירות לכנסת ולרשויות המקומיות בשנת תש״ל (מימון, הגבלת הוצאות ובקורת), תשכ״ט-1969, governing the financing of the campaigns for the elections of 28 October 1969",
+      "admissible_fact": "Item 4 (single-instance clause in the enactment itself): s.1(a)–(b) confirms, ׳למען הסר ספק׳, the validity ׳מיום תחילתן׳ of three specifically named laws (the consolidated Knesset Elections Law 1969, the Elections (Propaganda) Law 1959 and the 1969 financing law) ׳כנוסחם בשעת תחילתו של חוק זה׳ — a one-off validation of identified laws, not a general rule.",
+      "fact_date": "1969-07-15 (day of passage; the clause is in the enactment)",
+      "source": "ספר החוקים 568, תשכ״ט, עמ׳ 204 — Nevo copy https://www.nevo.co.il/law_html/law01/190_035.htm and Knesset copy fs.knesset.gov.il/6/law/6_lsr_208037.pdf via https://web.archive.org/web/20160304234122/http://fs.knesset.gov.il/6/law/6_lsr_208037.pdf",
+      "source_date": "1969 (footnote: נתקבל בכנסת ביום כ״ט בתמוז תשכ״ט (15 ביולי 1969); bill ה״ח 846/848, p. 322)",
+      "support": "למען הסר ספק נקבע בזאת כי ההוראות הכלולות בחוקי הבחירות לכנסת הן תקיפות לכל דין ולכל דבר וענין מיום תחילתן",
+      "note": "On the same day (15 July 1969) the Knesset also amended the financing law to add funding for ׳רשימה חדשה׳ (Knesset copy 6_lsr_208007.PDF, same archive route) — a Knesset record dated the day of passage. A proceeding or petition concerning the financing law dated before 15 July 1969 could not be established from any permitted source: JTA archive search (jta.org) returned nothing on the 1969 financing law; the only sources surfaced were a judgment page and search summaries describing a court's treatment, which were not opened and are reported in deviations. The bill's explanatory notes and the Knesset record of 15 July 1969 were deliberately not read because they were likely to describe that decision. Coding rests on item 4 alone."
+    }
+  },
+  "4": {
+    "situated_beneficiary": {
+      "value": "Yes",
+      "person_or_government": "The sitting (Rabin) government, as the authority relying on pre-existing legislation restricting occupations",
+      "matter": "The imminent lapse of the protection given by s.6 of the 1992 Basic Law: Freedom of Occupation to pre-existing legislation inconsistent with it — ׳עד תום שנתיים מיום תחילתו׳ of the 1992 Basic Law (passed 3 March 1992, published ס״ח תשנ״ב 114 in March 1992), i.e. a deadline falling in March 1994, days after passage",
+      "admissible_fact": "Item 3 (a fixed deadline that the enactment moves): s.10 of the 1994 Basic Law re-sets the saving of pre-existing legislation to two years from the commencement of the new Basic Law (i.e. to March 1996; later extended by amendments to 14 March 2002). Item 4 (sunset clauses in the enactment itself): s.10 is headed ׳הוראת שעה׳, and s.8 (the override clause) gives any law enacted under it a four-year expiry — ׳תוקפו של חוק כאמור יפקע בתום ארבע שנים מיום תחילתו׳.",
+      "fact_date": "1994-03-09 (day of passage; the clauses are in the enactment); the moved deadline derives from the 1992 Basic Law passed 1992-03-03",
+      "source": "1994 text: ס״ח תשנ״ד 90, Knesset copy fs.knesset.gov.il/13/law/13_lsr_211049.pdf via https://web.archive.org/web/2024/https://fs.knesset.gov.il/13/law/13_lsr_211049.pdf; 1992 text: ס״ח תשנ״ב 114, Knesset copy fs.knesset.gov.il/12/law/12_lsr_211802.pdf via https://web.archive.org/web/2024/https://fs.knesset.gov.il/12/law/12_lsr_211802.pdf; Wikisource https://he.wikisource.org/wiki/חוק-יסוד:_חופש_העיסוק and https://he.wikisource.org/wiki/חוק-יסוד:_חופש_העיסוק_(1992)",
+      "source_date": "1994 (footnote: נתקבל בכנסת ביום כ״ו באדר התשנ״ד (9 במרס 1994); bill ה״ח 2250 of 14 February 1994, p. 289) and 1992 (footnote: נתקבל בכנסת ביום כ״ח באדר א׳ התשנ״ב (3 במרס 1992))",
+      "support": "s.10 (1994): יעמדו בתוקפן עד תום שנתיים מיום תחילתו של חוק־יסוד זה, אם לא בוטלו קודם לכן — replacing s.6 (1992): עד תום שנתיים מיום תחילתו של חוק־יסוד זה",
+      "note": "The override clause (s.8) itself is general in form; Yes rests on items 3 and 4, not on the override's purpose. A pending petition or attorney-general step dated on or before 9 March 1994 concerning the government's non-kosher-meat import measure could not be established from a permitted source without reading decision text: every candidate press item (JTA 1993–94, Globes) and the bill's explanatory notes surfaced as describing a court ruling, so none was opened or used (see deviations). The exact Reshumot publication day of the 1992 Basic Law (hence the exact day of the 1992 deadline) was not established from a permitted source; only its passage date (3 March 1992) and publication reference were."
+    }
+  },
+  "5": {
+    "situated_beneficiary": {
+      "value": "Yes",
+      "person_or_government": "The sitting (34th) government — Prime Minister Netanyahu and Finance Minister Kahlon",
+      "matter": "Enactment of the state budget for 2017 and 2018 as a single biennial budget, which the government had agreed to present",
+      "admissible_fact": "Item 4 (single-instance/temporary provision in the enactment itself): the Basic Law is a ׳הוראת שעה׳ confined to the 2017 and 2018 budgets (s.1(a)(1): one two-year budget in one law), with fixed dates — government report by 1 November 2017 (s.3(b)), plan implementation by 15 December 2017 and tabling by 31 December 2017 (s.3(d)–(f)), 2018 budget bill by 31 January 2018 and a ׳record day׳ of 30 March 2018 (s.3(f)). Pre-passage press shows the matter was the government's: Globes, 8 May 2016, reports the prime minister and finance minister agreed on a two-year budget for 2017 and 2018.",
+      "fact_date": "2016-08-02 (day of passage; clause in the enactment); government agreement reported 2016-05-08",
+      "source": "https://he.wikisource.org/wiki/חוק-יסוד:_תקציב_המדינה_לשנים_2017_ו-2018_(הוראות_מיוחדות)_(הוראת_שעה) (ס״ח תשע״ו 1182); Globes https://en.globes.co.il/en/article-pm-finance-minister-agree-on-two-year-budget-1001122969",
+      "source_date": "Text: passed 27 Tammuz 5776 (2 August 2016); Globes article 2016-05-08",
+      "support": "Title and passage line: חוק-יסוד: תקציב המדינה לשנים 2017 ו-2018 (הוראות מיוחדות) (הוראת שעה) — נתקבל בכנסת ביום כ״ז בתמוז התשע״ו (2 באוגוסט 2016)",
+      "note": "No proceeding or attorney-general step was needed or sought; the enactment names the single budget cycle it governs."
+    }
+  },
+  "6": {
+    "situated_beneficiary": {
+      "value": "Yes",
+      "person_or_government": "The sitting (35th) government — the Netanyahu–Gantz unity government sworn in on 17 May 2020",
+      "matter": "The deadline for passing the 2020 state budget under s.36א(b) of Basic Law: The Knesset — 100 days from the government's formation, i.e. 25 August 2020 — on which the Knesset would otherwise be deemed dissolved",
+      "admissible_fact": "Item 3 (a fixed deadline that the enactment moves): s.1 provides that from the law's commencement until 23 December 2020 s.36א(b) is to be read with ׳ח׳ בטבת התשפ״א (23 בדצמבר 2020)׳ in place of ׳שלושה חודשים מיום תחילת שנת הכספים או 100 ימים מיום כינון הממשלה, לפי המאוחר…׳; item 4 (temporary provision): the amendment is headed ׳הוראת שעה׳ and bounded by that date; s.2 indirectly amends Basic Law: The State Economy to add NIS 11 billion to the 2020 continuing budget. Pre-passage press (Times of Israel, 10 August 2020) identifies the existing deadline as 25 August 2020.",
+      "fact_date": "2020-08-24 (day of passage; clause in the enactment); existing deadline 2020-08-25 reported 2020-08-10; government formed 2020-05-17",
+      "source": "ספר החוקים 2845, ד׳ באלול התש״ף (24 August 2020), p. 420 — Knesset copy fs.knesset.gov.il/23/law/23_lsr_581313.pdf via https://web.archive.org/web/20210515052710/https://fs.knesset.gov.il/23/law/23_lsr_581313.pdf; Times of Israel https://www.timesofisrael.com/netanyahu-appears-to-dismiss-gantzs-24-hour-deadline-to-pass-budget-delay-bill/ (2020-08-10); Times of Israel https://www.timesofisrael.com/ending-political-crisis-new-government-sworn-in-by-knesset/ (2020-05-17); Globes https://en.globes.co.il/en/article-budget-swells-in-compromise-to-avoid-elections-1001340432 (2020-08-24)",
+      "source_date": "2020-08-24 (ס״ח; footnote: התקבל בכנסת ביום ד׳ באלול התש״ף (24 באוגוסט 2020)); press 2020-08-10, 2020-05-17, 2020-08-24",
+      "support": "בתקופה שמיום תחילתו של חוק־יסוד זה ועד יום ח׳ בטבת התשפ״א (23 בדצמבר 2020) … יבוא ״ח׳ בטבת התשפ״א (23 בדצמבר 2020)״",
+      "note": "Times of Israel, 10 Aug 2020: the bill would ׳push off the August 25 deadline to pass a budget׳; Globes, 24 Aug 2020: postponement ׳for 120 days׳ and ׳expanding the interim budget by NIS 11 billion׳."
+    }
+  },
+  "7": {
+    "situated_beneficiary": {
+      "value": "No",
+      "person_or_government": null,
+      "matter": null,
+      "admissible_fact": null,
+      "fact_date": null,
+      "source": "https://he.wikisource.org/wiki/חוק-יסוד:_ישראל_–_מדינת_הלאום_של_העם_היהודי (ס״ח תשע״ח 898; passed 19 July 2018)",
+      "source_date": "2018-07-19 (text); page consulted 2026-10-22",
+      "support": "Sections 1–11 are declaratory and general; s.11 is an entrenchment rule; no ׳הוראת שעה׳, sunset, fixed date or named person/body/law.",
+      "note": "Searched: (a) the enactment's text for a temporary provision, sunset, deadline or single-instance clause — none; (b) web search for press reports (Times of Israel, Jerusalem Post, Haaretz) dated on or before 19 July 2018 of a pending proceeding, attorney-general step or deadline that ss.1–10 would alter for an identifiable office-holder or the sitting (34th) government — none found; the only proceedings surfaced were petitions filed after passage (August 2018 onward; ACRI 23 December 2018). Any connection to a live matter would rest on motive alone."
+    }
+  },
+  "8": {
+    "situated_beneficiary": {
+      "value": "Yes",
+      "person_or_government": "Prime Minister Benjamin Netanyahu",
+      "matter": "Whether he could be declared incapacitated (נבצרות) on grounds other than physical or mental inability — specifically the conflict of interest arising from his pending criminal trial and his involvement in the judicial overhaul — a matter before the High Court of Justice and the subject of a formal attorney-general step when the amendment restricted incapacity to ׳אי־מסוגלות פיזית או נפשית בלבד׳ determinable only by the prime minister's own notice or a three-quarters government decision with Knesset approval",
+      "admissible_fact": "Item 1 (proceedings pending concerning that person): (i) criminal case 67104-01-20, State of Israel v. Netanyahu, indictment filed in the Jerusalem District Court on 28 January 2020; (ii) petition filed 24 January 2023 by ׳The Israeli Democracy Guard׳ against the government and the attorney general asking the court to force them to declare the prime minister ׳legally incapacitated׳; (iii) petition filed 9 February 2023 by the Movement for Quality Government asking the court to ׳declare that Prime Minister Benjamin Netanyahu is incapacitated׳. Item 2 (formal step by the attorney general against that person): letter of 1 February 2023 from Attorney General Gali Baharav-Miara to the prime minister that, because of the conflict of interest tied to his trial, he must avoid involvement in initiatives concerning the legal system.",
+      "fact_date": "2020-01-28 (indictment filed); 2023-01-24 and 2023-02-09 (petitions filed); 2023-02-01 (attorney-general letter, made public 2023-02-02)",
+      "source": "Globes https://en.globes.co.il/en/article-1001316505 (2020-01-28); Jerusalem Post https://www.jpost.com/israel-news/article-729469 (2023-01-24); Jerusalem Post https://www.jpost.com/israel-news/politics-and-diplomacy/article-731144 (2023-02-09); AP via PBS NewsHour https://www.pbs.org/newshour/world/israels-attorney-general-says-netanyahu-cannot-be-involved-in-judicial-system-overhaul (2023-02-02). Enactment text: ספר החוקים 3031, 27 March 2023, p. 72, Knesset copy fs.knesset.gov.il/25/law/25_lsr_2117656.pdf via https://web.archive.org/web/20230329162431/https://fs.knesset.gov.il/25/law/25_lsr_2117656.pdf (התקבל בכנסת ביום א׳ בניסן התשפ״ג (23 במרץ 2023))",
+      "source_date": "2020-01-28; 2023-01-24; 2023-02-09; 2023-02-02 (all before passage on 2023-03-23)",
+      "support": "Attorney general to the prime minister, 1 Feb 2023: ׳You must avoid as part of your role as prime minister involvement in initiatives related to the legal system.׳",
+      "note": "Operative provision as enacted: ׳נבצרות ראש הממשלה למלא את תפקידו … תהיה בשל אי־מסוגלות פיזית או נפשית בלבד, ותיקבע באחד משני אלה בלבד׳ (s.16(ב1)(1)); the ס״ח text carries no special commencement or transitional clause. The Wikisource consolidated text shows a parenthetical about the 26th Knesset and a case marker beside s.16 that are not in the 2023 ס״ח text; neither was read or used."
+    }
+  },
+  "9": {
+    "situated_beneficiary": {
+      "value": "Yes",
+      "person_or_government": "The sitting (37th) government, headed by Prime Minister Netanyahu",
+      "matter": "The government's appointment of Aryeh Deri as a minister — a government decision on an appointment challenged before the High Court of Justice as unreasonable, and the subject of a formal attorney-general position that it was outside the bounds of reasonableness; the amendment bars any court from considering ׳סבירות ההחלטה של הממשלה, של ראש הממשלה או של שר אחר׳ and defines ׳החלטה׳ expressly to include ׳ענייני מינויים׳",
+      "admissible_fact": "Item 2 (formal step by the attorney general against the government's measure): on 4 January 2023 Attorney General Gali Baharav-Miara stated that Deri's appointment as minister was ׳far outside the bounds of reasonableness׳, citing his convictions for offences committed in office; item 1 at filing: petitions against the appointment were before the High Court, with a hearing before an expanded panel of 11 justices set for 5 January 2023. Also pending on the day of passage concerning the prime minister: the Movement for Quality Government petition filed 9 February 2023 (see enactment 8).",
+      "fact_date": "2023-01-04 (attorney-general position reported); petitions pending as of 2023-01-04; MQG petition filed 2023-02-09",
+      "source": "Times of Israel liveblog https://www.timesofisrael.com/liveblog_entry/deri-says-court-wont-overrule-2-million-israelis-who-want-to-see-me-as-minister/ (2023-01-04); Jerusalem Post https://www.jpost.com/israel-news/politics-and-diplomacy/article-731144 (2023-02-09). Enactment text: ספר החוקים 3066, 26 July 2023, p. 548, Knesset copy fs.knesset.gov.il/25/law/25_lsr_2997865.pdf via https://web.archive.org/web/20230803002306/https://fs.knesset.gov.il/25/law/25_lsr_2997865.pdf (התקבל בכנסת ביום ו׳ באב התשפ״ג (24 ביולי 2023))",
+      "source_date": "2023-01-04; 2023-02-09 (both before passage on 2023-07-24)",
+      "support": "Attorney general, 4 Jan 2023: Deri's appointment was ׳far outside the bounds of reasonableness׳; enactment s.15(ד1): ׳״החלטה״ – כל החלטה, לרבות בענייני מינויים או החלטה להימנע מהפעלת כל סמכות׳",
+      "note": "Whether the January 2023 proceedings on the Deri appointment remained pending on 24 July 2023 was not determined, because doing so would require reading what the court decided in that matter; coding rests on item 2 (the attorney-general's formal position, dated before passage) and the enactment's express coverage of appointment decisions, not on motive. The petitions by Yesh Atid and the Movement for Quality Government to compel the justice minister to convene the Judicial Selection Committee were filed on 25 July 2023 (Times of Israel, 25 July 2023), the day after passage, and were therefore not used; Lapid's letter of 12 July 2023 threatening such a petition is not a step within the closed list. No earlier filing date for those petitions was found (searches of Times of Israel, Jerusalem Post and mqg.org.il)."
+    }
+  },
+  "deviations": [
+    "Court outcomes reached me through search-result summaries without my opening the pages, and were ignored: (a) a summary of a ruling on enactment 6 (the 2020 budget-deadline amendment); (b) summaries, citing a Versa/Cardozo judgment page, giving a case number, an order-nisi date and a decision date for a 1969 petition against the financing law (enactments 2–3) — not opened, not used; (c) JTA, Globes and Kohelet snippets describing 1993 and later rulings on the non-kosher-meat import matter and on the 1994 override law (enactment 4); (d) a Ynet summary describing the majority opinion on enactment 8; (e) a summary describing a 2021 ruling on enactment 7; (f) summaries describing the January 2024 ruling on enactment 9, the January 2023 ruling on the Deri appointment, rulings on the Ben Gvir police-law petitions (2023–2025), on the Judicial Selection Committee petitions (2023–2026) and on the Haredi-draft petitions (July 2023, June 2024), and a 2021 precedent on incapacity petitions.",
+    "Page opened that turned out to describe a decision: Jerusalem Post article-729056 (19 January 2023) on the Deri appointment — the fetch returned ׳decision text omitted׳; nothing from it was used. Hebrew Wikisource's consolidated pages for Basic Law: The Government and Basic Law: The Judiciary carry case-number markers beside the amended sections (s.16 and s.15(ד1)) and a court-related note at 15(ד1); these were not read, and the as-enacted texts were taken from Sefer HaHukim PDFs instead.",
+    "Access: all Knesset sites were geo-blocked; the Sefer HaHukim texts for enactments 2, 3, 4 (1992 and 1994), 6, 8 and 9 were read from Internet Archive captures of fs.knesset.gov.il PDFs (text extracted locally); the first capture tried for enactment 6 and several for enactment 8 were geo-block pages and were discarded in favour of true PDF captures. The judiciary's docket was not consulted. Israel Hayom (403) and JewishPress (404) pages could not be opened; Nevo's consolidated Freedom of Occupation page carried no publication citations and its older-version page was a login screen.",
+    "Sources outside the named press list used for dated pre-passage facts: an AP report hosted by PBS NewsHour (2 February 2023, attorney-general letter, enactment 8) and Algemeiner (24 August 2020, budget deadline, enactment 6); both are dated press reports, used because the named outlets' equivalents could not be fetched. All web pages were read through a fetch tool that summarises page text; prompts instructed it to omit any description of what a court decided.",
+    "Could not find in permitted sources: a report dated on or before 15 July 1969 of the petition against the 1969 financing law (enactment 3) and a report dated on or before 9 March 1994 of the pending petition on the meat-import measure (enactment 4) that did not describe a court ruling; the exact Reshumot publication date of the 1992 Basic Law: Freedom of Occupation (a non-permitted Bizportal snippet gave 12 March 1992 and was not used); a pre-passage filing date for the Judicial Selection Committee petitions (enactment 9). The bill explanatory notes and Knesset debate records for enactments 3 and 4 were deliberately not read because they were likely to describe the relevant court decisions.",
+    "Wikisource's consolidated s.16(ב1) of Basic Law: The Government shows a parenthetical ׳(החל מתחילת כהונתה של הכנסת העשרים ושש)׳ that is absent from the 2023 ס״ח text of Amendment No. 12 as enacted; it was not interpreted or used."
+  ]
+}

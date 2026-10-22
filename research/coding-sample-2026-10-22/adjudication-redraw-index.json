@@ -1,0 +1,72 @@
+[
+ {
+  "item": 1,
+  "seq": "76",
+  "batch": 2,
+  "coded_seq": "70",
+  "variable": "deviation_tier"
+ },
+ {
+  "item": 2,
+  "seq": "76",
+  "batch": 2,
+  "coded_seq": "70",
+  "variable": "direction"
+ },
+ {
+  "item": 3,
+  "seq": "25",
+  "batch": 4,
+  "coded_seq": "25",
+  "variable": "immediate_effect"
+ },
+ {
+  "item": 4,
+  "seq": "35",
+  "batch": 4,
+  "coded_seq": "35",
+  "variable": "expedited"
+ },
+ {
+  "item": 5,
+  "seq": "39",
+  "batch": 4,
+  "coded_seq": "39",
+  "variable": "deviation_tier"
+ },
+ {
+  "item": 6,
+  "seq": "95",
+  "batch": 6,
+  "coded_seq": "95",
+  "variable": "named_beneficiary"
+ },
+ {
+  "item": 7,
+  "seq": "95",
+  "batch": 6,
+  "coded_seq": "95",
+  "variable": "deviation_tier"
+ },
+ {
+  "item": 8,
+  "seq": "99",
+  "batch": 6,
+  "coded_seq": "99",
+  "variable": "scope"
+ },
+ {
+  "item": 9,
+  "seq": "111",
+  "batch": 6,
+  "coded_seq": "111",
+  "variable": "deviation_tier"
+ },
+ {
+  "item": 10,
+  "seq": "118",
+  "batch": 6,
+  "coded_seq": "118",
+  "variable": "deviation_tier"
+ }
+]

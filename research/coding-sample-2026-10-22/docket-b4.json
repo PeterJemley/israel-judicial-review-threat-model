@@ -1,0 +1,99 @@
+{
+  "19": {
+    "litigation_timing": {
+      "value": "No",
+      "source": "Enactment content: archived Nevo consolidated text of Basic Law: The Government (1968), https://web.archive.org/web/20220526214853id_/https://www.nevo.co.il/law_html/law19/btl0630.htm (curl to stdout, 2026-10-22; footnote: ס\"ח תשמ\"א 1026 עמ' 280, ה\"ח תשמ\"א 1537 עמ' 370), plus WebSearch 2026-10-22, query: חוק-יסוד: הממשלה תיקון מס' 3 התשמ\"א-1981 סעיף (the engine's summary of the scanned PDF fs.knesset.gov.il/9/law/9_lsr_208440.PDF). Litigation search: WebSearch 2026-10-22, query: 1981 סמכות ראש הממשלה לפטר שר \"סעיף 21א\" חוק-יסוד הממשלה תיקון 3 רקע בגין אבוחצירא. Also read IDI, 'פיטורי שרים בממשלות ישראל', https://www.idi.org.il/articles/1636 (WebFetch 2026-10-22).",
+      "support": "The amendment made a minister answerable to the Prime Minister for his functions (s. 4). It also added s. 21א: the PM may, after notifying the Government, remove a minister from office, effective 48 hours after the letter is delivered, and must inform the Knesset. No petition or appeal about the PM's power to remove a minister was found pending before the Supreme Court on 19 May 1981. IDI says only that the law was silent on dismissal before 1981 (except dismissal for voting against the Government) and cites no litigation earlier than HCJ 5261/04. The Abuhatzira affair was under way at the time (immunity lifted 13 Jan 1981), but no Supreme Court proceeding seeking his removal was found.",
+      "note": "No judgment identified to which the enactment responded."
+    }
+  },
+  "22": {
+    "litigation_timing": {
+      "value": "No",
+      "source": "WebSearch 2026-10-22, query: \"חוק-יסוד: השפיטה\" 1984 חקיקתו רקע הצעת חוק ועדת החוקה שינויים לעומת חוק בתי המשפט 1957 חוק השופטים (results incl. hamichlol.org.il 'חוק-יסוד: השפיטה', wipo.int/wipolex/en/legislation/details/15778, Knesset documents quoting the bill's explanatory notes).",
+      "support": "The Government tabled the bill in June 1978 and it passed on 28 Feb 1984, about six years later. According to the explanatory notes as reported, it gathers the principles of the Courts Law 1957 and the Judges Law 1953 into a framework Basic Law and leaves the detail to those statutes. No petition or appeal was found pending at passage that concerned a rule the Basic Law changed. In this pass the Basic Law's own text was not compared clause by clause with the 1957 and 1953 statutes.",
+      "note": "No judgment identified to which the enactment responded."
+    }
+  },
+  "25": {
+    "litigation_timing": {
+      "value": "No",
+      "source": "Enactment content: archived Nevo consolidated Basic Law: The Knesset, https://web.archive.org/web/20250112191941id_/https://www.nevo.co.il/law_html/law01/190_001.htm (curl, 2026-10-22; footnote: ס\"ח תשמ\"ז 1215 עמ' 120 (ה\"ח תשמ\"ה 1748 עמ' 268), applies from the elections to the 12th Knesset). Cross-checked against WIPO Lex text https://www.wipo.int/wipolex/zh/text/385541 and he.wikisource raw wikitext of חוק-יסוד: הכנסת (action=raw). Litigation searches: WebSearch 2026-10-22, queries: \"חוק-יסוד: הכנסת (תיקון מס' 10)\" תשמ\"ז; and: 1987 תיקון חוק-יסוד הכנסת אזרחות כפולה מועמד לכנסת שחרור מאזרחות זרה כהנא רקע הצעת חוק.",
+      "support": "Amendment 10 numbered s. 6 as (א) and added s. 6(ב). Under 6(ב), an Israeli citizen who also holds a foreign citizenship that the other state's law allows him to give up may not be a Knesset candidate until he has done everything required on his side to give it up, to the satisfaction of the chair of the Central Elections Committee (s. 6(ב) was repealed in 1996 by Amendment 22). No Supreme Court petition or election appeal on dual-citizen candidacy was found pending on 19 May 1987. No election was in progress, and the rule applied only from the 12th Knesset elections.",
+      "note": "No judgment identified to which the enactment responded."
+    }
+  },
+  "28": {
+    "litigation_timing": {
+      "value": "No",
+      "source": "Enactment content: archived Nevo Basic Law: The Government (1968), https://web.archive.org/web/20220526214853id_/https://www.nevo.co.il/law_html/law19/btl0630.htm (curl, 2026-10-22; footnote: ס\"ח תשנ\"א 1344 עמ' 86 (ה\"ח תשנ\"א 2030 עמ' 125), s. 2 a transitional provision). Litigation searches: WebSearch 2026-10-22, queries: \"חוק-יסוד: הממשלה (תיקון מס' 5)\" תשנ\"א פרישה מסיעה שר סגן שר; and: \"ועדת שרים לענייני בטחון לאומי\" 1991 חוק-יסוד הממשלה תיקון מס' 5 רקע חקיקה קבינט ביטחוני צוות ייעוץ.",
+      "support": "Amendment 5 added s. 27(ב), a Ministerial Committee for National Security Affairs (PM in the chair, Defence, Foreign Affairs and Finance ministers, the acting PM if one is appointed; members may be added up to half the Government). It also added s. 27(ג), a standing professional advisory staff on national security run by the PM. No petition about the security cabinet's composition or an advisory staff was found pending on 5 Feb 1991.",
+      "note": "No judgment identified to which the enactment responded. Caution for coders: this row is not the February 1991 anti-defection amendment. Nevo shows that the bars on defectors becoming minister or deputy minister (ss. 5(ב1), 34(ב)) are Amendment No. 6, enacted by s. 3 of Basic Law: The Knesset (Amendment No. 12), ס\"ח תשנ\"א 1345, 22.2.1991."
+    }
+  },
+  "31": {
+    "litigation_timing": {
+      "value": "No",
+      "source": "Enactment content: archived Nevo Basic Law: The Knesset (URL as for seq 25; footnote: ס\"ח תשנ\"א 1366 עמ' 208 (ה\"ח תשנ\"א 2061 עמ' 253)); WIPO Lex text 385541. Litigation search: WebSearch 2026-10-22, query: סמכות ועדות הכנסת לזמן עובדי מדינה סעיף 21(ב) חוק-יסוד הכנסת תיקון 13 1991 רקע בג\"ץ עובד מדינה סירב להופיע בוועדה. Also read IDI 'פרלמנט' issue 46, https://www.idi.org.il/parliaments/11231/11234 (WebFetch 2026-10-22).",
+      "support": "Amendment 13 numbered s. 21 as (א) and added s. 21(ב). The Rules of Procedure may empower committees to summon office-holders in the civil service, local authorities, religious councils, statutory corporations and government companies, and to require information from them, subject to legal, professional and fiduciary limits and with a witness's rights. The summons goes through the minister concerned 'ובתיאום עמו' (changed in 2000 to 'או בידיעתו'), and the minister or head of body may appear instead. No petition about committees' power to compel officials was found pending on 23 Jul 1991. The IDI piece gives no litigation history for the provision.",
+      "note": "No judgment identified to which the enactment responded."
+    }
+  },
+  "35": {
+    "litigation_timing": {
+      "value": "No",
+      "source": "Enactment content: archived Nevo Basic Law: The Knesset (URL as for seq 25; footnote: ס\"ח תשנ\"ב 1392 עמ' 162 (ה\"ח תשנ\"א 2017 עמ' 5), in force 13.7.1992 with the 13th Knesset; repealed by Amendment 16, ס\"ח תשנ\"ד 1462, 4.5.1994). Litigation search: WebSearch 2026-10-22, query: הגבלת מספר חברי ועדה קבועה \"חמישה-עשר\" \"שבעה-עשר\" ועדת הכספים 1992 תיקון 14 חוק-יסוד הכנסת הגדלת ועדות עתירה בג\"ץ.",
+      "support": "Amendment 14 added s. 21(ג): a standing committee has at most 15 members, and the Foreign Affairs and Defence Committee and the Finance Committee at most 17. The only nearby case found was HCJ 2060/91 Cohen v. Speaker of the Knesset, PD 46(4) 319 (1992). It concerns the Finance Committee's May 1991 decision to raise party funding, not the size of committees, so it does not bear on the rule changed. Nothing else was found.",
+      "note": "No judgment identified to which the enactment responded."
+    }
+  },
+  "39": {
+    "litigation_timing": {
+      "value": "No",
+      "source": "Enactment content: raw HTML of archived Nevo Basic Law: The Government (1968), https://web.archive.org/web/20220526214853id_/https://www.nevo.co.il/law_html/law19/btl0630.htm (curl, 2026-10-22; underlined insertions read from the markup; footnote: ס\"ח תשנ\"ה 1494 עמ' 42 (ה\"ח תשנ\"ה 2323 עמ' 118), s. 3 on application). Context: he.wikipedia raw text of 'סיעת יעוד' (curl, 2026-10-22). Litigation searches, WebSearch 2026-10-22: בג\"ץ סיעת ייעוד גונן שגב מינוי שר פרישה מסיעה התפלגות 1994 1995 עתירה; \"יעוד\" צומת התפלגות ועדת הכנסת 1994 ערעור בית המשפט רפאל איתן שגב גולדפרב סלמוביץ פסק דין; Segev Goldfarb appointment minister 1995 Yiud High Court petition defectors law amendment Knesset December 1994; (extended mode) \"סיעת יעוד\" OR \"סיעת ייעוד\" בג\"ץ פסק דין צומת התפלגות הכרה ועדת הכנסת 1994; four queries on HCJ 5364/94 ולנר (see deviations).",
+      "support": "Amendment 8 added the same words to s. 5(ב1) (defector may not be a minister) and s. 34(ב) (defector may not be a deputy minister): '; הוראה זו לא תחול על התפלגות סיעה בתנאים שנקבעו בחוק הבחירות לכנסת; לענין סעיף קטן זה, \"פרישה מסיעה\" – כמשמעותה בסעיף 6א לחוק-יסוד: הכנסת'. A faction split that meets the statutory conditions is thereby taken out of the bar. Context: Yiud split from Tzomet on 7 Feb 1994 and joined the Rabin government in January 1995 (Segev as minister, Goldfarb as deputy minister). No Supreme Court petition or appeal about the Yiud split, its recognition, or the defection bar was found pending on 19 Dec 1994.",
+      "note": "No judgment identified to which the enactment responded. The link to Yiud is inferred from timing; the bill's explanatory notes were not read."
+    }
+  },
+  "42": {
+    "litigation_timing": {
+      "value": "No",
+      "source": "Enactment content: raw HTML of archived Nevo Basic Law: The Government (1968), URL as for seq 39 (footnote: ס\"ח תשנ\"ו 1559 עמ' 52 (ה\"ח תשנ\"ה 2362 עמ' 287)), and of archived Nevo Basic Law: The Government (1992), https://web.archive.org/web/20211121021517id_/https://www.nevo.co.il/law_html/law19/btl0631.htm (curl, 2026-10-22). Litigation searches, WebSearch 2026-10-22: עתירה בג\"ץ רבין מכהן כשר הפנים ושר הדתות ממלא מקום שר שהתפטר תקופה ארוכה 1994 1995 חוק-יסוד הממשלה סעיף 21(ד); (extended mode) \"שלושה חודשים\" ממלא מקום שר ראש הממשלה תיקון מס' 9 חוק-יסוד הממשלה 1996 רקע עתירה משרד הדתות רבין; רבין החזיק בתיק הפנים ובתיק הדתות 1993 1995 ביקורת עתירה לבג\"ץ מינוי שר קבוע ראש הממשלה ממלא מקום. Read HCJ 3132/15 Yesh Atid v. Prime Minister (judgment PDF https://supremedecisions.court.gov.il/Home/Download?path=HebrewVerdicts\\15%2F320%2F031%2Fc22&fileName=15031320.c22&type=4, read in memory 2026-10-22) for the history of the three-month rule.",
+      "support": "Amendment 9 added to s. 21(ד) of the 1968 law: 'אך לא יותר מאשר לתקופה של שלושה חודשים; בסיומה רשאי ראש הממשלה, באישור הממשלה, למנות חבר הכנסת להיות שר בתפקידו של השר שכהונתו נפסקה כאמור, לתקופה שלא תעלה על שנה, ומינויו אינו טעון אישור הכנסת'. Its s. 2 is Amendment No. 2 to the 1992 law, adding s. 36(ב) to the same effect. HCJ 3132/15 quotes s. 36(ב) and cites Rubinstein, משפט וממשל ג 571, 589–590 (תשנ\"ו), who criticised PMs holding vacated portfolios, but it mentions no petition from 1995–96. No petition on the PM holding vacated portfolios was found pending on 22 Jan 1996.",
+      "note": "No judgment identified to which the enactment responded."
+    }
+  },
+  "45": {
+    "litigation_timing": {
+      "value": "No",
+      "source": "Enactment content: archived Nevo Basic Law: The Knesset (URL as for seq 25; footnote: ס\"ח תשנ\"ו 1566 עמ' 106 (ה\"ח תשנ\"ו 2499 עמ' 537), repealed by s. 4 of Basic Law: The Knesset (Amendment No. 21), ס\"ח תשנ\"ו 1568 עמ' 112, 29.2.1996); WIPO Lex text 385541; he.wikisource raw wikitext. Litigation search: WebSearch 2026-10-22, query: 1996 \"רשימת מועמדים לכנסת תוגש על ידי מפלגה בלבד\" רקע תיקון חוק המפלגות עתירה בג\"ץ הגשת מועמד לראשות הממשלה מפלגה.",
+      "support": "Amendment 19 added s. 5א, 'הגשת רשימת מועמדים': 'רשימת מועמדים לכנסת תוגש על ידי מפלגה בלבד; דרכי התאגדותן ורישומן של מפלגות ותנאים להגשת רשימת מועמדים, ייקבעו בחוק'. Two days later it was repealed and re-enacted in nearly identical words by Amendment 21. No petition or appeal on who may submit a Knesset list was found pending on 26 Feb 1996.",
+      "note": "No judgment identified to which the enactment responded."
+    }
+  },
+  "48": {
+    "litigation_timing": {
+      "value": "No",
+      "source": "Enactment content: archived Nevo Basic Law: The Government (1992), https://web.archive.org/web/20211121021517id_/https://www.nevo.co.il/law_html/law19/btl0631.htm (curl, 2026-10-22; footnote: ס\"ח תשנ\"ו 1568 עמ' 113 (ה\"ח תשנ\"ו 2514 עמ' 576); it repealed Amendment No. 3, ס\"ח תשנ\"ו 1565 עמ' 104, 27.2.1996, ה\"ח 2499). Litigation searches, WebSearch 2026-10-22: 1996 הבחירה הישירה הזכות להציע מועמד לראשות הממשלה חמישים אלף בעלי זכות בחירה מפלגה תיקון חוק-יסוד הממשלה פברואר 1996 עתירה; and the query listed for seq 45.",
+      "support": "Amendment 4 replaced s. 9, the right to nominate a candidate for Prime Minister. Previously a faction or factions of the outgoing Knesset with at least 10 members could nominate, or 50,000 voters. Now nominations come from parties: a party (or parties) that submitted a Knesset list and is represented by faction(s) with at least 10 members, or a party that submitted a list and has written support from 50,000 voters. In special elections, parties represented by faction(s) with at least 10 members. No petition about the right to nominate a PM candidate was found pending on 28 Feb 1996.",
+      "note": "No judgment identified to which the enactment responded."
+    }
+  },
+  "51": {
+    "litigation_timing": {
+      "value": "No",
+      "source": "Enactment content: archived Nevo Basic Law: The Knesset (URL as for seq 25; footnote: ס\"ח תשנ\"ו 1582 עמ' 234 (ה\"ח תשנ\"ו 2497 עמ' 529)); WIPO Lex text 385541. Litigation search: WebSearch 2026-10-22, query: הצהרת אמונים חבר כנסת הוסיף מילים בג\"ץ עתירה 1992 1995 תיקון 23 חוק-יסוד הכנסת ישיבת הפתיחה \"יבטאו את אופיה של מדינת ישראל ומורשתה\" רקע.",
+      "support": "Amendment 23 replaced s. 14. The old s. 14 had the eldest member make the oath at the opening sitting, with each MK answering 'מתחייב אני'. The new s. 14 reads: 'סדרי ישיבת הפתיחה ייקבעו בחוק, והם יבטאו את אופיה של מדינת ישראל ומורשתה'. It also replaced s. 15 (oath of an MK absent from the opening) with the oath text and 'סדרי ההצהרה ייקבעו בחוק'. The search surfaced only MK Kahane's 1984 oath episode, and no court proceeding was found for it. Nothing was found pending on 12 Mar 1996.",
+      "note": "No judgment identified to which the enactment responded."
+    }
+  },
+  "deviations": [
+    "Every 'No' rests on finding no evidence in web searches and secondary sources, not on a docket search. The judiciary's database (supremedecisions.court.gov.il) was not searched by party or subject; only one judgment PDF (HCJ 3132/15) was downloaded by direct link. Nevo was not used (www.nevo.co.il returned HTTP 403 to curl on 2026-10-22). Versa, ACRI, Adalah and the Movement for Quality Government sites were not searched. A reviewer should check dockets for the period before each passage date, especially seq 39 (Yiud split; the Segev and Goldfarb appointments; Tzomet, December 1994), seq 42 (the PM holding vacated portfolios, 1993–95) and seqs 45 and 48 (party-only lists and PM nominations, February 1996).",
+    "fs.knesset.gov.il (enacted-law PDFs and bills) redirected to https://www.knesset.gov.il/maintenance-page-geo for both curl and WebFetch on 2026-10-22. So none of the bills' explanatory notes were read: ה\"ח 1537, 1748, 2030, 2061, 2017, 2323, 2362, 2499, 2514, 2497, and the 1978 Judiciary bill. Those notes are the most likely place for a stated litigation background. Enactment texts were taken from the archived Nevo consolidations named in the sheet (version history read from the markup) and from he.wikisource raw wikitext. For seq 19 they were also taken from a search engine's summary of the scanned PDF. For seq 22 the Basic Law text itself was not read.",
+    "web.archive.org refused connections intermittently and WebFetch cannot fetch it; the snapshots were fetched with curl to stdout after retries.",
+    "HCJ 5364/94 Velner v. Chairman of the Israeli Labor Party, PD 49(1) 758, was filed in 1994 and concerns a political agreement (Bendor and Cohen, משפט וממשל ג 297 (1995)). Four searches did not establish which agreement it concerned. If it concerned the Labor–Yiud deal, it could bear on seq 39 and should be checked.",
+    "Frame points for the reviewer. Seq 45 (Knesset Amendment 19) was repealed two days later by s. 4 of Amendment 21, which re-enacted s. 5א in nearly the same words. Seq 48 (1992 Government law Amendment 4) repealed Amendment 3, published 27.2.1996 from the same bill as seq 45 (ה\"ח 2499). Seq 42's s. 2 is also Amendment No. 2 to the 1992 law, which matches the sheet's 'amends both'. Wikisource lists Government Amendment No. 8 (תשנ\"ה, 42) under both the 1968 and the 1992 law, but Nevo's 1992-law footnotes do not list it; the sheet says 1968 only.",
+    "Seq 28 is not the February 1991 anti-defection amendment. That amendment is Government Amendment No. 6, enacted inside Basic Law: The Knesset (Amendment No. 12). Seq 28 (Amendment No. 5) created the national-security ministerial committee and advisory staff.",
+    "The brief says to work in a fresh scratch subfolder, but the caller said to write no file anywhere. I followed the stricter instruction and wrote no file. The tool harness itself saved one oversized command output to its own tool-results folder [path omitted when saved to the repository]. Nothing in the repository was listed, read or searched other than the sheet."
+  ]
+}

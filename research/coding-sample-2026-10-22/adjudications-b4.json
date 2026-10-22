@@ -1,0 +1,46 @@
+{
+ "adjudications": [
+  {
+   "item": 3,
+   "enactment": 25,
+   "variable": "immediate_effect",
+   "value": "Deferred",
+   "source": "Gazette text, https://web.archive.org/web/20210515050237/https://fs.knesset.gov.il/11/law/11_lsr_210455.pdf ; election date, https://web.archive.org/web/20030405124417/http://www.knesset.gov.il:80/history/eng/eng_hist12_s.htm",
+   "support": "2. סעיף 1 יחול לענין הבחירות לכנסת השתים-עשרה ואילך; 12th Knesset 'Elected on 1 November, 1988' (Knesset history page).",
+   "reason": "Section 2 fixes when the new candidacy condition in s. 6(b) first operates: at the elections to the 12th Knesset. So this is not a text that states no commencement clause at all, and Coder A's basis fails. The effect comes at the next general election, not after it, so the first limb does not decide; but those elections were held on 1 November 1988, about seventeen months after the law was passed (19 May 1987) and published, so the stated effect falls more than twelve months after publication, and where both codes could apply the definition gives Deferred precedence. Basis: stated; I adopt Coder B's value.",
+   "frame_seq": 25
+  },
+  {
+   "item": 4,
+   "enactment": 35,
+   "variable": "expedited",
+   "value": "",
+   "source": "Open Knesset mirror: https://production.oknesset.org/pipelines/data/plenum/kns_plmsessionitem/kns_plmsessionitem.csv, .../plenum/kns_plenumsession/kns_plenumsession.csv, .../knesset/kns_status/kns_status.csv ; gazette footnote, https://web.archive.org/web/20220618015124/https://fs.knesset.gov.il/12/law/12_lsr_210809.pdf",
+   "support": "Status 111 (for first-reading debate) on 29.10.1990 (session 437147) and again on 18.3.1992 (session 437231, beside 114 and 117)",
+   "reason": "The agenda data list bill 152921 for first-reading debate on 29 October 1990, and again on 18 March 1992, when it also appears for second-third and third reading. Only one other bill in the table has a first-reading entry both in its final session and earlier, and nine bills took every reading in one sitting, so the record does not fix whether the first-reading vote came 506 days or 0 days before the final vote; Coder B's 506 days assumes the 1990 listing was the vote. The plenum protocols of both sittings (12_ptm_531616 and 12_ptm_531974, and their DOC versions) have no archive capture, the Knesset file server redirects, the press archive refused access, and the gazette footnote gives only the bill's publication (Bills 2017, 24 October 1990). No permitted source settles the first-reading date or whether a special procedure was used, so the cell is blank, as Coder A coded.",
+   "frame_seq": 35
+  },
+  {
+   "item": 5,
+   "enactment": 39,
+   "variable": "deviation_tier",
+   "value": "Limited",
+   "source": "Gazette text, https://web.archive.org/web/20240207224624/https://fs.knesset.gov.il/13/law/13_lsr_211068.pdf",
+   "support": "הוראה זו לא תחול על התפלגות סיעה בתנאים שנקבעו בחוק הבחירות לכנסת; s. 3: אין נפקא מינה אם הפרישה או ההתפלגות היו לפני תחילתו",
+   "reason": "Sections 1 and 2 exempt faction splits that meet the Elections Law conditions from the bar in ss. 5(b1) and 34(b) on appointing a member who left his faction as minister or deputy minister, and s. 3 extends the exemption to splits made before commencement; the principal subject is that eligibility rule. The bar belongs to the anti-defection regime that the ruling on Basic Law: The Knesset (Amendment No. 12) found to engage free and equal elections and rule of law, but unlike s. 6A it does not touch candidacy: its function is to stop executive office being the reward for leaving one's faction, the integrity concern that ruling treated as rule of law, so None is unavailable, rule of law is the principal value and free and equal elections is secondary. Narrowing that safeguard, and doing so retroactively for members whose position was already fixed, contradicts rule of law, as loosening a check did in the 2013 ruling, and the contradiction is limited because individual defection stays barred and only statutory splits are exempt. I adopt Coder A's value with a different principal value, deciding from the text alone.",
+   "frame_seq": 39
+  }
+ ],
+ "interpretive_rulings": [
+  {
+   "question": "Q1",
+   "enactment": 28,
+   "variable": "situated_beneficiary",
+   "value": "Yes",
+   "reading_adopted": "Item 4 covers a single-instance clause that by its own terms applies only to the government in office at commencement and, for that government's term, exempts it from a limit the new rule imposes on its own organs; the item is not confined to clauses that end a measure.",
+   "reason": "Section 2 applies new s. 27(b)-(c) to 'the government serving on the day of commencement', except the limit on the size of the ministerial committee for national security, while s. 27(b) binds every government from its formation; so the exemption is confined by its own terms to the sitting government and its term, as the ruling on Basic Law: The Knesset (Amendment No. 12) requires, and the committee's added members are fixed by that government's own decision. The alteration, freedom from the cap, belongs to that government alone, since each successor is bound from formation; 'single-instance' covers a clause applying to one government, so I reject the narrower reading that would confine item 4 to clauses ending a measure. Government: the 24th government under Prime Minister Yitzhak Shamir (in office 11.6.1990 to 13.7.1992, Knesset government record, archive capture 26.6.2004); matter: the size of its ministerial committee for national security; fact: s. 2 of the enactment, passed 5.2.1991. Source: ס״ח 1344, p. 86 (15.2.1991), gazette text https://web.archive.org/web/20220618023516/https://fs.knesset.gov.il/12/law/12_lsr_210831.pdf (capture 18.6.2022).",
+   "frame_seq": 28
+  }
+ ],
+ "note": "Filed from adjudications-redraw-all.json by analysis/split_adjudication.py; 'enactment' is the number under which batch 4 filed the row, 'frame_seq' the corrected frame's."
+}

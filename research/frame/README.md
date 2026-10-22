@@ -99,6 +99,8 @@ The shift from the first draw:
 
 The eight in both draws are the six rows numbered 1 to 16, which precede the first merged row, and two later laws: Basic Law: The President of the State (Amendment No. 6) of 2001, now alone in its row, and Basic Law: The Judiciary (Amendment No. 2) of 2002. The first draw's verification and coding are kept as records and do not enter the comparison sample except for these eight rows.
 
-## What comes next
+## Verification and coding of the redraw
 
-The 31 rows that entered the sample are verified as never challenged under the verification sheet, and any found challenged moves to part (a) without replacement. They are coded under the coding sheet with the usual roles, in batches 4 to 6 of `research/coding-sample-2026-10-22`. The 2001 President amendment is recoded there too, as a single law, because the first draw's coding treated it together with the Knesset amendment merged into its row. The six rows numbered 1 to 16 and the 2002 Judiciary amendment keep their first-draw coding. The one-vote expectation of item (ah) is checked across all 39 rows once they are coded.
+The 31 rows that entered the sample were verified on 22 October 2026 under `verification-sheet-redraw.md` by two docket readers (`verification-redraw-a.json`, `verification-redraw-b.json`). No challenge was found on any row, so all 39 sampled rows stand, each with its search recorded in the `verified`, `verification_search` and `related_cases` columns (`verification-redraw-summary.json`). The readers worked without the judiciary's database, and three rows want a court-database check: Basic Law: Referendum (2014), whose enactment overtook a petition against the earlier referendum statute, and the June and July 2020 amendments to the 2020 State Economy temporary provision, which petitions against a later amendment of the same provision may have reached.
+
+The 39 rows were then coded with all roles. The coding, the adjudication and the one-vote check are described in `research/coding-sample-2026-10-22/README.md`, and the assembled rows are in `codebook/comparison-sample.csv`.

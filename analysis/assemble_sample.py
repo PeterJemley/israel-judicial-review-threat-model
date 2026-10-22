@@ -40,8 +40,9 @@ def load_adj(d):
     adj = {}
     for path in sorted(glob.glob(os.path.join(d, "adjudications-b*.json"))):
         b = batch_of(path)
-        for a in json.load(io.open(path, encoding="utf-8")).get("adjudications", []):
-            adj[(b, str(a["enactment"]), a["variable"])] = a
+        data = json.load(io.open(path, encoding="utf-8"))
+        for a in data.get("adjudications", []) + data.get("interpretive_rulings", []):
+            adj[(b, str(a["enactment"]), a.get("variable", "situated_beneficiary"))] = a
     return adj
 
 def main(d, out, manifest_name="rows.json", frame_csv=None):
@@ -70,6 +71,10 @@ def main(d, out, manifest_name="rows.json", frame_csv=None):
             else: row[v] = ""; prov[v] = f"disagreement unresolved (A={va!r}, B={vb!r})"
         sb = (C.get(k, {}).get("situated_beneficiary") or {})
         row["situated_beneficiary"] = sb.get("value", "") or ""; prov["situated_beneficiary"] = f"circumstances reader, closed list {sb.get('list_version','(ae)')}" if row["situated_beneficiary"] else "not coded"
+        if (b, c, "situated_beneficiary") in adj:
+            r = adj[(b, c, "situated_beneficiary")]
+            prov["situated_beneficiary"] += f"; interpretive ruling {r['value']} (reader had {row['situated_beneficiary'] or 'blank'})"
+            row["situated_beneficiary"] = r["value"]
         dk = K.get(k, {})
         row["litigation_timing"] = (dk.get("litigation_timing") or {}).get("value", "") or ""
         if verified is None:

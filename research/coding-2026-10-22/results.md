@@ -91,3 +91,31 @@ Under the pre-registered rule, the first run of the revised T1 is Inconclusive, 
 - Issue 4 (replace Hebrew Wikipedia and Wikisource lines with gazette or press sources): the 1969 ratification law's tally (68 to 8 to 5) and passage date (15 July 1969) are now from the Knesset record; the 1969 financing law's text is now from the gazette; the 1996 Meatrael outcome still rests on Hebrew Wikipedia and press.
 - Issue 5 (the Incapacity deadline): resolved in HCJ 2412/23 itself, as read by the docket reader: the attorney general's response was due 12 March 2023; on 13 March the Court extended the deadline to 26 March; the amendment passed on 23 March; on 29 March the Court struck the incapacity petitions. Both dates in the research notes were right.
 - Issue 2 (the Resler judgment): still unread; the docket reader coded row 3 from the Court's 1981 account and Klinghoffer (1983).
+
+## Addendum, later on 22 October 2026: the situated beneficiary sign
+
+After the run above, the beneficiary sign was split in two (note, change log item (ac)): `named_beneficiary` stays as the coders coded it from the text and explanatory notes, and `situated_beneficiary` was added, coded by a circumstances reader from a closed list of facts dated no later than the day of passage, without any outcome or judgment. The sheet is `circumstances-sheet.md`; the reader's report is `circumstances.json`, saved verbatim. The situated sign enters F in the primary analysis; the text sign enters F in the pre-registered secondary analysis 11a. The expectations for the nine rows were recorded in item (ac) before the reader ran.
+
+### The reader's values against the recorded expectations
+
+| Row | Enactment | Expected | Coded | Admissible fact the reader relied on |
+|---|---|---|---|---|
+| 1 | Human Dignity and Liberty 1992 | No | No | none found; connection would rest on motive |
+| 2 | Elections financing law 1969 | No | **Yes** | item 4: the law names the factions of the outgoing Knesset and the single election of 28 October 1969 |
+| 3 | Confirmation of validity law 1969 | No | **Yes** | item 4: a one-off validation of three named laws |
+| 4 | Freedom of Occupation override 1994 | No | **Yes** | item 3 and item 4: section 10, a temporary provision, re-sets the two-year saving of prior legislation; the override clause gives override laws a four-year expiry |
+| 5 | Two-year budget 2016 | Yes | Yes | item 4: a temporary provision confined to the 2017 and 2018 budgets |
+| 6 | Budget deadline 2020 | Yes | Yes | item 3: the deadline of 25 August 2020 moved to 23 December 2020 |
+| 7 | Nation-State 2018 | No | No | none found; only petitions filed after passage |
+| 8 | Incapacity 2023 | Yes | Yes | item 1: incapacity petitions filed 24 January and 9 February 2023; item 2: the attorney general's letter of 1 February 2023 |
+| 9 | Reasonableness 2023 | Yes | Yes | item 2: the attorney general's position of 4 January 2023 that the Deri appointment was outside the bounds of reasonableness, with the amendment expressly covering appointment decisions |
+
+Six of nine expectations met; three missed, all three on the list's temporal items, a moved deadline or a single-instance or sunset clause, read as the rule is written. The misses stand as coded and are not re-scored. What they show is a defect in the rule as written rather than in the reader's application of it: items 3 and 4 are satisfied by any dated or temporary clause, whether or not the person or government whose position changes is identifiable as distinct from everyone else the clause touches, and "the sitting government" admits a reading on which every incumbent faction, or any government relying on existing law, counts. The rule as intended required a position altered for the sitting government or an officeholder specifically, in a way successors or other actors would not share. A tightened list is recorded in the note as a candidate for a later run and is not applied to this one.
+
+### Effect on the analysis
+
+With the situated sign in F, row 4 moves from F of 2 to 3 and stays Undetermined; row 9 moves from F of 3 to 4 and from the content-driven to the purpose-driven group with the same prediction; rows 5, 6 and 7 are unchanged; rows 1, 2, 3 and 8 remain uncoded in the primary analysis or outside it. The configuration is again N = 5, K = 4, D_A = 1, D_N = 0; the verdict before outcomes is again Inconclusive; the secondary analysis 11a reproduces the first run exactly. The two analyses classify no row differently; they differ in the group label of one row and in F for two.
+
+### Disclosures for this pass
+
+The reader is a language model and reported court outcomes reaching it through search-result summaries for every enactment but the 2016 budget, none opened. It read pages through a fetch tool that summarises text, instructed to omit decisions. It did not consult the judiciary's docket. For the 1969 ratification law and the 1994 override it could not establish a pending proceeding from any permitted source without reading decision text, so those codings rest on the enactments' own clauses alone. Its sources for the 2023 rows are dated press reports from before passage; the 2023 Incapacity coding also cites the indictment of January 2020 as a pending proceeding concerning the prime minister.

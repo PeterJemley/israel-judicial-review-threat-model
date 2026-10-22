@@ -4,7 +4,7 @@ Built on 22 October 2026 under the counting rule in the note's change log item (
 
 ## Files
 
-- `basic-law-frame.csv`: the frame, 122 rows in chronological order of passage, with title, passage date and its basis, gazette reference, the Basic Laws the law amends, kind, canonical subject, whether it was challenged and by what case, which readers reported it, sources and notes. No row has been sampled yet; the `--draw` flag of `analysis/build_frame.py` adds that column when the draw is made.
+- `basic-law-frame.csv`: the frame, 122 rows in chronological order of passage, with title, passage date and its basis, gazette reference, the Basic Laws the law amends, kind, canonical subject, whether it was challenged and by what case, the `sampled` column from the draw of 22 October 2026, which readers reported it, sources and notes.
 - `frame-knesset.json`, `frame-government.json`, `frame-economy-judiciary-rights.json`: the three readers' lists, saved verbatim, each with the ordinary statutes it found, the Wikisource-versus-Nevo discrepancies it recorded, and its deviations.
 - `challenges.json`: the challenge reader's list of every Basic Law enactment or amendment attacked before the Court, with the cases it considered and rejected.
 - `summary.json`: the counts the build script printed.
@@ -42,6 +42,10 @@ Fourteen rows. Seven were in the codebook already: the 1992 Basic Law: Human Dig
 - The challenge reader did not reach the judgments on the judiciary's site; its classifications for the 1994 Porat petition and the 1999 case are provisional, as its notes say, and the outcome classes it recorded are the reader's, not the protocol's step 4 codings, which the docket reader assigns when a row is coded.
 - Eleven ordinary statutes that touched Basic Laws (transitional laws, two convening laws, a fiscal-year law, and the 1994 committee-size law the Knesset numbered as a Basic Law amendment) are in the readers' lists and not in the frame, as the counting rule requires.
 
+## The draw
+
+Made on 22 October 2026 under the rule in item (ah), by the build script's `--draw` flag: every third unchallenged row from the first in chronological order, positions 1, 4, 7 and so on, with no seed and no judgment. It gives 36 rows. By subject: Knesset 11, Government 9, State Economy 7, Freedom of Occupation 2, President 2, and one each of the Army, Jerusalem, State Comptroller, Judiciary and budget temporary Basic Laws. By kind: 26 amendments, 5 temporary provisions, 4 enactments, 1 re-enactment. By decade: two from the 1950s, one from the 1960s, two from the 1970s, four from the 1980s, nine from the 1990s, seven from the 2000s, six from the 2010s and five from the 2020s. Two of the 36 carry a publication date rather than a passage date. The draw is deterministic from the frame, so a corrected frame changes the draw; any row added or removed before the sampled rows are coded shifts every later position, and the change log records any such shift. A sampled row that the docket reader finds to have been challenged moves to part (a) and is not replaced.
+
 ## What comes next
 
-The draw, under the rule in item (ah): every third unchallenged row from the first, positions 1, 4, 7 and so on, which on 108 unchallenged rows gives 36 rows to code, each verified by the docket reader as unchallenged before coding.
+The docket reader verifies each of the 36 rows as unchallenged, with the search recorded; then the rows are coded under the coding sheet with the usual roles, outcome Not challenged.

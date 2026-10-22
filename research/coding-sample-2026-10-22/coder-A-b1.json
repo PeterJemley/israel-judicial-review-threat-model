@@ -1,0 +1,817 @@
+{
+ "1": {
+  "named_beneficiary": {
+   "value": "No",
+   "source": "https://web.archive.org/web/20210515060007/https://fs.knesset.gov.il/3/law/3_lsr_208441.pdf",
+   "support": "General constitutional text, ss. 1-45 (Knesset composition, elections, immunity, sittings, entrenchment); no officeholder or government interest addressed.",
+   "note": "Explanatory notes (ה\"ח 180, תשי\"ד, עמ' 18) not reachable: Knesset site geo-blocked, no archive capture located."
+  },
+  "immediate_effect": {
+   "value": "Yes",
+   "source": "https://web.archive.org/web/20210515060007/https://fs.knesset.gov.il/3/law/3_lsr_208441.pdf",
+   "support": "Text ends with s. 45 and signatures; no commencement clause.",
+   "note": "Basis: by absence of a clause."
+  },
+  "coalition_only": {
+   "value": "",
+   "source": "https://en.wikipedia.org/wiki/Eighth_government_of_Israel; https://he.wikipedia.org/wiki/ממשלת_ישראל_השמינית",
+   "support": "Eighth government (7 Jan 1958): Mapai, NRP, Mapam, Ahdut HaAvoda, Progressives, Democratic List for Israeli Arabs, Progress and Work, Agriculture and Development.",
+   "note": "Vote record unavailable. Searched: Wayback captures of 3rd Knesset plenum PDFs (fs.knesset.gov.il/3/Plenum) cover 15 Jan 1958 (3_ptm_251468) and 22 Apr 1958 (3_ptm_251491) but the 12 Feb 1958 sitting is not captured (3_ptm_251479 returns 404); JTA archive and press searches returned nothing; NYU Faculty Digital Archive holds no 1958 sittings. The Knesset site itself is geo-blocked."
+  },
+  "expedited": {
+   "value": "",
+   "source": "https://web.archive.org/web/20210515060007/https://fs.knesset.gov.il/3/law/3_lsr_208441.pdf",
+   "support": "Footnote: נתקבל בכנסת ביום כ\"ב בשבט תשי\"ח (12 בפברואר 1958); הצעת החוק נתפרסמה בה\"ח 180, תשי\"ד.",
+   "note": "Final vote 12 Feb 1958; first-reading date not found (the bill was published in 5714/1954, so no inference possible). Searched the Knesset record captures and press as above."
+  },
+  "scope": {
+   "value": "No",
+   "source": "https://web.archive.org/web/20210515060007/https://fs.knesset.gov.il/3/law/3_lsr_208441.pdf",
+   "support": "ss. 44-45: emergency regulations cannot change the law; ss. 44/45 changeable only by 80 MKs.",
+   "note": "Creates and protects checks (entrenchment, inquiry committees with opposition members s. 22, immunity ss. 17-18); removes none."
+  },
+  "temporary_provision": {
+   "value": "No",
+   "source": "https://web.archive.org/web/20210515060007/https://fs.knesset.gov.il/3/law/3_lsr_208441.pdf",
+   "support": "Permanent Basic Law; no temporary-provision title or sunset.",
+   "note": ""
+  },
+  "targets_judiciary": {
+   "value": "No",
+   "source": "https://web.archive.org/web/20210515060007/https://fs.knesset.gov.il/3/law/3_lsr_208441.pdf",
+   "support": "Subject is the Knesset; s. 7(3)-(4) only bars serving judges and dayanim from candidacy.",
+   "note": ""
+  },
+  "deviation_tier": {
+   "value": "Entrenches",
+   "source": "https://web.archive.org/web/20210515060007/https://fs.knesset.gov.il/3/law/3_lsr_208441.pdf",
+   "support": "s. 4: בחירות כלליות, ארציות, ישירות, שוות, חשאיות ויחסיות ... אין לשנות סעיף זה אלא ברוב של חברי הכנסת.",
+   "note": "Values engaged: free and equal elections (principal; ss. 4-6, entrenched), separation of powers (ss. 22, 44-45). Contradicts none."
+  },
+  "direction": {
+   "value": "Liberal",
+   "source": "https://web.archive.org/web/20210515060007/https://fs.knesset.gov.il/3/law/3_lsr_208441.pdf",
+   "support": "s. 5: כל אזרח ישראלי בן שמונה עשרה שנה ומעלה זכאי לבחור לכנסת.",
+   "note": "Axis engaged: equal citizenship (universal equal suffrage for every citizen, ss. 4-6). No judicial or minority-restriction axis. A reader treating a founding institutional law as housekeeping would code Neutral; coded Liberal from the equal-suffrage text."
+  },
+  "final_vote_record": {
+   "value": "",
+   "source": "https://web.archive.org/web/20210515060007/https://fs.knesset.gov.il/3/law/3_lsr_208441.pdf",
+   "support": "Gazette footnote gives only the passage date, 12 February 1958.",
+   "note": "No final vote found: Knesset record sitting of 12 Feb 1958 not in any archive capture; no dated press report located. A search snippet from israeled.org claimed 96-0 but that site is not a permitted source and was not used."
+  }
+ },
+ "4": {
+  "named_beneficiary": {
+   "value": "No",
+   "source": "https://web.archive.org/web/20210515044343/https://fs.knesset.gov.il/3/law/3_lsr_208444.pdf",
+   "support": "Single section adding s. 46 (when a special majority is required); general procedural rule.",
+   "note": "Explanatory notes (ה\"ח 372, תשי\"ט, עמ' 151) not reachable."
+  },
+  "immediate_effect": {
+   "value": "Yes",
+   "source": "https://web.archive.org/web/20210515044343/https://fs.knesset.gov.il/3/law/3_lsr_208444.pdf",
+   "support": "One section and signatures; no commencement clause.",
+   "note": "Basis: by absence of a clause."
+  },
+  "coalition_only": {
+   "value": "",
+   "source": "https://he.wikipedia.org/wiki/ממשלת_ישראל_השמינית; https://en.wikipedia.org/wiki/Eighth_government_of_Israel",
+   "support": "On 6 Aug 1959: Mapai, Mapam, Ahdut HaAvoda, Progressives and the three Arab lists; NRP left 1 July 1958; Ben-Gurion resigned 5 July 1959 (transitional government).",
+   "note": "Vote record unavailable. Searched Wayback captures of 3rd Knesset plenum PDFs: last readable capture is 2 July 1958 (3_ptm_251508); 3_ptm_251522 returns 404 and 3_ptm_251590 is truncated at 1 MiB; no press report found."
+  },
+  "expedited": {
+   "value": "",
+   "source": "https://web.archive.org/web/20210515044343/https://fs.knesset.gov.il/3/law/3_lsr_208444.pdf",
+   "support": "נתקבל בכנסת ביום ב' באב תשי\"ט (6 באוגוסט 1959); הצעת החוק נתפרסמה בה\"ח 372, תשי\"ט, עמ' 151.",
+   "note": "Final vote 6 Aug 1959; first-reading date not found (searches as above)."
+  },
+  "scope": {
+   "value": "No",
+   "source": "https://web.archive.org/web/20210515044343/https://fs.knesset.gov.il/3/law/3_lsr_208444.pdf",
+   "support": "הרוב הדרוש ... לשינוי הסעיפים 4, 44 או 45 יהא דרוש להחלטות מליאת הכנסת בכל שלב משלבי החקיקה.",
+   "note": "Extends an existing check (special majority) to every legislative stage and to implied changes; removes nothing."
+  },
+  "temporary_provision": {
+   "value": "No",
+   "source": "https://web.archive.org/web/20210515044343/https://fs.knesset.gov.il/3/law/3_lsr_208444.pdf",
+   "support": "Permanent insertion of s. 46.",
+   "note": ""
+  },
+  "targets_judiciary": {
+   "value": "No",
+   "source": "https://web.archive.org/web/20210515044343/https://fs.knesset.gov.il/3/law/3_lsr_208444.pdf",
+   "support": "Subject: majority required to amend entrenched Knesset-law sections.",
+   "note": ""
+  },
+  "deviation_tier": {
+   "value": "Entrenches",
+   "source": "https://web.archive.org/web/20210515044343/https://fs.knesset.gov.il/3/law/3_lsr_208444.pdf",
+   "support": "לענין סעיף זה \"שינוי\" — בין מפורש ובין משתמע.",
+   "note": "Value engaged: free and equal elections (principal: the protected s. 4 electoral principles); contradicts none."
+  },
+  "direction": {
+   "value": "Neutral",
+   "source": "https://web.archive.org/web/20210515044343/https://fs.knesset.gov.il/3/law/3_lsr_208444.pdf",
+   "support": "Procedural rule on the majority required at each stage of legislation.",
+   "note": "No axis of the direction variable engaged directly; procedural entrenchment measure."
+  },
+  "final_vote_record": {
+   "value": "",
+   "source": "https://web.archive.org/web/20210515044343/https://fs.knesset.gov.il/3/law/3_lsr_208444.pdf",
+   "support": "Gazette footnote: passed 6 August 1959.",
+   "note": "No final vote found (see coalition_only note)."
+  }
+ },
+ "7": {
+  "named_beneficiary": {
+   "value": "No",
+   "source": "https://web.archive.org/web/20210515041949/https://fs.knesset.gov.il/6/law/6_lsr_208445.pdf",
+   "support": "Adds s. 20A: a deputy Speaker acts for the Speaker when abroad, incapacitated or when the office falls vacant.",
+   "note": "Explanatory notes (ה\"ח 710, תשכ\"ז, עמ' 28) not reachable."
+  },
+  "immediate_effect": {
+   "value": "Yes",
+   "source": "https://web.archive.org/web/20210515041949/https://fs.knesset.gov.il/6/law/6_lsr_208445.pdf",
+   "support": "One section and signatures; no commencement clause.",
+   "note": "Basis: by absence of a clause."
+  },
+  "coalition_only": {
+   "value": "",
+   "source": "https://en.wikipedia.org/wiki/Thirteenth_government_of_Israel",
+   "support": "Thirteenth government (12 Jan 1966): Alignment, NRP, Mapam, Independent Liberals, Poalei Agudat Yisrael, Progress and Development, Cooperation and Brotherhood; Gahal and Rafi joined only 5 June 1967.",
+   "note": "Vote record unavailable. Wayback captures of 6th Knesset plenum PDFs: 6_ptm_252506 is 31 Oct 1966, next readable 6_ptm_252541 is 19 Dec 1967; the captures in between (252513, 252517, 252520) are truncated at 1 MiB and unreadable. No press report found."
+  },
+  "expedited": {
+   "value": "",
+   "source": "https://web.archive.org/web/20210515041949/https://fs.knesset.gov.il/6/law/6_lsr_208445.pdf",
+   "support": "נתקבל בכנסת ביום ב' באדר ב' תשכ\"ז (14 במרס 1967); הצעת החוק ודברי הסבר פורסמו בה\"ח 710, תשכ\"ז, עמ' 28.",
+   "note": "Final vote 14 Mar 1967; first-reading date not found."
+  },
+  "scope": {
+   "value": "No",
+   "source": "https://web.archive.org/web/20210515041949/https://fs.knesset.gov.il/6/law/6_lsr_208445.pdf",
+   "support": "s. 20A(d): the acting Speaker is the deputy chosen by the House Committee.",
+   "note": "Fills a gap in Knesset self-government; removes no check or right."
+  },
+  "temporary_provision": {
+   "value": "No",
+   "source": "https://web.archive.org/web/20210515041949/https://fs.knesset.gov.il/6/law/6_lsr_208445.pdf",
+   "support": "Permanent insertion of s. 20A.",
+   "note": ""
+  },
+  "targets_judiciary": {
+   "value": "No",
+   "source": "https://web.archive.org/web/20210515041949/https://fs.knesset.gov.il/6/law/6_lsr_208445.pdf",
+   "support": "Subject: acting Speaker of the Knesset.",
+   "note": ""
+  },
+  "deviation_tier": {
+   "value": "None",
+   "source": "https://web.archive.org/web/20210515041949/https://fs.knesset.gov.il/6/law/6_lsr_208445.pdf",
+   "support": "Internal Knesset office-holding rule; none of the five values engaged.",
+   "note": ""
+  },
+  "direction": {
+   "value": "Neutral",
+   "source": "https://web.archive.org/web/20210515041949/https://fs.knesset.gov.il/6/law/6_lsr_208445.pdf",
+   "support": "Procedural housekeeping on the Speaker's replacement.",
+   "note": ""
+  },
+  "final_vote_record": {
+   "value": "",
+   "source": "https://web.archive.org/web/20210515041949/https://fs.knesset.gov.il/6/law/6_lsr_208445.pdf",
+   "support": "Gazette footnote: passed 14 March 1967.",
+   "note": "No final vote found (see coalition_only note)."
+  }
+ },
+ "10": {
+  "named_beneficiary": {
+   "value": "No",
+   "source": "https://web.archive.org/web/20220526214853/https://www.nevo.co.il/law_html/law19/btl0630.htm",
+   "support": "Amended s. 5(b): מי שמכהן בתפקיד שופט, דיין ... או קצין בשירות הקבע ... לא יהיה לשר אלא אם חדל לכהן ... לפחות 100 יום לפני כן.",
+   "note": "General cooling-off rule for judges, dayanim and career officers; compared with the 1968 original s. 5(b) (https://web.archive.org/web/2/https://fs.knesset.gov.il/6/law/6_lsr_208437.pdf), which ended at 'נפסקת כהונתו באותו תפקיד עם היותו לשר'. Explanatory notes (ה\"ח 1071, תשל\"ג, עמ' 353) not reachable; the amendment's own gazette PDF (ס\"ח 711) not located, Nevo's attribution used."
+  },
+  "immediate_effect": {
+   "value": "Yes",
+   "source": "https://web.archive.org/web/20220526214853/https://www.nevo.co.il/law_html/law19/btl0630.htm",
+   "support": "History line: ס\"ח תשל\"ג מס' 711 מיום 2.8.1973 עמ' 236 – תיקון מס' 1 (no commencement note, unlike Amendment No. 2).",
+   "note": "Basis: by absence of a clause."
+  },
+  "coalition_only": {
+   "value": "",
+   "source": "https://en.wikipedia.org/wiki/Fifteenth_government_of_Israel",
+   "support": "Fifteenth government on 23 July 1973: Alignment, NRP, Independent Liberals, Progress and Development, Cooperation and Brotherhood (Gahal left 6 Aug 1970).",
+   "note": "Vote record unavailable. Wayback captures of 7th Knesset plenum PDFs: 7_ptm_253284 is 12 Apr 1973 and 7_ptm_253296 is 25 July 1973; the 23 July 1973 sitting is not captured. No press report found."
+  },
+  "expedited": {
+   "value": "",
+   "source": "https://web.archive.org/web/20220526214853/https://www.nevo.co.il/law_html/law19/btl0630.htm",
+   "support": "Published 2.8.1973 (ס\"ח 711); passage date per sheet 23 July 1973; bill ה\"ח 1071.",
+   "note": "First-reading date not found."
+  },
+  "scope": {
+   "value": "No",
+   "source": "https://web.archive.org/web/20220526214853/https://www.nevo.co.il/law_html/law19/btl0630.htm",
+   "support": "Adds a 100-day cooling-off before a judge, dayan or career officer may become a minister.",
+   "note": "Adds a restriction on the executive's composition; removes no check or right."
+  },
+  "temporary_provision": {
+   "value": "No",
+   "source": "https://web.archive.org/web/20220526214853/https://www.nevo.co.il/law_html/law19/btl0630.htm",
+   "support": "Permanent replacement of s. 5(b).",
+   "note": ""
+  },
+  "targets_judiciary": {
+   "value": "No",
+   "source": "https://web.archive.org/web/20220526214853/https://www.nevo.co.il/law_html/law19/btl0630.htm",
+   "support": "Subject is eligibility to be a minister, not judicial review, appointments or independence.",
+   "note": "Judges are named only as one class subject to the cooling-off."
+  },
+  "deviation_tier": {
+   "value": "Entrenches",
+   "source": "https://web.archive.org/web/20220526214853/https://www.nevo.co.il/law_html/law19/btl0630.htm",
+   "support": "Cooling-off of 100 days between judicial or military office and ministerial office.",
+   "note": "Value engaged: separation of powers (principal), mildly; contradicts none."
+  },
+  "direction": {
+   "value": "Neutral",
+   "source": "https://web.archive.org/web/20220526214853/https://www.nevo.co.il/law_html/law19/btl0630.htm",
+   "support": "Rule on ministerial eligibility.",
+   "note": "Principal subject is executive composition; the separation-from-the-bench rule touches judicial independence only indirectly, so coded Neutral rather than Liberal."
+  },
+  "final_vote_record": {
+   "value": "",
+   "source": "https://web.archive.org/web/20220526214853/https://www.nevo.co.il/law_html/law19/btl0630.htm",
+   "support": "Only publication data available: ס\"ח 711, 2.8.1973, p. 236.",
+   "note": "No final vote found (see coalition_only note)."
+  }
+ },
+ "13": {
+  "named_beneficiary": {
+   "value": "No",
+   "source": "https://web.archive.org/web/20260924212231/https://fs.knesset.gov.il/8/law/8_lsr_208450.pdf",
+   "support": "ss. 1-6: צבא-הגנה-לישראל הוא צבאה של המדינה; הצבא נתון למרות הממשלה; chief of staff; service by law; no other armed force except by law.",
+   "note": "Explanatory notes (ה\"ח 1197, תשל\"ה) not reachable."
+  },
+  "immediate_effect": {
+   "value": "Yes",
+   "source": "https://web.archive.org/web/20260924212231/https://fs.knesset.gov.il/8/law/8_lsr_208450.pdf",
+   "support": "Six sections and signatures; no commencement clause.",
+   "note": "Basis: by absence of a clause."
+  },
+  "coalition_only": {
+   "value": "",
+   "source": "https://web.archive.org/web/2/https://fs.knesset.gov.il/8/Plenum/8_ptm_253545.pdf; https://en.wikipedia.org/wiki/Seventeenth_government_of_Israel",
+   "support": "Knesset record, sitting 284, 31 March 1976: חוק-יסוד: הצבא נתקבל בקריאה שלישית ללא התנגדות (no count). Coalition: Alignment, NRP (from 30 Oct 1974), Independent Liberals.",
+   "note": "The record gives no count and no names, so whether opposition members voted for it cannot be established; after the declaration Shulamit Aloni (Ratz) and Meir Pa'il (Moked), opposition members, voiced objection. Ratz had left the coalition on 6 Nov 1974."
+  },
+  "expedited": {
+   "value": "No",
+   "source": "https://web.archive.org/web/2/https://fs.knesset.gov.il/8/Plenum/8_ptm_253545.pdf",
+   "support": "Justice minister, 31 March 1976: חוק-יסוד: הצבא הוגש לכנסת הזאת לפני כשנה-וחצי לקריאה ראשונה.",
+   "note": "Final vote 31 March 1976; first reading about eighteen months earlier (exact date not stated), far more than thirty days; no special procedure mentioned."
+  },
+  "scope": {
+   "value": "No",
+   "source": "https://web.archive.org/web/20260924212231/https://fs.knesset.gov.il/8/law/8_lsr_208450.pdf",
+   "support": "s. 2(a) הצבא נתון למרות הממשלה; s. 6 אין להקים או לקיים כוח מזויין מחוץ לצבא-הגנה-לישראל אלא על פי חוק.",
+   "note": "Subordinates the army to civilian government and to law; removes no check or right."
+  },
+  "temporary_provision": {
+   "value": "No",
+   "source": "https://web.archive.org/web/20260924212231/https://fs.knesset.gov.il/8/law/8_lsr_208450.pdf",
+   "support": "Permanent Basic Law.",
+   "note": ""
+  },
+  "targets_judiciary": {
+   "value": "No",
+   "source": "https://web.archive.org/web/20260924212231/https://fs.knesset.gov.il/8/law/8_lsr_208450.pdf",
+   "support": "Subject: the army and its subordination to the government.",
+   "note": ""
+  },
+  "deviation_tier": {
+   "value": "Entrenches",
+   "source": "https://web.archive.org/web/20260924212231/https://fs.knesset.gov.il/8/law/8_lsr_208450.pdf",
+   "support": "s. 3(c) chief of staff appointed by the government on the defence minister's recommendation; s. 4 service and conscription as fixed by law.",
+   "note": "Values engaged: separation of powers (principal: civilian control of the military) and rule of law (ss. 4-6); contradicts none."
+  },
+  "direction": {
+   "value": "Neutral",
+   "source": "https://web.archive.org/web/20260924212231/https://fs.knesset.gov.il/8/law/8_lsr_208450.pdf",
+   "support": "Institutional text on the army; no axis engaged.",
+   "note": ""
+  },
+  "final_vote_record": {
+   "value": "31 March 1976; third reading passed without opposition, no count recorded; Knesset record (Divrei HaKnesset), sitting 284 of the 8th Knesset",
+   "source": "https://web.archive.org/web/2/https://fs.knesset.gov.il/8/Plenum/8_ptm_253545.pdf",
+   "support": "אני מעמיד להצבעה את חוק-יסוד: הצבא, בקריאה שלישית. הצבעה. חוק-יסוד: הצבא, נתקבל ... ללא התנגדות.",
+   "note": "The vote was on this law alone; the next item (another law's second and third readings) was taken separately. Sitting header: יום רביעי, כ\"ט אדר ב' תשל\"ו (31 מארס 1976)."
+  }
+ },
+ "16": {
+  "named_beneficiary": {
+   "value": "No",
+   "source": "https://web.archive.org/web/20230714204041/https://fs.knesset.gov.il/9/law/9_lsr_208452.pdf",
+   "support": "ss. 1-4: ירושלים השלמה והמאוחדת היא בירת ישראל; seat of institutions; holy places; development of Jerusalem.",
+   "note": "Explanatory notes not reachable; bill reference not obtained (the gazette PDF's footnote is not in its text layer; Wikisource and the Nevo page give none)."
+  },
+  "immediate_effect": {
+   "value": "Yes",
+   "source": "https://web.archive.org/web/20230714204041/https://fs.knesset.gov.il/9/law/9_lsr_208452.pdf",
+   "support": "Four sections and signatures; no commencement clause.",
+   "note": "Basis: by absence of a clause."
+  },
+  "coalition_only": {
+   "value": "No",
+   "source": "https://www.jta.org/archive/tehiya (9 June 1981); https://archive.nyu.edu/handle/2451/71524 (Knesset record, 23 July 1980); https://he.wikipedia.org/wiki/ממשלת_ישראל_השמונה_עשרה",
+   "support": "JTA: Cohen's private bill 'forced the government and the opposition to vote in favor of the controversial Jerusalem Law'.",
+   "note": "Final tally 69-15 (CSM, 31 July 1980), no party breakdown in press. Corroboration from the first-reading roll call of 23 July 1980 (65-12): opposition Alignment members Shimon Peres, Uzi Baram, Moshe Shahal, Gad Yaakobi, Shoshana Arbeli-Almozlino, Michael Harish voted for; against: Avnery, Biton, Grossman, Vilner, Wirshubski, Ziad, Toledano, Amar, Feder, Rubinstein, Sarid, Talmi. Coalition on 30 July 1980 (he.wikipedia): Likud, NRP, Agudat Yisrael, Democratic Movement, Yadin's single-member faction. The bill's sponsor Geula Cohen (Tehiya) sat in opposition."
+  },
+  "expedited": {
+   "value": "Yes",
+   "source": "https://archive.nyu.edu/handle/2451/71524 (9th Knesset plenum, 23 July 1980); https://www.csmonitor.com/1980/0731/073122.html",
+   "support": "First reading 23 July 1980 (sitting 360: ט. חוק-יסוד: ירושלים בירת ישראל (קריאה ראשונה) ... הועבר לוועדת החוקה); final vote Wednesday 30 July 1980.",
+   "note": "Seven days between first reading and final vote."
+  },
+  "scope": {
+   "value": "No",
+   "source": "https://web.archive.org/web/20230714204041/https://fs.knesset.gov.il/9/law/9_lsr_208452.pdf",
+   "support": "s. 3: המקומות הקדושים יהיו שמורים ... מפני כל דבר העלול לפגוע בחופש הגישה של בני הדתות.",
+   "note": "Declaratory and protective text; removes no check on the government and no protected right."
+  },
+  "temporary_provision": {
+   "value": "No",
+   "source": "https://web.archive.org/web/20230714204041/https://fs.knesset.gov.il/9/law/9_lsr_208452.pdf",
+   "support": "Permanent Basic Law.",
+   "note": ""
+  },
+  "targets_judiciary": {
+   "value": "No",
+   "source": "https://web.archive.org/web/20230714204041/https://fs.knesset.gov.il/9/law/9_lsr_208452.pdf",
+   "support": "s. 2 only names the Supreme Court's seat as Jerusalem.",
+   "note": ""
+  },
+  "deviation_tier": {
+   "value": "Entrenches",
+   "source": "https://web.archive.org/web/20230714204041/https://fs.knesset.gov.il/9/law/9_lsr_208452.pdf",
+   "support": "s. 3 protects holy places and free access of members of all religions.",
+   "note": "Value engaged: core human rights (freedom of access to holy places), entrenched in a Basic Law; the text contradicts none of the five values. Principal subject (status of the capital) is outside the five values."
+  },
+  "direction": {
+   "value": "Neutral",
+   "source": "https://web.archive.org/web/20230714204041/https://fs.knesset.gov.il/9/law/9_lsr_208452.pdf",
+   "support": "s. 1 declares united Jerusalem the capital; s. 3 protects access of all religions.",
+   "note": "Axes: the text does not prefer Jewish identity over equal citizenship in terms, restricts no minority right, and does not touch the judiciary; s. 3 points mildly the other way. Coded from the principal subject (status of the capital)."
+  },
+  "final_vote_record": {
+   "value": "30 July 1980; 69 for, 15 against; Christian Science Monitor, 31 July 1980 (dated press report)",
+   "source": "https://www.csmonitor.com/1980/0731/073122.html",
+   "support": "'Israel voted Wednesday to make Jerusalem its capital ... The vote in the Knesset was 69 to 15 in favor of the bill'.",
+   "note": "The press report concerns this bill only; abstentions not reported. The Knesset record of 30 July 1980 was not found (not in the NYU mirror; Wayback 9th Knesset captures jump from 15 July 1980, 9_ptm_254018, to March 1981)."
+  }
+ },
+ "19": {
+  "named_beneficiary": {
+   "value": "No",
+   "source": "https://web.archive.org/web/2/https://fs.knesset.gov.il/10/law/10_lsr_208435.pdf",
+   "support": "s. 1 adds to s. 1(b) 'ולא נקבעה בחוק הוראה שקביעתם בתקנות טעונה אישור הכנסת או ועדה מועדותיה'; s. 2 adds to s. 3(b)(1) 'אך לא יאוחר מששים ימים לפני תחילת שנת הכספים'.",
+   "note": "General fiscal-procedure text; explanatory notes (ה\"ח 1569, התשמ\"ב, עמ' 88) not reachable."
+  },
+  "immediate_effect": {
+   "value": "Yes",
+   "source": "https://web.archive.org/web/2/https://fs.knesset.gov.il/10/law/10_lsr_208435.pdf",
+   "support": "Two sections and signatures; no commencement clause.",
+   "note": "Basis: by absence of a clause."
+  },
+  "coalition_only": {
+   "value": "",
+   "source": "https://en.wikipedia.org/wiki/Nineteenth_government_of_Israel",
+   "support": "Nineteenth government (5 Aug 1981): Likud, NRP, Agudat Yisrael, Tami, Telem; Tehiya joined 26 Aug 1981; infobox also lists Movement for the Renewal of Social Zionism.",
+   "note": "Vote record unavailable. Wayback captures of 10th Knesset plenum PDFs: 10_ptm_529731 is 2 March 1982 and 10_ptm_529873 is 16 Nov 1982; 10_ptm_529815 capture is unreadable. No press report found."
+  },
+  "expedited": {
+   "value": "",
+   "source": "https://web.archive.org/web/2/https://fs.knesset.gov.il/10/law/10_lsr_208435.pdf",
+   "support": "נתקבל בכנסת ביום ב' בסיון התשמ\"ב (24 במאי 1982); הצעת החוק ודברי הסבר פורסמו בה\"ח 1569, התשמ\"ב, עמ' 88.",
+   "note": "Final vote 24 May 1982; first-reading date not found."
+  },
+  "scope": {
+   "value": "No",
+   "source": "https://web.archive.org/web/2/https://fs.knesset.gov.il/10/law/10_lsr_208435.pdf",
+   "support": "Budget bill to be tabled no later than sixty days before the fiscal year; approval default for rate regulations narrowed where the law itself already requires approval.",
+   "note": "Adds a deadline the government owes the Knesset; the s. 1(b) change avoids a double approval requirement and leaves the statutory approval in place."
+  },
+  "temporary_provision": {
+   "value": "No",
+   "source": "https://web.archive.org/web/2/https://fs.knesset.gov.il/10/law/10_lsr_208435.pdf",
+   "support": "Permanent amendment of ss. 1 and 3.",
+   "note": ""
+  },
+  "targets_judiciary": {
+   "value": "No",
+   "source": "https://web.archive.org/web/2/https://fs.knesset.gov.il/10/law/10_lsr_208435.pdf",
+   "support": "Subject: taxation regulations and budget timetable.",
+   "note": ""
+  },
+  "deviation_tier": {
+   "value": "Entrenches",
+   "source": "https://web.archive.org/web/2/https://fs.knesset.gov.il/10/law/10_lsr_208435.pdf",
+   "support": "'אך לא יאוחר מששים ימים לפני תחילת שנת הכספים'.",
+   "note": "Value engaged weakly: separation of powers (the Knesset's time to scrutinise the budget); contradicts none. A reader treating both changes as fiscal housekeeping would code None."
+  },
+  "direction": {
+   "value": "Neutral",
+   "source": "https://web.archive.org/web/2/https://fs.knesset.gov.il/10/law/10_lsr_208435.pdf",
+   "support": "Fiscal and procedural housekeeping.",
+   "note": ""
+  },
+  "final_vote_record": {
+   "value": "",
+   "source": "https://web.archive.org/web/2/https://fs.knesset.gov.il/10/law/10_lsr_208435.pdf",
+   "support": "Gazette footnote: passed 24 May 1982.",
+   "note": "No final vote found (see coalition_only note)."
+  }
+ },
+ "22": {
+  "named_beneficiary": {
+   "value": "Yes",
+   "source": "https://web.archive.org/web/20220526214853/https://www.nevo.co.il/law_html/law19/btl0630.htm; https://archive.nyu.edu/handle/2451/70187 (Knesset record, 13 Sept 1984)",
+   "support": "Added s. 5(d): אחד השרים שהוא חבר הכנסת יכול שיהיה ממלא מקום ראש הממשלה; s. 19 replaced.",
+   "note": "Beneficiary: the Peres-Shamir rotation arrangement of the national unity government approved the same day (Shamir, the sitting prime minister, to serve as ממלא מקום ראש הממשלה). The text is general; the identification rests on the Knesset record, where the committee chair (Shahal) described the bill as made for the rotation and mocked it by proposing to name 'יצחק שמיר' and 'שמעון פרס' in s. 1(d), and on its passage immediately before the investiture. Explanatory notes (ה\"ח 1694, תשמ\"ד, עמ' 296) not reachable."
+  },
+  "immediate_effect": {
+   "value": "Yes",
+   "source": "https://web.archive.org/web/20220526214853/https://www.nevo.co.il/law_html/law19/btl0630.htm",
+   "support": "History line: ס\"ח תשמ\"ד מס' 1124 מיום 21.9.1984 עמ' 220 – תיקון מס' 4 (no commencement note).",
+   "note": "Basis: by absence of a clause."
+  },
+  "coalition_only": {
+   "value": "",
+   "source": "https://archive.nyu.edu/handle/2451/70187; https://en.wikipedia.org/wiki/Twentieth_government_of_Israel; https://en.wikipedia.org/wiki/Twenty-first_government_of_Israel",
+   "support": "Third reading 13 Sept 1984: הצבעה. חוק-יסוד: הממשלה (תיקון מס' 5), נתקבל — no count, no names; the Peres government was approved later that sitting 89-18-1.",
+   "note": "Government in office at the vote: the twentieth (Shamir) government — Likud, NRP, Agudat Yisrael, Tami, Movement for the Renewal of Social Zionism (infobox also Tehiya) — which ended when the twenty-first was approved after this vote. Reservations by Tawfiq Toubi, Yair Tzaban and Shulamit Aloni, and Gershon Shafat were rejected; whether any opposition member voted for the law cannot be established from the record."
+  },
+  "expedited": {
+   "value": "Yes",
+   "source": "https://archive.nyu.edu/handle/2451/70187 (11th Knesset plenum, 13 Sept 1984)",
+   "support": "ב. הצעת חוק-יסוד: הממשלה (תיקון מס' 5) (קריאה ראשונה) ... ו. (קריאה שנייה וקריאה שלישית), same sitting.",
+   "note": "First reading in the morning and final vote in the afternoon of 13 Sept 1984: zero days. Special procedure: the plenum authorised the Arranging Committee (הוועדה המסדרת) to prepare the bill for second and third readings the same day. The record names it Amendment No. 5; published as Amendment No. 4 (footnote in the record)."
+  },
+  "scope": {
+   "value": "No",
+   "source": "https://web.archive.org/web/20220526214853/https://www.nevo.co.il/law_html/law19/btl0630.htm",
+   "support": "s. 19: נעדר ראש הממשלה מן הארץ או שנבצר ממנו זמנית למלא תפקידו, יכהן במקומו ממלא מקום ראש הממשלה.",
+   "note": "Creates an office of acting prime minister; removes no check or right."
+  },
+  "temporary_provision": {
+   "value": "No",
+   "source": "https://web.archive.org/web/20220526214853/https://www.nevo.co.il/law_html/law19/btl0630.htm",
+   "support": "Permanent amendment of ss. 5 and 19.",
+   "note": "Though passed for one rotation agreement, the text is general and not limited to one instance."
+  },
+  "targets_judiciary": {
+   "value": "No",
+   "source": "https://web.archive.org/web/20220526214853/https://www.nevo.co.il/law_html/law19/btl0630.htm",
+   "support": "Subject: acting prime minister.",
+   "note": ""
+  },
+  "deviation_tier": {
+   "value": "None",
+   "source": "https://web.archive.org/web/20220526214853/https://www.nevo.co.il/law_html/law19/btl0630.htm",
+   "support": "Office-holding rule within the executive.",
+   "note": "None of the five values engaged."
+  },
+  "direction": {
+   "value": "Neutral",
+   "source": "https://web.archive.org/web/20220526214853/https://www.nevo.co.il/law_html/law19/btl0630.htm",
+   "support": "Executive office-holding housekeeping.",
+   "note": ""
+  },
+  "final_vote_record": {
+   "value": "13 September 1984; third reading passed, no count recorded; Knesset record (Divrei HaKnesset), 6th sitting of the 11th Knesset (NYU Faculty Digital Archive mirror, hdl 2451/70187)",
+   "source": "https://archive.nyu.edu/handle/2451/70187",
+   "support": "אני מעמיד עתה את החוק להצבעה בקריאה שלישית. הצבעה. חוק-יסוד: הממשלה (תיקון מס' 5), נתקבל.",
+   "note": "The vote was on this law alone (sitting then suspended 19:15-19:50); the confidence vote on the Peres government (89-18-1) came later in the same sitting."
+  }
+ },
+ "25": {
+  "named_beneficiary": {
+   "value": "No",
+   "source": "https://web.archive.org/web/20250414000645/https://fs.knesset.gov.il/11/law/11_lsr_211781.pdf",
+   "support": "ss. 1-14: state audit vested in the Comptroller; s. 6 אחראי בפני הכנסת בלבד ולא יהיה תלוי בממשלה.",
+   "note": "Explanatory notes (ה\"ח 1707, התשמ\"ח, עמ' 53) not reachable."
+  },
+  "immediate_effect": {
+   "value": "Yes",
+   "source": "https://web.archive.org/web/20250414000645/https://fs.knesset.gov.il/11/law/11_lsr_211781.pdf",
+   "support": "Fourteen sections and signatures; no commencement clause.",
+   "note": "Basis: by absence of a clause."
+  },
+  "coalition_only": {
+   "value": "",
+   "source": "https://en.wikipedia.org/wiki/Twenty-second_government_of_Israel",
+   "support": "Twenty-second government on 15 Feb 1988: Likud, Alignment, Shas, NRP, Agudat Yisrael, Ometz (Shinui left 26 May 1987).",
+   "note": "Vote record unavailable. Wayback captures of 11th Knesset plenum PDFs: 11_ptm_531013 is 27 Dec 1987 (sitting 387) and 11_ptm_531051 is 17 Feb 1988 (sitting 406); 11_ptm_531045 is truncated at 1 MiB; the 15 Feb 1988 sitting is not captured. No press report found (JTA search returned nothing)."
+  },
+  "expedited": {
+   "value": "",
+   "source": "https://web.archive.org/web/20250414000645/https://fs.knesset.gov.il/11/law/11_lsr_211781.pdf",
+   "support": "נתקבל בכנסת ביום כ\"ו בשבט התשמ\"ח (15 בפברואר 1988); הצעת החוק ודברי הסבר פורסמו בה\"ח 1707, התשמ\"ח, עמ' 53.",
+   "note": "Final vote 15 Feb 1988; first-reading date not found."
+  },
+  "scope": {
+   "value": "No",
+   "source": "https://web.archive.org/web/20250414000645/https://fs.knesset.gov.il/11/law/11_lsr_211781.pdf",
+   "support": "s. 13: לא יועבר מכהונתו אלא על פי החלטה של הכנסת ברוב של שני שלישים מן המצביעים.",
+   "note": "Constitutes and protects a check on the government; removes none."
+  },
+  "temporary_provision": {
+   "value": "No",
+   "source": "https://web.archive.org/web/20250414000645/https://fs.knesset.gov.il/11/law/11_lsr_211781.pdf",
+   "support": "Permanent Basic Law.",
+   "note": ""
+  },
+  "targets_judiciary": {
+   "value": "No",
+   "source": "https://web.archive.org/web/20250414000645/https://fs.knesset.gov.il/11/law/11_lsr_211781.pdf",
+   "support": "Subject: the State Comptroller and Ombudsman.",
+   "note": ""
+  },
+  "deviation_tier": {
+   "value": "Entrenches",
+   "source": "https://web.archive.org/web/20250414000645/https://fs.knesset.gov.il/11/law/11_lsr_211781.pdf",
+   "support": "s. 2(b): יבחן את חוקיות הפעולות, טוהר המידות, הניהול התקין, היעילות והחסכון.",
+   "note": "Values engaged: rule of law (principal: audit of legality and integrity) and separation of powers (independence from the government, s. 6; Knesset election by secret ballot, s. 7; removal by two-thirds, s. 13); contradicts none."
+  },
+  "direction": {
+   "value": "Neutral",
+   "source": "https://web.archive.org/web/20250414000645/https://fs.knesset.gov.il/11/law/11_lsr_211781.pdf",
+   "support": "Institutional audit text; no axis engaged.",
+   "note": ""
+  },
+  "final_vote_record": {
+   "value": "",
+   "source": "https://web.archive.org/web/20250414000645/https://fs.knesset.gov.il/11/law/11_lsr_211781.pdf",
+   "support": "Gazette footnote: passed 15 February 1988.",
+   "note": "No final vote found (see coalition_only note)."
+  }
+ },
+ "28": {
+  "named_beneficiary": {
+   "value": "No",
+   "source": "https://web.archive.org/web/20210512110213/https://fs.knesset.gov.il/12/law/12_lsr_210826.pdf",
+   "support": "s. 6A: חבר הכנסת שפרש מסיעתו ולא התפטר ... לא ייכלל, בבחירות לכנסת שלאחריה, ברשימת מועמדים שהגישה סיעה של הכנסת היוצאת.",
+   "note": "General anti-defection rules (plus Elections Law, Government Basic Law ss. 5(b1), 13A, 13B, 34(b), and Party Financing Law amendments). The transitional s. 6 addresses MKs who defected in the 12th Knesset (allowing them to be treated as split groups or to return within six months), which touches identifiable sitting members without naming any; coded No from the text. Explanatory notes (ה\"ח 1998, 25 June 1990, עמ' 210) not reachable."
+  },
+  "immediate_effect": {
+   "value": "Yes",
+   "source": "https://web.archive.org/web/20210512110213/https://fs.knesset.gov.il/12/law/12_lsr_210826.pdf",
+   "support": "s. 5 saving clause and s. 6 transitional provisions; no commencement clause ('תחילתו של חוק זה' in s. 6 is undefined).",
+   "note": "Basis: by absence of a clause."
+  },
+  "coalition_only": {
+   "value": "No",
+   "source": "https://web.archive.org/web/2/https://fs.knesset.gov.il/12/Plenum/12_ptm_531708.pdf (Knesset record, sitting 266, 12 Feb 1991); https://he.wikipedia.org/wiki/ממשלת_ישראל_העשרים_וארבע",
+   "support": "Third reading: בעד החוק 82, נגד 2, נמנעים 2; coalition then 66 MKs ('64 ח\"כים לפני הצטרפות סיעת מולדת', joined 5 Feb 1991).",
+   "note": "Coded from counts, not names: 82 votes in favour exceed the coalition's 66 members, so at least 16 non-coalition MKs voted for; the record gives no names. Coalition on 12 Feb 1991 (he.wikipedia): Likud, Shas, NRP, Movement for the Zionist Idea, Degel HaTorah, Agudat Yisrael (from 19 Nov 1990), Tehiya, Tzomet, Moledet (from 5 Feb 1991), Efraim Gur's faction; en.wikipedia adds New Liberal Party, Unity for Peace and Immigration, Geulat Yisrael."
+  },
+  "expedited": {
+   "value": "No",
+   "source": "https://web.archive.org/web/2/https://fs.knesset.gov.il/12/Plenum/12_ptm_531708.pdf",
+   "support": "החוק נדון בכנסת בקריאה ראשונה ביום י' בתמוז התש\"ן, 3 ביולי 1990, תחת השם 'חוק למניעת מעילה באמון (נבחרי ציבור)'.",
+   "note": "First reading 3 July 1990; final vote 12 Feb 1991; 224 days. Considered by two committees (House Committee and Constitution Committee)."
+  },
+  "scope": {
+   "value": "No",
+   "source": "https://web.archive.org/web/20210512110213/https://fs.knesset.gov.il/12/law/12_lsr_210826.pdf",
+   "support": "A defector may not appear on an outgoing faction's list; splits under Elections Law s. 25(b1) are exempt; appeal to the Jerusalem District Court (s. 25(b4)(3)).",
+   "note": "Limits a defector's candidacy on existing lists but leaves candidacy on a new list and provides split rules and judicial appeal; removes no check on the government. Adds checks: ban on agreements guaranteeing non-removal, publication of coalition agreements."
+  },
+  "temporary_provision": {
+   "value": "No",
+   "source": "https://web.archive.org/web/20210512110213/https://fs.knesset.gov.il/12/law/12_lsr_210826.pdf",
+   "support": "Permanent amendments; s. 6 is transitional only.",
+   "note": ""
+  },
+  "targets_judiciary": {
+   "value": "No",
+   "source": "https://web.archive.org/web/20210512110213/https://fs.knesset.gov.il/12/law/12_lsr_210826.pdf",
+   "support": "Subject: defection from Knesset factions and coalition agreements.",
+   "note": ""
+  },
+  "deviation_tier": {
+   "value": "Entrenches",
+   "source": "https://web.archive.org/web/20210512110213/https://fs.knesset.gov.il/12/law/12_lsr_210826.pdf",
+   "support": "'תמורה' — במישרין או בעקיפין ... לרבות הבטחת מקום ברשימת מועמדים לכנסת, או מינוי ... לתפקיד כלשהו.",
+   "note": "Values engaged: free and equal elections (principal: integrity of the electoral mandate) and rule of law (anti-corruption, transparency of coalition agreements, s. 13B); contradicts none."
+  },
+  "direction": {
+   "value": "Neutral",
+   "source": "https://web.archive.org/web/20210512110213/https://fs.knesset.gov.il/12/law/12_lsr_210826.pdf",
+   "support": "Parliamentary-integrity and electoral measure.",
+   "note": "No axis of the direction variable engaged."
+  },
+  "final_vote_record": {
+   "value": "12 February 1991; 82 for, 2 against, 2 abstaining; Knesset record (Divrei HaKnesset), sitting 266 of the 12th Knesset, electronic vote no. 16",
+   "source": "https://web.archive.org/web/2/https://fs.knesset.gov.il/12/Plenum/12_ptm_531708.pdf",
+   "support": "ברוב של 82 קולות בעד, שניים נגד ושני נמנעים — חוק-יסוד: הכנסת (תיקון מס' 12) נתקבל.",
+   "note": "The vote was on this law alone (the preceding item, another law, was voted separately 26-0-0). Section votes: s. 2 83-3-2, s. 3 80-2-1, s. 4 81-2-1, s. 5 75-2-1, s. 6 52-33-1."
+  }
+ },
+ "31": {
+  "named_beneficiary": {
+   "value": "No",
+   "source": "https://web.archive.org/web/2/https://fs.knesset.gov.il/12/law/12_lsr_210906.pdf",
+   "support": "s. 3A(a): הממשלה תכין לקראת כל שנת כספים תכנית תקציב רב-שנתית ... לשתי השנים הבאות אחריה.",
+   "note": "General budgeting duty; explanatory notes (ה\"ח 2081, 23 Oct 1991, עמ' 18) not reachable."
+  },
+  "immediate_effect": {
+   "value": "Yes",
+   "source": "https://web.archive.org/web/2/https://fs.knesset.gov.il/12/law/12_lsr_210906.pdf",
+   "support": "One section and signatures; no commencement clause.",
+   "note": "Basis: by absence of a clause."
+  },
+  "coalition_only": {
+   "value": "",
+   "source": "https://he.wikipedia.org/wiki/ממשלת_ישראל_העשרים_וארבע",
+   "support": "Coalition on 31 Dec 1991: Likud, Shas, NRP, Movement for the Zionist Idea, Degel HaTorah, Agudat Yisrael, Tehiya, Moledet, Gur's faction; Tzomet's membership ended 31 Dec 1991.",
+   "note": "Vote record unavailable. Wayback captures of 12th Knesset plenum PDFs: 12_ptm_531900 is 24 Dec 1991 (sitting 362) and 12_ptm_531910 covers 6-8 Jan 1992; the 31 Dec 1991 sitting is not captured. No press report found."
+  },
+  "expedited": {
+   "value": "",
+   "source": "https://web.archive.org/web/2/https://fs.knesset.gov.il/12/law/12_lsr_210906.pdf",
+   "support": "נתקבל בכנסת ביום כ\"ד בטבת התשנ\"ב (31 בדצמבר 1991); הצעת החוק ... פורסמו בהצעות חוק 2081, מיום ט\"ו בחשון התשנ\"ב (23 באוקטובר 1991).",
+   "note": "Final vote 31 Dec 1991; first-reading date not found (bill published 69 days before passage, so the interval could be under or over thirty days)."
+  },
+  "scope": {
+   "value": "No",
+   "source": "https://web.archive.org/web/2/https://fs.knesset.gov.il/12/law/12_lsr_210906.pdf",
+   "support": "s. 3A(b)-(c): the plan is tabled with the budget bill, and each budget bill must rest on the plan tabled the previous year.",
+   "note": "Adds a planning duty on the government; removes no check or right."
+  },
+  "temporary_provision": {
+   "value": "No",
+   "source": "https://web.archive.org/web/2/https://fs.knesset.gov.il/12/law/12_lsr_210906.pdf",
+   "support": "Permanent insertion of s. 3A.",
+   "note": ""
+  },
+  "targets_judiciary": {
+   "value": "No",
+   "source": "https://web.archive.org/web/2/https://fs.knesset.gov.il/12/law/12_lsr_210906.pdf",
+   "support": "Subject: multi-year budget planning.",
+   "note": ""
+  },
+  "deviation_tier": {
+   "value": "Entrenches",
+   "source": "https://web.archive.org/web/2/https://fs.knesset.gov.il/12/law/12_lsr_210906.pdf",
+   "support": "הממשלה תניח על שלחן הכנסת את תכנית התקציב הרב-שנתית ביחד עם הצעת חוק התקציב.",
+   "note": "Value engaged weakly: separation of powers (information the government owes the Knesset); contradicts none. A reader treating it as fiscal housekeeping would code None."
+  },
+  "direction": {
+   "value": "Neutral",
+   "source": "https://web.archive.org/web/2/https://fs.knesset.gov.il/12/law/12_lsr_210906.pdf",
+   "support": "Fiscal housekeeping.",
+   "note": ""
+  },
+  "final_vote_record": {
+   "value": "",
+   "source": "https://web.archive.org/web/2/https://fs.knesset.gov.il/12/law/12_lsr_210906.pdf",
+   "support": "Gazette footnote: passed 31 December 1991.",
+   "note": "No final vote found (see coalition_only note)."
+  }
+ },
+ "35": {
+  "named_beneficiary": {
+   "value": "No",
+   "source": "https://web.archive.org/web/2/https://fs.knesset.gov.il/12/law/12_lsr_210707.pdf",
+   "support": "s. 3(b): ראש הממשלה מכהן מכוח היבחרו בבחירות כלליות, ארציות, ישירות, שוות וחשאיות; s. 63: applies from the Fourteenth Knesset elections.",
+   "note": "Second pass, whole law (ss. 1-65): a general re-enactment of the executive's constitution, applying only from a future election; no sitting officeholder or government interest is addressed. The seven-year limit on a prime minister (s. 8(b)), the eligibility rules (s. 16) and the defector bars (ss. 16(c), 37(c)) are general. Explanatory notes (ה\"ח 1985, 28 March 1990, עמ' 154) not reachable."
+  },
+  "immediate_effect": {
+   "value": "Deferred",
+   "source": "https://web.archive.org/web/2/https://fs.knesset.gov.il/12/law/12_lsr_210707.pdf; https://www.nevo.co.il/law_html/law01/297_001.htm",
+   "support": "s. 63(a)-(b): יחולו ... החל מהבחירות לכנסת הארבע-עשרה ואילך ... תחילתו של חוק-יסוד זה ביום שייכנס לכהונתו ראש הממשלה שנבחר.",
+   "note": "Basis: stated. Effect fixed after the next general election (and in fact at the one after it); s. 65 only requires publication within thirty days. Nevo dates the consequential provisions (s. 58's s. 3B; the repeal of the 1968 law in s. 61) to 18.6.1996 under s. 63."
+  },
+  "coalition_only": {
+   "value": "",
+   "source": "https://he.wikipedia.org/wiki/ממשלת_ישראל_העשרים_וארבע; https://en.wikipedia.org/wiki/Twenty-fourth_government_of_Israel",
+   "support": "Coalition on 18 March 1992: Likud, Shas, NRP, Movement for the Zionist Idea, Degel HaTorah, Agudat Yisrael, Gur's faction (Tzomet left 31 Dec 1991; Tehiya and Moledet 21 Jan 1992).",
+   "note": "Vote record unavailable. The last Wayback-captured 12th Knesset sitting, 12_ptm_531972 (17 March 1992, sitting 398), closed at 00:14 and announced the next sitting for 18 March 1992 at 09:00 as the last of the 12th Knesset; captures 12_ptm_531973-531978 do not exist. JTA, CSM, UPI, Washington Post, Jerusalem Post, Haaretz and Times of Israel searches gave no tally; NYT, AP and LA Times are blocked to the search tool."
+  },
+  "expedited": {
+   "value": "",
+   "source": "https://web.archive.org/web/2/https://fs.knesset.gov.il/12/law/12_lsr_210707.pdf",
+   "support": "נתקבל בכנסת ביום י\"ג באדר ב' התשנ\"ב (18 במרס 1992); הצעת החוק ודברי הסבר פורסמו בהצעות חוק 1985, מיום ב' בניסן התש\"ן (28 במרס 1990).",
+   "note": "Final vote 18 March 1992; first-reading date not found in any permitted source (the bill was published two years earlier, so no inference is possible). The Knesset record of 11 March 1992 (12_ptm_531968) refers to the direct-election bill as not yet passed; the 17 March 1992 record shows it was not taken that day."
+  },
+  "scope": {
+   "value": "No",
+   "source": "https://web.archive.org/web/2/https://fs.knesset.gov.il/12/law/12_lsr_210707.pdf",
+   "support": "s. 19(a) הכנסת רשאית, ברוב של חבריה, להביע אי-אמון לראש הממשלה; s. 27(a) removal by eighty members; s. 35(c) removal of a minister by seventy.",
+   "note": "Checks are reconfigured, not removed: no confidence now needs a majority of members and entails dissolution of the Knesset (s. 19(b), s. 21), and the prime minister may dissolve the Knesset with the President's consent (s. 22), but both trigger elections for Knesset and prime minister together; the Knesset keeps approval of the government's composition (s. 3(c)), removal of the prime minister (ss. 26-27) and of ministers (s. 35(c)), control of penal regulations (s. 48), information and attendance powers (s. 52), and declaration and revocation of emergencies (s. 49). Emergency regulations may alter any law (s. 50(c)) but are bounded (s. 50(d)-(f), s. 53). The 100-day cooling-off for judges, dayanim and career officers in the 1968 law's s. 5(b) is dropped (s. 16(a)), a relaxation but not the removal of a check; s. 25 channels criminal process against the prime minister through the Attorney-General and a three-judge Jerusalem District Court panel without immunising him. No protected right is removed."
+  },
+  "temporary_provision": {
+   "value": "No",
+   "source": "https://web.archive.org/web/2/https://fs.knesset.gov.il/12/law/12_lsr_210707.pdf",
+   "support": "Permanent re-enactment replacing Basic Law: The Government 1968 (s. 61: חוק-יסוד: הממשלה — בטל); s. 64 transitional only.",
+   "note": ""
+  },
+  "targets_judiciary": {
+   "value": "No",
+   "source": "https://web.archive.org/web/2/https://fs.knesset.gov.il/12/law/12_lsr_210707.pdf",
+   "support": "Subject: election, formation, powers and accountability of the government (ss. 1-55).",
+   "note": "Judicial provisions are incidental: s. 25 (prime minister investigated only with the Attorney-General's consent and tried by a three-judge Jerusalem District Court panel), s. 42 (ministers may not assume powers of a judicial character), s. 50(d) (emergency regulations may not bar recourse to the courts), s. 16(a) (former judges may become ministers once they have left office), s. 62(6) (election appeals). None makes judicial review, appointments or independence the subject."
+  },
+  "deviation_tier": {
+   "value": "Entrenches",
+   "source": "https://web.archive.org/web/2/https://fs.knesset.gov.il/12/law/12_lsr_210707.pdf",
+   "support": "s. 57 inserts s. 9A: הכנסת לא תאריך את תקופת כהונתה אלא בחוק שנתקבל ברוב של שמונים חברי הכנסת ואם נתקיימו נסיבות מיוחדות המונעות עריכת בחירות בעיתן.",
+   "note": "Principal subject: separation of powers (the executive's source of authority and its relationship with the Knesset: separately elected prime minister, s. 3(b); Knesset approval of ministers, s. 3(c); no confidence by a majority of members with dissolution, ss. 19-21; prime minister's dissolution power with the President's consent, s. 22; removal of the prime minister, ss. 26-27; Knesset removal of ministers, s. 35(c); subordinate legislation and emergency powers under Knesset control, ss. 48-50, 53; oversight duties, s. 52; continuing budget capped at one-twelfth, s. 58; entrenchment, s. 56). Other values engaged, all entrenched: free and equal elections (ss. 3(b), 6, 13, 8(b), 57, 62); rule of law (ss. 17-18, 25, 43, 50(d)-(f), 53); core human rights (s. 50(d)); an independent judiciary (ss. 50(d), 42). Contradicts none sharply. Provisions that cut the other way and on which another reader might code Limited (separation of powers): the no-confidence check made costlier (s. 19(b)), the executive's new dissolution power (s. 22), the removal of the judges'/officers' cooling-off (s. 16(a)), Attorney-General gatekeeping of investigations of the prime minister (s. 25(a)), and government secrecy (s. 44); coded as a reconfiguration of mutual checks rather than a contradiction."
+  },
+  "direction": {
+   "value": "Neutral",
+   "source": "https://web.archive.org/web/2/https://fs.knesset.gov.il/12/law/12_lsr_210707.pdf",
+   "support": "s. 50(d): אין בכוחן של תקנות שעת-חירום למנוע פניה לערכאות, לקבוע ענישה למפרע, או להתיר פגיעה בכבוד האדם.",
+   "note": "Coded from the principal subject (electoral and institutional reconstruction of the executive). Axes engaged: judicial review/independence, mildly in the liberal direction (s. 50(d), s. 42, s. 53) and very mildly the other way (s. 16(a) drops the cooling-off before a judge may become a minister); Jewish identity versus equal citizenship: not engaged (the only reference is the ballot slip printed in Hebrew or Hebrew and Arabic, s. 62(10)); rights of minorities or women: not engaged."
+  },
+  "final_vote_record": {
+   "value": "",
+   "source": "https://web.archive.org/web/2/https://fs.knesset.gov.il/12/law/12_lsr_210707.pdf",
+   "support": "Gazette footnote: passed 18 March 1992 (י\"ג באדר ב' התשנ\"ב); signed by Herzog, Shamir and Speaker Shilansky.",
+   "note": "No final vote found: the Knesset record of the 18 March 1992 sitting (sitting 399, the last of the 12th Knesset) is not in any Wayback capture, it is not in the NYU mirror, and no dated press report with a tally was located. The 17 March 1992 record (12_ptm_531972) confirms the law was not voted that day."
+  },
+  "first_pass_section_58_only": {
+   "named_beneficiary": {
+    "value": "No",
+    "source": "https://web.archive.org/web/2/https://fs.knesset.gov.il/12/law/12_lsr_210707.pdf",
+    "support": "s. 58 adds s. 3B to Basic Law: The State Economy: לא נתקבל חוק התקציב לפני תחילתה של שנת הכספים, רשאית הממשלה להוציא כל חודש ... חלק השנים-עשר.",
+    "note": "General continuing-budget rule; explanatory notes (ה\"ח 1985, 28 March 1990, עמ' 154) not reachable. [Orchestrator's note: coded as s. 58 only on the sheet's wording; a whole-law second pass is requested.]"
+   },
+   "immediate_effect": {
+    "value": "Deferred",
+    "source": "https://web.archive.org/web/2/https://fs.knesset.gov.il/12/law/12_lsr_210707.pdf; https://www.nevo.co.il/law_html/law01/297_001.htm",
+    "support": "s. 63: יחולו ... החל מהבחירות לכנסת הארבע-עשרה ואילך ... תחילתו של חוק-יסוד זה ביום שייכנס לכהונתו ראש הממשלה שנבחר.",
+    "note": "Basis: stated. Nevo records s. 3B's commencement as governed by s. 63 and dates it 18.6.1996; effect fixed after the next general election (indeed the one after it)."
+   },
+   "coalition_only": {
+    "value": "",
+    "source": "https://he.wikipedia.org/wiki/ממשלת_ישראל_העשרים_וארבע; https://en.wikipedia.org/wiki/Twenty-fourth_government_of_Israel",
+    "support": "Coalition on 18 March 1992: Likud, Shas, NRP, Movement for the Zionist Idea, Degel HaTorah, Agudat Yisrael, Gur's faction (Tehiya and Moledet left 21 Jan 1992, Tzomet 31 Dec 1991).",
+    "note": "Vote record unavailable. The last Wayback-captured 12th Knesset sitting is 12_ptm_531972 (17 March 1992, sitting 398), which closed at 00:14 and announced the next sitting for 18 March 1992 at 09:00 as the last of the 12th Knesset; that sitting is not captured. JTA, CSM, UPI, Washington Post, Jerusalem Post and Haaretz searches gave no tally; NYT, AP and LA Times are blocked to the search tool."
+   },
+   "expedited": {
+    "value": "",
+    "source": "https://web.archive.org/web/2/https://fs.knesset.gov.il/12/law/12_lsr_210707.pdf",
+    "support": "נתקבל בכנסת ביום י\"ג באדר ב' התשנ\"ב (18 במרס 1992); הצעת החוק ... פורסמו בהצעות חוק 1985, מיום ב' בניסן התש\"ן (28 במרס 1990).",
+    "note": "Final vote 18 March 1992; first-reading date not found."
+   },
+   "scope": {
+    "value": "No",
+    "source": "https://web.archive.org/web/2/https://fs.knesset.gov.il/12/law/12_lsr_210707.pdf",
+    "support": "s. 3B(b): funds go first to statutory and contractual obligations, the rest only to essential services and items in the previous budget; (c) changeable only by a majority of MKs.",
+    "note": "Spending without a budget law is capped at one-twelfth monthly and prioritised; the Knesset's budget power is kept, so the check is neither removed nor made inoperative, and the provision is itself the alternative mechanism."
+   },
+   "temporary_provision": {
+    "value": "No",
+    "source": "https://web.archive.org/web/2/https://fs.knesset.gov.il/12/law/12_lsr_210707.pdf",
+    "support": "Permanent insertion of s. 3B.",
+    "note": ""
+   },
+   "targets_judiciary": {
+    "value": "No",
+    "source": "https://web.archive.org/web/2/https://fs.knesset.gov.il/12/law/12_lsr_210707.pdf",
+    "support": "s. 58's subject: continuing budget when no budget law is passed.",
+    "note": "Only the State Economy amendment (s. 58) is coded here; the principal law is covered by another reader."
+   },
+   "deviation_tier": {
+    "value": "Entrenches",
+    "source": "https://web.archive.org/web/2/https://fs.knesset.gov.il/12/law/12_lsr_210707.pdf",
+    "support": "s. 3B(c): אין לשנות סעיף זה אלא ברוב חברי הכנסת.",
+    "note": "Value engaged: separation of powers (principal: limits on executive spending without parliamentary authorisation, entrenched); contradicts none."
+   },
+   "direction": {
+    "value": "Neutral",
+    "source": "https://web.archive.org/web/2/https://fs.knesset.gov.il/12/law/12_lsr_210707.pdf",
+    "support": "Fiscal continuity rule.",
+    "note": ""
+   },
+   "final_vote_record": {
+    "value": "",
+    "source": "https://web.archive.org/web/2/https://fs.knesset.gov.il/12/law/12_lsr_210707.pdf",
+    "support": "Gazette footnote: passed 18 March 1992.",
+    "note": "No final vote found (see coalition_only note). The Knesset record of 17 March 1992 shows the direct-election law was not taken that day."
+   }
+  }
+ },
+ "deviations": [
+  "Access: web.archive.org could not be fetched by the WebFetch tool or from the sandboxed shell; the archived gazette PDFs, Nevo pages, Knesset legislation-database pages and plenum PDFs were downloaded with curl run outside the sandbox and read with PDFKit. The downloads were saved in a fresh scratch subfolder as the sheet allows; nothing in the repository was written or read other than the sheet.",
+  "Access: fs.knesset.gov.il and main.knesset.gov.il redirect to a geo-blocked maintenance page, so the Knesset site itself was never read; Wayback captures of its legislation-database pages gave publication data only, no reading dates. The Internet Archive went offline twice during the session and several plenum captures are truncated at 1 MiB (unreadable), which limited the vote search.",
+  "Sources used that are in the permitted list but outside the sheet's named URLs: Wayback captures of Knesset plenum PDFs (8_ptm_253545, 12_ptm_531708, 12_ptm_531972, and date checks of about thirty others); the NYU Faculty Digital Archive items hdl 2451/71524 (23 July 1980) and 2451/70187 (13 Sept 1984); the 1968 Basic Law: The Government gazette PDF (6_lsr_208437) linked from Wikisource, used only to identify what the 1973 amendment changed; Christian Science Monitor, 31 July 1980; JTA archive article 'Tehiya', 9 June 1981; English and Hebrew Wikipedia articles on the 8th, 13th, 15th, 17th, 18th, 19th, 20th, 21st, 22nd and 24th governments (the Knesset site being unreachable); the Nevo pages fetched directly (law01/297_001.htm worked; law19/btl0630.htm returned a login page, so the archived copy was used; law01/190_001.htm and law00/72185.htm direct lacked the amendment history).",
+  "No page about a court case was opened. Search-result lists contained titles about court matters and a snippet from israeled.org claiming a 96-0 vote for seq 1 and a FRUS editorial note giving 69-15 with three abstentions for seq 16 (citing the New York Times); these are not permitted sources and were not used for any value.",
+  "Not found despite search: explanatory notes for every enactment (bill PDFs unreachable); final-reading tallies and first-reading dates for seq 1, 4, 7, 10, 19, 25, 31 and 35; the 30 July 1980 Knesset record for seq 16 (tally taken from dated press); counts for seq 13 and 22 (the Knesset record shows votes without a count). The coalition_only value for seq 28 rests on the recorded count exceeding the coalition's size, not on named cross-party votes.",
+  "Judgment calls flagged in notes: seq 22 named_beneficiary coded Yes from the Knesset record rather than the text; seq 1 direction coded Liberal from the universal-suffrage text; seq 19 and 31 deviation_tier coded Entrenches on a weak separation-of-powers reading.",
+  "Seq 35, second pass: recoded from the whole gazette text (ss. 1-65, archived Knesset PDF 12_lsr_210707 read with PDFKit), replacing the earlier row that coded only s. 58; the vote and reading findings are unchanged and concern the whole law. Additional searches for the 18 March 1992 sitting (Wayback 12_ptm_531973-531978, none captured) and dated press across UPI, Washington Post, CSM, JTA, Jerusalem Post, Haaretz and Times of Israel gave no tally. No page about a court case was opened. Judgment calls flagged: deviation_tier Entrenches with separation of powers as the principal subject, naming the provisions on which a reader could code Limited; direction Neutral from the principal subject."
+ ]
+}

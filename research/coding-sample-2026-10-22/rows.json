@@ -179,7 +179,7 @@
   "seq": "35",
   "batch": 1,
   "title_he": "חוק-יסוד: הממשלה (התשנ״ב)",
-  "title_en": "Basic Law: The Government (1992) — indirect amendment of the State Economy law",
+  "title_en": "Basic Law: The Government (1992)",
   "passage_date": "1992-03-18",
   "date_basis": "passed",
   "gazette": "ס״ח תשנ״ב 1396, עמ' 214; amending section (s. 58) at עמ' 224 (14.4.1992)",
@@ -189,7 +189,8 @@
   "wikisource": "https://he.wikisource.org/wiki/חוק-יסוד:_הכנסת",
   "archive": "https://web.archive.org/web/2/https://fs.knesset.gov.il/12/law/12_lsr_210707.pdf",
   "nevo": "https://web.archive.org/web/20211121021517/https://www.nevo.co.il/law_html/law19/btl0631.htm",
-  "vote_extract": ""
+  "vote_extract": "",
+  "title_en_as_shown_to_batch_1": "Basic Law: The Government (1992) — indirect amendment of the State Economy law"
  },
  {
   "seq": "39",

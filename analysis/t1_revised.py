@@ -77,19 +77,27 @@ def shuffle_check(N, K, DA, DN, reps=1000, seed=1):
     return {"shuffle_rate": rejections / reps, "exact_rate": round(type_one_rate(dist), 4), "within_0.02": abs(rejections / reps - type_one_rate(dist)) <= 0.02}
 
 # ---- prediction table (T1 revised, Predictions) ----
-SIGNS = ["named_beneficiary", "immediate_effect", "coalition_only", "expedited"]
+# The beneficiary sign is `situated_beneficiary` in the primary analysis and `named_beneficiary`
+# in the secondary analysis of step 11a (change log (ac), 2026-10-22).
+PRIMARY_BENEFICIARY = "situated_beneficiary"
+TEXT_BENEFICIARY = "named_beneficiary"
 
-def F_of(row):
+def signs(bkey=PRIMARY_BENEFICIARY):
+    return [bkey, "immediate_effect", "coalition_only", "expedited"]
+
+SIGNS = signs()
+
+def F_of(row, bkey=PRIMARY_BENEFICIARY):
     f = 0
-    f += 1 if row["named_beneficiary"] == "Yes" else 0
+    f += 1 if row[bkey] == "Yes" else 0
     f += 1 if row["immediate_effect"] == "Yes" else 0   # Deferred counts as absent
     f += 1 if row["coalition_only"] == "Yes" else 0
     f += 1 if row["expedited"] == "Yes" else 0
     return f
 
-def decision_rule_prediction(row, variant=False):
+def decision_rule_prediction(row, variant=False, bkey=PRIMARY_BENEFICIARY):
     """Returns (prediction, table_row_number) or ("Undetermined", 6)."""
-    F = F_of(row); tier = row["deviation_tier"]; co = row["coalition_only"]
+    F = F_of(row, bkey); tier = row["deviation_tier"]; co = row["coalition_only"]
     first_threshold = 3 if variant else 4
     fifth_max = 2 if variant else 3
     if F >= first_threshold: return ("Adverse", 1)
@@ -102,23 +110,26 @@ def decision_rule_prediction(row, variant=False):
 def elite_prediction(row):
     return "Adverse" if row["direction"] == "Illiberal" else "Not adverse"
 
-REQUIRED = SIGNS + ["deviation_tier", "direction"]
+def required(bkey=PRIMARY_BENEFICIARY):
+    return signs(bkey) + ["deviation_tier", "direction"]
 
-def classify(row, variant=False):
-    if any((row.get(k) or "") == "" for k in REQUIRED): return ("uncoded", None, None, None)
-    d, trow = decision_rule_prediction(row, variant)
+REQUIRED = required()
+
+def classify(row, variant=False, bkey=PRIMARY_BENEFICIARY):
+    if any((row.get(k) or "") == "" for k in required(bkey)): return ("uncoded", None, None, None)
+    d, trow = decision_rule_prediction(row, variant, bkey)
     if d == "Undetermined": return ("undetermined", d, elite_prediction(row), trow)
     e = elite_prediction(row)
     group = {1: "purpose-driven", 2: "content-driven"}.get(trow, "tier-and-support-driven")
     return ("discordant" if d != e else "concordant", d, e, group)
 
-def predict_csv(path, variant=False):
+def predict_csv(path, variant=False, bkey=PRIMARY_BENEFICIARY):
     rows = list(csv.DictReader(open(path, encoding="utf-8")))
     out = []
     for r in rows:
-        norm = {k: (r.get(k) or "").split(" (")[0].strip() for k in REQUIRED}
-        cls, d, e, grp = classify(norm, variant)
-        out.append({"case": r["case"], "F": F_of(norm) if all(norm[k] for k in SIGNS) else None,
+        norm = {k: (r.get(k) or "").split(" (")[0].strip() for k in required(bkey)}
+        cls, d, e, grp = classify(norm, variant, bkey)
+        out.append({"case": r["case"], "F": F_of(norm, bkey) if all(norm[k] for k in signs(bkey)) else None,
                     "class": cls, "decision_rule": d, "elite": e, "group": grp,
                     "primary": r.get("primary_analysis", ""), "outcome": r.get("outcome", "")})
     return out

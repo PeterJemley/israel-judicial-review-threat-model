@@ -1,0 +1,151 @@
+{
+  "92": {
+    "situated_beneficiary": {
+      "value": "No",
+      "person_or_government": null,
+      "matter": null,
+      "admissible_fact": "None. No item of the closed list is satisfied.",
+      "fact_date": null,
+      "source": null,
+      "source_date": null,
+      "support": "s. 1(a): any government decision to ratify or sign an agreement ending the application of Israeli law to territory needs Knesset approval, then a referendum, unless 80 MKs approve.",
+      "list_version": "(ae), as clarified by (af)",
+      "note": "The text (Hebrew Wikisource transcription; ס״ח תשע״ד p. 400, passed 2014-03-12) has five sections: referendum or 80-MK approval (s. 1), voters (s. 2), procedure (s. 3), protection against emergency regulations (s. 4) and entrenchment (s. 5). It has no sunset, single-instance or deadline clause, and it binds any government that makes such a decision. I searched for a pending court proceeding or formal step concerning the sitting government or an officeholder in the Open Knesset bill record (government bill 488358; gazette 2443 p. 400, 2014-03-19) and in web results for press around passage (ynetnews, JTA 2014-03-13, IDI, others; titles and snippets). I found none. The connection to any policy matter would rest on motive alone."
+    }
+  },
+  "95": {
+    "situated_beneficiary": {
+      "value": "Yes",
+      "person_or_government": "The 34th Government of Israel (Prime Minister Benjamin Netanyahu), approved by the Knesset on 14 May 2015.",
+      "matter": "Adoption of the State Budget for 2015 (a year then under way with no budget law) and 2016, and the Basic Law: The Knesset s. 36A determining day after which failure to adopt the budget law dissolves the Knesset.",
+      "admissible_fact": "Item 3, with item 4 also met. Section 5 of the enactment sets 31 Aug 2015 as the latest date for tabling the 2015–2016 biennial budget bill. 'Notwithstanding s. 36A of Basic Law: The Knesset', it fixes the determining day for that budget law at 19 Nov 2015. Under s. 36A(b) as then in force, the default was the later of three months from the start of the fiscal year or 100 days from the government's formation. With formation on 14 May 2015 that gives about 22 Aug 2015 (reader's computation). The 2015–2016 biennial-budget provisions (ss. 1, 3, 5) are single-instance provisions for this government's own budget.",
+      "fact_date": "2015-05-14 (government formed, starting the 100-day period); 2015-07-07 (passage; the clause moving the deadline)",
+      "source": "Enactment text, ס״ח תשע״ה 2494 p. 194 (Amendment No. 4), as transcribed on Hebrew Wikisource (consolidated page; s. 5 tagged תשע״ה). Basic Law: The Knesset s. 36A as in force (Wikisource revision of 2015-01-27). Jewish News (UK), 'Knesset swears in fourth Netanyahu government'. Globes, 'Knesset approves two-year budget track'. Open Knesset plenum vote record.",
+      "source_date": "Gazette 2015-07-09; Jewish News 2015-05-15; Globes 2015-07-07; plenum vote 2015-07-07 01:42",
+      "support": "על אף האמור בסעיף 36א לחוק־יסוד: הכנסת, היום הקובע לגבי חוק התקציב הדו־שנתי לשנים 2015 ו־2016 יהיה יום ז׳ בכסלו התשע״ו (19 בנובמבר 2015)",
+      "list_version": "(ae), as clarified by (af)",
+      "note": "The final vote was 56–54 (Open Knesset; Globes 2015-07-07). Globes, dated the day of passage, reports the budget must be submitted by 31 August and given second and third readings by 19 November. Jewish News: 'Israel's parliament voted 61-59 in favour of swearing in Israel's 34th government' (Thursday, i.e. 14 May 2015). The moved deadline binds only the sitting government's 2015–2016 budget, so successors do not share it."
+    }
+  },
+  "99": {
+    "situated_beneficiary": {
+      "value": "No",
+      "person_or_government": null,
+      "matter": null,
+      "admissible_fact": "None satisfying the definition. A candidate under item 1 (a pending court proceeding) was found but fails; see note.",
+      "fact_date": null,
+      "source": "Knesset House Committee protocols No. 140 (4 July 2016) and No. 156 (26 July 2016), Open Knesset mirror of fs.knesset.gov.il 20_ptv_344591.doc and 20_ptv_348477.doc",
+      "source_date": "2016-07-04; 2016-07-26",
+      "support": "Protocol 140: התעוררה שאלה האם תקנות מסוימות שהוגשו לוועדת הכלכלה והדיון בהן טרם הסתיים ... האם התקנות אושרו במחדל",
+      "list_version": "(ae), as clarified by (af)",
+      "note": "The whole law is 'בחוק יסוד: הכנסת, סעיף 21א – בטל' (Protocol 156; Wikisource diff of 14 Aug 2016). It repeals s. 21A: regulations by a minister setting criminal penalties need committee approval, and are deemed approved if the committee does not decide within 45 days. It has no application, transitional or retroactivity clause. It passed 2016-08-02 at 04:11, 30–0 (Open Knesset vote record). Protocol 140 records a pending court proceeding about regulations under the Fisheries Ordinance: the question was whether regulations before the Economics Committee had been approved by default under the s. 21A proviso. The Knesset Legal Adviser had appeared and filed a position the day before. I code No for four reasons. (i) A bare prospective repeal does not on its face decide whether regulations were already deemed approved before passage, so no direct legal effect on the pending question is shown. (ii) The record does not identify the parties, or show that the sitting government or an identifiable officeholder relied on deemed approval. Protocol 156 says the deemed-approval proviso had not been applied in practice, by agreement of the Knesset and the government. (iii) The repeal binds every minister alike. (iv) The link to the proceeding rests on the chair's stated aim that the court should 'understand the direction' (motive). This is flagged for adjudication as a close call. I did not search court dockets for the fisheries case, to avoid descriptions of its decision."
+    }
+  },
+  "103": {
+    "situated_beneficiary": {
+      "value": "No",
+      "person_or_government": null,
+      "matter": null,
+      "admissible_fact": "None. No item of the closed list is satisfied.",
+      "fact_date": null,
+      "source": null,
+      "source_date": null,
+      "support": "s. 7 as amended: אין לשנות את הוראות סעיף 6 אלא בחוק־יסוד שנתקבל ברוב של שמונים חברי הכנסת",
+      "list_version": "(ae), as clarified by (af)",
+      "note": "The text comes from the Hebrew Wikisource revision diff of 7 Jan 2018. The amendment rewrites s. 6, which bars transferring to a foreign body any power over the Jerusalem municipal area, with the area fixed as at the amendment's commencement. It rewrites s. 7 so that s. 6 can be changed only by a Basic Law passed by 80 MKs (s. 5 is no longer entrenched). The law is general, binds every government, and has no sunset, single-instance or deadline clause. Passage was 2018-01-02 at 02:49, 64–51 (Open Knesset vote record; private bill 2018487). I searched web results for press on or before passage (Jewish Press 2018-01-02, JTA, Ir Amim, Jewish News; titles and snippets) and Open Knesset records for a pending proceeding or formal step concerning the sitting government or an officeholder. I found none."
+    }
+  },
+  "106": {
+    "situated_beneficiary": {
+      "value": "No",
+      "person_or_government": null,
+      "matter": null,
+      "admissible_fact": "None. No item of the closed list is satisfied.",
+      "fact_date": null,
+      "source": null,
+      "source_date": null,
+      "support": "s. 40(a) as amended: המדינה לא תפתח במלחמה ולא תנקוט פעולה צבאית משמעותית העלולה להוביל ... למלחמה אלא מכוח החלטת הממשלה",
+      "list_version": "(ae), as clarified by (af)",
+      "note": "The text comes from the Hebrew Wikisource revision of 5 May 2018. Section 40 now covers war or significant military action. New s. 40(a1)–(a2) let the government delegate the power to a ministerial committee set by law, and allow the PM and defence minister to decide in extreme, urgent circumstances. Section 40(c) adds notice duties. The law is general, binds every government, and has no sunset, single-instance or deadline clause. Passage was 2018-04-30 at 21:12, 62–41 (Open Knesset vote record; government bill 2025749). I searched web results for press around passage (titles and snippets only) and Open Knesset records for a pending proceeding, formal step or moved deadline concerning the sitting government or an officeholder. I found none."
+    }
+  },
+  "111": {
+    "situated_beneficiary": {
+      "value": "Yes",
+      "person_or_government": "The 35th Government of Israel (Netanyahu–Gantz), approved by the Knesset on 17 May 2020.",
+      "matter": "The government's spending authority in 2020 with no 2020 budget law, under the 2020 temporary provision of Basic Law: The State Economy s. 3B(a1)–(a2): monthly spending, COVID-19 amounts and the detailed spending plan.",
+      "admissible_fact": "Item 4. The enactment amends the temporary provision for 2020, which runs to 31 Dec 2020 or the 2020 budget law, whichever is earlier. It resets 2020 month-by-month COVID-19 spending percentages for May–December 2020, the 2020 plan amounts (for example business grants of NIS 16 billion and NII indemnification of NIS 4.5 billion), and the NII debt-repayment ceiling. It adds a 15 July 2020 date for the Finance Minister's updated plan. These single-instance provisions govern only the sitting government's 2020 spending.",
+      "fact_date": "2020-05-17 (government approved); 2020-06-02 (passage, plenum vote 01:40)",
+      "source": "Enactment text, ס״ח תש״ף 2796 p. 46, as shown in the Hebrew Wikisource revision diff of Basic Law: The State Economy (rev. 957730→961563, 'תיקון מס׳ 10 (תיקון)'). Open Knesset plenum vote record and bill 2139663. J. Weekly (JTA), 'After more than a year and 3 elections, Israel swears in a new government — its largest ever'.",
+      "source_date": "Gazette 2020-06-02; vote 2020-06-02; J. Weekly 2020-05-18",
+      "support": "s. 3B(a1)(2)(b) as amended: בחודש מאי – 1.88%; בחודש יוני – 2.94%; בחודש יולי – 1.36%; בחודש אוגוסט – 1.45%",
+      "list_version": "(ae), as clarified by (af)",
+      "note": "The vote was 63–0. J. Weekly: 'The Knesset, Israel's legislature, approved the government by a vote of 73 to 46' (Sunday 17 May 2020). Interpretive question: a successor government formed during 2020 would have operated under the same provisions until year-end. The unshared element is that the provision covers only 2020, within the sitting government's term."
+    }
+  },
+  "114": {
+    "situated_beneficiary": {
+      "value": "Yes",
+      "person_or_government": "The 35th Government of Israel (Netanyahu–Gantz), approved by the Knesset on 17 May 2020.",
+      "matter": "The government's spending authority in 2020 with no 2020 budget law, under the 2020 temporary provision of Basic Law: The State Economy s. 3B(a1)–(a2).",
+      "admissible_fact": "Item 4. The enactment amends the temporary provision for 2020 (to 31 Dec 2020 or the 2020 budget law, whichever is earlier). It raises the August 2020 COVID-19 spending share to 3.5%, raises the 2020 plan's NII indemnification to NIS 18.9 billion, and cuts infrastructure/technology to NIS 3.1 billion. These single-instance provisions govern only the sitting government's 2020 spending.",
+      "fact_date": "2020-05-17 (government approved); 2020-07-28 (passage, plenum vote 21:24)",
+      "source": "Enactment text, ס״ח תש״ף 2833 p. 294, as shown in the Hebrew Wikisource revision diff (rev. 970935→973237, 'תיקון מס׳ 10 (תיקון מס׳ 3)'). Open Knesset plenum vote record and bill 2143630. J. Weekly (JTA), 'After more than a year and 3 elections, Israel swears in a new government — its largest ever'.",
+      "source_date": "Gazette 2020-07-29; vote 2020-07-28; J. Weekly 2020-05-18",
+      "support": "s. 3B(a1)(2)(b)(5) as amended: בחודש אוגוסט – 3.5%; s. 3B(a2)(2)(b): שיפוי המוסד לביטוח לאומי – 18.9 מיליארד שקלים חדשים",
+      "list_version": "(ae), as clarified by (af)",
+      "note": "The vote was 80–0. The same interpretive question as seq 111 applies: a successor formed in 2020 would share the provisions for the rest of the year."
+    }
+  },
+  "118": {
+    "situated_beneficiary": {
+      "value": "Yes",
+      "person_or_government": "The 35th Government of Israel, continuing in office after the 23rd Knesset dissolved automatically at midnight on 22/23 Dec 2020 (elections set for 23 March 2021).",
+      "matter": "Government spending in 2021 with no 2021 budget law, including COVID-19 spending.",
+      "admissible_fact": "Item 4. The enactment's temporary provision for 2021 runs from 1 Jan 2021 to 31 Dec 2021 or the 2021 budget law, whichever is earlier. It authorises up to NIS 52.3 billion of COVID-19 spending, allocated by heading, with matching commitment authority. It applies to the sitting government's own 2021 spending during its continuing term.",
+      "fact_date": "2020-12-23 (Knesset dissolved; government continues); 2020-12-28 (passage)",
+      "source": "Enactment text, ס״ח תשפ״א 2889 pp. 252–253, as shown in the Hebrew Wikisource revision diff (rev. 989338→1018908, 'תיקון מס׳ 11 והוראת שעה'). Open Knesset bill 2151572 (second/third-reading bill dated 2020-12-28). Globes, 'Knesset dissolves after budget fails to pass'.",
+      "source_date": "Gazette 2020-12-29; Globes 2020-12-23",
+      "support": "לשם מימון ההוצאות הדרושות להתמודדות עם המשבר שנוצר בשל התפשטות נגיף הקורונה, ולמטרה זו בלבד – סכום שלא יעלה על 52.3 מיליארד שקלים חדשים",
+      "list_version": "(ae), as clarified by (af)",
+      "note": "Globes 2020-12-23: 'The 23rd Knesset automatically dissolved at midnight'. It also reports a bill past first reading that would let the Finance Ministry keep funding government activities without a budget. The enactment also replaces s. 3B with a permanent 'continuing budget year' regime from 1 Jan 2021. That part is general and shared, and the Yes rests only on the 2021 temporary provision. Interpretive question for adjudication: a government formed after the March 2021 elections, before any 2021 budget law, would also operate under the temporary provision. Whether that partial sharing defeats 'unshared' is flagged."
+    }
+  },
+  "122": {
+    "situated_beneficiary": {
+      "value": "No",
+      "person_or_government": null,
+      "matter": null,
+      "admissible_fact": "None. No item of the closed list is satisfied.",
+      "fact_date": null,
+      "source": null,
+      "source_date": null,
+      "support": "s. 42C(d)(1)(d) as amended: מנתה הסיעה שמונה עשר חברי הכנסת לפחות – רשאים להפסיק את חברותם שליש מחברי הסיעה",
+      "list_version": "(ae), as clarified by (af)",
+      "note": "The text comes from the Hebrew Wikisource revision diff of 24 Jan 2023. Amendment No. 52 expands s. 42C (resignation of ministers and deputy ministers from the Knesset). Factions of 1–3 MKs may use it for half their members, factions of 18 or more for one third, and the cap of five is removed. New (a1) bars such resignations from a new Knesset's start until a government is formed, and from day 90 before elections or the cause for elections. New (g) lets a minister who left the Knesset under s. 42C, and who resigns or receives a removal letter, choose not to return. There is no sunset, single-instance or deadline clause. The faction-quota changes favour coalition factions generally, but no closed-list live matter attaches; the connection would rest on motive. For (g), I checked whether any minister who had left the Knesset under s. 42C faced a pending resignation or removal on or before passage. The Knesset position record (Open Knesset kns_persontoposition) shows A. Deri's 25th-Knesset membership running from 2022-11-15 with no end date. He had not left under s. 42C, so (g) did not reach his matter. Yeshiva World News (2023-01-31) names Shas ministers leaving their seats but ties none to a pending resignation or removal. I also read Kikar HaShabat (2023-01-24) for the law's content; it reports a 65–18 final vote and names no affected minister. Committee protocols for this bill are not in the Open Knesset text mirror, and the background documents are geo-blocked."
+    }
+  },
+  "127": {
+    "situated_beneficiary": {
+      "value": "No",
+      "person_or_government": null,
+      "matter": null,
+      "admissible_fact": "None. No item of the closed list is satisfied.",
+      "fact_date": null,
+      "source": null,
+      "source_date": null,
+      "support": "s. 6A: לא תוקם בירושלים נציגות רשמית של מדינה זרה אלא אם כן היא נציגות דיפלומטית המואמנת למדינת ישראל",
+      "list_version": "(ae), as clarified by (af)",
+      "note": "The text comes from the Hebrew Wikisource revision of 30 Oct 2024. The amendment adds s. 6A: no official mission of a foreign state may be established in Jerusalem unless it is a diplomatic mission accredited to Israel, and the state shall encourage such missions. The law is general, binds every government, and has no sunset, single-instance or deadline clause. I searched the Open Knesset bill record (private bill 2201428; gazette 3299 p. 10, 2024-10-30) and web results for press around passage (Times of Israel, Jerusalem Post, JNS/Jewish Press; titles and snippets) for a pending proceeding or formal step concerning the sitting government or an officeholder. I found none. A foreign state's reported plans for a consulate are not a closed-list fact."
+    }
+  },
+  "deviations": [
+    "No gazette PDF could be read. fs.knesset.gov.il redirects to a geo-block page (HTTP 303 to maintenance-page-geo). web.archive.org could not be reached by WebFetch ('unable to fetch') or by the shell (connection failure). Each enactment's text was therefore taken from Hebrew Wikisource consolidated pages and their revision histories and diffs, which are bot-imported from the published gazette. Any free-standing commencement, application or transitional clause in an amending act that is not carried into the consolidated text could not be checked for any of the ten rows. Bill explanatory notes were also unreachable for the same reason.",
+    "Per the caller's instruction not to write files anywhere, I created no working subfolder and saved no downloads, although the sheet asks for one. All material was fetched or streamed into memory only.",
+    "Knesset records were taken from the Open Knesset mirror (production.oknesset.org/pipelines/data): bills, plenum vote headers, document lists, Knesset member positions, and two House Committee protocol files (doc IDs 344591 and 348477). Passage dates and times for seq 99, 103, 106, 111 and 114 come from the plenum vote records. Seq 111 passed 2020-06-02 and seq 114 passed 2020-07-28; the sheet gave only publication dates.",
+    "Court outcomes reached me through search snippets without my opening the pages. (a) In a seq 122 search, a snippet stated how the Supreme Court ruled on 18 Jan 2023 on a minister's appointment. That matter concerns a person I checked for seq 122, not the enactment. I did not open it or use it. (b) A seq 99 search listed an Adalah PDF whose title states the outcome of petitions against a different enactment (Basic Law: The Knesset, Amendment No. 44, not in this batch), with a snippet mentioning that judgment. I did not open it or use it.",
+    "Other post-passage material reached me through search snippets and was not used. These are legislative, not court, outcomes: the 2015–2016 budget's final passage in Nov 2015 (seq 95 search), and the Knesset's July 2018 replacement of the s. 40 clause (seq 106 search). In a Knesset position record, I also saw that a minister's ministerial posts ended 2023-01-24 (seq 122); I used only the membership record, not that end date.",
+    "Sources dated after passage were used only for pre-passage facts or the law's content: Kikar HaShabat 2023-01-24 (seq 122; it describes the final vote as 'Tuesday night', but I kept the sheet's passage date of 2023-01-23); Yeshiva World News 2023-01-31 (seq 122); Wikisource revisions saved after passage (all rows, for text only).",
+    "Not found: seq 99 — the docket number and parties of the pending Fisheries Ordinance regulations proceeding. I deliberately did not search court records, to avoid reading any decision in that pending matter. Seq 95 — no permitted source states the default s. 36A determining day; about 22 Aug 2015 is my computation from the s. 36A(b) text and the 14 May 2015 formation date. Seq 92 — the WebFetch summary gave the gazette as 'no. 2400'; the Open Knesset record gives 2443 p. 400 (19.3.2014), matching the sheet."
+  ]
+}

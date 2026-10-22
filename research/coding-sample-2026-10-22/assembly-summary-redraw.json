@@ -1,0 +1,213 @@
+{
+ "manifest": "rows-redraw.json",
+ "rows_in_manifest": 39,
+ "rows_coded": 39,
+ "not_yet_coded": [],
+ "unverified_outcome": [],
+ "by_batch": {
+  "1": 6,
+  "2": 1,
+  "4": 11,
+  "5": 11,
+  "6": 10
+ },
+ "agreement": {
+  "named_beneficiary": {
+   "kappa": 0.787,
+   "agree": 38,
+   "n": 39
+  },
+  "immediate_effect": {
+   "kappa": 0.787,
+   "agree": 38,
+   "n": 39
+  },
+  "coalition_only": {
+   "kappa": 0.947,
+   "agree": 38,
+   "n": 39
+  },
+  "expedited": {
+   "kappa": 0.919,
+   "agree": 37,
+   "n": 39
+  },
+  "scope": {
+   "kappa": 0.0,
+   "agree": 38,
+   "n": 39
+  },
+  "temporary_provision": {
+   "kappa": 1.0,
+   "agree": 39,
+   "n": 39
+  },
+  "targets_judiciary": {
+   "kappa": 1.0,
+   "agree": 39,
+   "n": 39
+  },
+  "deviation_tier": {
+   "kappa": 0.796,
+   "agree": 34,
+   "n": 39
+  },
+  "direction": {
+   "kappa": 0.789,
+   "agree": 38,
+   "n": 39
+  }
+ },
+ "unresolved_disagreements": [],
+ "F_distribution": {
+  "0": 0,
+  "1": 1,
+  "2": 9,
+  "3": 2,
+  "4": 0
+ },
+ "uncoded_for_F": [
+  "1",
+  "4",
+  "7",
+  "10",
+  "13",
+  "19",
+  "22",
+  "25",
+  "28",
+  "31",
+  "35",
+  "39",
+  "42",
+  "45",
+  "48",
+  "51",
+  "54",
+  "57",
+  "61",
+  "64",
+  "67",
+  "70",
+  "73",
+  "76",
+  "79",
+  "85",
+  "118"
+ ],
+ "direction": {
+  "Illiberal": 1,
+  "Liberal": 2,
+  "Neutral": 36,
+  "": 0
+ },
+ "one_vote_check": {
+  "vote_ids_shared_by_two_rows": {},
+  "rows_reporting_a_joint_vote_or_no_final_vote": [
+   [
+    "1",
+    " [No final vote found: Knesset record sitting of 12 Feb 1958 not in any archive capture; no dated press report located. "
+   ],
+   [
+    "4",
+    " [No final vote found (see coalition_only note).]"
+   ],
+   [
+    "7",
+    " [No final vote found (see coalition_only note).]"
+   ],
+   [
+    "10",
+    " [No final vote found (see coalition_only note).]"
+   ],
+   [
+    "13",
+    "31 March 1976; third reading passed without opposition, no count recorded; Knesset record (Divrei HaKnesset), sitting 28"
+   ],
+   [
+    "16",
+    "30 July 1980; 69 for, 15 against; Christian Science Monitor, 31 July 1980 (dated press report) [The press report concern"
+   ],
+   [
+    "19",
+    "Final-reading vote not found. Passage date 19.5.1981 (gazette footnote); Knesset plenum session 436584 (9th Knesset sitt"
+   ],
+   [
+    "25",
+    "Final-reading vote not found. Passage date 19.5.1987 (gazette footnote); Knesset plenum session 160037 (11th Knesset sit"
+   ],
+   [
+    "28",
+    "Final-reading vote not found. Passage date 5.2.1991 (gazette footnote); Knesset plenum session 437171 (12th Knesset sitt"
+   ],
+   [
+    "35",
+    "Final-reading vote not found. Passage date 18.3.1992 (gazette footnote); Knesset plenum session 437231 (12th Knesset sit"
+   ],
+   [
+    "39",
+    "Final-reading vote not found. Passage date 19.12.1994 (gazette footnote); Knesset plenum session 160783 (13th Knesset si"
+   ],
+   [
+    "42",
+    "Final-reading vote not found. Passage date 22.1.1996 (gazette footnote, misprinted '1966'); Knesset plenum session 16090"
+   ],
+   [
+    "45",
+    "Final-reading vote not found. Passage date 26.2.1996 (gazette footnote); Knesset plenum session 160919 (13th Knesset sit"
+   ],
+   [
+    "48",
+    "Final-reading vote not found. Passage date 28.2.1996 (gazette footnote); Knesset plenum session 160921 (13th Knesset sit"
+   ],
+   [
+    "51",
+    "Final-reading vote not found. Passage date 12.3.1996 (gazette footnote); Knesset plenum session 160926 (13th Knesset sit"
+   ],
+   [
+    "54",
+    "Passed 9.7.1997; tally and vote identifier not found [Only this law (item 162357) appears at second/third reading among "
+   ],
+   [
+    "57",
+    "25.3.1998, third reading, vote no. 2: 19 for, 0 against, 0 abstain [The vote approved this law only.]"
+   ],
+   [
+    "61",
+    "Passed 1.2.2000; tally and vote identifier not found [Only this item (167166) at second/third reading among Basic Law it"
+   ],
+   [
+    "64",
+    "Passed 27.11.2000; tally and vote identifier not found [Only this item (169688) at second/third reading among Basic Law "
+   ],
+   [
+    "67",
+    "Passed 1.1.2001; tally and vote identifier not found [Only this item (169965) at second/third reading among Basic Law it"
+   ],
+   [
+    "70",
+    "Passed 9.7.2001; tally and vote identifier not found [Only this item (170992) at second/third reading among Basic Law it"
+   ],
+   [
+    "73",
+    "Passed 16.10.2001; tally and vote identifier not found; whether its vote also approved Basic Law: The Knesset (Amendment"
+   ],
+   [
+    "76",
+    "Not found [Date from the gazette footnote; tally not found; which of the two sittings held the vote not established.]"
+   ],
+   [
+    "79",
+    "Passed 28.7.2003; tally and vote identifier not found; whether its vote also approved Amendment No. 6 (same day, same ga"
+   ],
+   [
+    "85",
+    "Final (third-reading) vote 7.4.2009: 63 for, 27 against per press; not in the Knesset vote table; approved this law only"
+   ],
+   [
+    "118",
+    "2020-12-28; roll-call vote; 64 for, 0 against (press report); approved only this law [No vote number: not in the Knesset"
+   ]
+  ]
+ }
+}

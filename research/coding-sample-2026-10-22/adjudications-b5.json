@@ -1,0 +1,15 @@
+{
+ "adjudications": [],
+ "interpretive_rulings": [
+  {
+   "question": "Q3",
+   "enactment": 85,
+   "variable": "situated_beneficiary",
+   "value": "Yes",
+   "reading_adopted": "Item 4 is not met by a provision keyed to a budget year or a named budget, which like a Knesset's term covers whichever government holds office then, so partial sharing defeats it; item 3 is met where the enactment itself moves a fixed deadline then running against the sitting government, and the unshared alteration is the move of that deadline, which a successor operating under the new date does not share.",
+   "reason": "Section 2 sets s. 36A aside and fixes the determining day for the 2009-2010 budget at 107 days from the government's formation. Under s. 36A(b) as then in force (he.wikisource revision 242370, 22.10.2008) the determining day was the later of three months into the fiscal year or 45 days from formation, so for the 32nd government, formed 31.3.2009 (Knesset government record, archive capture 1.1.2011), the deadline moved from about 15 May to about 16 July 2009, consistent with the 45-day deadline the reader's pre-passage press reported; that date was computed from the sitting government's formation, and its lapse would dissolve the Knesset and bring elections ending the government's term, so it bound that government, only its deadline was moved, and s. 1(a)(2) also fixes its tabling date at 16 June 2009. Item 4 is not met, since the provisions are keyed to the 2009-2010 budget rather than to the government's own measure or term. Yes under item 3: the 32nd government; matter: the determining day for its budget; fact: s. 2, dated 7.4.2009; source: ס״ח 2196, 7.4.2009, p. 134 (https://web.archive.org/web/2/https://fs.knesset.gov.il/18/law/18_lsr_301021.pdf).",
+   "frame_seq": 85
+  }
+ ],
+ "note": "Filed from adjudications-redraw-all.json by analysis/split_adjudication.py; 'enactment' is the number under which batch 5 filed the row, 'frame_seq' the corrected frame's."
+}

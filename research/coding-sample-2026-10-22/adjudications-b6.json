@@ -1,0 +1,102 @@
+{
+ "adjudications": [
+  {
+   "item": 6,
+   "enactment": 95,
+   "variable": "named_beneficiary",
+   "value": "Yes",
+   "source": "Gazette text (ס״ח 2494, 9.7.2015, p. 194), https://web.archive.org/web/20250124104742/https://fs.knesset.gov.il//20/law/20_lsr_312983.pdf ; formation date, https://web.archive.org/web/20150519230305/http://knesset.gov.il/govt/eng/GovtByNumber_eng.asp?govt=34",
+   "support": "s. 5(b): על אף האמור בסעיף 36א לחוק–יסוד: הכנסת, היום הקובע לגבי חוק התקציב הדו–שנתי לשנים 2015 ו–2016 יהיה ... (19 בנובמבר 2015)",
+   "reason": "Beneficiary: the sitting 34th government, formed 14 May 2015 (Knesset government record). On the seq 101 reading, a specific interest of the government is one it holds for itself, including its tenure. Section 5, whose marginal note names the Knesset's dissolution for failure to adopt this budget law, sets s. 36A aside and moves the day on which failure to pass this government's 2015-2016 budget would dissolve the Knesset and bring early elections, from no later than about 22 August 2015 (100 days from formation under s. 36A(b)) to 19 November 2015; that addresses the government's tenure rather than the public end of an appropriation, a text difference the seq 101 reading makes relevant, since seqs 101 to 118 and the 2023 enactment set crisis spending or reporting dates and leave the dissolution rule alone. The explanatory notes (Government Bills 916, p. 590) have no archive capture, so I code from the text and adopt Coder A's value.",
+   "frame_seq": 95
+  },
+  {
+   "item": 7,
+   "enactment": 95,
+   "variable": "deviation_tier",
+   "value": "Limited",
+   "source": "Gazette text (ס״ח 2494, 9.7.2015, p. 194), https://web.archive.org/web/20250124104742/https://fs.knesset.gov.il//20/law/20_lsr_312983.pdf ; s. 36A as in force, he.wikisource revision 596029 (27.1.2015)",
+   "support": "s. 5(b) fixes the determining day at 19.11.2015 'notwithstanding s. 36A'; s. 36A(b) default: 100 days from formation (14.5.2015), about 22.8.2015.",
+   "reason": "The text governs when the government must bring its budget and when budget failure dissolves the Knesset, so it engages separation of powers as principal subject, and on the seq 19 and 31 reading None is unavailable. As in the ruling on the 2013 amendment (Amendment No. 2), s. 5(b) sets s. 36A aside and fixes the determining day at 19 November 2015, nearly three months after the s. 36A(b) date; this lengthens the time the government may run on a continuing budget without a budget law, which contradicts the value. The contradiction is limited because it covers one budget and a date the Knesset itself fixed, and s. 5(a) (the Finance Committee sets the tabling date) and the duty to table a 2017-2018 plan are entrenching elements that the precedence rule subordinates. I adopt Coder A's value; Coder A's free-elections axis is not needed for it, and 'fiscal housekeeping' is a ground for Neutral direction, not for a None tier.",
+   "frame_seq": 95
+  },
+  {
+   "item": 8,
+   "enactment": 99,
+   "variable": "scope",
+   "value": "No",
+   "source": "Gazette text (ס״ח 2573, 11.8.2016, p. 1154), https://web.archive.org/web/20210515052601/https://fs.knesset.gov.il/20/law/20_lsr_348520.pdf ; he.wikisource חוק-יסוד: הכנסת revision 719977 (28.7.2016), s. 21A ; he.wikisource חוק העונשין revisions 714352 (2.7.2016) and 723062 (17.8.2016), s. 2",
+   "support": "Penal Law s. 2(b), identical before and after the repeal: \"תקנות שבהן נקבעו עבירות ועונשים טעונות אישור ועדה של הכנסת\"",
+   "reason": "The check is the requirement that a Knesset committee approve ministerial regulations creating criminal offences before they take effect. The enactment deletes s. 21A from the Basic Law, but s. 21A(b) itself preserved other laws on regulations, and Penal Law s. 2(b) imposes the same approval requirement without s. 21A's 45-day deemed-approval proviso; it is marked as amended in 1994 and is identical in the Wikisource revisions of 2 July and 17 August 2016. The repeal therefore neither removes the check nor renders it inoperative, so the definition's first condition fails whatever the enactment itself provides, and an alternative mechanism exists in ordinary law. I adopt Coder A's value but correct its dating: the Penal Law rule predates the repeal rather than accompanying it.",
+   "frame_seq": 99
+  },
+  {
+   "item": 9,
+   "enactment": 111,
+   "variable": "deviation_tier",
+   "value": "Limited",
+   "source": "Gazette text (ס״ח 2796, 2.6.2020, p. 46), https://web.archive.org/web/20200605043136/https://fs.knesset.gov.il/23/law/23_lsr_572953.pdf",
+   "support": "Raises May-December crisis shares; business grants NIS 9bn to 16bn; ministries 11bn to 14bn; NII repayment 16.1bn to 14.6bn; para. (2a) update due 15.7.2020.",
+   "reason": "The seq 101 ruling held that authority to spend in 2020 without a budget law, beyond the one-twelfth rule, contradicts separation of powers to a limited extent, and the seq 105 and 109 rulings held that amendments resetting the monthly crisis shares and plan amounts measure that authority and are Limited, whatever the amounts. This text does the same: it raises the May-December shares and most plan components and lowers two items, so it differs from seqs 105 and 109 only in amount. The new para. (2a) duty to submit an updated plan to the Finance Committee by 15 July 2020, and the Finance Committee condition on the added NIS 500 million business grant, are entrenching elements that the precedence rule subordinates, so Coder A's Entrenches fails, and Coder B's None fails because the text engages a value. Limited, departing from both coders so that like cases are decided alike.",
+   "frame_seq": 111
+  },
+  {
+   "item": 10,
+   "enactment": 118,
+   "variable": "deviation_tier",
+   "value": "Limited",
+   "source": "Gazette text (ס״ח 2889, 29.12.2020, p. 252), https://web.archive.org/web/20210109153213/https://fs.knesset.gov.il/23/law/23_lsr_593948.pdf",
+   "support": "s. 2 (to 31.12.2021 or the 2021 budget law): לשם מימון ההוצאות הדרושות להתמודדות עם המשבר ... סכום שלא יעלה על 52.3 מיליארד שקלים חדשים",
+   "reason": "Section 2 lets the government spend up to NIS 52.3 billion in 2021 for the coronavirus crisis, outside any budget law and beyond the one-twelfth continuing budget. That is the same authority the seq 101 ruling held contradicts separation of powers to a limited extent, and the tension Coder A's own note records. The Knesset-fixed sums and headings, the stated sole purpose, the one-year term and the new s. 3B(b1) duty to lay the spending plan before the government and submit it to the Finance Committee are the bounds and entrenching elements that ruling treated as keeping the contradiction limited and as subordinated by precedence, so Entrenches fails; and the permanent s. 3B changes, including indexing the monthly one-twelfth to population growth, also concern spending without a budget law, so the text engages a value and None fails. Limited, departing from both coders, consistent with seqs 101, 105 and 109.",
+   "frame_seq": 118
+  }
+ ],
+ "interpretive_rulings": [
+  {
+   "question": "Q2",
+   "enactment": 99,
+   "variable": "situated_beneficiary",
+   "value": "No",
+   "reading_adopted": "Item 1 reaches a general provision only where it has direct legal effect on the question pending before the court and only the sitting person or government is party to it; a prospective repeal tied to a pending case only by a committee chair's stated wish rests on motive.",
+   "reason": "The repeal has no transitional, application or retroactivity clause, so it does not decide the question the record says was pending: whether fisheries regulations had already been deemed approved under the s. 21A proviso before 2 August 2016. Nor does the record identify the parties or show the government relying on deemed approval (Protocol 156 says the proviso was not applied in practice), and the repeal binds every minister alike, while the committee-approval requirement continues for every government under Penal Law s. 2(b) (item 8). The only link to the case is the chair's stated wish that the court 'understand the direction', which is motive and is excluded. I looked for direct legal effect in the enactment's text, in s. 21A and Penal Law s. 2 as they stood, and in the protocols the reader cites, and did not search court records.",
+   "frame_seq": 99
+  },
+  {
+   "question": "Q3",
+   "enactment": 95,
+   "variable": "situated_beneficiary",
+   "value": "Yes",
+   "reading_adopted": "Item 4 is not met by a provision keyed to a budget year or a named budget, which like a Knesset's term covers whichever government holds office then, so partial sharing defeats it; item 3 is met where the enactment itself moves a fixed deadline then running against the sitting government, and the unshared alteration is the move of that deadline, which a successor operating under the new date does not share.",
+   "reason": "Section 5(b) sets s. 36A aside and fixes the determining day for the 2015-2016 budget at 19 November 2015. Under s. 36A(b) as then in force (he.wikisource revision 596029, 27.1.2015) the determining day was the later of three months into the fiscal year or 100 days from formation (earlier if the budget was tabled before day 55), so for the 34th government, formed 14.5.2015 (Knesset government record, archive capture 19.5.2015), it fell no later than about 22 August 2015; that deadline bound the sitting government, and its move belongs to that government alone, even though a successor formed before November would have faced the new date, while s. 5(a) also fixes its tabling date at 31 August 2015. Item 4 is not met, for the reason given for seq 85. Yes under item 3: the 34th government; matter: the determining day for its 2015-2016 budget; fact: s. 5, dated 7.7.2015; source: ס״ח 2494, 9.7.2015, p. 194 (https://web.archive.org/web/20250124104742/https://fs.knesset.gov.il//20/law/20_lsr_312983.pdf).",
+   "frame_seq": 95
+  },
+  {
+   "question": "Q3",
+   "enactment": 111,
+   "variable": "situated_beneficiary",
+   "value": "No",
+   "reading_adopted": "Item 4 is not met by a provision keyed to a budget year or a named budget, which like a Knesset's term covers whichever government holds office then, so partial sharing defeats it; item 3 is met where the enactment itself moves a fixed deadline then running against the sitting government, and the unshared alteration is the move of that deadline, which a successor operating under the new date does not share.",
+   "reason": "The amended scheme runs to 31 December 2020 or the 2020 budget law and authorises 'the government', whichever holds office. It was enacted on 7 April 2020, before the sitting government was formed on 17 May 2020 (J. Weekly, per the reader), so it is neither that government's own measure nor confined to its term, and item 4 fails as it did for a Knesset-term sunset. The new 15 July 2020 date for an updated plan creates a duty rather than moving a fixed deadline, so item 3 fails, and the reader found no item 1 or 2 fact; I looked at the gazette text (ס״ח 2796, 2.6.2020, p. 46) and the reader's dated press.",
+   "frame_seq": 111
+  },
+  {
+   "question": "Q3",
+   "enactment": 114,
+   "variable": "situated_beneficiary",
+   "value": "No",
+   "reading_adopted": "Item 4 is not met by a provision keyed to a budget year or a named budget, which like a Knesset's term covers whichever government holds office then, so partial sharing defeats it; item 3 is met where the enactment itself moves a fixed deadline then running against the sitting government, and the unshared alteration is the move of that deadline, which a successor operating under the new date does not share.",
+   "reason": "The text only raises the August 2020 crisis share to 3.5 percent and the National Insurance indemnity to NIS 18.9 billion within the same year-keyed scheme, so item 4 fails for the reasons given for seq 111. It moves no deadline, so item 3 fails, and no item 1 or 2 fact was found. I looked at the gazette text (ס״ח 2833, 29.7.2020, p. 294, https://web.archive.org/web/2/https://fs.knesset.gov.il/23/law/23_lsr_578523.pdf) and the reader's notes.",
+   "frame_seq": 114
+  },
+  {
+   "question": "Q3",
+   "enactment": 118,
+   "variable": "situated_beneficiary",
+   "value": "No",
+   "reading_adopted": "Item 4 is not met by a provision keyed to a budget year or a named budget, which like a Knesset's term covers whichever government holds office then, so partial sharing defeats it; item 3 is met where the enactment itself moves a fixed deadline then running against the sitting government, and the unshared alteration is the move of that deadline, which a successor operating under the new date does not share.",
+   "reason": "The temporary provision runs from commencement to 31 December 2021 or the 2021 budget law and authorises 'the government' to spend up to NIS 52.3 billion. With the 23rd Knesset dissolved on 23 December 2020 (Globes, per the reader), a government formed after the elections would operate under it, so it is keyed to the fiscal year rather than to the sitting government's measure or term, and item 4 fails. The permanent s. 3B regime is general and shared, as the reader says, and the text moves no fixed deadline binding the sitting government, so item 3 fails, and no item 1 or 2 fact was found; I looked at the gazette text (ס״ח 2889, 29.12.2020, p. 252) and the reader's dated press.",
+   "frame_seq": 118
+  }
+ ],
+ "note": "Filed from adjudications-redraw-all.json by analysis/split_adjudication.py; 'enactment' is the number under which batch 6 filed the row, 'frame_seq' the corrected frame's."
+}

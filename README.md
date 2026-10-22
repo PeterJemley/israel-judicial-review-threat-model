@@ -10,6 +10,9 @@ The note separates the article's existential-threat sentence into four claims, s
 - [codebook/m4-codebook.csv](codebook/m4-codebook.csv): the M4 codebook as data, blind-recoded on 22 October 2026 under the revised T1; a blank cell is a value no permitted source settled. The table it replaced is kept beside it as `m4-codebook-illustrative-2026-10-22.csv`. See [codebook/README.md](codebook/README.md).
 - [analysis/](analysis/): the exact permutation test, the detectability check and the script that assembles the codebook from the coding files.
 - [research/coding-2026-10-22/](research/coding-2026-10-22/): the coding sheet, both coders' sheets, the adjudications, the docket reader's outcomes, and [results.md](research/coding-2026-10-22/results.md), the first run's result: inconclusive before outcomes, on one discordant row against a minimum of six.
+- [codebook/comparison-sample.csv](codebook/comparison-sample.csv): the comparison sample, 39 unchallenged laws titled Basic Law, every third from the first in chronological order, coded on the same columns. See [research/coding-sample-2026-10-22/README.md](research/coding-sample-2026-10-22/README.md).
+- [research/frame/](research/frame/): the frame of every law titled Basic Law since 1958 (130 rows), the challenges marked, the draw and its verification.
+- [research/coding-sample-2026-10-22/](research/coding-sample-2026-10-22/): the comparison sample's coding sheets, every role's reports, the adjudications and the one-vote check.
 - [research/](research/): working notes from source searches, kept for provenance. They are unverified until applied to the note.
 
 ## Status

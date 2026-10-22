@@ -1,0 +1,26 @@
+{
+ "adjudications": [
+  {
+   "item": 1,
+   "enactment": 70,
+   "variable": "deviation_tier",
+   "value": "Limited",
+   "source": "Gazette text, https://web.archive.org/web/20160304225955/http://fs.knesset.gov.il/15/law/15_lsr_300551.pdf",
+   "support": "בסעיף 7(4), במקום \"יושב ראש הועדה\" יבוא \"יושב ראש הועדה, נציב תלונות הציבור על שופטים\"",
+   "reason": "The amendment adds the Ombudsman for Public Complaints against Judges, alongside the committee chair, to those who may propose a judge's removal under s. 7(4). It therefore engages an independent judiciary, with the removal of judges as principal subject, and None is unavailable because the seq 19 and 31 rulings reserve None for a text that engages no value. Widening the routes by which removal can be set in motion lessens judges' security of tenure; that is a contradiction of the value rather than a rearrangement of it, and nothing in the text entrenches it. It is limited, not sharp, because the decision stays with the Judges' Selection Committee under its unchanged decision rule. I adopt Coder A's reading; Coder B's own note concedes Limited if an added initiator of removal counts as a contradiction, and I hold that it does.",
+   "frame_seq": 76
+  },
+  {
+   "item": 2,
+   "enactment": 70,
+   "variable": "direction",
+   "value": "Illiberal",
+   "source": "Gazette text, https://web.archive.org/web/20160304225955/http://fs.knesset.gov.il/15/law/15_lsr_300551.pdf",
+   "support": "s. 7(4): a proposal to end a judge's tenure may now also come from the Ombudsman for Public Complaints against Judges; decision rule unchanged.",
+   "reason": "The principal subject is the removal of judges, and the one axis engaged is judicial independence. On the item 1 ruling the text narrows that independence by adding an initiator of removal, and the definition codes such a narrowing Illiberal however marginal. Neutral is for texts that engage none of the axes, and changing who may set a judge's removal in motion is not procedural housekeeping, even though the decision rule is unchanged; coding Neutral would also contradict the Limited finding on the same text, so I adopt Coder A's value.",
+   "frame_seq": 76
+  }
+ ],
+ "interpretive_rulings": [],
+ "note": "Filed from adjudications-redraw-all.json by analysis/split_adjudication.py; 'enactment' is the number under which batch 2 filed the row, 'frame_seq' the corrected frame's."
+}

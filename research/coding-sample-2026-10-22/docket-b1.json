@@ -1,0 +1,177 @@
+{
+ "1": {
+  "litigation_timing": {
+   "value": "No",
+   "source": "Hebrew Wikipedia article 'חוק יסוד: הכנסת' (raw wikitext via he.wikipedia.org API, read 2026-10-22), section 'היסטוריה חקיקתית עד לחקיקת חוק היסוד'; Hebrew Wikisource 'חוק-יסוד: הכנסת' raw text (read 2026-10-22) for the enacted provisions; web search 2026-10-22 for: בג\"ץ 1958 1959 \"חוק-יסוד: הכנסת\" עתירה בחירות לכנסת בית המשפט העליון פסק דין \"ועדת הבחירות\" 1958 OR 1959 OR 1967 \"יושב ראש הכנסת\" עתירה.",
+   "support": "Enacted 1958-02-12 by the Third Knesset (96 in favour, none against) under the Harari resolution, replacing the Transition Law provisions that fixed the election date; the article's legislative history names no petition, and the web search returned no 1958 Supreme Court matter on the Knesset's composition, elections, term or immunity. No pending petition or appeal bearing on those subjects was located.",
+   "note": "Not a response to any judgment; none identified."
+  },
+  "outcome": {
+   "value": "Not challenged",
+   "judgment_date": null,
+   "note": "verified 2026-10-22"
+  }
+ },
+ "4": {
+  "litigation_timing": {
+   "value": "No",
+   "source": "Hebrew Wikisource 'חוק-יסוד: הכנסת' raw text (read 2026-10-22): the amendment marker תשי״ט־3 (Amendment No. 3) appears only on section 46 'מתי דרוש רוב מיוחד'; the page header lists Amendment No. 3 at ס״ח תשי״ט 210; web search 2026-10-22 as for seq 1 (terms including 1959 and \"חוק-יסוד: הכנסת\" עתירה).",
+   "support": "Amendment No. 3 (passed 1959-08-06) added section 46: the majority required to change sections 4, 44 or 45 is required for plenum decisions at the first, second and third readings, 'change' meaning express or implied. No petition concerning entrenchment or the special-majority rule was pending in August 1959 that could be located; the first such litigation (HCJ 98/69 Bergman) came a decade later.",
+   "note": "Not a response to any judgment; none identified."
+  },
+  "outcome": {
+   "value": "Not challenged",
+   "judgment_date": null,
+   "note": "verified 2026-10-22"
+  }
+ },
+ "7": {
+  "litigation_timing": {
+   "value": "No",
+   "source": "Hebrew Wikisource 'חוק-יסוד: הכנסת' raw text (read 2026-10-22): the marker תשכ״ז (Amendment No. 4, ס״ח תשכ״ז 24) appears only on section 20A 'ממלא מקום של יושב ראש הכנסת ויושב ראש הכנסת בפועל'; web search 2026-10-22 as for seq 1 (terms including 1967 \"יושב ראש הכנסת\" עתירה).",
+   "support": "Amendment No. 4 (passed 1967-03-14) added section 20A: a Deputy Speaker chosen by the House Committee acts for the Speaker when the Speaker is abroad or temporarily unable to serve, and serves as acting Speaker when the office falls vacant. No pending petition or appeal concerning the Speaker's office or its substitution was located.",
+   "note": "Not a response to any judgment; none identified."
+  },
+  "outcome": {
+   "value": "Not challenged",
+   "judgment_date": null,
+   "note": "verified 2026-10-22"
+  }
+ },
+ "10": {
+  "litigation_timing": {
+   "value": "No",
+   "source": "Nevo consolidated text of חוק-יסוד: הממשלה, תשכ\"ח-1968 (www.nevo.co.il/law_html/law19/btl0630.htm), read 2026-10-22 from the Wayback Machine capture of 2022-05-26 (the live Nevo page and the Knesset sites were unreachable): marker 'מיום 2.8.1973 תיקון מס' 1 ס\"ח תשל\"ג מס' 711 עמ' 236 (ה\"ח 1071)' on section 5(b); web searches 2026-10-22 for: \"חוק-יסוד: הממשלה (תיקון)\" תשל\"ג 1973 ס\"ח 711, and: חוק יסוד הממשלה 1968 תיקון ראשון 1973 \"תשל\"ג\" שר סגן שר.",
+   "support": "The 1973 amendment (Amendment No. 1 in Nevo's numbering; bill ה\"ח 1071) amended section 5(b), the qualification of ministers: the Prime Minister must be an MK; another minister may be a non-MK if an Israeli citizen and resident; one who becomes a minister while holding an office whose holders are barred from Knesset candidacy ceases to hold it; a judge, a dayan or an IDF career officer may not become a minister unless he left that office at least 100 days earlier. No petition or appeal concerning ministers' qualifications or cooling-off was found pending on 1973-07-23.",
+   "note": "Not a response to any judgment; none identified. Nevo shows only the post-amendment wording of s. 5(b); which words were new in 1973 was not determined because the 1968 original and the 1973 PDF on the Knesset site were unreachable."
+  },
+  "outcome": {
+   "value": "Not challenged",
+   "judgment_date": null,
+   "note": "verified 2026-10-22"
+  }
+ },
+ "13": {
+  "litigation_timing": {
+   "value": "No",
+   "source": "Hebrew Wikipedia article 'חוק יסוד: הצבא' (raw wikitext, read 2026-10-22), lead and 'היסטוריה חקיקתית' quoting the bill's explanatory notes; web search 2026-10-22 for: \"חוק-יסוד: הצבא\" 1976 ועדת אגרנט בג\"ץ עתירה רמטכ\"ל כפיפות שר הביטחון בית המשפט העליון 1975 1976.",
+   "support": "Passed 1976-03-31 by the Eighth Knesset following the Agranat Commission's findings on the absence of statutory provisions on the army's subordination to the government and the Chief of Staff's status; the explanatory notes cite the commission, not any court proceeding. The search found no 1975-76 petition on civil-military subordination or the Chief of Staff's appointment.",
+   "note": "Not a response to any judgment; prompted by the Agranat Commission report, not a court."
+  },
+  "outcome": {
+   "value": "Not challenged",
+   "judgment_date": null,
+   "note": "verified 2026-10-22"
+  }
+ },
+ "16": {
+  "litigation_timing": {
+   "value": "No",
+   "source": "Hebrew Wikipedia article 'חוק-יסוד: ירושלים בירת ישראל' (raw wikitext, read 2026-10-22), sections 'היסטוריה' and 'תוצאות חקיקת החוק'; web search 2026-10-22 for: בג\"ץ 1980 ירושלים עתירה תלויה ועומדת חוק יסוד ירושלים בירת ישראל יולי 1980 בית המשפט העליון מזרח ירושלים.",
+   "support": "Private member's bill of MK Geula Cohen tabled 1980-05-14 and passed 1980-07-30; the article describes the law as essentially declaratory, with the legal status of East Jerusalem unchanged since the 1967 order under s. 11B of the Law and Administration Ordinance. Neither the article nor the search disclosed any petition pending in July 1980 whose outcome the law's provisions (capital, seat of institutions, holy places, development) would affect.",
+   "note": "Not a response to any judgment; none identified."
+  },
+  "outcome": {
+   "value": "Not challenged",
+   "judgment_date": null,
+   "note": "verified 2026-10-22"
+  }
+ },
+ "19": {
+  "litigation_timing": {
+   "value": "No",
+   "source": "Hebrew Wikisource 'חוק-יסוד: משק המדינה' raw text (read 2026-10-22): marker תשמ״ב on section 1 (taxes, compulsory loans and fees) and section 3 (state budget); header lists the amendment at ס״ח תשמ״ב 170; web searches 2026-10-22 for: \"חוק-יסוד: משק המדינה (תיקון)\" תשמ\"ב 1982 סעיף 1 אגרות תשלומי חובה תקנות אישור ועדת הכספים, and: \"חוק-יסוד: משק המדינה\" \"סעיף 1\" בג\"ץ 1981 1982 אגרה תשלום חובה \"לא יוטלו\" תקנות ללא אישור ועדת הכספים פסק דין; Hebrew Wikipedia search 2026-10-22 for \"חוק-יסוד: משק המדינה\" בג\"ץ 1982.",
+   "support": "The 1982 amendment (passed 1982-05-24) touched s. 1 (rule that taxes, compulsory payments and fees are imposed only by or under law; s. 1(b) requiring Knesset or committee approval of rate-setting regulations) and s. 3 (budget). No petition or appeal about fees or compulsory payments imposed without statutory authority or committee approval, or about the budget procedure, was found pending in May 1982.",
+   "note": "Not a response to any judgment; none identified. The precise words changed in 1982 were not read (Knesset PDF unreachable)."
+  },
+  "outcome": {
+   "value": "Not challenged",
+   "judgment_date": null,
+   "note": "verified 2026-10-22"
+  }
+ },
+ "22": {
+  "litigation_timing": {
+   "value": "No",
+   "source": "Nevo consolidated text of the 1968 Government law (Wayback capture 2022-05-26, read 2026-10-22): markers 'מיום 21.9.1984 תיקון מס' 4 ס\"ח תשמ\"ד מס' 1124 עמ' 220 (ה\"ח 1694)' on s. 5(d) ('הוספת סעיף קטן 5(ד)') and s. 19 ('החלפת סעיף 19'); Hebrew Wikipedia article 'ממלא מקום ראש הממשלה' (raw wikitext, read 2026-10-22); web searches 2026-10-22 for: חוק-יסוד: הממשלה (תיקון מס' 4) התשמ\"ד-1984 ממלא מקום ראש הממשלה רוטציה ממשלת אחדות ספטמבר 1984, and: בג\"ץ 1984 ממשלת אחדות לאומית רוטציה עתירה ממלא מקום ראש הממשלה שמיר פרס ספטמבר 1984 בית המשפט העליון.",
+   "support": "Amendment No. 4 (passed 1984-09-13, the day the Peres-Shamir rotation government was sworn in) added s. 5(d), allowing one minister who is an MK to be designated Acting Prime Minister, and replaced s. 19 so that the designated Acting PM serves when the PM is abroad or temporarily unable to act. No petition concerning the rotation agreement, the designation of an Acting PM or the government's formation was found pending on that date (the political-agreement petitions on these themes came in 1990).",
+   "note": "Not a response to any judgment; none identified."
+  },
+  "outcome": {
+   "value": "Not challenged",
+   "judgment_date": null,
+   "note": "verified 2026-10-22"
+  }
+ },
+ "25": {
+  "litigation_timing": {
+   "value": "No",
+   "source": "Hebrew Wikipedia article 'חוק יסוד: מבקר המדינה' (raw wikitext, read 2026-10-22), lead and 'היסטוריה חקיקתית' (government bill ה\"ח 1707 of 1985-01-01, passed 1988-02-15); web search 2026-10-22 for: \"חוק-יסוד: מבקר המדינה\" 1988 בג\"ץ עתירה תלויה ועומדת מבקר המדינה 1987 1988 בית המשפט העליון ביקורת.",
+   "support": "The Basic Law consolidated the constitutional provisions on the State Comptroller (functions, election, independence, term) from the State Comptroller Law; the article's history names no court proceeding, and the search found no petition pending in February 1988 on the Comptroller's status, powers or election.",
+   "note": "Not a response to any judgment; none identified."
+  },
+  "outcome": {
+   "value": "Not challenged",
+   "judgment_date": null,
+   "note": "verified 2026-10-22"
+  }
+ },
+ "28": {
+  "litigation_timing": {
+   "value": "Yes",
+   "source": "Text of the enactment: Knesset PDF fs.knesset.gov.il/12/law/12_lsr_210826.pdf read 2026-10-22 from the Wayback capture of 2021-05-12 (id_ raw copy, text extracted with PDFKit), passage line 'נתקבל ביום כ\"ח בשבט התשנ\"א (12 בפברואר 1991)', bill ה\"ח 1998 of 1990-06-25; Nevo 1968 Government text (Wayback 2022-05-26) listing this as Government Amendment No. 6, ס\"ח 1345 p. 91. Litigation: Hebrew Wikipedia article 'בג\"ץ שליט נגד פרס' (raw wikitext, read 2026-10-22; infobox date 8 May 1990, PD 44(3) 353, panel Shamgar, Barak, Goldberg); Hebrew Wikipedia article 'המפלגה לקידום הרעיון הציוני' (read 2026-10-22; the 11 April 1990 Likud agreement, list places, ministerial posts and financial guarantees, cited to HCJ 1635/90); Hebrew Wikipedia search for '1635/90' (2026-10-22) and the article 'היועץ המשפטי לממשלה', footnote: 'בג\"ץ 1635/90 יוסף ז'רז'בסקי נגד ראש הממשלה, מר יצחק שמיר ואחרים, ניתן ב-25 בפברואר 1991, פ\"ד מה(1), עמ' 801'; Cambridge Israel Law Review abstract 'Yosef Zerzevsky v. The Prime Minister (1991) 45(i) P.D. 749: A Summary' (read 2026-10-22; describes the petition, gives no date); Versa search for 'Zersevsky' (2026-10-22): no results; web searches 2026-10-22 for: בג\"ץ 1635/90 ז'רז'בסקי נ' ראש הממשלה פסק דין ניתן ביום 1991 הסכם קואליציוני; Zerzevsky v. Prime Minister HCJ 1635/90 Versa decision date 1991; בג\"ץ 1601/90 שליט נ' פרס ניתן ביום מאי 1990; בג\"ץ 1990 עתירה אפרים גור סגן שר הסכם ליכוד \"התנועה למען איכות השלטון\" כלנתריזם.",
+   "support": "Amendment No. 12 (passed 1991-02-12) is the 'dirty trick' legislation: s. 1 adds s. 6A to Basic Law: The Knesset (an MK who left his faction without resigning may not stand at the next election on a list of a faction of the outgoing Knesset; 'leaving' includes voting against the faction in a confidence vote for consideration; 'consideration' includes a promised list place or appointment); s. 2 amends the Knesset Elections Law (faction splits, House Committee determination with appeal to the Jerusalem District Court, s. 57A ban on list-place agreements before the 90th day before elections); s. 3 amends Basic Law: The Government: s. 5(b1) (defector may not be a minister in that Knesset), s. 13A (agreements on ministerial or deputy-ministerial office only by authorized faction representatives; no agreement not to remove a person from office; no guarantee in money, money's worth, service or any benefit to secure such an agreement, any such guarantee void), s. 13B (coalition agreements to be deposited with the Knesset Secretary within three days and before the government presents itself), s. 34(b) (defector may not be deputy minister). HCJ 1635/90 Zerzevsky v. Prime Minister, PD 45(1) 749, a petition by a Likud Central Committee member to set aside the Likud's 11 April 1990 agreement with Modai's 'Party for the Advancement of the Zionist Idea' (list places, ministerial posts, financial guarantees), was decided 25 February 1991, thirteen days after passage, so it was pending before the Supreme Court when the amendment passed, and it concerned the rule the amendment changed (the validity of political agreements on office backed by guarantees, the subject of the new s. 13A(c)). The amendment also followed a judgment already given: HCJ 1601/90 Shalit v. Peres, PD 44(3) 353, judgment 8 May 1990, which ordered publication of coalition agreements and which the new s. 13B codifies.",
+   "note": "Pending: HCJ 1635/90 Zerzevsky v. Prime Minister, judgment 1991-02-25 (date from a single secondary source; see deviations). Judgment already given and responded to by s. 13B: HCJ 1601/90 Shalit v. Peres, 1990-05-08. If Zerzevsky was in fact decided before 1991-02-12 the value becomes No."
+  },
+  "outcome": {
+   "value": "Not challenged",
+   "judgment_date": null,
+   "note": "verified 2026-10-22"
+  }
+ },
+ "31": {
+  "litigation_timing": {
+   "value": "No",
+   "source": "Hebrew Wikisource 'חוק-יסוד: משק המדינה' raw text (read 2026-10-22): marker תשנ״ב (Amendment No. 4, ס״ח תשנ״ב 40) on section 3A 'תקציב רב-שנתי'; web searches 2026-10-22 for: \"חוק-יסוד: משק המדינה (תיקון מס' 4)\" תשנ\"ב 1991 תקציב רב-שנתי סעיף 3א, and: בג\"ץ 1992 תקציב המשכי \"חוק-יסוד: משק המדינה\" עתירה תקציב 1992 \"סעיף 3ב\" תקציב רב-שנתי 1991 עתירה.",
+   "support": "Amendment No. 4 (passed 1991-12-31) added s. 3A: the government prepares for each fiscal year a multi-year budget plan (the coming year's budget bill plus a plan for the two following years), tables it with the budget bill, and bases each budget bill on the previous year's plan. The searches found no petition pending in December 1991 on budget planning or the budget procedure; the only budget-related material was the 1991 change of the fiscal year, with no court proceeding mentioned.",
+   "note": "Not a response to any judgment; none identified."
+  },
+  "outcome": {
+   "value": "Not challenged",
+   "judgment_date": null,
+   "note": "verified 2026-10-22"
+  }
+ },
+ "35": {
+  "litigation_timing": {
+   "value": "No",
+   "source": "Second pass, whole law. Enactment: Nevo consolidated text of חוק-יסוד: הממשלה, תשנ\"ב-1992 (www.nevo.co.il/law_html/law19/btl0631.htm), read 2026-10-22 from the Wayback Machine capture of 2021-11-21 (section list; s. 17 פרסום הסכמים; s. 18 סייג להסכם, including s. 18(b) voiding any guarantee given to secure an agreement on office; s. 19 הבעת אי-אמון; ss. 20-22 dissolution; ss. 23-29 resignation, removal and acting PM; s. 58 amending Basic Law: The State Economy). Hebrew Wikipedia article 'חוק יסוד: הממשלה (1992)' (raw wikitext via API, read 2026-10-22), sections 'רקע' and the legislative-process paragraphs (preliminary reading of the four private bills 1990-03-19, first reading 1990-05-28, second/third readings begun 1992-01-02 to 01-07, bill returned to committee 1992-01-13, passed 1992-03-18). Litigation searches, all 2026-10-22: Hebrew Wikipedia API searches for 'בג\"ץ /91 ראש הממשלה עתירה 1991', 'בג\"ץ /92 ראש הממשלה 1992 עתירה שמיר', '\"1523/90\"', '\"פ\"ד מו\" בג\"ץ הממשלה 1992', '\"פ\"ד מה\" בג\"ץ ראש הממשלה 1991', 'בג\"ץ שמיר עתירה 1992 ממשלת מעבר', '\"לוי נ' ראש הממשלה\" 1990'; Hebrew Wikipedia articles read for lines citing בג\"ץ or עתירה: 'הכנסת השתים עשרה', 'ממשלת ישראל העשרים וארבע', 'הצעת אי-אמון', 'ממשלת מעבר', 'חוק יסוד: הכנסת', 'הסכם קואליציוני', 'בג\"ץ שליט נגד פרס', 'היועץ המשפטי לממשלה'; five WebSearch queries on 1992 petitions concerning the transitional government, dissolution, coalition agreements, appointments and the bill's legislative process (terms recorded in the reader's report).",
+   "support": "The law as passed on 1992-03-18 introduced direct election of the Prime Minister concurrent with Knesset elections, special elections, the 45-day presentation of a government requiring Knesset confidence, ministers' qualifications, publication of coalition agreements (s. 17) and restrictions on agreements about office with guarantees declared void (s. 18), no-confidence in the PM by 61 members entailing the Knesset's dissolution (s. 19), dissolution for failure to pass the budget (s. 20), the PM's power to dissolve the Knesset with the President's consent (s. 22), removal of the PM, an acting PM, and, by s. 58, the continuing-budget rule in Basic Law: The State Economy s. 3B. None of the sources or searches disclosed any petition or appeal pending before the Supreme Court on 1992-03-18 concerning government formation, coalition agreements, no-confidence, dissolution, the transitional government's powers or the Prime Minister's powers; the only Supreme Court matters on these subjects located for 1990-92 are HCJ 1601/90 Shalit v. Peres (judgment 1990-05-08) and HCJ 1635/90 Zerzevsky v. Prime Minister (judgment 1991-02-25), both already decided. The first-pass finding for s. 58 (no pending petition on the continuing budget) stands.",
+   "note": "Judgments already given that the law responded to, through ss. 17-18 carried forward from Basic Law: The Knesset (Amendment No. 12) of 1991-02-12: HCJ 1601/90 Shalit v. Peres, PD 44(3) 353, judgment 1990-05-08 (publication of coalition agreements, codified in s. 17); HCJ 1635/90 Zerzevsky v. Prime Minister, PD 45(1) 749, judgment 1991-02-25 (validity of a political agreement backed by a financial guarantee, addressed by s. 18(b)). The principal reform, direct election of the Prime Minister, answered the 1990 political crisis rather than any judgment. HCJ 1523/90 Levi v. Prime Minister was not found in any source and is presumed decided in 1990-91; if it was still pending on 1992-03-18 the row should be recoded Yes.",
+   "first_pass_section_58_only": {
+    "value": "No",
+    "source": "Hebrew Wikisource 'חוק-יסוד: משק המדינה' raw text (read 2026-10-22): marker תשנ״ב־2 on section 3B 'אי קבלת חוק תקציב', header entry 'תשנ״ב 224 חוק-יסוד: הממשלה' (the 1992 law's s. 58); Hebrew Wikipedia search result 'חוק יסוד: הממשלה (1992)' (read 2026-10-22, lead); web search 2026-10-22 for: בג\"ץ 1992 תקציב המשכי \"חוק-יסוד: משק המדינה\" עתירה תקציב 1992 לא אושר במועד \"סעיף 3ב\".",
+    "support": "Section 58 of Basic Law: The Government (1992), passed 1992-03-18, inserted s. 3B into Basic Law: The State Economy: if the budget law is not passed before the fiscal year begins, the government may spend each month one-twelfth of the previous year's budget (the continuing budget) and incur commitments within set limits. No petition on the continuing budget, on a budget not passed in time, or on the spending authority in such a year was found pending in March 1992. The principal subject of the 1992 law (direct election of the Prime Minister) is covered by another reader and was not coded here.",
+    "note": "Not a response to any judgment; none identified for s. 3B. [Orchestrator's note: the reader searched only the State Economy provision; the whole law's litigation timing is to be completed in a follow-up pass.]"
+   }
+  },
+  "outcome": {
+   "value": "Not challenged",
+   "judgment_date": null,
+   "note": "verified 2026-10-22"
+  }
+ },
+ "deviations": [
+  "Knesset sites unreachable on 2026-10-22: fs.knesset.gov.il PDFs, main.knesset.gov.il and the knesset.gov.il OData service all redirected to a geo-maintenance page. Only the 1991 Amendment No. 12 PDF was read, through its Wayback capture; the 1973 and 1982 amendment PDFs and the bills' explanatory notes were not read, so the exact words changed in 1973 (Government s. 5(b)) and 1982 (State Economy ss. 1 and 3) are stated from Nevo's and Wikisource's consolidated markers only.",
+  "Nevo: the live law page returned a script shell; the 1968 Government text was read from the Wayback capture of 2022-05-26 (the first Wayback request returned HTTP 000, later requests succeeded). Nevo judgment pages guessed for PD 45(1) 749 returned HTTP 500; Nevo's case search (login) was not run.",
+  "supremedecisions.court.gov.il was not searched: its coverage begins in 1997, after every enactment in this batch. Versa's full-text search for 'Zersevsky' returned no results; no English translation of Zerzevsky was found.",
+  "Seq 28: the Zerzevsky judgment date (25 February 1991) rests on one secondary source, a footnote in the Hebrew Wikipedia article 'היועץ המשפטי לממשלה' citing PD 45(1) 749 at 801. The Cambridge Israel Law Review abstract gives no date and its full text is paywalled. A reviewer should confirm the date against the PD report or Nevo; if the judgment predates 1991-02-12, seq 28 should be recoded No as a response to judgments already given (Shalit, 1990-05-08; Zerzevsky).",
+  "Seq 28: other 1990 petitions on political agreements (for example HCJ 1523/90 Levi v. Prime Minister) were not checked for pendency on 1991-02-12; none is needed for the Yes coding but a reviewer may wish to list them. No petition against MK Efraim Gur's 1990 deputy-ministerial appointment was found in the searches run.",
+  "For the 1958-1988 enactments (seq 1, 4, 7, 10, 13, 16, 19, 22, 25) no online docket covers the period; the No codings rest on web searches and the Hebrew Wikipedia legislative histories listed, which disclosed no pending petition. Absence of a found petition is weaker evidence for these years than for the 1991-92 items.",
+  "Searches were run with the WebSearch tool, Hebrew Wikipedia and Wikisource API fetches, and curl; no files were written. The search engine behind WebSearch did not honour quoted phrases or OR operators reliably, so several Hebrew queries returned unrelated results; the terms are recorded as entered.",
+  "Seq 35, second pass (whole law): Knesset sites geo-blocked, so the bill, the Constitution Committee record and the plenum record of 1992-03-18 were not read; a pending petition mentioned only in those debates would have been missed.",
+  "Seq 35, second pass: no searchable docket covers March 1992 (supremedecisions begins in 1997; Nevo's case search needs a login; Nevo judgment pages guessed by PD citation returned HTTP 500); the No coding rests on web searches and Hebrew Wikipedia case citations.",
+  "Seq 35, second pass: HCJ 1523/90 Levi v. Prime Minister was not found in any source searched, so its judgment date is unconfirmed; presumed decided in 1990-91 from its number and companions.",
+  "Seq 35, second pass: the Nevo Wayback capture of the 1992 law was served with an HTTP 503 wrapper but full content; the section list and ss. 18-19 were read, the rest not in full."
+ ]
+}

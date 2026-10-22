@@ -1,0 +1,56 @@
+{
+ "rows": 9,
+ "primary_rows_coded": 5,
+ "K_adverse": 4,
+ "discordant": 1,
+ "D_A": 1,
+ "D_N": 0,
+ "discordant_rows": [
+  [
+   "6",
+   "Basic Law: The Knesset (Amendment No. 50",
+   "Adverse",
+   "Not adverse",
+   "purpose-driven"
+  ]
+ ],
+ "uncoded_or_excluded": [
+  [
+   "1",
+   "uncoded",
+   "Yes"
+  ],
+  [
+   "2",
+   "uncoded",
+   "No"
+  ],
+  [
+   "3",
+   "uncoded",
+   "No"
+  ],
+  [
+   "8",
+   "uncoded",
+   "Yes"
+  ]
+ ],
+ "detectability": {
+  "N": 5,
+  "K": 4,
+  "D_A": 1,
+  "D_N": 0,
+  "discordant": 1,
+  "null_mean": 0.6,
+  "S_max_attainable": 1,
+  "p_at_S_max": 1.0,
+  "S_min_attainable": -1,
+  "p_at_S_min": 0.4,
+  "exact_type_one_rate": 0,
+  "supported_detectable": false,
+  "refuted_detectable": false,
+  "minimum_six_met": false,
+  "verdict_before_outcomes": "Inconclusive, declared before outcomes"
+ }
+}

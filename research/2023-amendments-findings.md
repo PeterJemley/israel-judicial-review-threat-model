@@ -1,4 +1,4 @@
-# Agent findings: the two 2023 amendments (researched 2026-10-21, not yet applied to the note)
+# Agent findings: the two 2023 amendments (researched 2026-10-21; applied to the note and the codebook on 2026-10-21 and 2026-10-22; kept for provenance)
 
 Sources: Versa translation of Hayut's majority opinion and the official abstract in HCJ 5658/23; IDI; Times of Israel; Jerusalem Post; Kohelet. No Knesset-website vote record found for either amendment.
 

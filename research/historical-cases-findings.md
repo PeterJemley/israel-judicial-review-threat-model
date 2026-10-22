@@ -1,4 +1,4 @@
-# Agent findings: six historical enactments (researched 2026-10-21, not yet applied to the note)
+# Agent findings: six historical enactments (researched 2026-10-21; applied to the note and the codebook on 2026-10-21 and 2026-10-22; kept for provenance)
 
 Unverified working notes kept for provenance. Access note: every Knesset website URL redirected to a maintenance page during the search, so Knesset plenum vote records and law PDFs could not be read. Haaretz, Israel Hayom and gov.il election pages returned 403. Where Hebrew Wikipedia, Wikisource, Nevo or Hebrew press were used, the line says so.
 

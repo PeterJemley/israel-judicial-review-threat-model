@@ -20,6 +20,8 @@ Conjecture. Nothing in the note is a finding. T1 was run once, on 22 October 202
 
 Issue 6, pinned: every Knesset website has been unreachable from this project since it began, so the search for the unit, the vote records for four rows and the bill texts were all done without it. It gates the comparison sample and the two 2023 rows, and it takes precedence over the other open issues.
 
+The rest of the research queue is the open issues labelled `verification` (as of 22 October 2026, issues 2, 4 and 7 to 15: the unit, the comparison sample, the 2025 row, judgments still unread, the Court's stated signs checked against the judgments, docket searches, and press-sourced values to replace), one `enhancement` (issue 16, descriptive columns) and one `design` question the note must settle before test T4 runs (issue 17). Each issue states the cells affected, the problem, the check, and the stopping rule.
+
 ## Criticism
 
 Open an issue. A refutation is worth as much as a confirmation here, and the note says what would count as one for each conjecture.

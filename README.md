@@ -7,12 +7,14 @@ The note separates the article's existential-threat sentence into four claims, s
 ## Contents
 
 - [medina-threat-conjecture-note.md](medina-threat-conjecture-note.md): the note. Its last section is a dated change log.
-- [codebook/m4-codebook.csv](codebook/m4-codebook.csv): the M4 codebook as data. Blank cells are not yet coded. See [codebook/README.md](codebook/README.md).
+- [codebook/m4-codebook.csv](codebook/m4-codebook.csv): the M4 codebook as data, blind-recoded on 22 October 2026 under the revised T1; a blank cell is a value no permitted source settled. The table it replaced is kept beside it as `m4-codebook-illustrative-2026-10-22.csv`. See [codebook/README.md](codebook/README.md).
+- [analysis/](analysis/): the exact permutation test, the detectability check and the script that assembles the codebook from the coding files.
+- [research/coding-2026-10-22/](research/coding-2026-10-22/): the coding sheet, both coders' sheets, the adjudications, the docket reader's outcomes, and [results.md](research/coding-2026-10-22/results.md), the first run's result: inconclusive before outcomes, on one discordant row against a minimum of six.
 - [research/](research/): working notes from source searches, kept for provenance. They are unverified until applied to the note.
 
 ## Status
 
-Conjecture, untested. Nothing in the note is a finding. The four tests are designs. Each revision is a commit; substantive changes are also logged in the note's change log with the date and reason.
+Conjecture. Nothing in the note is a finding. T1 was run once, on 22 October 2026, on nine blind-recoded rows, and was inconclusive under its pre-registered rule before any outcome was looked at: one discordant row against a minimum of six. The other three tests are designs. Each revision is a commit; substantive changes are also logged in the note's change log with the date and reason.
 
 ## Criticism
 

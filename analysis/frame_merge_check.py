@@ -10,9 +10,17 @@ Usage: python3 frame_merge_check.py FRAME_DIR FRAME_CSV OUT_JSON
 """
 import sys, json, csv, io, os, re, glob
 sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
-from build_frame import gazette_key, subject_of, amendment_no
+from build_frame import subject_of, amendment_no
 
 PDF = re.compile(r"(\d+_lsr_\d+)\.pdf")
+DIGITS = re.compile(r"\d+")
+
+def gazette_key(g):
+    """The key the frame was first built on, kept here as the record of the defect: the first two
+    numbers of two or more digits in the gazette reference (issue and page, or issue and a date
+    where the page has one digit). build_frame.py no longer uses it."""
+    nums = [n for n in DIGITS.findall(g or "") if len(n) >= 2]
+    return tuple(nums[:2]) if len(nums) >= 2 else None
 
 def law_id(e):
     return (subject_of(e.get("title_he")), amendment_no(e.get("title_he")))

@@ -1,0 +1,26 @@
+{
+ "rule": "Change log (al), 22 October 2026. Laws passed on the same day and printed on the same gazette page are ordered as the gazette prints them, read from the issue's table of contents or from a footnote in which one law cites the other's page as an earlier amendment. Where neither shows it, laws amending the same Basic Law follow their published amendment numbers, and laws amending different Basic Laws follow the order of their bills (Bills issue, then page). Laws on the same page passed on different days need no entry: the passage date orders them.",
+ "pages": [
+  {"gazette": ["1016", "168"], "date": "1981-04-01",
+   "order": [{"subject": "Knesset", "amendment_no": "7", "pdf": "9_lsr_211790"}, {"subject": "Knesset", "amendment_no": "8", "pdf": "9_lsr_208448"}],
+   "basis": "printed order: Amendment No. 8's footnote 1 lists the Knesset law's amendments ending 'התשמ\"א, עמ' 168', i.e. No. 7 on the same page"},
+  {"gazette": ["1568", "112"], "date": "1996-02-28",
+   "order": [{"subject": "Knesset", "amendment_no": "21", "pdf": "13_lsr_211240"}, {"subject": "Knesset", "amendment_no": "22", "pdf": "13_lsr_211241"}],
+   "basis": "printed order: Amendment No. 22's footnote 1 ends 'התשנ\"ו, עמ' 112', i.e. No. 21 on the same page"},
+  {"gazette": ["1568", "113"], "date": "1996-02-28",
+   "order": [{"subject": "Government", "amendment_no": "4", "pdf": "13_lsr_211242"}, {"subject": "Government", "amendment_no": "5", "pdf": "13_lsr_211243"}],
+   "basis": "amendment numbers: neither footnote cites the other and no table of contents was read; same Basic Law, so published numbering (No. 4, then No. 5). Bill order would reverse it (No. 5's bill is ה\"ח 2507, 21.2.1996, p. 560; No. 4's is ה\"ח 2514, 28.2.1996, p. 576)"},
+  {"gazette": ["1582", "234"], "date": "1996-03-12",
+   "order": [{"subject": "Knesset", "amendment_no": "23", "pdf": "13_lsr_211292"}, {"subject": "President", "amendment_no": "3", "pdf": "13_lsr_211291"}],
+   "basis": "bill order: neither footnote cites the other and no table of contents was read; the Knesset amendment's bill is ה\"ח 2497 (19.2.1996, p. 529), the President amendment's ה\"ח 2508 (26.2.1996, p. 562)"},
+  {"gazette": ["1809", "2"], "date": "2001-10-16",
+   "order": [{"subject": "Knesset", "amendment_no": "34", "pdf": "15_lsr_300419"}, {"subject": "President", "amendment_no": "6", "pdf": "15_lsr_300418"}],
+   "basis": "bill order: neither footnote cites the other and no table of contents was read; both come from ה\"ח 3027 (23.7.2001), the Knesset amendment at p. 763 and the President amendment at p. 764"},
+  {"gazette": ["1898", "524"], "date": "2003-07-28",
+   "order": [{"subject": "President", "amendment_no": "6", "pdf": "16_lsr_299861"}, {"subject": "President", "amendment_no": "7", "pdf": "16_lsr_299862"}],
+   "basis": "printed order: Amendment No. 7's footnote 1 ends 'התשס\"ב, עמ' 2; התשס\"ג, עמ' 524', i.e. No. 6 on the same page"},
+  {"gazette": ["2715", "636"], "date": "2018-04-30",
+   "order": [{"subject": "Knesset", "amendment_no": "47", "pdf": "20_lsr_493816"}, {"subject": "Government", "amendment_no": "6", "pdf": "20_lsr_499367"}],
+   "basis": "printed order: the issue's table of contents lists 'חוק–יסוד: הכנסת (תיקון מס' 47)' then 'חוק–יסוד: הממשלה (תיקון מס' 6)', both at p. 636"}
+ ]
+}

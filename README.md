@@ -236,13 +236,13 @@ Open an issue on GitHub. Name the file, the row (its seq or id), the column, the
 
 ## Status
 
-Conjecture. Nothing in the note is a finding. T1 was run once, on 22 October 2026, on nine blind-recoded rows, and was inconclusive under its pre-registered rule before any outcome was looked at: one discordant row against a minimum of six. The other three tests are designs. Each revision is a commit; substantive changes are also logged in the note's change log with the date and reason.
+Conjecture. Nothing in the note is a finding. T1 was run once, on 22 October 2026, on nine blind-recoded rows, and was inconclusive under its pre-registered rule: one discordant row against a minimum of six. The verdict was computed by code from the number of rows, the number of adverse outcomes and the fixed predictions alone, so the outcomes could not change it, although the person assembling the table had already seen them (change log (ab)). The other three tests are designs. Each revision is a commit; substantive changes are also logged in the note's change log with the date and reason.
 
 ## First in the queue
 
-Issue 6, pinned: every Knesset website has been unreachable from this project since it began, so the search for the unit, the vote records for four rows and the bill texts were all done without it. It gates the comparison sample and the two 2023 rows, and it takes precedence over the other open issues.
+Issue 6, pinned: every Knesset website has been unreachable from this project since it began, so the search for the unit, the vote records for four rows and the bill texts were all done without it. The comparison sample has since been coded without it, but it still gates three things: the court-database checks on three sampled rows, the vote records of the twenty sampled rows passed between 1959 and 2003, and the press-sourced values of the two 2023 rows (issue 15). The Incapacity amendment's missing vote breakdown may not need it, because the Open Knesset tables used for the redraw reach 2024 ([research/audit-2026-10-25.md](research/audit-2026-10-25.md), finding 4). It takes precedence over the other open issues.
 
-The rest of the research queue is the open issues labelled `verification` (as of 22 October 2026, issues 2, 4 and 7 to 15: the unit, the comparison sample, the 2025 row, judgments still unread, the Court's stated signs checked against the judgments, docket searches, and press-sourced values to replace), one `enhancement` (issue 16, descriptive columns) and one `design` question the note must settle before test T4 runs (issue 17). Each issue states the cells affected, the problem, the check, and the stopping rule.
+The rest of the research queue is the open issues labelled `verification` (as of 25 October 2026, issues 2, 4 and 8 to 15 besides issue 6: the unit, the comparison sample, the 2025 row, judgments still unread, the Court's stated signs checked against the judgments, docket searches, and press-sourced values to replace), one `enhancement` (issue 16, descriptive columns) and one `design` question the note must settle before test T4 runs (issue 17). Each issue states the cells affected, the problem, the check, and the stopping rule.
 
 ## Criticism
 

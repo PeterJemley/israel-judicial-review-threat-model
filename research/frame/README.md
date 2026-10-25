@@ -34,7 +34,7 @@ Three readers each took a group of Basic Laws and read, for each, the amendment 
 
 Two checks. First, Hayut's opinion in the Reasonableness judgment (para 83) counts 139 changes to Basic Laws from 1958 to January 2023. The corrected frame has 122 laws through that date, and 141 changes if each Basic Law a law amends is counted once. The Court's figure lies between the two, and the counting rule behind it is not stated, so the comparison neither confirms nor refutes completeness. It does bound the frame: the frame cannot be missing many laws unless the Court's count is of laws. The frame as built gave 114 laws and a figure of 159 changes. That figure was wrong: it counted a Basic Law twice where a reader listed it under both its English and its Hebrew name. Counted once each, the frame as built gives 137. Second, the three readers' counts agree with Hebrew Wikipedia's amendment counts for every Basic Law, with the discrepancies each recorded.
 
-The one expectation recorded before the draw, that every sampled row has exactly one final-reading vote and no two share one, cannot be checked until the sampled rows are coded; it is carried forward.
+The one expectation recorded before the draw, that every sampled row has exactly one final-reading vote and no two share one, could not be checked until the sampled rows were coded. It has since been checked on the redraw: see "The one-vote check" in `research/coding-sample-2026-10-22/README.md`.
 
 ## Marked as challenged
 

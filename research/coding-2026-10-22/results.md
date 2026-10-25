@@ -31,6 +31,8 @@ Eleven cells were settled. Enactment 2 (the 1969 financing law): `named_benefici
 
 ## The recoded table
 
+*As first run. Row 4's outcome was later recoded Adverse (third addendum); the situated beneficiary values are in the addenda (pointer added 25 October 2026, change log (ap)).*
+
 | Row | Enactment | Beneficiary | Immediate | Coalition-only | Expedited | Scope | Temporary | Judiciary | Tier | Direction | Litigation pending | Outcome | Judgment |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|
 | 1 | Human Dignity and Liberty 1992 | No | Yes | blank | No | No | No | No | Entrenches | Liberal | No | Not adverse | 1995-11-09 |
@@ -49,6 +51,8 @@ Four rows are excluded from the primary analysis as uncoded because `coalition_o
 
 ## Classification under the prediction table
 
+*As first run, with the named beneficiary in F. With the situated beneficiary, which the primary analysis now uses, Reasonableness has F of 4 and moves to the purpose-driven group with the same prediction, and the 1994 override keeps F of 2 (second addendum). No row's class changes (pointer added 25 October 2026, change log (ap)).*
+
 | Row | F | Tier | Coalition-only | Decision-rule prediction | Elite-interest prediction | Class | Group |
 |---|---|---|---|---|---|---|---|
 | 4 | 2 | Limited | No | Undetermined | Adverse | undetermined | table row 6 |
@@ -61,6 +65,8 @@ The author's expectations recorded in step 12 of the protocol: 2020 Neutral (met
 
 ## Pre-outcome checks (steps 7 and 9)
 
+*As first run. After row 4 was recoded Adverse, K is 5 of 5, S cannot vary, and p is 1.0 at both extremes; the verdict is unchanged (third addendum; pointer added 25 October 2026, change log (ap)).*
+
 Configuration: N = 5 primary rows coded, K = 4 Adverse, D_A = 1 discordant row predicted Adverse by the decision rule, D_N = 0.
 
 - Minimum of six discordant rows: not met (one).
@@ -69,6 +75,8 @@ Configuration: N = 5 primary rows coded, K = 4 Adverse, D_A = 1 discordant row p
 - Step 9: exact type-one rate of the decision rule under the null is 0; the shuffle check on 1000 datasets returned 0.0, within 0.02 of the exact rate. The implementation check passes, trivially, because no result can reach 0.05 on this configuration.
 
 ## Exploratory results, reported because step 7 failed
+
+*As first run. After row 4 was recoded Adverse (third addendum), the step 12 configuration is N = 3, K = 3, and the verdict is the same (pointer added 25 October 2026, change log (ap)).*
 
 - Observed S = 1: the single discordant row, the 2020 budget-deadline amendment (all four signs present, Neutral direction), had an Adverse outcome, as the decision rule predicted and the elite-interest rival did not. Two-sided p = 1.0. One row is one row.
 - Step 10 (groups): the one discordant row is purpose-driven; the content-driven and tier-and-support-driven groups are empty.
@@ -84,7 +92,7 @@ Configuration: N = 5 primary rows coded, K = 4 Adverse, D_A = 1 discordant row p
 
 ## What this run establishes
 
-Under the pre-registered rule, the first run of the revised T1 is Inconclusive, declared before outcomes on the basis of one discordant row against a minimum of six. Nothing in the exploratory results is evidence for or against Claim C. What the run does establish is procedural: the protocol can be executed end to end by separate roles from legislative records with the Knesset's sites blocked; two independent coders agree on most cells and their disagreements are mostly one coder finding a record the other did not; and the form signs and direction do not move together perfectly even in nine rows, since the one row with all four signs is Neutral in direction. The record T1 needs is the full unit of the protocol's step 1, and the next piece of work is the comparison sample and the remaining challenged Basic Law amendments, not more analysis of these nine.
+Under the pre-registered rule, the first run of the revised T1 is Inconclusive, declared before outcomes on the basis of one discordant row against a minimum of six. Nothing in the exploratory results is evidence for or against Claim C. What the run does establish is procedural: the protocol can be executed end to end by separate roles from legislative records with the Knesset's sites blocked; two independent coders agree on most cells and their disagreements are mostly one coder finding a record the other did not; and the form signs and direction do not move together perfectly even in nine rows, since the one row with all four signs is Neutral in direction. (With the situated beneficiary of the addenda, Reasonableness also has all four signs; it is Illiberal, so the 2020 row is still the only one with all four signs and a Neutral direction. Note added 25 October 2026, change log (ap).) The record T1 needs is the full unit of the protocol's step 1, and the next piece of work is the comparison sample and the remaining challenged Basic Law amendments, not more analysis of these nine.
 
 ## Issues touched by this run
 
@@ -94,7 +102,7 @@ Under the pre-registered rule, the first run of the revised T1 is Inconclusive, 
 
 ## Addendum, later on 22 October 2026: the situated beneficiary sign
 
-After the run above, the beneficiary sign was split in two (note, change log item (ac)): `named_beneficiary` stays as the coders coded it from the text and explanatory notes, and `situated_beneficiary` was added, coded by a circumstances reader from a closed list of facts dated no later than the day of passage, without any outcome or judgment. The sheet is `circumstances-sheet.md`; the reader's report is `circumstances.json`, saved verbatim. The situated sign enters F in the primary analysis; the text sign enters F in the pre-registered secondary analysis 11a. The expectations for the nine rows were recorded in item (ac) before the reader ran.
+After the run above, the beneficiary sign was split in two (note, change log item (ac)): `named_beneficiary` stays as the coders coded it from the text and explanatory notes, and `situated_beneficiary` was added, coded by a circumstances reader from a closed list of facts dated no later than the day of passage, without any outcome or judgment. The sheet is `circumstances-sheet.md`; the reader's report is `circumstances.json`, saved verbatim. (This first reader's report is now kept as `circumstances-ac.json`, and `circumstances.json` holds the second reader's, as change log (af) records. Note added 25 October 2026, change log (ap).) The situated sign enters F in the primary analysis; the text sign enters F in the pre-registered secondary analysis 11a. The expectations for the nine rows were recorded in item (ac) before the reader ran.
 
 ### The reader's values against the recorded expectations
 

@@ -4,7 +4,7 @@
 Usage: python3 apply_verification.py FRAME_CSV VERIFICATION_JSON [VERIFICATION_JSON ...]
 Each JSON has "rows": [{"seq", "verdict", "search", "related_cases", "case", "filed", "judgment_date",
 "outcome_class", "source", "note"}], as the verification sheet specifies. The draw made at commit
-883948a is frozen: a sampled row found to have been challenged is marked challenged and its sampled
+a3bcabf (883948a before the history rewrite of 25 October 2026) is frozen: a sampled row found to have been challenged is marked challenged and its sampled
 value becomes "Moved to (a)"; no other row's sampled value changes (change log (ah), no back-filling).
 """
 import sys, json, csv, io

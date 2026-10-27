@@ -1,8 +1,8 @@
 # Israel judicial review as a threat model
 
-A living conjecture note on Barak Medina's 2026 I·CON article, "On constitutional identity, democratic legitimacy, and judicial review in times of democratic backsliding: The case of Israel" (https://doi.org/10.1093/icon/moag052), read under the assumption that Threat = Capability × Intent.
+This project tests an argument in Barak Medina's 2026 article "On constitutional identity, democratic legitimacy, and judicial review in times of democratic backsliding: The case of Israel" (https://doi.org/10.1093/icon/moag052). Its main document, [the note](medina-threat-conjecture-note.md), treats the argument as a set of conjectures: guesses to be tested, each stated with the evidence that would prove it wrong. The note is updated as the work goes on, and every change is dated in its change log.
 
-The note separates the article's existential-threat sentence into four claims, states each as a conjecture that could fail, names the rivals, and proposes tests. An ontology and six matrices are appended, including a codebook of Basic Law amendments coded on the Israeli Supreme Court's own abuse-of-power indicators.
+Medina warns that Israel's democracy, and Israel itself, are at risk. The note reads that warning through a common way of assessing threats, in which a threat is an actor's capability multiplied by its intent. It splits the warning into three claims and adds a fourth: whether that way of assessing threats fits this case. It names the other explanations for the same evidence and proposes tests. Tables at the end of the note lay out the threats. The data, which score Basic Laws on the warning signs the Court itself has named, are in the [codebook](codebook/) folder.
 
 ## Contents
 
@@ -44,6 +44,7 @@ This project tests one question that the evidence could answer either way. When 
 - **The full list:** this project's list of every Basic Law and every change to one since 1958. It is in [research/frame](research/frame/). The project's files call it "the frame".
 - **The 39 unchallenged laws:** a group of 39 laws from the full list that no one ever took to court. They show what an ordinary Basic Law looks like, for comparison. The project's files call them "the comparison sample".
 - **Scoring:** for each law, two scorers worked separately, without seeing how the Court ruled. They recorded which warning signs the law shows. Where they disagreed, a third reviewer decided, and wrote down why.
+- **Conjecture:** a guess the project sets out to test, stated with the evidence that would prove it wrong. Nothing in the project is yet a finding.
 
 ### What the information shows so far
 

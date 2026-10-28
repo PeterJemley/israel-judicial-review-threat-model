@@ -2,7 +2,7 @@
 
 On 28 October 2026, before the figures were committed, a separate reader tested every title, caption, label, alt text, ledger row and errors row against the sources. The reader was a language-model agent given the files and the article, not the reasoning behind the drafts. It found 40 problems: 3 that changed what a sentence means, 19 that weakened a claim, and 18 that cost attention. Each finding was checked against its source before it was acted on, and every one was confirmed. This file records each finding and what changed.
 
-Three of the findings trace to the repository's own prose rather than the figures. Those are listed in the errors list as open, and the prose is not yet corrected:
+Three of the findings trace to the repository's own prose rather than the figures. They were corrected the same day in the note's change log item (aq), as was the README glossary's "rushed" (finding A6); the errors list records all four:
 - the note's evidence item 9 and matrix M1's 2025 row;
 - the note's evidence item 6;
 - the codebook README's sentence on the first run.
@@ -11,7 +11,7 @@ Three of the findings trace to the repository's own prose rather than the figure
 
 | Finding | What was wrong | What changed |
 |---|---|---|
-| C1 | Ledger row E9 said the Court froze and annulled two dismissals. The cited timeline records that the Shin Bet chief's dismissal was held unlawful after the government had rescinded it, with no operative order; only the attorney general's was frozen and annulled. | E9 now says what the timeline says. The note's own wording, which the row had copied, is listed in the errors list as open (entry 24). |
+| C1 | Ledger row E9 said the Court froze and annulled two dismissals. The cited timeline records that the Shin Bet chief's dismissal was held unlawful after the government had rescinded it, with no operative order; only the attorney general's was frozen and annulled. | E9 now says what the timeline says. The note's own wording, which the row had copied, is in the errors list (entry 24) and was corrected in change log (aq). |
 | C2 | Figure 4 said T1's rule was fixed before outcomes were seen. The revision was written after nine rows' outcomes were known, and was fixed before the blind recoding. | Figure 4's subtitle says so. The ledger's status is renamed "Inconclusive under a rule set before the run". |
 | C3 | The jigsaw's centre called Claims A to D all parts of Medina's sentence. Claim D, about Capability × Intent, is the project's own. | The centre now reads "Medina's three claims (A to C) and the project's model claim (D)". |
 

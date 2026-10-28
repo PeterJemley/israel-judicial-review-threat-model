@@ -39,7 +39,7 @@ This project tests one question that the evidence could answer either way. When 
   - the law helps the government in office, or a particular officeholder;
   - it takes effect right away;
   - only members of the governing parties voted for it;
-  - it was rushed through the Knesset.
+  - it was passed on an expedited schedule.
 - **Democratic values:** the five values the Court has said a Basic Law must not undermine: free and equal elections, basic human rights and equality, separation of powers, the rule of law, and independent courts. The project records how far each law moves away from these values, if at all.
 - **The full list:** this project's list of every Basic Law and every change to one since 1958. It is in [research/frame](research/frame/). The project's files call it "the frame".
 - **The 39 unchallenged laws:** a group of 39 laws from the full list that no one ever took to court. They show what an ordinary Basic Law looks like, for comparison. The project's files call them "the comparison sample".

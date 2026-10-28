@@ -1,0 +1,6 @@
+column,sign,present,absent,not_known
+situated_beneficiary,"Alters, in a way others would not share, the position of the government or an officeholder in a matter live on the day it passed (situated; the primary version)",3,36,0
+named_beneficiary,"Addresses a specific interest of the government or an officeholder, on its text (named; the secondary version)",3,36,0
+immediate_effect,"Takes effect within a year, and not only after the next election",36,3,0
+coalition_only,No opposition member voted for it at the final reading,5,8,26
+expedited,"Expedited: final vote within 30 days of first reading, or a shortened committee stage",18,13,8

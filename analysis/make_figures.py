@@ -490,7 +490,7 @@ def fig6():
 STATE = {"corrected": ("Corrected", "blue"), "recorded": ("Recorded, not undone", "none"), "open": ("Open", "orange")}
 
 def fig7():
-    E = rows("figures/sources/errors.csv")
+    E = sorted(rows("figures/sources/errors.csv"), key=lambda e: (e["date"], int(e["id"])))
     write_csv("fig7-errors", ["id", "date", "band", "kind", "what_was_wrong", "caught_by", "corrected_in", "state"],
               [[e[k] for k in ("id", "date", "band", "kind", "what_was_wrong", "caught_by", "corrected_in", "state")] for e in E])
     cnt = Counter(e["state"] for e in E); bands = Counter(e["band"] for e in E)
@@ -517,7 +517,7 @@ def fig7():
                 b += state_dot(w - 30, y - 4, e["state"], th)
                 y += max(len(a) * 15, len(c) * 14, len(k2) * 14) + 10
         notes = ["Rule: an error is listed if it reached the repository's record (a commit, the change log or an issue), or was made in a review given to the author, "
-                 "and was later found wrong, whether it has since been corrected, recorded without being undone, or is still open. Drafts corrected before they "
+                 "and was later found wrong, whether it has since been corrected, recorded without being undone, or is still open. Each date is the day the error was found. Drafts corrected before they "
                  "were committed are not listed. No error recorded so far is a mistranslation; much of the work rests on Hebrew sources read by language-model "
                  "readers, so that is not evidence that none has occurred.",
                  "Where each was corrected: figures/data/fig7-errors.csv (from figures/sources/errors.csv), which cites the change-log item, commit or issue."]

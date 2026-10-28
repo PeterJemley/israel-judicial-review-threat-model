@@ -1,0 +1,25 @@
+{
+  "title": "Imagined. Not a result.",
+  "centre": "The ideal, not reached: Medina's three claims (A to C) and the project's model claim (D), each supported or refuted by evidence that could have gone either way",
+  "rule": "A piece is a question the project asks. It gathers the ledger items named on it. Filled: every item is established or refuted. Half-filled: at least one item is established, refuted, or inconclusive under a rule set before the run. Empty and tilted: none is. A fill shows that something bearing on the question is settled, not that the question is near an answer. Work that settled nothing gets no piece: the first-day illustrative table, the first draw of the sample, and the exploratory statistic of T1's first run.",
+  "pieces": [
+    {"id": "PA", "question": "Would the 2023 package remove the institutional checks that make Israel a democracy?", "items": ["A", "E1", "E2", "E3"]},
+    {"id": "PB", "question": "Does the threat reach the state itself?", "items": ["B", "RB", "E8"]},
+    {"id": "PC", "question": "Does the Court follow its warning signs or the laws' politics?", "items": ["C", "RE", "E4", "E5", "F9a", "F9", "F10a", "F10", "F11", "F12"]},
+    {"id": "PD", "question": "Does Capability × Intent fit this case?", "items": ["D", "RP", "E7"]},
+    {"id": "PP", "question": "What was the 2023 plan for?", "items": ["R1", "R2", "R3", "R4"]},
+    {"id": "P5", "question": "Is the Court acting for its own power?", "items": ["R5s", "R5w"]},
+    {"id": "PF", "question": "Is the record of Basic Laws complete and correct?", "items": ["F1", "F2", "F3", "F4", "F5", "F6", "F7", "F8"]}
+  ],
+  "threads": [
+    {"n": 1, "from": "PF", "to": "PC",
+     "premises": "14 of the 130 laws titled Basic Law came before the Court, challenged or ruled on as to their binding force (research/frame/basic-law-frame.csv), and T1 needs six laws on which its two predictions differ (note, T1 as revised, step 7).",
+     "conjecture": "Perhaps the Court's own record is too small to tell doctrine from politics, and a test might need other courts' records."},
+    {"n": 2, "from": "PF", "to": "PD",
+     "premises": "Laws titled Basic Law were passed at 4 in 1958 and 1959, then 5, 5 and 12 in the next three decades, 34, 25 and 23 in the three after that, and 22 in the 2020s to July 2026 (research/frame/basic-law-frame.csv). Medina writes that a bipartisan tradition once mitigated the simple-majority power to amend, and that in recent years, especially since the government elected at the end of 2022, it has been exploited (p. 708).",
+     "conjecture": "Perhaps routine amendment is part of a standing vulnerability, the structural reading's concern, that one actor's capability times intent might miss."},
+    {"n": 3, "from": "PP", "to": "PC",
+     "premises": "Medina's substance-level reply to the elite critique rests on the 2023 plan's aims (pp. 684-685), and test T2 is designed to catalogue what the government did with its powers (note, Proposed tests, T2).",
+     "conjecture": "Perhaps T2's results might bear on Claim C as well as on the rivals."}
+  ]
+}

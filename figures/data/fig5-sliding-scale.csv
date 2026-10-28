@@ -1,0 +1,13 @@
+deviation_tier,coalition_only,never_challenged,challenged_adverse,challenged_not_adverse
+Entrenches,Coalition only,1,0,0
+None,Coalition only,1,0,0
+Limited,Coalition only,3,2,0
+Sharp,Coalition only,0,1,0
+Entrenches,At least one opposition vote,2,0,0
+None,At least one opposition vote,5,0,0
+Limited,At least one opposition vote,1,2,0
+Sharp,At least one opposition vote,0,0,0
+Entrenches,Not known,7,0,1
+None,Not known,11,0,0
+Limited,Not known,8,1,0
+Sharp,Not known,0,0,0

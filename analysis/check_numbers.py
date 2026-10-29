@@ -132,7 +132,7 @@ CHECKS += [
     ("README.md", "The check prints \"{}\"", lambda: detect_first_run()["verdict_before_outcomes"]),
     ("research/coding-2026-10-22/results.md", "K rises from 4 to {} of {}", lambda: (detect_first_run()["K"], detect_first_run()["N"])),
     ("research/coding-2026-10-22/results.md", "the attainable range of S is {} to {}, p is {} at both extremes", lambda: (detect_first_run()["S_min_attainable"], detect_first_run()["S_max_attainable"], detect_first_run()["p_at_S_max"])),
-    ("medina-threat-conjecture-note.md", "Inconclusive, declared before outcomes, on {} discordant row against the minimum of six", lambda: word(detect_first_run()["discordant"])),
+    ("medina-threat-conjecture-note.md", "Inconclusive, on {} discordant row against the minimum of six", lambda: word(detect_first_run()["discordant"])),
 ]
 
 def run():

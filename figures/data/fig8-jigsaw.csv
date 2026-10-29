@@ -2,7 +2,7 @@ piece,question,items,settled_items,fill
 PA,Would the 2023 package remove the institutional checks that make Israel a democracy?,A E1 E2 E3,2 of 4,half
 PB,Does the threat reach the state itself?,B RB E8,0 of 3,empty
 PC,Does the Court follow its warning signs or the laws' politics?,C RE E4 E5 F9a F9 F10a F10 F11 F12,5 of 10,half
-PD,Does Capability × Intent fit this case?,D RP E7,1 of 3,half
-PP,What was the 2023 plan for?,R1 R2 R3 R4,1 of 4,half
+PD,Does Capability × Intent fit this case?,D RP E7 E10,1 of 4,half
+PP,What was the 2023 plan for?,R1 R2 R3 R4,0 of 4,empty
 P5,Is the Court acting for its own power?,R5s R5w,1 of 2,half
 PF,Is the record of Basic Laws complete and correct?,F1 F2 F3 F4 F5 F6 F7 F8,3 of 8,half

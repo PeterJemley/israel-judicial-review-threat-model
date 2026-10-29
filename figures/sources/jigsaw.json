@@ -6,7 +6,7 @@
     {"id": "PA", "question": "Would the 2023 package remove the institutional checks that make Israel a democracy?", "items": ["A", "E1", "E2", "E3"]},
     {"id": "PB", "question": "Does the threat reach the state itself?", "items": ["B", "RB", "E8"]},
     {"id": "PC", "question": "Does the Court follow its warning signs or the laws' politics?", "items": ["C", "RE", "E4", "E5", "F9a", "F9", "F10a", "F10", "F11", "F12"]},
-    {"id": "PD", "question": "Does Capability × Intent fit this case?", "items": ["D", "RP", "E7"]},
+    {"id": "PD", "question": "Does Capability × Intent fit this case?", "items": ["D", "RP", "E7", "E10"]},
     {"id": "PP", "question": "What was the 2023 plan for?", "items": ["R1", "R2", "R3", "R4"]},
     {"id": "P5", "question": "Is the Court acting for its own power?", "items": ["R5s", "R5w"]},
     {"id": "PF", "question": "Is the record of Basic Laws complete and correct?", "items": ["F1", "F2", "F3", "F4", "F5", "F6", "F7", "F8"]}

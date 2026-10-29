@@ -173,16 +173,16 @@ Alt text: A grid of deviation tier against coalition-only passage for 39 sampled
 
 </details>
 
-## Ledger: the status of 37 claims and results, as the record stands
+## Ledger: the status of 38 claims and results, as the record stands
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="fig6-ledger-dark.svg">
-  <img src="fig6-ledger-light.svg" alt="A list of 37 claims and results with their status: 10 established, 3 refuted, 2 contested, 11 unclear, 2 inconclusive under a rule set before the run, 9 not yet checkable. None of the four claims is established or refuted.">
+  <img src="fig6-ledger-light.svg" alt="A list of 38 claims and results with their status: 10 established, 2 refuted, 3 contested, 12 unclear, 2 inconclusive under a rule set before the run, 9 not yet checkable. None of the four claims is established or refuted.">
 </picture>
 
 The note's claims, rivals and evidence items, and the main checks on the data, each with its status and the basis for it.
 
-Alt text: A list of 37 claims and results with their status: 10 established, 3 refuted, 2 contested, 11 unclear, 2 inconclusive under a rule set before the run, 9 not yet checkable. None of the four claims is established or refuted.
+Alt text: A list of 38 claims and results with their status: 10 established, 2 refuted, 3 contested, 12 unclear, 2 inconclusive under a rule set before the run, 9 not yet checkable. None of the four claims is established or refuted.
 
 <details><summary>Table view</summary>
 
@@ -191,16 +191,16 @@ Alt text: A list of 37 claims and results with their status: 10 established, 3 r
 | A | The four claims | Claim A: enacting the 2023 package would remove the institutional checks that make Israel a democracy | Not yet checkable | No test is proposed for it, and the package was not enacted in full (note: The question; Conjectures, C-A; What the evidence already says, items 1 to 3). |
 | B | The four claims | Claim B: losing those checks threatens the state itself | Not yet checkable | Test T3 is designed but no data has been gathered (note: Proposed tests, T3). |
 | C | The four claims | Claim C: the Court's doctrine is not a device for preserving a liberal elite's hegemony | Inconclusive under a rule set before the run | T1's first run: Inconclusive, declared before outcomes, on one discordant row against a minimum of six (research/coding-2026-10-22/results.md; change log (ab), (ag)). The rule was revised after nine rows' outcomes were known and fixed before the blind recoding (note: T1 as revised). |
-| D | The four claims | Claim D, the project's own: Capability × Intent adequately describes the threat | Unclear | Candidate refutations of C-model's forbidding clause are recorded (change log (e), (p), (t)); whether they refute it turns on what it means for the Court to have closed an instrument (issue 17). |
+| D | The four claims | Claim D, the project's own: Capability × Intent adequately describes the threat | Unclear | C-model's forbidding clause is recorded as refuted on the class reading of 'closed', adopted after the data under T4 (change log (p), (t), (ar)). C-model's other consequences are untested, so whether the product form fits is still open. |
 | R1 | Rivals | R1: narrow self-interest rather than identity change | Not yet checkable | Test T2 has not been run (note: Rivals; Proposed tests, T2). |
-| R2 | Rivals | R2: good-faith rebalancing of an activist court | Refuted | The note records it as refuted on the two 2023 amendments by the Court's own form indicators as Medina reports them (pp. 701-702), and says the refutation stands whatever T1 to T4 show (note: Rivals; What this note does not claim). The blind recoding left Incapacity's coalition-only cell blank (row E2). |
+| R2 | Rivals | R2: good-faith rebalancing of an activist court | Contested | Contradicted on the Reasonableness amendment by its legislative record coded without the judgment (codebook row 9); open on the Incapacity amendment, whose text supplies its own mechanisms and whose coalition-only cell is blank (row 8; issue 19). The Court's own indicators cannot decide it (note: Rivals; What this note does not claim; change log (ar)). |
 | R3 | Rivals | R3: identity transformation (Medina's reading) | Not yet checkable | Test T2 has not been run (note: Rivals; Proposed tests, T2). |
 | R4 | Rivals | R4: populist power concentration (Roznai & Cohen, 2023) | Not yet checkable | Test T2 has not been run (note: Rivals; Proposed tests, T2). |
 | R5s | Rivals | R5, strong form: the Court intervenes only against enactments that narrow the judiciary | Refuted | Interventions against the 1969 financing law, the 2016 and 2020 budget measures and the 2018 Nation-State law, all coded targets_judiciary No by the blind coders (results.md, Exploratory results, step 15). |
 | R5w | Rivals | R5, weak form: a higher intervention rate against enactments that narrow the judiciary | Not yet checkable | Its test needs at least four rows in each group; the judiciary-narrowing group has one (results.md, step 15). |
 | RE | Rivals | The elite-hegemony thesis (Hirschl; Gavison; Medina, fn. 4), as this project operationalizes it | Inconclusive under a rule set before the run | T1 tests the project's version: an Adverse prediction where the coded direction is Illiberal (note: T1 as revised, Predictions). Its first run was inconclusive under its rule (results.md). Whether this meets the thesis as Hirschl states it is open (issue 21). |
 | RB | Rivals | Comparative base rate: backsliding elsewhere ended in weaker democracies, not vanished states (Bermeo, 2016) | Not yet checkable | Decided by whether any T3 observable moves; T3 has no data (note: Rivals). |
-| RP | Rivals | The product form is adequate: capability net of resistance captures everything | Unclear | Decided by instrument switching (T4), which waits on issue 17 (note: Rivals). |
+| RP | Rivals | The product form is adequate: capability net of resistance captures everything | Unclear | Decided by instrument switching (T4). The forbidding clause is refuted on the class reading (change log (ar)), which does not show the product form adequate; the switching half of T4 has not been run. |
 | E1 | What the evidence already says | The full 2023 plan was not enacted. Medina attributes the setback to the protests, which mobilized foreign governments, business and reservists (pp. 686-687), and says the October 7, 2023 attack and the war that followed halted the plan (p. 687) | Established | The fact: the frame holds two laws titled Basic Law from 2023 that Medina says aimed to facilitate the plan (p. 687; research/frame/basic-law-frame.csv, rows 123 and 125) and no 2023 law changing judicial appointments. The causes are Medina's account and are not tested here. |
 | E2 | What the evidence already says | Medina: the two 2023 amendments were both coalition-only and took immediate effect (p. 687) | Unclear | The blind coders coded immediate effect Yes for both, Incapacity by the project's convention for a law with no commencement clause, after adjudication; and coalition-only Yes for Reasonableness, from a press tally (issue 15). Incapacity's coalition-only cell is blank (codebook/m4-codebook.csv; issue 19). |
 | E3 | What the evidence already says | The Court struck the Reasonableness amendment and deferred the Incapacity amendment to the next Knesset | Established | HCJ 5658/23 (1 January 2024) and HCJ 2412/23 (3 January 2024), coded from the judgments by the docket reader (codebook/m4-codebook.csv; research/frame/basic-law-frame.csv). |
@@ -210,6 +210,7 @@ Alt text: A list of 37 claims and results with their status: 10 established, 3 r
 | E7 | What the evidence already says | The government returned to the plan in 2025 (Medina, p. 687) | Established | The March 2025 amendment to Basic Law: The Judiciary is in the frame (research/frame/basic-law-frame.csv, row 128, passed 27 March 2025). |
 | E8 | What the evidence already says | Nothing in the paper tests a mechanism of the chain from regime loss to state loss | Unclear | The note's reading of the paper (What the evidence already says, item 8); no second reader has checked it. |
 | E9 | What the evidence already says | After the article's cut-off: the 2025 amendment has deferred effect; the Court held the Shin Bet chief's dismissal unlawful after the government had rescinded it, froze and then annulled the attorney general's dismissal, and in May 2026 ordered the selection committee convened | Unclear | From press reports in research/2025-2026-timeline.md, which applies them to the note's evidence item 9; the judgments are not read. The note's own wording of item 9 overstated the timeline until change log (aq); see the errors list. |
+| E10 | What the evidence already says | Medina: the Knesset increasingly exploited the amendment power in recent years, from the past decade, especially since late 2022 (pp. 696, 707, 708); the 2016, 2018 and 2020 rows carry abuse signs | Unclear | Rests on the paper, and on codebook rows 5 to 7 for the signs and outcomes. On it, the actor reading's prediction of near-zero threat before January 2023 fails (note: evidence item 10; change log (ar)). |
 | F1 | Checks on the data | The full list of 130 laws titled Basic Law, 1958 to 2026, corrected for the merge defect: after the split, every law of the list as first built is accounted for, and none appears twice | Established | research/frame/README.md, The defect and its correction; analysis/frame_merge_check.py; change log (al). This is not a check of completeness (row F2). |
 | F2 | Checks on the data | The full list's completeness, compared with the Court's count of 139 changes to 2023 | Unclear | 122 laws and 140 or 141 changes bracket the Court's 139, and the Court's counting rule is not stated, so the comparison neither confirms nor refutes completeness (research/frame/README.md). |
 | F3 | Checks on the data | The figure of 141 Basic-Law changes to January 2023 | Unclear | No script produces it, how it was first counted is not recorded, and under the stated rule it recomputes as 140 (research/audit-2026-10-25.md, finding 6; issue 20). |
@@ -228,16 +229,16 @@ Alt text: A list of 37 claims and results with their status: 10 established, 3 r
 
 </details>
 
-## Errors list: 38 mistakes found so far in the project's own work, what caught each, and where each stands
+## Errors list: 42 mistakes found so far in the project's own work, what caught each, and where each stands
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="fig7-errors-dark.svg">
-  <img src="fig7-errors-light.svg" alt="A list of 38 errors: 34 in the research, 2 in reviews and 2 in process. 34 are corrected, 3 recorded and not undone, and 1 open.">
+  <img src="fig7-errors-light.svg" alt="A list of 42 errors: 38 in the research, 2 in reviews and 2 in process. 38 are corrected, 3 recorded and not undone, and 1 open.">
 </picture>
 
 The mistakes found so far in the project's own work, with what caught each and where each stands.
 
-Alt text: A list of 38 errors: 34 in the research, 2 in reviews and 2 in process. 34 are corrected, 3 recorded and not undone, and 1 open.
+Alt text: A list of 42 errors: 38 in the research, 2 in reviews and 2 in process. 38 are corrected, 3 recorded and not undone, and 1 open.
 
 <details><summary>Table view</summary>
 
@@ -281,6 +282,10 @@ Alt text: A list of 38 errors: 34 in the research, 2 in reviews and 2 in process
 | 24 | 2026-10-28 | overstated claim | The note's evidence item 9 and the 2025 row of matrix M1 say the Court froze and annulled two dismissals; the cited timeline records that one was held unlawful after the government had rescinded it, with no operative order, and only the attorney general's was frozen and annulled. | The fresh reader of the figures | Change log (aq). | Corrected |
 | 33 | 2026-10-28 | overstated claim | The note's evidence item 6 says the simple-majority amendment power was exploited only from late 2022; p. 708 says in recent years, especially since the government elected at the end of 2022. | A check of the figures' premises against the article | Change log (aq). | Corrected |
 | 38 | 2026-10-28 | loaded word | The README's glossary said a law showing one warning sign was rushed through the Knesset; Medina's word is expedited (p. 699). | The fresh reader of the figures | Change log (aq). | Corrected |
+| 39 | 2026-10-28 | overstated claim | The outcome table qualified the revised T1's Refuted verdict as the project's operationalization but credited a Supported verdict to Claim C itself, so T1 could support Medina but never refute him. | The round-1 adversarial review, substance reader | Change log (ar). | Corrected |
+| 40 | 2026-10-28 | unfalsifiable term | C-model's forbidding clause turned on what it means for the Court to have closed an instrument, which was never defined; undefined, the clause could not be refuted, though on the class reading it already was. | The round-1 adversarial review, substance reader | Change log (ar). | Corrected |
+| 41 | 2026-10-28 | overstated claim | Rival R2 was declared refuted on both 2023 amendments by the Court's own indicators, which cannot test a rival that distrusts the Court's reasons, and the refutation was said to stand whatever the tests show. | The round-1 adversarial review, substance reader | Change log (ar). | Corrected |
+| 42 | 2026-10-28 | overstated claim | Matrix M1 said intent was low and the amendment power undiscovered before late 2022; Medina says it was increasingly exploited in recent years, from the past decade (pp. 696, 707, 708). | The round-1 adversarial review, substance reader | Change log (ar). | Corrected |
 
 </details>
 
@@ -288,12 +293,12 @@ Alt text: A list of 38 errors: 34 in the research, 2 in reviews and 2 in process
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="fig8-jigsaw-dark.svg">
-  <img src="fig8-jigsaw-light.svg" alt="An imagined figure, drawn in violet. Seven pieces surround an empty centre, the project's ideal: Would the 2023 package remove the institutional checks that make Israel a democracy? (half-filled, 2 of 4 items established or refuted); Does the threat reach the state itself? (empty and tilted, 0 of 3 items established or refuted); Does the Court follow its warning signs or the laws' politics? (half-filled, 5 of 10 items established or refuted); Does Capability × Intent fit this case? (half-filled, 1 of 3 items established or refuted); What was the 2023 plan for? (half-filled, 1 of 4 items established or refuted); Is the Court acting for its own power? (half-filled, 1 of 2 items established or refuted); Is the record of Basic Laws complete and correct? (half-filled, 3 of 8 items established or refuted). Three numbered threads join pieces; each is captioned below with its premises and a conjecture.">
+  <img src="fig8-jigsaw-light.svg" alt="An imagined figure, drawn in violet. Seven pieces surround an empty centre, the project's ideal: Would the 2023 package remove the institutional checks that make Israel a democracy? (half-filled, 2 of 4 items established or refuted); Does the threat reach the state itself? (empty and tilted, 0 of 3 items established or refuted); Does the Court follow its warning signs or the laws' politics? (half-filled, 5 of 10 items established or refuted); Does Capability × Intent fit this case? (half-filled, 1 of 4 items established or refuted); What was the 2023 plan for? (empty and tilted, 0 of 4 items established or refuted); Is the Court acting for its own power? (half-filled, 1 of 2 items established or refuted); Is the record of Basic Laws complete and correct? (half-filled, 3 of 8 items established or refuted). Three numbered threads join pieces; each is captioned below with its premises and a conjecture.">
 </picture>
 
 Imagined. Not a result. The project's questions as pieces around its ideal, with three conjectural threads.
 
-Alt text: An imagined figure, drawn in violet. Seven pieces surround an empty centre, the project's ideal: Would the 2023 package remove the institutional checks that make Israel a democracy? (half-filled, 2 of 4 items established or refuted); Does the threat reach the state itself? (empty and tilted, 0 of 3 items established or refuted); Does the Court follow its warning signs or the laws' politics? (half-filled, 5 of 10 items established or refuted); Does Capability × Intent fit this case? (half-filled, 1 of 3 items established or refuted); What was the 2023 plan for? (half-filled, 1 of 4 items established or refuted); Is the Court acting for its own power? (half-filled, 1 of 2 items established or refuted); Is the record of Basic Laws complete and correct? (half-filled, 3 of 8 items established or refuted). Three numbered threads join pieces; each is captioned below with its premises and a conjecture.
+Alt text: An imagined figure, drawn in violet. Seven pieces surround an empty centre, the project's ideal: Would the 2023 package remove the institutional checks that make Israel a democracy? (half-filled, 2 of 4 items established or refuted); Does the threat reach the state itself? (empty and tilted, 0 of 3 items established or refuted); Does the Court follow its warning signs or the laws' politics? (half-filled, 5 of 10 items established or refuted); Does Capability × Intent fit this case? (half-filled, 1 of 4 items established or refuted); What was the 2023 plan for? (empty and tilted, 0 of 4 items established or refuted); Is the Court acting for its own power? (half-filled, 1 of 2 items established or refuted); Is the record of Basic Laws complete and correct? (half-filled, 3 of 8 items established or refuted). Three numbered threads join pieces; each is captioned below with its premises and a conjecture.
 
 <details><summary>Table view</summary>
 
@@ -302,8 +307,8 @@ Alt text: An imagined figure, drawn in violet. Seven pieces surround an empty ce
 | PA | Would the 2023 package remove the institutional checks that make Israel a democracy? | A, E1, E2, E3 | 2 of 4 | half-filled |
 | PB | Does the threat reach the state itself? | B, RB, E8 | 0 of 3 | empty and tilted |
 | PC | Does the Court follow its warning signs or the laws' politics? | C, RE, E4, E5, F9a, F9, F10a, F10, F11, F12 | 5 of 10 | half-filled |
-| PD | Does Capability × Intent fit this case? | D, RP, E7 | 1 of 3 | half-filled |
-| PP | What was the 2023 plan for? | R1, R2, R3, R4 | 1 of 4 | half-filled |
+| PD | Does Capability × Intent fit this case? | D, RP, E7, E10 | 1 of 4 | half-filled |
+| PP | What was the 2023 plan for? | R1, R2, R3, R4 | 0 of 4 | empty and tilted |
 | P5 | Is the Court acting for its own power? | R5s, R5w | 1 of 2 | half-filled |
 | PF | Is the record of Basic Laws complete and correct? | F1, F2, F3, F4, F5, F6, F7, F8 | 3 of 8 | half-filled |
 

@@ -239,7 +239,7 @@ Open an issue on GitHub. Name the file, the row (its seq or id), the column, the
 
 ## Status
 
-Conjecture. Nothing in the note is a finding. T1 was run once, on 22 October 2026, on nine blind-recoded rows, and was inconclusive under its pre-registered rule: one discordant row against a minimum of six. The verdict was computed by code from the number of rows, the number of adverse outcomes and the fixed predictions alone, so the outcomes could not change it, although the person assembling the table had already seen them (change log (ab)). The other three tests are designs. Each revision is a commit; substantive changes are also logged in the note's change log with the date and reason.
+Conjecture. Nothing in the note is a confirmed finding; two refutations are recorded, both exploratory (change log (ar)). T1 was run once, on 22 October 2026, on nine blind-recoded rows, and was inconclusive under its rule: one discordant row against a minimum of six. Because those rows shaped the rule, the run is exploratory (change log (as)). The verdict was computed by code from the number of rows, the number of adverse outcomes and the fixed predictions alone, so the outcomes could not change it, although the person assembling the table had already seen them (change log (ab)). The other three tests are designs. Each revision is a commit; substantive changes are also logged in the note's change log with the date and reason.
 
 ## First in the queue
 

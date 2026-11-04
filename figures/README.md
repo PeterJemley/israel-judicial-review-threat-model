@@ -229,16 +229,16 @@ Alt text: A list of 38 claims and results with their status: 11 established, 2 r
 
 </details>
 
-## Errors list: 72 mistakes found so far in the project's own work, what caught each, and where each stands
+## Errors list: 73 mistakes found so far in the project's own work, what caught each, and where each stands
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="fig7-errors-dark.svg">
-  <img src="fig7-errors-light.svg" alt="A list of 72 errors: 68 in the research, 2 in reviews and 2 in process. 68 are corrected, 3 recorded and not undone, and 1 open.">
+  <img src="fig7-errors-light.svg" alt="A list of 73 errors: 69 in the research, 2 in reviews and 2 in process. 69 are corrected, 3 recorded and not undone, and 1 open.">
 </picture>
 
 The mistakes found so far in the project's own work, with what caught each and where each stands.
 
-Alt text: A list of 72 errors: 68 in the research, 2 in reviews and 2 in process. 68 are corrected, 3 recorded and not undone, and 1 open.
+Alt text: A list of 73 errors: 69 in the research, 2 in reviews and 2 in process. 69 are corrected, 3 recorded and not undone, and 1 open.
 
 <details><summary>Table view</summary>
 
@@ -316,6 +316,7 @@ Alt text: A list of 72 errors: 68 in the research, 2 in reviews and 2 in process
 | 70 | 2026-10-28 | misread source | The ontology cited section 4.2 for the reversibility of threats, and cited Roznai, Dixon and Landau for separating indicators from effects, which they treat as evidence of intent. | The round-1 adversarial review, substance reader | Change log (at). | Corrected |
 | 71 | 2026-10-28 | shortened quotation | Step 12 shortened Medina's "directly and indirectly impacted the Court's authority" (p. 687) to "affected". | The round-1 adversarial review, substance reader | Change log (at). | Corrected |
 | 72 | 2026-11-04 | overcorrection | Change log (aq) dropped the Court's freeze of the Shin Bet dismissal and (at) dropped its March date, though the Court froze it on 21 March 2025, the day after the cabinet vote. | The first verification pass on the external claims (Jerusalem Post) | Change log (av). | Corrected |
+| 73 | 2026-11-04 | misreading | Appendix 1 said Medina reads Justice Baron's "existential threats" as the threat to democratic identity rather than external attack; she paired an external and an internal threat (p. 682). | The author's check of p. 682 | Change log (ay). | Corrected |
 
 </details>
 

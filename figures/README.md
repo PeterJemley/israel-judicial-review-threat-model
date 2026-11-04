@@ -177,12 +177,12 @@ Alt text: A grid of deviation tier against coalition-only passage for 39 sampled
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="fig6-ledger-dark.svg">
-  <img src="fig6-ledger-light.svg" alt="A list of 38 claims and results with their status: 10 established, 2 refuted, 3 contested, 12 unclear, 2 inconclusive under a rule set before the run, 9 not yet checkable. None of the four claims is established or refuted.">
+  <img src="fig6-ledger-light.svg" alt="A list of 38 claims and results with their status: 11 established, 2 refuted, 2 contested, 12 unclear, 2 inconclusive under a rule set before the run, 9 not yet checkable. None of the four claims is established or refuted.">
 </picture>
 
 The note's claims, rivals and evidence items, and the main checks on the data, each with its status and the basis for it.
 
-Alt text: A list of 38 claims and results with their status: 10 established, 2 refuted, 3 contested, 12 unclear, 2 inconclusive under a rule set before the run, 9 not yet checkable. None of the four claims is established or refuted.
+Alt text: A list of 38 claims and results with their status: 11 established, 2 refuted, 2 contested, 12 unclear, 2 inconclusive under a rule set before the run, 9 not yet checkable. None of the four claims is established or refuted.
 
 <details><summary>Table view</summary>
 
@@ -223,7 +223,7 @@ Alt text: A list of 38 claims and results with their status: 10 established, 2 r
 | F9 | Checks on the data | Coders agreed before adjudication on 34 to 39 of the 39 sampled laws for each variable | Established | research/coding-sample-2026-10-22/assembly-summary-redraw.json, agreement. |
 | F10a | Checks on the data | The closed list for the situated-beneficiary sign, as first written | Refuted | A reader met 6 of the 9 expectations recorded before coding; three enactments were coded Yes on single-instance and sunset clauses, which change log (ad) records as a defect in the list (results.md, Addendum). |
 | F10 | Checks on the data | The situated-beneficiary sign under the tightened list: a fresh reader met 9 of the 9 expectations recorded before coding | Established | results.md, Second addendum; change log (ae), (af). |
-| F11 | Checks on the data | The 1994 override clause's outcome, coded Adverse on the judgment | Contested | Coded at medium confidence, with an alternative reading recorded (results.md, Third addendum; change log (ag)). |
+| F11 | Checks on the data | The 1994 override clause's outcome, coded Adverse on the judgment | Established | An English translation of the judgment, read in full, shows the Court confining the override's protection under Basic Law: Human Dignity and Liberty to three cumulative conditions (paras. 18-22), a narrowing interpretation (change log (aw); research/2026-11-04-external-claims.md). |
 | F12 | Checks on the data | T1 reaches its six-row minimum only if all five codable rows are discordant | Established | A calculation from T1's rule with analysis/t1_revised.py, on the frame's provisional outcome classes (research/audit-2026-10-25.md, finding 3). |
 | F13 | Checks on the data | The Incapacity amendment's coalition-only cell | Unclear | Blank; the Open Knesset vote tables may hold the vote (issue 19). |
 
@@ -323,12 +323,12 @@ Alt text: A list of 72 errors: 68 in the research, 2 in reviews and 2 in process
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="fig8-jigsaw-dark.svg">
-  <img src="fig8-jigsaw-light.svg" alt="An imagined figure, drawn in violet. Seven pieces surround an empty centre, the project's ideal: Would the 2023 package remove the institutional checks that make Israel a democracy? (half-filled, 2 of 4 items established or refuted); Does the threat reach the state itself? (empty and tilted, 0 of 3 items established or refuted); Does the Court follow its warning signs or the laws' politics? (half-filled, 5 of 10 items established or refuted); Does Capability × Intent fit this case? (half-filled, 1 of 4 items established or refuted); What was the 2023 plan for? (empty and tilted, 0 of 4 items established or refuted); Is the Court acting for its own power? (half-filled, 1 of 2 items established or refuted); Is the record of Basic Laws complete and correct? (half-filled, 3 of 8 items established or refuted). Three numbered threads join pieces; each is captioned below with its premises and a conjecture.">
+  <img src="fig8-jigsaw-light.svg" alt="An imagined figure, drawn in violet. Seven pieces surround an empty centre, the project's ideal: Would the 2023 package remove the institutional checks that make Israel a democracy? (half-filled, 2 of 4 items established or refuted); Does the threat reach the state itself? (empty and tilted, 0 of 3 items established or refuted); Does the Court follow its warning signs or the laws' politics? (half-filled, 6 of 10 items established or refuted); Does Capability × Intent fit this case? (half-filled, 1 of 4 items established or refuted); What was the 2023 plan for? (empty and tilted, 0 of 4 items established or refuted); Is the Court acting for its own power? (half-filled, 1 of 2 items established or refuted); Is the record of Basic Laws complete and correct? (half-filled, 3 of 8 items established or refuted). Three numbered threads join pieces; each is captioned below with its premises and a conjecture.">
 </picture>
 
 Imagined. Not a result. The project's questions as pieces around its ideal, with three conjectural threads.
 
-Alt text: An imagined figure, drawn in violet. Seven pieces surround an empty centre, the project's ideal: Would the 2023 package remove the institutional checks that make Israel a democracy? (half-filled, 2 of 4 items established or refuted); Does the threat reach the state itself? (empty and tilted, 0 of 3 items established or refuted); Does the Court follow its warning signs or the laws' politics? (half-filled, 5 of 10 items established or refuted); Does Capability × Intent fit this case? (half-filled, 1 of 4 items established or refuted); What was the 2023 plan for? (empty and tilted, 0 of 4 items established or refuted); Is the Court acting for its own power? (half-filled, 1 of 2 items established or refuted); Is the record of Basic Laws complete and correct? (half-filled, 3 of 8 items established or refuted). Three numbered threads join pieces; each is captioned below with its premises and a conjecture.
+Alt text: An imagined figure, drawn in violet. Seven pieces surround an empty centre, the project's ideal: Would the 2023 package remove the institutional checks that make Israel a democracy? (half-filled, 2 of 4 items established or refuted); Does the threat reach the state itself? (empty and tilted, 0 of 3 items established or refuted); Does the Court follow its warning signs or the laws' politics? (half-filled, 6 of 10 items established or refuted); Does Capability × Intent fit this case? (half-filled, 1 of 4 items established or refuted); What was the 2023 plan for? (empty and tilted, 0 of 4 items established or refuted); Is the Court acting for its own power? (half-filled, 1 of 2 items established or refuted); Is the record of Basic Laws complete and correct? (half-filled, 3 of 8 items established or refuted). Three numbered threads join pieces; each is captioned below with its premises and a conjecture.
 
 <details><summary>Table view</summary>
 
@@ -336,7 +336,7 @@ Alt text: An imagined figure, drawn in violet. Seven pieces surround an empty ce
 |---|---|---|---|---|
 | PA | Would the 2023 package remove the institutional checks that make Israel a democracy? | A, E1, E2, E3 | 2 of 4 | half-filled |
 | PB | Does the threat reach the state itself? | B, RB, E8 | 0 of 3 | empty and tilted |
-| PC | Does the Court follow its warning signs or the laws' politics? | C, RE, E4, E5, F9a, F9, F10a, F10, F11, F12 | 5 of 10 | half-filled |
+| PC | Does the Court follow its warning signs or the laws' politics? | C, RE, E4, E5, F9a, F9, F10a, F10, F11, F12 | 6 of 10 | half-filled |
 | PD | Does Capability × Intent fit this case? | D, RP, E7, E10 | 1 of 4 | half-filled |
 | PP | What was the 2023 plan for? | R1, R2, R3, R4 | 0 of 4 | empty and tilted |
 | P5 | Is the Court acting for its own power? | R5s, R5w | 1 of 2 | half-filled |

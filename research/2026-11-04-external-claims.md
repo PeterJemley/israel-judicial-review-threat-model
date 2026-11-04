@@ -40,7 +40,10 @@
 **2. The faction breakdown of the 23 March 2023 Incapacity final vote.** Not settled.
 - The amendment passed "with 61 MKs voting in favor and 47 against". Absent were Mansour Abbas (Ra'am) and the Likud members David Amsalem and David Bitan, the two Likud members "in protest at the removal of a bill proposal by Amsalem from the plenum agenda". `[attested: Eliav Breuer and Jerusalem Post staff, 23 March 2023]` No member-by-member record was found.
 - If the coalition held 64 seats and three coalition members were absent, as a further report has it (Shas's Moshe Abutbul), 61 is the coalition's full remaining strength. This is consistent with a coalition-only vote but does not show it. `[conjectural; refuted by any opposition member among the 61]`
-- To settle it: the Knesset's own vote record. Open Knesset's vote tables (`production.oknesset.org`, reached on 4 November) end on 13 July 2021, and the Knesset's sites did not answer. Issues 19 and 6.
+- To settle it: the Knesset's own vote record. Two routes were tried on 4 November:
+  - Open Knesset's vote tables (`production.oknesset.org`) and the Knesset's own open-data service (`knesset.gov.il/Odata/Votes.svc`, which Open Knesset mirrors) both answer, but both end on 13 July 2021.
+  - `main.knesset.gov.il` and `fs.knesset.gov.il` answer automated requests with a bot-check page (code 247), which was not circumvented.
+  - The vote page for the plenum sitting of 22–23 March 2023, opened in a browser and saved, would settle it. Issues 19 and 6.
 
 **3. Whether a Knesset statute with no commencement clause takes effect on publication.** Not settled.
 - `[MT-triage]` The Interpretation Law, 5741-1981, has no general commencement default. Its s. 21 sets only the hour (00:01 of the commencement day).
@@ -62,7 +65,7 @@
 
 **6. The faction breakdown of the 17 March 1992 Human Dignity and Liberty vote.** Not settled.
 - Sources agree on 32 for, 21 against, 1 abstaining. `[search-lead]`
-- No party-by-party record was reached. Open Knesset's vote tables begin in October 2003, so Divrei HaKnesset for that sitting is needed (issue 6).
+- No party-by-party record was reached. The Knesset's vote data, in its own service and on Open Knesset, begins in October 2003, so Divrei HaKnesset for that sitting is needed (issue 6).
 
 **7. Bar-On (HCJ 4908/10): whether it applied the abuse constraint or only announced it.** Settled: announced, not applied. `[attested: Versa, Bar-On v. Knesset]`
 - Decided 7 April 2011 by seven justices (Beinisch P., Rivlin D.P., Grunis, Naor, Arbel, Rubinstein and Vogelman JJ.). The petition was denied.

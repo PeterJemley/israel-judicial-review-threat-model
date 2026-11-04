@@ -63,7 +63,7 @@ This project tests one question that the evidence could answer either way. When 
 
 **What happened in court.** Fourteen of the 130 have come before the Supreme Court. The Court has struck down one: the 2023 change to Basic Law: The Judiciary, which limited the Court's power to review government decisions as "unreasonable". It did so in January 2024. In the other cases the Court did one of four things. It let the law stand but delayed when it would take effect. It warned that repeating a practice could lead it to strike a law down. It let the law stand, sometimes while reading it narrowly. Or it declined to decide. Two cases are still waiting for a ruling. One is against a 2025 change to the committee that chooses judges. The other is against Basic Law: Torah Study, passed in July 2026.
 
-**The first test.** The project ran its test once, on nine laws, and the result could not settle the question either way. To tell the two explanations apart, the test needs laws where they point in different directions. Only one of the nine laws did, and the test needs at least six.
+**The first test.** The project ran its test once, on nine laws, and the result could not settle the question either way. To tell the two explanations apart, the test needs laws where they point in different directions. Only one of the nine laws did, and the test needs at least six. Since then the Incapacity amendment's final vote has been coded from the Knesset's record (change log (az)), and the record now has two such laws: still four short.
 
 **The 39 unchallenged laws.** Most of them are routine changes about how the Knesset and the government work:
 - 27 did not move away from the democratic values, or made them stronger;
@@ -209,9 +209,10 @@ It prints a summary that should read 130 rows, 14 challenged, 116 unchallenged a
 
 ```bash
 python3 analysis/t1_revised.py detect 5 5 1 0
+python3 analysis/t1_revised.py detect 6 6 2 0
 ```
 
-The four numbers come from the first run of T1. In order, they are the rows in the test, the rows among them the Court ruled against, and two counts of the rows on which T1's two predictions disagree: those where the decision rule predicts an adverse ruling, and those where it predicts the opposite. The check prints "Inconclusive, declared before outcomes", which is the result recorded in [results.md](research/coding-2026-10-22/results.md).
+The first line's four numbers come from the first run of T1, and the second's from the rows coded now, after the Incapacity amendment's coalition-only cell was filled on 4 November 2026 (change log (az)). In order, they are the rows in the test, the rows among them the Court ruled against, and two counts of the rows on which T1's two predictions disagree: those where the decision rule predicts an adverse ruling, and those where it predicts the opposite. The check prints "Inconclusive, declared before outcomes", which is the result recorded in [results.md](research/coding-2026-10-22/results.md).
 
 9. Two more checks:
 

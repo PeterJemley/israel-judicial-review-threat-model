@@ -93,12 +93,12 @@ Alt text: Stacked bars for four warning signs, the beneficiary sign in two versi
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="fig4-t1-reach-dark.svg">
-  <img src="fig4-t1-reach-light.svg" alt="Grid of the configurations T1 could face with ten coded laws. A verdict is possible only with six discordant laws and six or seven Adverse outcomes, or five if a contestable Adverse code were reversed; with eight or more Adverse outcomes, or fewer than six discordant laws, no verdict is possible. The first run had five laws, four Adverse and one discordant, and could reach no verdict; nor could it after the 1994 row was recoded Adverse.">
+  <img src="fig4-t1-reach-light.svg" alt="Grid of the configurations T1 could face with ten coded laws. A verdict is possible only with six discordant laws and six or seven Adverse outcomes, or five if a contestable Adverse code were reversed; with eight or more Adverse outcomes, or fewer than six discordant laws, no verdict is possible. The first run had five laws, four Adverse and one discordant, and could reach no verdict; nor could it after the 1994 row was recoded Adverse, nor with six laws and two discordant after the Incapacity row was coded.">
 </picture>
 
 Where T1's rule can return a verdict, with ten coded laws. A calculation, not evidence.
 
-Alt text: Grid of the configurations T1 could face with ten coded laws. A verdict is possible only with six discordant laws and six or seven Adverse outcomes, or five if a contestable Adverse code were reversed; with eight or more Adverse outcomes, or fewer than six discordant laws, no verdict is possible. The first run had five laws, four Adverse and one discordant, and could reach no verdict; nor could it after the 1994 row was recoded Adverse.
+Alt text: Grid of the configurations T1 could face with ten coded laws. A verdict is possible only with six discordant laws and six or seven Adverse outcomes, or five if a contestable Adverse code were reversed; with eight or more Adverse outcomes, or fewer than six discordant laws, no verdict is possible. The first run had five laws, four Adverse and one discordant, and could reach no verdict; nor could it after the 1994 row was recoded Adverse, nor with six laws and two discordant after the Incapacity row was coded.
 
 <details><summary>Table view</summary>
 
@@ -147,12 +147,12 @@ Alt text: Grid of the configurations T1 could face with ten coded laws. A verdic
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="fig5-sliding-scale-dark.svg">
-  <img src="fig5-sliding-scale-light.svg" alt="A grid of deviation tier against coalition-only passage for 39 sampled laws where no challenge was found and 7 challenged Basic Laws coded under T1. Entrenches, coalition only: 1 with no challenge found, 0 Adverse, 0 Not adverse; None, coalition only: 1 with no challenge found, 0 Adverse, 0 Not adverse; Limited, coalition only: 3 with no challenge found, 2 Adverse, 0 Not adverse; Sharp, coalition only: 0 with no challenge found, 1 Adverse, 0 Not adverse; Entrenches, at least one opposition vote: 2 with no challenge found, 0 Adverse, 0 Not adverse; None, at least one opposition vote: 5 with no challenge found, 0 Adverse, 0 Not adverse; Limited, at least one opposition vote: 1 with no challenge found, 2 Adverse, 0 Not adverse; Entrenches, not known: 7 with no challenge found, 0 Adverse, 1 Not adverse; None, not known: 11 with no challenge found, 0 Adverse, 0 Not adverse; Limited, not known: 8 with no challenge found, 1 Adverse, 0 Not adverse.">
+  <img src="fig5-sliding-scale-light.svg" alt="A grid of deviation tier against coalition-only passage for 39 sampled laws where no challenge was found and 7 challenged Basic Laws coded under T1. Entrenches, coalition only: 1 with no challenge found, 0 Adverse, 0 Not adverse; None, coalition only: 1 with no challenge found, 0 Adverse, 0 Not adverse; Limited, coalition only: 3 with no challenge found, 3 Adverse, 0 Not adverse; Sharp, coalition only: 0 with no challenge found, 1 Adverse, 0 Not adverse; Entrenches, at least one opposition vote: 2 with no challenge found, 0 Adverse, 0 Not adverse; None, at least one opposition vote: 5 with no challenge found, 0 Adverse, 0 Not adverse; Limited, at least one opposition vote: 1 with no challenge found, 2 Adverse, 0 Not adverse; Entrenches, not known: 7 with no challenge found, 0 Adverse, 1 Not adverse; None, not known: 11 with no challenge found, 0 Adverse, 0 Not adverse; Limited, not known: 8 with no challenge found, 0 Adverse, 0 Not adverse.">
 </picture>
 
 A geometry of the coded laws on the two axes of the sliding scale. The axes are ordered categories, not distances.
 
-Alt text: A grid of deviation tier against coalition-only passage for 39 sampled laws where no challenge was found and 7 challenged Basic Laws coded under T1. Entrenches, coalition only: 1 with no challenge found, 0 Adverse, 0 Not adverse; None, coalition only: 1 with no challenge found, 0 Adverse, 0 Not adverse; Limited, coalition only: 3 with no challenge found, 2 Adverse, 0 Not adverse; Sharp, coalition only: 0 with no challenge found, 1 Adverse, 0 Not adverse; Entrenches, at least one opposition vote: 2 with no challenge found, 0 Adverse, 0 Not adverse; None, at least one opposition vote: 5 with no challenge found, 0 Adverse, 0 Not adverse; Limited, at least one opposition vote: 1 with no challenge found, 2 Adverse, 0 Not adverse; Entrenches, not known: 7 with no challenge found, 0 Adverse, 1 Not adverse; None, not known: 11 with no challenge found, 0 Adverse, 0 Not adverse; Limited, not known: 8 with no challenge found, 1 Adverse, 0 Not adverse.
+Alt text: A grid of deviation tier against coalition-only passage for 39 sampled laws where no challenge was found and 7 challenged Basic Laws coded under T1. Entrenches, coalition only: 1 with no challenge found, 0 Adverse, 0 Not adverse; None, coalition only: 1 with no challenge found, 0 Adverse, 0 Not adverse; Limited, coalition only: 3 with no challenge found, 3 Adverse, 0 Not adverse; Sharp, coalition only: 0 with no challenge found, 1 Adverse, 0 Not adverse; Entrenches, at least one opposition vote: 2 with no challenge found, 0 Adverse, 0 Not adverse; None, at least one opposition vote: 5 with no challenge found, 0 Adverse, 0 Not adverse; Limited, at least one opposition vote: 1 with no challenge found, 2 Adverse, 0 Not adverse; Entrenches, not known: 7 with no challenge found, 0 Adverse, 1 Not adverse; None, not known: 11 with no challenge found, 0 Adverse, 0 Not adverse; Limited, not known: 8 with no challenge found, 0 Adverse, 0 Not adverse.
 
 <details><summary>Table view</summary>
 
@@ -160,7 +160,7 @@ Alt text: A grid of deviation tier against coalition-only passage for 39 sampled
 |---|---|---|---|---|
 | Entrenches | Coalition only | 1 | 0 | 0 |
 | None | Coalition only | 1 | 0 | 0 |
-| Limited | Coalition only | 3 | 2 | 0 |
+| Limited | Coalition only | 3 | 3 | 0 |
 | Sharp | Coalition only | 0 | 1 | 0 |
 | Entrenches | At least one opposition vote | 2 | 0 | 0 |
 | None | At least one opposition vote | 5 | 0 | 0 |
@@ -168,7 +168,7 @@ Alt text: A grid of deviation tier against coalition-only passage for 39 sampled
 | Sharp | At least one opposition vote | 0 | 0 | 0 |
 | Entrenches | Not known | 7 | 0 | 1 |
 | None | Not known | 11 | 0 | 0 |
-| Limited | Not known | 8 | 1 | 0 |
+| Limited | Not known | 8 | 0 | 0 |
 | Sharp | Not known | 0 | 0 | 0 |
 
 </details>
@@ -177,12 +177,12 @@ Alt text: A grid of deviation tier against coalition-only passage for 39 sampled
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="fig6-ledger-dark.svg">
-  <img src="fig6-ledger-light.svg" alt="A list of 38 claims and results with their status: 11 established, 2 refuted, 2 contested, 12 unclear, 2 inconclusive under a rule set before the run, 9 not yet checkable. None of the four claims is established or refuted.">
+  <img src="fig6-ledger-light.svg" alt="A list of 38 claims and results with their status: 13 established, 2 refuted, 2 contested, 10 unclear, 2 inconclusive under a rule set before the run, 9 not yet checkable. None of the four claims is established or refuted.">
 </picture>
 
 The note's claims, rivals and evidence items, and the main checks on the data, each with its status and the basis for it.
 
-Alt text: A list of 38 claims and results with their status: 11 established, 2 refuted, 2 contested, 12 unclear, 2 inconclusive under a rule set before the run, 9 not yet checkable. None of the four claims is established or refuted.
+Alt text: A list of 38 claims and results with their status: 13 established, 2 refuted, 2 contested, 10 unclear, 2 inconclusive under a rule set before the run, 9 not yet checkable. None of the four claims is established or refuted.
 
 <details><summary>Table view</summary>
 
@@ -190,7 +190,7 @@ Alt text: A list of 38 claims and results with their status: 11 established, 2 r
 |---|---|---|---|---|
 | A | The four claims | Claim A: enacting the 2023 package would put at imminent risk the right to vote, equal citizenship and a minimal separation of powers | Not yet checkable | No test among T1 to T4 bears on it, and C-A cannot be tested on the present record, because the package was not enacted in full (note: The question; Conjectures, C-A; What this note does not claim; change log (as)). |
 | B | The four claims | Claim B: losing those protections is an imminent threat to the state itself | Not yet checkable | T3 cannot be run on the present record: the package was not enacted, and the 2023 amendments were followed by the October 2023 mobilisation. On the identity reading (R-identity) Claim B restates Claim A (note: Readings; Proposed tests, T3; change log (as)). |
-| C | The four claims | Claim C: the Court's doctrine is not a device for preserving a liberal elite's hegemony | Inconclusive under a rule set before the run | T1's first run: Inconclusive, on one discordant row against a minimum of six, computed from the counts and fixed predictions alone, though the assembler had seen the outcomes (research/coding-2026-10-22/results.md; change log (ab), (ag)). The run is exploratory, because the rule was revised after those nine rows' outcomes were known (note: T1 as revised; change log (as)). |
+| C | The four claims | Claim C: the Court's doctrine is not a device for preserving a liberal elite's hegemony | Inconclusive under a rule set before the run | T1's first run: Inconclusive, on one discordant row against a minimum of six, computed from the counts and fixed predictions alone, though the assembler had seen the outcomes (research/coding-2026-10-22/results.md; change log (ab), (ag)). With the Incapacity row coded, two discordant rows: still Inconclusive (change log (az)). The run is exploratory, because the rule was revised after those nine rows' outcomes were known (note: T1 as revised; change log (as)). |
 | D | The four claims | Claim D, the project's own: Capability × Intent adequately describes the threat | Unclear | C-model's forbidding clause is recorded as refuted on the class reading of 'closed', adopted after the data under T4 (change log (p), (t), (ar)). C-model's other consequences are untested, so whether the product form fits is still open. |
 | R1 | Rivals | R1: narrow self-interest rather than identity change | Not yet checkable | Test T2 has not been run (note: Rivals; Proposed tests, T2). |
 | R2 | Rivals | R2: good-faith rebalancing of an activist court | Contested | Contradicted on the Reasonableness amendment by its legislative record coded without the judgment (codebook row 9); open on the Incapacity amendment, whose text supplies its own mechanisms and whose coalition-only cell is blank (row 8; issue 19). The Court's own indicators cannot decide it (note: Rivals; What this note does not claim; change log (ar)). |
@@ -202,7 +202,7 @@ Alt text: A list of 38 claims and results with their status: 11 established, 2 r
 | RB | Rivals | Comparative base rate: backsliding elsewhere ended in weaker democracies, not vanished states (Bermeo, 2016) | Not yet checkable | Decided by whether any T3 observable moves; T3 has no data (note: Rivals). |
 | RP | Rivals | The product form is adequate: capability net of resistance captures everything | Unclear | Decided by instrument switching (T4). The forbidding clause is refuted on the class reading (change log (ar)), which does not show the product form adequate; the switching half of T4 has not been run. |
 | E1 | What the evidence already says | The full 2023 plan was not enacted. Medina attributes the setback to the protests, which mobilized foreign governments, business and reservists (pp. 686-687), and says the October 7, 2023 attack and the war that followed halted the plan (p. 687) | Established | The fact: the frame holds two laws titled Basic Law from 2023 that Medina says aimed to facilitate the plan (p. 687; research/frame/basic-law-frame.csv, rows 123 and 125) and no 2023 law changing judicial appointments. The causes are Medina's account and are not tested here. |
-| E2 | What the evidence already says | Medina: the two 2023 amendments were both coalition-only and took immediate effect (p. 687) | Unclear | The blind coders coded immediate effect Yes for both, Incapacity by the project's convention for a law with no commencement clause, after adjudication; and coalition-only Yes for Reasonableness, from a press tally (issue 15). Incapacity's coalition-only cell is blank (codebook/m4-codebook.csv; issue 19). |
+| E2 | What the evidence already says | Medina: the two 2023 amendments were both coalition-only and took immediate effect (p. 687) | Established | The blind coders coded immediate effect Yes for both, Incapacity by the project's convention for a law with no commencement clause, after adjudication; coalition-only Yes for Reasonableness from a press tally (issue 15), and for Incapacity from the Knesset's roll call of 23 March 2023, all 61 votes for from coalition factions (change log (az)). |
 | E3 | What the evidence already says | The Court struck the Reasonableness amendment and deferred the Incapacity amendment to the next Knesset | Established | HCJ 5658/23 (1 January 2024) and HCJ 2412/23 (3 January 2024), coded from the judgments by the docket reader (codebook/m4-codebook.csv; research/frame/basic-law-frame.csv). |
 | E4 | What the evidence already says | Medina: Hasson (2021) declared the identity limit but avoided applying it, using interpretation (p. 698) | Unclear | Rests on the paper; the full judgment is unread (issue 12). Separately, the project's Adverse code for the Nation-State row is flagged as contestable (codebook/README.md). |
 | E5 | What the evidence already says | Resler (1977): Medina's reading set against the Court's own later account | Contested | Medina reads it as the Court refraining from striking a re-enacted law (p. 694); the Court's later account is that Resler held the 1969 ratification law validly passed (change log (i)). The Hebrew judgment is unread (issue 2). |
@@ -224,8 +224,8 @@ Alt text: A list of 38 claims and results with their status: 11 established, 2 r
 | F10a | Checks on the data | The closed list for the situated-beneficiary sign, as first written | Refuted | A reader met 6 of the 9 expectations recorded before coding; three enactments were coded Yes on single-instance and sunset clauses, which change log (ad) records as a defect in the list (results.md, Addendum). |
 | F10 | Checks on the data | The situated-beneficiary sign under the tightened list: a fresh reader met 9 of the 9 expectations recorded before coding | Established | results.md, Second addendum; change log (ae), (af). |
 | F11 | Checks on the data | The 1994 override clause's outcome, coded Adverse on the judgment | Established | An English translation of the judgment, read in full, shows the Court confining the override's protection under Basic Law: Human Dignity and Liberty to three cumulative conditions (paras. 18-22), a narrowing interpretation (change log (aw); research/2026-11-04-external-claims.md). |
-| F12 | Checks on the data | T1 reaches its six-row minimum only if all five codable rows are discordant | Established | A calculation from T1's rule with analysis/t1_revised.py, on the frame's provisional outcome classes (research/audit-2026-10-25.md, finding 3). |
-| F13 | Checks on the data | The Incapacity amendment's coalition-only cell | Unclear | Blank; the Open Knesset vote tables may hold the vote (issue 19). |
+| F12 | Checks on the data | T1 reaches its six-row minimum only if all four codable rows left are discordant | Established | A calculation from T1's rule with analysis/t1_revised.py, on the frame's provisional outcome classes (research/audit-2026-10-25.md, finding 3); with the Incapacity row coded, two of six coded rows are discordant and four remain codable (change log (az)). |
+| F13 | Checks on the data | The Incapacity amendment's coalition-only cell | Established | Coded Yes by two coders from the Knesset's roll call, vote 38567 of 23 March 2023, 61 to 47, every vote for from a coalition faction; one sensitivity recorded, on Noam (results.md, Fourth addendum; change log (az)). |
 
 </details>
 
@@ -324,18 +324,18 @@ Alt text: A list of 73 errors: 69 in the research, 2 in reviews and 2 in process
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="fig8-jigsaw-dark.svg">
-  <img src="fig8-jigsaw-light.svg" alt="An imagined figure, drawn in violet. Seven pieces surround an empty centre, the project's ideal: Would the 2023 package remove the institutional checks that make Israel a democracy? (half-filled, 2 of 4 items established or refuted); Does the threat reach the state itself? (empty and tilted, 0 of 3 items established or refuted); Does the Court follow its warning signs or the laws' politics? (half-filled, 6 of 10 items established or refuted); Does Capability × Intent fit this case? (half-filled, 1 of 4 items established or refuted); What was the 2023 plan for? (empty and tilted, 0 of 4 items established or refuted); Is the Court acting for its own power? (half-filled, 1 of 2 items established or refuted); Is the record of Basic Laws complete and correct? (half-filled, 3 of 8 items established or refuted). Three numbered threads join pieces; each is captioned below with its premises and a conjecture.">
+  <img src="fig8-jigsaw-light.svg" alt="An imagined figure, drawn in violet. Seven pieces surround an empty centre, the project's ideal: Would the 2023 package remove the institutional checks that make Israel a democracy? (half-filled, 3 of 4 items established or refuted); Does the threat reach the state itself? (empty and tilted, 0 of 3 items established or refuted); Does the Court follow its warning signs or the laws' politics? (half-filled, 6 of 10 items established or refuted); Does Capability × Intent fit this case? (half-filled, 1 of 4 items established or refuted); What was the 2023 plan for? (empty and tilted, 0 of 4 items established or refuted); Is the Court acting for its own power? (half-filled, 1 of 2 items established or refuted); Is the record of Basic Laws complete and correct? (half-filled, 3 of 8 items established or refuted). Three numbered threads join pieces; each is captioned below with its premises and a conjecture.">
 </picture>
 
 Imagined. Not a result. The project's questions as pieces around its ideal, with three conjectural threads.
 
-Alt text: An imagined figure, drawn in violet. Seven pieces surround an empty centre, the project's ideal: Would the 2023 package remove the institutional checks that make Israel a democracy? (half-filled, 2 of 4 items established or refuted); Does the threat reach the state itself? (empty and tilted, 0 of 3 items established or refuted); Does the Court follow its warning signs or the laws' politics? (half-filled, 6 of 10 items established or refuted); Does Capability × Intent fit this case? (half-filled, 1 of 4 items established or refuted); What was the 2023 plan for? (empty and tilted, 0 of 4 items established or refuted); Is the Court acting for its own power? (half-filled, 1 of 2 items established or refuted); Is the record of Basic Laws complete and correct? (half-filled, 3 of 8 items established or refuted). Three numbered threads join pieces; each is captioned below with its premises and a conjecture.
+Alt text: An imagined figure, drawn in violet. Seven pieces surround an empty centre, the project's ideal: Would the 2023 package remove the institutional checks that make Israel a democracy? (half-filled, 3 of 4 items established or refuted); Does the threat reach the state itself? (empty and tilted, 0 of 3 items established or refuted); Does the Court follow its warning signs or the laws' politics? (half-filled, 6 of 10 items established or refuted); Does Capability × Intent fit this case? (half-filled, 1 of 4 items established or refuted); What was the 2023 plan for? (empty and tilted, 0 of 4 items established or refuted); Is the Court acting for its own power? (half-filled, 1 of 2 items established or refuted); Is the record of Basic Laws complete and correct? (half-filled, 3 of 8 items established or refuted). Three numbered threads join pieces; each is captioned below with its premises and a conjecture.
 
 <details><summary>Table view</summary>
 
 | Piece | Question | Items | Settled | Drawn as |
 |---|---|---|---|---|
-| PA | Would the 2023 package remove the institutional checks that make Israel a democracy? | A, E1, E2, E3 | 2 of 4 | half-filled |
+| PA | Would the 2023 package remove the institutional checks that make Israel a democracy? | A, E1, E2, E3 | 3 of 4 | half-filled |
 | PB | Does the threat reach the state itself? | B, RB, E8 | 0 of 3 | empty and tilted |
 | PC | Does the Court follow its warning signs or the laws' politics? | C, RE, E4, E5, F9a, F9, F10a, F10, F11, F12 | 6 of 10 | half-filled |
 | PD | Does Capability × Intent fit this case? | D, RP, E7, E10 | 1 of 4 | half-filled |

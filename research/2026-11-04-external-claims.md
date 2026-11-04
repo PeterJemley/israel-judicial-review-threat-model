@@ -14,14 +14,15 @@
 **Short answer.**
 - **Settled:**
   - item 1 (Resler);
+  - item 5 (Meatrael), from a translation the author supplied;
   - item 4 (Peretz);
   - item 7 (Bar-On);
   - item 8 (the article's dates);
   - item 11 (reference metadata);
   - the Shin Bet part of item 9, which reverses part of change log (aq) and (at).
 - **Item 10** is settled on abstracts for ten of eleven works.
-- **Not settled:** items 2, 3, 5 and 6.
-- **Applied to the note:** change log (av).
+- **Not settled:** items 2, 3 and 6.
+- **Applied to the note:** change log (av) and (aw).
 
 **Tags used.**
 - `[attested: ...]`: an English text read, named.
@@ -39,7 +40,7 @@
 **2. The faction breakdown of the 23 March 2023 Incapacity final vote.** Not settled.
 - The amendment passed "with 61 MKs voting in favor and 47 against". Absent were Mansour Abbas (Ra'am) and the Likud members David Amsalem and David Bitan, the two Likud members "in protest at the removal of a bill proposal by Amsalem from the plenum agenda". `[attested: Eliav Breuer and Jerusalem Post staff, 23 March 2023]` No member-by-member record was found.
 - If the coalition held 64 seats and three coalition members were absent, as a further report has it (Shas's Moshe Abutbul), 61 is the coalition's full remaining strength. This is consistent with a coalition-only vote but does not show it. `[conjectural; refuted by any opposition member among the 61]`
-- To settle it: the vote record, on `production.oknesset.org` or the Knesset's site.
+- To settle it: the Knesset's own vote record. Open Knesset's vote tables (`production.oknesset.org`, reached on 4 November) end on 13 July 2021, and the Knesset's sites did not answer. Issues 19 and 6.
 
 **3. Whether a Knesset statute with no commencement clause takes effect on publication.** Not settled.
 - `[MT-triage]` The Interpretation Law, 5741-1981, has no general commencement default. Its s. 21 sets only the hour (00:01 of the commencement day).
@@ -50,16 +51,18 @@
 - Open Knesset, from the Knesset's parliamentary-information interface, records Peretz in the 23rd Knesset in Yamina from 16 March to 14 July 2020 and in the Jewish Home faction from 14 July 2020 to 6 April 2021. It also records him as a minister from 17 May 2020 to 6 April 2021. `[attested: Open Knesset, member page 30716]`
 - On 24 August 2020 he therefore sat in the coalition, as a minister. A vote by him for the budget-deadline amendment is not an opposition vote, and the 2020 row's `coalition_only` Yes stands.
 
-**5. Whether Meatrael (HCJ 4676/94) narrowed the 1994 amendment or applied it literally.** Not settled from an English text.
-- Versa's later translations cite Meatrael only for its outcome and for limits on constituent power:
-  - Horev: the petition "was rejected and its constitutionality was upheld". `[attested: Versa, Horev v. Minister of Transportation]`
-  - The Reasonableness judgment: cited among the cases "not conceptually rejecting the existence of limits upon the constituent authority". `[attested: Versa, HCJ 5658/23, para. 205]`
-- Neither describes a qualification under Human Dignity and Liberty. The English text at Masaryk University could not be reached.
-- The outcome cell rests where change log (ag) left it: the docket reader's reading of the Hebrew judgment, at medium confidence, with the alternative reading recorded.
+**5. Whether Meatrael (HCJ 4676/94) narrowed the 1994 amendment or applied it literally.** Settled: narrowed. `[attested: English translation, translator not named, supplied by the author from a Masaryk University course copy]`
+- Barak P., for a unanimous bench of nine; delivered 25 November 1996. The heading cites 50(5) P.D. 16 (1997).
+- Para. 18: a deviating Act "gains constitutional protection within Basic-Law: Freedom of Occupation. For that reason alone, it does not acquire constitutional protection within Basic-Law: Human Dignity and Liberty too. Therefore, situations can arise where a deviating Act ... will be found not valid with regard to Basic-Law: Human Dignity and Liberty".
+- Paras. 21–22: the override's protection extends to rights in Human Dignity and Liberty only under three cumulative conditions. The infringement must be a natural consequence of the infringement on occupation, secondary to it, and not serious of itself.
+- Para. 15: the override cannot be used "to give force to an Act that negates or totally abolishes freedom of occupation as a constitutional right".
+- Paras. 23–24: the conditions were met, and the petition was rejected.
+- This is a narrowing interpretation of the 1994 amendment. The Adverse coding of change log (ag) stands on the text, and its alternative reading is not supported. Applied in change log (aw).
+- Earlier, Versa's later translations cited the case only for its outcome: Horev (the petition "was rejected and its constitutionality was upheld"); HCJ 5658/23, para. 205.
 
 **6. The faction breakdown of the 17 March 1992 Human Dignity and Liberty vote.** Not settled.
 - Sources agree on 32 for, 21 against, 1 abstaining. `[search-lead]`
-- No party-by-party record was reached. Divrei HaKnesset for that sitting is needed.
+- No party-by-party record was reached. Open Knesset's vote tables begin in October 2003, so Divrei HaKnesset for that sitting is needed (issue 6).
 
 **7. Bar-On (HCJ 4908/10): whether it applied the abuse constraint or only announced it.** Settled: announced, not applied. `[attested: Versa, Bar-On v. Knesset]`
 - Decided 7 April 2011 by seven justices (Beinisch P., Rivlin D.P., Grunis, Naor, Arbel, Rubinstein and Vogelman JJ.). The petition was denied.
@@ -73,6 +76,7 @@
   - that Medina defines Israel's constitutional identity ambiguously, "privileging liberal sources while sidelining nationalist ones";
   - that the sliding scale's procedural criteria are "empirically and normatively indeterminate".
 - Medina's rejoinder is on the ICONnect blog, 27 June 2026. `[search-lead]`
+- The reply's full text could not be read. OUP refuses automated requests (403), and Scite holds only the abstract.
 
 **9. The M1 details in finding 28.**
 - **The Shin Bet dismissal: settled.** `[attested: Jerusalem Post staff, 21 March 2025]` The report says "The High Court of Justice on Friday froze the government's Thursday decision to fire Shin Bet (Israel Security Agency) chief Ronen Bar until the hearing on the petition against the move", after "the cabinet's unanimous Thursday vote".
@@ -101,9 +105,9 @@
 
 1. Item 2 needs `production.oknesset.org` allowed, or the Knesset's own site.
 2. Item 3 needs an English authority on whether s. 10(a) of the Law and Administration Ordinance governs Knesset statutes. Allowing `www.adalah.org` would give an English Interpretation Law, but that Law has no default, so a treatise or a ruling is the better route.
-3. Item 5 needs an English text of Meatrael, paras 18 to 23. The Masaryk copy sits behind an anti-bot check; a library copy of the translation, or Versa if it has one, would do.
+3. Item 5 is settled from the translation the author supplied (change log (aw)).
 4. Item 6 needs Divrei HaKnesset for 17 March 1992.
-5. Rosen-Zvi and Yarom should be read in full, since it is open access, before the note relies on more than its abstract.
+5. Rosen-Zvi and Yarom should be read in full before the note relies on more than its abstract. It is open access, but OUP refuses automated requests, so a copy the author downloads is the route.
 6. The person to ask about item 3 is Suzie Navot, whose English treatise on the constitution of Israel is the likeliest place for the commencement rule. If she does not reply, Yaniv Roznai.
 
 ## Email draft

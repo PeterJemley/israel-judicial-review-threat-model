@@ -22,7 +22,7 @@
   - the Shin Bet part of item 9, which reverses part of change log (aq) and (at).
 - **Item 10** is settled on abstracts for ten of eleven works.
 - **Not settled:** items 2, 3 and 6.
-- **Applied to the note:** change log (av) and (aw).
+- **Applied to the note:** change log (av), (aw) and (ax).
 
 **Tags used.**
 - `[attested: ...]`: an English text read, named.
@@ -76,7 +76,11 @@
   - that Medina defines Israel's constitutional identity ambiguously, "privileging liberal sources while sidelining nationalist ones";
   - that the sliding scale's procedural criteria are "empirically and normatively indeterminate".
 - Medina's rejoinder is on the ICONnect blog, 27 June 2026. `[search-lead]`
-- The reply's full text could not be read. OUP refuses automated requests (403), and Scite holds only the abstract.
+- The reply was read in full from a copy the author supplied (OUP refuses automated requests). `[attested: Rosen-Zvi & Yarom, 2026]` Applied in change log (ax). Points used:
+  - the selectivity argument (pp. 717–720) and the indeterminacy of the procedural criteria (pp. 721–722);
+  - the Incapacity amendment as stipulating "that only medical reasons can ground the prime minister's incapacity" (p. 710 n. 4);
+  - the Court has "overturned many" disqualifications of Arab parties, "not all" (p. 717 n. 30);
+  - Hasson "mitigated some of the most problematic consequences" of the Nation-State law (p. 720 n. 46).
 
 **9. The M1 details in finding 28.**
 - **The Shin Bet dismissal: settled.** `[attested: Jerusalem Post staff, 21 March 2025]` The report says "The High Court of Justice on Friday froze the government's Thursday decision to fire Shin Bet (Israel Security Agency) chief Ronen Bar until the hearing on the petition against the move", after "the cabinet's unanimous Thursday vote".
@@ -107,7 +111,7 @@
 2. Item 3 needs an English authority on whether s. 10(a) of the Law and Administration Ordinance governs Knesset statutes. Allowing `www.adalah.org` would give an English Interpretation Law, but that Law has no default, so a treatise or a ruling is the better route.
 3. Item 5 is settled from the translation the author supplied (change log (aw)).
 4. Item 6 needs Divrei HaKnesset for 17 March 1992.
-5. Rosen-Zvi and Yarom should be read in full before the note relies on more than its abstract. It is open access, but OUP refuses automated requests, so a copy the author downloads is the route.
+5. Rosen-Zvi and Yarom has been read in full (change log (ax)). Medina's rejoinder on the ICONnect blog is not yet read.
 6. The person to ask about item 3 is Suzie Navot, whose English treatise on the constitution of Israel is the likeliest place for the commencement rule. If she does not reply, Yaniv Roznai.
 
 ## Email draft

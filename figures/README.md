@@ -209,7 +209,7 @@ Alt text: A list of 38 claims and results with their status: 10 established, 2 r
 | E6 | What the evidence already says | Medina: in the early decades a bipartisan tradition mitigated the simple-majority power to amend; in recent years, especially since the government elected at the end of 2022, it has been exploited (p. 708) | Unclear | Rests on the paper and is not checked here. The note's own wording of this item overstated p. 708 until change log (aq); see the errors list. |
 | E7 | What the evidence already says | The government returned to the plan in 2025 (Medina, p. 687) | Established | The March 2025 amendment to Basic Law: The Judiciary is in the frame (research/frame/basic-law-frame.csv, row 128, passed 27 March 2025). |
 | E8 | What the evidence already says | Nothing in the paper tests a mechanism of the chain from regime loss to state loss | Unclear | The note's reading of the paper (What the evidence already says, item 8); no second reader has checked it. On the identity reading (R-identity) no such mechanism is needed (change log (as)). |
-| E9 | What the evidence already says | After the events the article reports: the 2025 amendment has deferred effect; the Court held the Shin Bet chief's dismissal unlawful after the government had rescinded it, froze and then annulled the attorney general's dismissal, and in May 2026 ordered the selection committee convened | Unclear | From press reports in research/2025-2026-timeline.md, which applies them to the note's evidence item 9; the judgments are not read. The note's own wording of item 9 overstated the timeline until change log (aq); see the errors list. |
+| E9 | What the evidence already says | After the events the article reports: the 2025 amendment has deferred effect; the Court froze the Shin Bet chief's dismissal (21 March) and held it unlawful after the government had rescinded it, froze and then annulled the attorney general's dismissal, and in May 2026 ordered the selection committee convened | Unclear | From press reports in research/2025-2026-timeline.md, which applies them to the note's evidence item 9; the judgments are not read. The note's own wording of item 9 overstated the timeline until change log (aq); see the errors list. |
 | E10 | What the evidence already says | Medina: the Knesset increasingly exploited the amendment power in recent years, from the past decade, especially since late 2022 (pp. 696, 707, 708); the 2016, 2018 and 2020 rows carry abuse signs | Unclear | Rests on the paper, and on codebook rows 5 to 7 for the signs and outcomes. On it, the actor reading's prediction of near-zero threat before January 2023 fails (note: evidence item 10; change log (ar)). |
 | F1 | Checks on the data | The full list of 130 laws titled Basic Law, 1958 to 2026, corrected for the merge defect: after the split, every law of the list as first built is accounted for, and none appears twice | Established | research/frame/README.md, The defect and its correction; analysis/frame_merge_check.py; change log (al). This is not a check of completeness (row F2). |
 | F2 | Checks on the data | The full list's completeness, compared with the Court's count of 139 changes to 2023 | Unclear | 122 laws and 140 or 141 changes bracket the Court's 139, and the Court's counting rule is not stated, so the comparison neither confirms nor refutes completeness (research/frame/README.md). |
@@ -229,16 +229,16 @@ Alt text: A list of 38 claims and results with their status: 10 established, 2 r
 
 </details>
 
-## Errors list: 71 mistakes found so far in the project's own work, what caught each, and where each stands
+## Errors list: 72 mistakes found so far in the project's own work, what caught each, and where each stands
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="fig7-errors-dark.svg">
-  <img src="fig7-errors-light.svg" alt="A list of 71 errors: 67 in the research, 2 in reviews and 2 in process. 67 are corrected, 3 recorded and not undone, and 1 open.">
+  <img src="fig7-errors-light.svg" alt="A list of 72 errors: 68 in the research, 2 in reviews and 2 in process. 68 are corrected, 3 recorded and not undone, and 1 open.">
 </picture>
 
 The mistakes found so far in the project's own work, with what caught each and where each stands.
 
-Alt text: A list of 71 errors: 67 in the research, 2 in reviews and 2 in process. 67 are corrected, 3 recorded and not undone, and 1 open.
+Alt text: A list of 72 errors: 68 in the research, 2 in reviews and 2 in process. 68 are corrected, 3 recorded and not undone, and 1 open.
 
 <details><summary>Table view</summary>
 
@@ -315,6 +315,7 @@ Alt text: A list of 71 errors: 67 in the research, 2 in reviews and 2 in process
 | 69 | 2026-10-28 | empty analysis | The sensitivity analysis flipped scope, which enters no prediction, and step 12's analysis without pre-revision rows is empty on the nine rows. | The round-1 adversarial review, substance reader | Change log (at). | Corrected |
 | 70 | 2026-10-28 | misread source | The ontology cited section 4.2 for the reversibility of threats, and cited Roznai, Dixon and Landau for separating indicators from effects, which they treat as evidence of intent. | The round-1 adversarial review, substance reader | Change log (at). | Corrected |
 | 71 | 2026-10-28 | shortened quotation | Step 12 shortened Medina's "directly and indirectly impacted the Court's authority" (p. 687) to "affected". | The round-1 adversarial review, substance reader | Change log (at). | Corrected |
+| 72 | 2026-11-04 | overcorrection | Change log (aq) dropped the Court's freeze of the Shin Bet dismissal and (at) dropped its March date, though the Court froze it on 21 March 2025, the day after the cabinet vote. | The first verification pass on the external claims (Jerusalem Post) | Change log (av). | Corrected |
 
 </details>
 

@@ -1,132 +1,142 @@
-# External claims from the round-1 review: first verification pass, 31 October and 4 November 2026
+# External claims from the round-1 review: verification pass, 31 October and 4 November 2026
 
 **Question.** The round-1 review (research/review-2026-10-28-round1.md, "External claims to verify") lists eleven claims the project's own files cannot settle. This pass checks them. Its method is the layered order of the israel-law-dossier skill: English texts of decisions, then scholarship, institutes, the Israeli English-language press, and machine translation for triage only.
 
-**Short answer.**
-- **Settled, from bibliographic metadata:** item 11 (reference metadata). Item 10 (prior-art characterizations) is settled for ten of the eleven works, on abstracts only.
-- **Not settled:** the eight Israeli-law items (1 to 7, and 9).
-  - This session's network policy blocked every host that holds their sources: `versa.cardozo.yu.edu`, `www.timesofisrael.com`, `www.jpost.com`, `supreme.court.gov.il`, `he.wikisource.org`, `oknesset.org`, `web.archive.org` and `api.crossref.org`, on 31 October and again on 4 November.
-  - Web search still answered, but it returns a model's summary of result snippets, not the page. Nothing below from that route is attested; each such point is tagged `[search-lead]`, with the page to read when access is allowed.
-- **Item 8 (the article's dates)** has a lead but no attestation.
-- **One lead bears on a correction already made.** If confirmed, it would partly reverse change log (aq) and (at) on the Shin Bet dismissal (item 9 below).
+**History of the pass.**
+- On 31 October and the morning of 4 November the session's network policy blocked every source host, and only Scite and web-search summaries were available.
+- The author allowed the hosts on 4 November. After that, Versa, the Jerusalem Post, Open Knesset, Hebrew Wikisource and Crossref were read directly.
+- Four hosts were still unusable:
+  - `supreme.court.gov.il` and `web.archive.org` did not answer;
+  - `www.timesofisrael.com` refuses automated requests (403);
+  - `is.muni.cz` serves the Meatrael translation behind an anti-bot check, which was not circumvented.
+- Three hosts are not on the allowed list: `production.oknesset.org` (Open Knesset's vote data), `www.adalah.org` (an English translation of the Interpretation Law) and `academic.oup.com`.
 
-**Nothing in the note is changed by this pass.**
+**Short answer.**
+- **Settled:**
+  - item 1 (Resler);
+  - item 4 (Peretz);
+  - item 7 (Bar-On);
+  - item 8 (the article's dates);
+  - item 11 (reference metadata);
+  - the Shin Bet part of item 9, which reverses part of change log (aq) and (at).
+- **Item 10** is settled on abstracts for ten of eleven works.
+- **Not settled:** items 2, 3, 5 and 6.
+- **Applied to the note:** change log (av).
 
 **Tags used.**
-- `[attested: Scite metadata]`: the bibliographic record Scite holds for the DOI.
-- `[abstract: Scite]`: the article's abstract as Scite holds it; the full text was not read.
-- `[search-lead]`: a web-search summary of result snippets. It is not a quotation and not a characterization. It says where to look.
+- `[attested: ...]`: an English text read, named.
+- `[abstract: Scite]`: an abstract only.
+- `[MT-triage]`: a Hebrew text read only to locate a provision. Never a characterization.
+- `[search-lead]`: a web-search summary, not read.
+- `[conjectural]`: this project's inference, with what would refute it.
 
 ## Items, in the review's order
 
-**1. What Resler (HCJ 60/77) held, and which law it concerned.** Load-bearing; issue 2.
-- Not settled. Searches for the case number, the parties and the reporter citation (31(2) P.D. 556) returned no text or summary of the 1977 judgment. `[search-lead]`
-- The Elections authority's site holds the 1969 Knesset Elections (Confirmation of Validity of Laws) Law, whose preamble declares the election laws valid from their commencement. `[search-lead]`
-- What stands is unchanged. The project's reading in change log (i) and (n) rests on Barak P.'s description of the case in Mizrahi Bank and on research/historical-cases-findings.md, item 2.
-- To settle it: the judgment itself, which predates the judiciary's online archive. This is a library or scholar question (see the email below).
+**1. What Resler (HCJ 60/77) held, and which law it concerned.** Settled.
+- Landau P., in Agudat Derekh Eretz v. Broadcasting Authority (HCJ 246/81, 1981), restates the holding. `[attested: Versa translation, p. 9]` Resler concluded that the 1969 Confirmation Law "indeed ratified 'the election Laws' mentioned therein by virtue of the absolute majority with which it was passed consonantly with the concluding portion of section 4 and section 46 of Basic Law: The Knesset". He adds: "But it says nothing with respect to the question whether the validity of the election Laws or any of their provisions ... was in any event consistent with the equality principle in section 4".
+- This matches the project's reading in change log (i) and (n). The draft email on Resler in the earlier version of this file is withdrawn.
 
-**2. The faction breakdown of the 23 March 2023 Incapacity final vote.** Load-bearing; issues 19 and 6.
-- Not settled. Reports agree on the tally of 61 to 47 at the second and third readings. They name absentees: the Likud members David Amsalem and David Bitan, Ra'am's Mansour Abbas, and Shas's Moshe Abutbul. No report found lists how each member voted. `[search-lead]`
-- One point bears on the coding. If all 64 coalition members had been present and voted for, the tally would exceed 61; the named coalition absences (three) leave 61, which is consistent with a coalition-only vote. This is arithmetic on a lead, not a finding. `[conjectural; refuted by any opposition member in the 61]`
-- To settle it: the Knesset plenum's vote record for the session, through the Knesset's site or the Open Knesset mirror.
+**2. The faction breakdown of the 23 March 2023 Incapacity final vote.** Not settled.
+- The amendment passed "with 61 MKs voting in favor and 47 against". Absent were Mansour Abbas (Ra'am) and the Likud members David Amsalem and David Bitan, the two Likud members "in protest at the removal of a bill proposal by Amsalem from the plenum agenda". `[attested: Eliav Breuer and Jerusalem Post staff, 23 March 2023]` No member-by-member record was found.
+- If the coalition held 64 seats and three coalition members were absent, as a further report has it (Shas's Moshe Abutbul), 61 is the coalition's full remaining strength. This is consistent with a coalition-only vote but does not show it. `[conjectural; refuted by any opposition member among the 61]`
+- To settle it: the vote record, on `production.oknesset.org` or the Knesset's site.
 
-**3. Whether a Knesset statute with no commencement clause takes effect on publication.** Load-bearing.
-- Not settled. Searches found nothing on the text of the Interpretation Law, 5741-1981, on commencement. `[search-lead]`
-- The project's coding rule stands as a rule of its own (change log (aa); T1 revised, step 3, as reworded in (as)).
-- To settle it: the Interpretation Law's text, in the Hebrew original or an authorized English translation, or a ruling that applies it.
+**3. Whether a Knesset statute with no commencement clause takes effect on publication.** Not settled.
+- `[MT-triage]` The Interpretation Law, 5741-1981, has no general commencement default. Its s. 21 sets only the hour (00:01 of the commencement day).
+- `[MT-triage]` The Law and Administration Ordinance, 5708-1948, s. 10(a), gives a publication-day default. But it speaks of an "ordinance", and s. 10(c) extends it to regulations. Whether it reaches Knesset statutes is not settled by the text, which is where issue 1 already stood.
+- Both texts are from Hebrew Wikisource. To settle it: an English authority (a treatise, or a ruling applying s. 10(a) to a statute) or a scholar.
 
-**4. Rafi Peretz's faction on 24 August 2020.** Load-bearing for the one discordant row; issue 6.
-- Partly settled as a lead. Reports say the Knesset House Committee approved, on or about 14 July 2020, by 10 to 2 with one abstention, Peretz's request to split from Yamina and sit as the Jewish Home faction. `[search-lead]`
-- If attested, on 24 August 2020 Peretz sat as Jewish Home, a coalition faction. His vote for the budget-deadline amendment would then not count as an opposition vote, and `coalition_only` Yes on the 2020 row would stand.
-- To settle it: the House Committee's decision of 14 July 2020, or the Jewish Press report of that date (https://jewishpress.com/news/politics/knesset-permits-mk-rafi-peretz-to-split-from-yamina-become-sole-member-of-habayit-hayehudi/2020/07/14).
+**4. Rafi Peretz's faction on 24 August 2020.** Settled.
+- Open Knesset, from the Knesset's parliamentary-information interface, records Peretz in the 23rd Knesset in Yamina from 16 March to 14 July 2020 and in the Jewish Home faction from 14 July 2020 to 6 April 2021. It also records him as a minister from 17 May 2020 to 6 April 2021. `[attested: Open Knesset, member page 30716]`
+- On 24 August 2020 he therefore sat in the coalition, as a minister. A vote by him for the budget-deadline amendment is not an opposition vote, and the 2020 row's `coalition_only` Yes stands.
 
-**5. Whether Meatrael (HCJ 4676/94) narrowed the 1994 amendment or applied it literally.** Load-bearing for K.
-- Not settled. An English text of the opinion is hosted at Masaryk University (https://is.muni.cz/el/law/jaro2020/SOC042/um/H.C._4676-94_Meatrael_v._The_Knesset_of_Israel.pdf). The search summary gives the two questions Barak P. framed, but not the answer to the first. `[search-lead]`
-  - The first question: whether the override shields an act that infringes the principles in the Basic Law's purpose clauses.
-  - The second question: what follows when the act infringes Human Dignity and Liberty, which has no override clause.
-- The reporter citation varies by source: 50(5) P.D. 15 or 16; 1996 or 1997. `[search-lead]`
-- To settle it: read paras 18 to 23 of that PDF. If it is not a Versa text, its provenance should be recorded too.
+**5. Whether Meatrael (HCJ 4676/94) narrowed the 1994 amendment or applied it literally.** Not settled from an English text.
+- Versa's later translations cite Meatrael only for its outcome and for limits on constituent power:
+  - Horev: the petition "was rejected and its constitutionality was upheld". `[attested: Versa, Horev v. Minister of Transportation]`
+  - The Reasonableness judgment: cited among the cases "not conceptually rejecting the existence of limits upon the constituent authority". `[attested: Versa, HCJ 5658/23, para. 205]`
+- Neither describes a qualification under Human Dignity and Liberty. The English text at Masaryk University could not be reached.
+- The outcome cell rests where change log (ag) left it: the docket reader's reading of the Hebrew judgment, at medium confidence, with the alternative reading recorded.
 
-**6. The faction breakdown of the 17 March 1992 Human Dignity and Liberty vote.** Needed to make the control codable; issue 6.
-- Partly settled as a lead. Sources agree on 32 for, 21 against, 1 abstaining. One names Hadash among the supporters, and the religious parties as the main opposition to the wider rights bill. `[search-lead]`
-- No party-by-party list was found, so the control's `coalition_only` cell stays blank.
-- To settle it: the Knesset record of that sitting (Divrei HaKnesset).
+**6. The faction breakdown of the 17 March 1992 Human Dignity and Liberty vote.** Not settled.
+- Sources agree on 32 for, 21 against, 1 abstaining. `[search-lead]`
+- No party-by-party record was reached. Divrei HaKnesset for that sitting is needed.
 
-**7. Bar-On (HCJ 4908/10, 7 April 2011): whether it applied the abuse constraint or only announced it.**
-- Not settled. A summary of the Hebrew business press reports that the Court treated a temporary-provision "pilot" as an exception to the constitutional structure, reviewed against the constitution's existing provisions. A Jerusalem Post headline calls the justices' stand "restrained", which suggests the petition was dismissed. `[search-lead]`
-- Versa has the opinion (https://versa.cardozo.yu.edu/opinions/bar-v-knesset). It is the first layer to read.
+**7. Bar-On (HCJ 4908/10): whether it applied the abuse constraint or only announced it.** Settled: announced, not applied. `[attested: Versa, Bar-On v. Knesset]`
+- Decided 7 April 2011 by seven justices (Beinisch P., Rivlin D.P., Grunis, Naor, Arbel, Rubinstein and Vogelman JJ.). The petition was denied.
+- The Court was "not convinced that the present case justifies unprecedented intervention in the legislation of the Knesset in its function as a constituent authority".
+- It said that "In certain circumstances, which cannot be determined in advance, it is possible that the enactment of a basic law as a temporary provision may amount to 'misuse' of the title 'basic law'". It added, in the abstract's translation, that "the Knesset would do better to refrain from using temporary provisions to amend constitutional instructions in the future".
+- The note's "2011 warning in Bar-On" is accurate.
 
-**8. The article's acceptance or cut-off date.**
-- `[attested: Scite metadata]` The issue date is 1 April 2026, I·CON 24(2) 681–708.
-- `[search-lead]` OUP's advance-articles page lists the article as published online on 21 May 2026, which is later than the issue date. Neither is an acceptance date.
-- `[search-lead]` A reply appeared in I·CON's Debate section on 1 June 2026: Issi Rosen-Zvi and Meir H. Yarom, "Constitutional methodology and the perils of positivity: A reply to Barak Medina". Medina's rejoinder is on the ICONnect blog, dated 27 June 2026. Neither is in the note's prior art; both bear on Claim C.
-- To settle it: the article's history on the OUP page (https://doi.org/10.1093/icon/moag052).
+**8. The article's acceptance or cut-off date.** Settled as far as the record goes. `[attested: Crossref]`
+- Issued 1 April 2026, I·CON 24(2) 681–708; published online 21 May 2026. No acceptance date is in the Crossref record.
+- The reply by Issi Rosen-Zvi and Meir H. Yarom, DOI 10.1093/icon/moag054, is in the same issue at pp. 709–722, published online 1 June 2026. It is open access under CC BY. Its abstract argues two things `[abstract: Scite]`:
+  - that Medina defines Israel's constitutional identity ambiguously, "privileging liberal sources while sidelining nationalist ones";
+  - that the sliding scale's procedural criteria are "empirically and normatively indeterminate".
+- Medina's rejoinder is on the ICONnect blog, 27 June 2026. `[search-lead]`
 
-**9. The M1 details in finding 28.** Issue 10.
-- The note's M1 2025 row as revised by (at) says the government dismissed the Shin Bet chief and then rescinded the dismissal, which the Court held unlawful on 21 May. Change log (aq) had earlier removed "froze" for the Shin Bet case, because the timeline recorded "no operative order" for the 21 May judgment.
-- `[search-lead]` Several reports say:
-  - the cabinet voted unanimously to end Ronen Bar's term on Thursday, 20 March 2025;
-  - the Court issued an interim order the next day, freezing the dismissal "until further notice", with a hearing by 8 April;
-  - the Court later refused the government's request to cancel the order;
-  - Bar said he would step down on 15 June.
-  - Sources: i24 News, Jerusalem Post, JNS, Yeshiva World.
-- If attested, the March date that (at) removed was right, and the Shin Bet dismissal was frozen before the 21 May judgment. The 21 May judgment's lack of an operative order would then be consistent with the order having lapsed after rescission.
-- This lead is not applied. It needs the Times of Israel or Jerusalem Post report of 21 March 2025 read in full.
-- Not yet checked: the attorney general's freeze, the absence of interim orders in 2026, and the deferred-effect claims.
+**9. The M1 details in finding 28.**
+- **The Shin Bet dismissal: settled.** `[attested: Jerusalem Post staff, 21 March 2025]` The report says "The High Court of Justice on Friday froze the government's Thursday decision to fire Shin Bet (Israel Security Agency) chief Ronen Bar until the hearing on the petition against the move", after "the cabinet's unanimous Thursday vote".
+  - The cabinet voted on 20 March 2025, and the Court froze the dismissal on 21 March.
+  - The 21 May judgment came after the government had rescinded the dismissal, so its lack of an operative order is consistent with the earlier freeze.
+  - Change log (aq) was wrong to drop "froze" for the Shin Bet case, and (at) to drop the March date. Both are restored in change log (av).
+- **Not re-checked:** the attorney general's freeze (from the Times of Israel, which refuses automated requests), the absence of interim orders in 2026, and the deferred-effect claims.
 
 **10. The prior-art characterizations.**
-- **Supported by the abstracts, for these works:**
-  - Cox (2008): failure to adjust for correlation among components, nonadditivity, and the mispricing of adaptive antagonists. `[abstract: Scite]`
-  - Aven & Guikema (2015): adaptation by adversaries as essential to the concept. "Defining feature" in the note is close to the abstract's "essential features ... in the context of adaptation". `[abstract: Scite]`
-  - Grillo, Luo & Nalepa (2024); Bermeo (2016); Riedl, McCoy & Roberts (2024); Landau-Wells (2024); Navot (2023); Hostovsky Brandes & Roznai (2024); Medina & Bloch (2023). `[abstract: Scite]`
-  - Roznai & Cohen (2023): the populist constitutional project. The abstract says nothing of "institutional vulnerability" as such. `[abstract: Scite]`
-  - Roznai, Dixon & Landau (2023): the democratic minimum core, judged by cumulative practical effect. The abstract says nothing of "effect as prima facie evidence of intent" or of "proto-abusive change"; those need the full text. `[abstract: Scite]`
-- **Not checked:** Singer (1958). Scite holds no abstract, and its full text is not indexed. The note's "conventional origin of threat as capability combined with intent" rests on the IR literature's citation of Singer, which was not read here.
+- **Supported by abstracts** `[abstract: Scite]`:
+  - Cox (2008): correlation among components, nonadditivity, adaptive antagonists.
+  - Aven & Guikema (2015): adaptation by adversaries as essential to the concept.
+  - Grillo, Luo & Nalepa (2024); Bermeo (2016); Riedl, McCoy & Roberts (2024); Landau-Wells (2024); Navot (2023); Hostovsky Brandes & Roznai (2024); Medina & Bloch (2023).
+- **Abstract silent on the note's point; the full text is needed:**
+  - Roznai & Cohen (2023), on "institutional vulnerability".
+  - Roznai, Dixon & Landau (2023), on "effect as prima facie evidence of intent" and "proto-abusive change".
+- **Not checked:** Singer (1958). Scite has no abstract and no indexed full text.
 
-**11. Reference metadata.** `[attested: Scite metadata]`
-- Hostovsky Brandes & Roznai, DOI 10.1017/asjcl.2025.7: 2024, Asian Journal of Comparative Law 19(3), 535–555.
-- Riedl, McCoy & Roberts, DOI 10.1177/00027162251319909: 2024, The ANNALS 712(1), 8–31.
-- Both DOIs carry a 2025 identifier while the metadata gives 2024. The note's 2024 is kept and the mismatch recorded. Crossref, which would settle it, was blocked.
-- The other eleven references match the note in year, volume, issue and pages. None has a retraction, correction or concern notice in Scite.
+**11. Reference metadata.** Settled. `[attested: Crossref]`
+- Hostovsky Brandes & Roznai, DOI 10.1017/asjcl.2025.7: issue dated December 2024, AJCL 19(3) 535–555; published online 25 April 2025.
+- Riedl, McCoy & Roberts, DOI 10.1177/00027162251319909: issue dated March 2024, ANNALS 712(1) 8–31; published online 21 March 2025.
+- Both were published online after the issue they are assigned to, which explains the 2025 in their DOIs. The note's 2024 follows the issue date and stands.
+- The other eleven references match the note. None has a retraction, correction or concern notice in Scite.
 
 ## Gaps
 
-1. Every Israeli-law item needs a host this session cannot reach. The hosts to allow, in order of use:
-   - `versa.cardozo.yu.edu`;
-   - `www.timesofisrael.com` and `www.jpost.com`;
-   - `supreme.court.gov.il`;
-   - `he.wikisource.org`;
-   - `oknesset.org`;
-   - `web.archive.org`;
-   - `api.crossref.org`;
-   - `is.muni.cz`.
-2. Resler (item 1) predates the judiciary's online archive and has no English text found. It is a question for a library or a scholar.
-3. The Rosen-Zvi and Yarom reply and Medina's rejoinder (item 8) should be read and considered for Prior art and Claim C.
-4. The person to ask about Resler is Barak Medina, whose reading at p. 694 the project questions. If he does not reply, Yaniv Roznai, whose English work on unconstitutional amendments is the next closest.
+1. Item 2 needs `production.oknesset.org` allowed, or the Knesset's own site.
+2. Item 3 needs an English authority on whether s. 10(a) of the Law and Administration Ordinance governs Knesset statutes. Allowing `www.adalah.org` would give an English Interpretation Law, but that Law has no default, so a treatise or a ruling is the better route.
+3. Item 5 needs an English text of Meatrael, paras 18 to 23. The Masaryk copy sits behind an anti-bot check; a library copy of the translation, or Versa if it has one, would do.
+4. Item 6 needs Divrei HaKnesset for 17 March 1992.
+5. Rosen-Zvi and Yarom should be read in full, since it is open access, before the note relies on more than its abstract.
+6. The person to ask about item 3 is Suzie Navot, whose English treatise on the constitution of Israel is the likeliest place for the commencement rule. If she does not reply, Yaniv Roznai.
 
 ## Email draft
 
-Subject: One question on HCJ 60/77 — Resler's holding
+Subject: One question on commencement — Knesset statutes
 
 Dear Professor [name],
 
-I'm a graduate law student at Vanderbilt and a fellow at Fordham's Center for Jewish Studies, reading on the doctrine of unconstitutional constitutional amendment in Israel without enough Hebrew to work from the reports. Your 2026 I·CON article is the closest English treatment I've found.
+I'm a graduate law student at Vanderbilt and a fellow at Fordham's Center for Jewish Studies, reading on Israeli constitutional amendment without enough Hebrew to work from the sources. Your *The Constitution of Israel* is the closest English treatment I've found.
 
-One question: in HCJ 60/77 Resler, did the Court decline to review the election laws because the 1969 Confirmation of Validity of Laws Law had ratified them by an absolute majority, rather than finding an equality violation and upholding it on account of broad support? A one-line answer — even "yes, that is the holding" — would settle it for me; if there is a later case that restates it, its number is all I need.
+One question: when a Knesset statute or Basic Law has no commencement clause, does it take effect on the day of publication in Reshumot under section 10(a) of the Law and Administration Ordinance, 1948, or by some other rule? A one-line answer — even "yes, s. 10(a), and the courts apply it to statutes" — would settle it for me; if there is a case on the point, its number is all I need.
 
 With thanks,
 Peter
 
 ## Sources
 
-**Scite (bibliographic records and abstracts):** the thirteen DOIs in the note's References.
+**Layer 1, English texts of decisions (Versa):**
+- Agudat Derekh Eretz v. Broadcasting Authority: https://versa.cardozo.yu.edu/sites/default/files/upload/opinions/Agudat%20Derekh%20Eretz%20v.%20Broadcasting%20Authority.pdf
+- Bar-On v. Knesset: https://versa.cardozo.yu.edu/opinions/bar-v-knesset
+- Horev v. Minister of Transportation: https://versa.cardozo.yu.edu/sites/default/files/upload/opinions/Horev%20v.%20Minister%20of%20Transportation_0.pdf
+- Movement for Quality Government v. The Knesset (HCJ 5658/23): https://versa.cardozo.yu.edu/sites/default/files/upload/opinions/Movement%20for%20Quality%20Government%20v.%20The%20Knesset.pdf
 
-**Web search (leads only; pages not read):**
-- Item 2: https://jpost.com/israel-news/politics-and-diplomacy/article-735156 ; https://israelhayom.com/2023/03/23/knesset-passes-first-bill-in-controversial-legal-haul ; https://jewishpress.com/news/israel/the-knesset/knesset-passes-pm-incapacity-law-blocking-ag-court-coup-detat/2023/03/23 ; https://allisraelnews.com/following-a-stormy-political-debate-knesset-passes-incapacitation-law
-- Item 4: https://jewishpress.com/news/politics/knesset-permits-mk-rafi-peretz-to-split-from-yamina-become-sole-member-of-habayit-hayehudi/2020/07/14 ; https://EN.wikipedia.com/wiki/Jewish_Home
-- Item 5: https://is.muni.cz/el/law/jaro2020/SOC042/um/H.C._4676-94_Meatrael_v._The_Knesset_of_Israel.pdf ; https://www.kohelet.org.il/en/?p=9320
-- Item 6: https://israeled.org/timeline/tenth-basic-law-of-israel-human-dignity-and-liberty ; https://en.wikipedia.org/wiki/Basic_Law:_Human_Dignity_and_Liberty
-- Item 7: https://versa.cardozo.yu.edu/opinions/bar-v-knesset ; https://www.jpost.com/Diplomacy-and-Politics/Justices-take-restrained-stand-on-biannual-budget ; https://www.globes.co.il/news/article.aspx?did=1001157685
-- Item 8: https://academic.oup.com/icon/advance-articles ; https://www.iconnectblog.com/democratic-legitimacy-and-constitutional-identity-a-rejoinder/
-- Item 9: https://i24news.tv/en/news/israel/artc-israel-s-top-court-freezes-dismissal-of-shin-bet-chief-after-govt-voted-to-approve-decision ; https://www.jns.org/israeli-cabinet-votes-to-sack-shin-bet-chief-ronen-bar/ ; https://theyeshivaworld.com/news/israel-news/2380162/shin-bet-shakeup-pm-netanyahu-fires-director-ronen-bar-but-high-court-puts-a-freeze-on-it.html
-- Item 1: https://www.gov.il/apps/elections/elections-knesset-17/heb/law/ValidLaws.html
+**Layer 4, the Israeli English-language press:**
+- Item 9: https://www.jpost.com/breaking-news/article-847040
+- Item 2: https://www.jpost.com/israel-news/politics-and-diplomacy/article-735156
+
+**Knesset data:** https://oknesset.org/members/30716.html
+
+**Hebrew statutes, for triage only:**
+- Interpretation Law, 1981: https://he.wikisource.org/wiki/חוק_הפרשנות
+- Law and Administration Ordinance, 1948: https://he.wikisource.org/wiki/פקודת_סדרי_השלטון_והמשפט
+
+**Bibliographic records:** Crossref (api.crossref.org) for the DOIs above, and Scite for abstracts and editorial notices.
+
+**Search leads not read:** https://israeled.org/timeline/tenth-basic-law-of-israel-human-dignity-and-liberty ; https://www.iconnectblog.com/democratic-legitimacy-and-constitutional-identity-a-rejoinder/

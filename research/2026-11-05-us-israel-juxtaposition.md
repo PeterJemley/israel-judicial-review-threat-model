@@ -13,8 +13,8 @@
 **Sources.** The comparisons were prompted by a broadcast discussion of the US midterms that the author has checked. It is not cited; each fact below carries its own source. Tags:
 - `[attested: ...]`: a text read for this note;
 - `[press: ...]` and `[analysis: ...]`: a news report or an analysis piece, read;
-- `[search-lead]`: a search summary, not read;
 - `[verified by the author, source not cited]`;
+- `[run: ...]`: found in the author's legal-database run of 5 November 2026 ([legal-db-2026-11-05/](legal-db-2026-11-05/README.md)), with that run's own tag, and not re-read for this note;
 - `[conjectural]`: this note's inference.
 
 ## The table
@@ -43,8 +43,8 @@
 - **Israel:**
   - On 4 November the Central Elections Committee published final results, finding no irregularities. `[press: Harel, Haaretz, 4 November 2026]`
   - Its chair, Justice Noam Sohlberg, had earlier asked the Shin Bet chief to investigate suspected foreign funding. `[press: Harel]`
-  - The new Knesset is to be sworn in on 10 November. `[analysis: Keinon, Jerusalem Post, 1 November 2026]`
-  - This note has not examined who in Israeli law can refuse to seat a certified member.
+  - The new Knesset is to be sworn in on 10 November. `[analysis: Keinon, Jerusalem Post, 1 November 2026]` A wire report gives the same date for its first session. `[run: attested, Lexis, MENAFN, 3 November 2026]`
+  - This note has not examined who in Israeli law can refuse to seat a certified member. A search of English sources in Westlaw and Lexis on 5 November found nothing on the point. `[run: not found]`
 - **What the contrast teaches:**
   - In the United States, the last judge of an election is the chamber itself. So the point of risk is the chamber, or the officer who makes its roll, acting against a certified result.
   - In Israel, the point of risk the Harel evaluation identifies is earlier: the security service feeding claims to the election authority. `[conjectural]`
@@ -54,7 +54,7 @@
 
 - **United States:**
   - The Constitution gives the Attorney General no stated role; the department's independence from the President rests on convention. `[conjectural]`
-  - On 1 December 2020 the Attorney General told the Associated Press that "to date, we have not seen fraud on a scale that could have effected a different outcome in the election". `[search-lead: AP interview of 1 December 2020, as republished by AP members]`
+  - On 1 December 2020 the Attorney General told the Associated Press that the department had "not seen fraud on a scale that could have effected a different outcome". `[run: attested, Lexis, Michael Balsamo (AP), Spokesman-Review, 2 December 2020, at A3]`
   - He left office later that month. `[verified by the author, source not cited]`
 - **Israel:**
   - The government's dismissal of Attorney General Gali Baharav-Miara (August 2025) was frozen by the High Court and annulled 7 to 0 on 14 December 2025. `[attested: research/2025-2026-timeline.md]`
@@ -84,7 +84,7 @@
 
 **4. The courts**
 
-- **United States:** federal courts issued more than 100 injunctions against the administration. The Solicitor General appealed only a handful to the Supreme Court, and the rest remain in force. `[verified by the author, source not cited]`
+- **United States:** federal courts issued more than 100 injunctions against the administration. The Solicitor General appealed only a handful to the Supreme Court, and the rest remain in force. `[verified by the author, source not cited]` A search of Westlaw and Lexis on 5 November did not find a written source for the figures. `[run: not found]`
 - **Israel:**
   - The High Court struck the Reasonableness amendment and deferred the Incapacity amendment to the next Knesset, in January 2024. `[attested: codebook/m4-codebook.csv, rows 8 and 9]`
   - On 31 May 2026 it ordered the justice minister to convene the Judicial Selection Committee. He called the order "an apparently illegal decision". `[attested: research/2025-2026-timeline.md]`
@@ -93,7 +93,10 @@
 **5. Judicial appointments**
 
 - **United States:** the President appoints "judges of the Supreme Court" only "by and with the advice and consent of the Senate" (Art. II, § 2). `[attested: Cornell LII, Art. II]` With a Democratic Senate, a nominee must be acceptable to it. `[conjectural]`
-- **Israel:** the March 2025 amendment to Basic Law: The Judiciary changes the committee that selects judges, and takes effect "on the day the 26th Knesset begins its term". Petitions against it are pending. `[attested: research/coding-2026-11-04-row10/]`
+- **Israel:**
+  - The March 2025 amendment to Basic Law: The Judiciary changes the committee that selects judges, and takes effect "on the day the 26th Knesset begins its term". Petitions against it are pending. `[attested: research/coding-2026-11-04-row10/]`
+  - The Court issued conditional orders on 2 December 2025, requiring the Knesset and the government to explain why the law should not be struck down. Eleven justices heard the petitions on 21 June 2026. No ruling was reported through 5 November 2026. `[run: attested, Lexis, Jerusalem Post, 3 December 2025 and 27 July 2026]`
+  - Unless the Court rules or issues an interim order first, the amendment takes effect when the new Knesset first meets, on 10 November. `[run: conjectural]`
 - **What the contrast teaches:**
   - Because of the deferral, the amendment does not show one of the Court's signs of abuse, an amendment taking effect at once for the government that passed it, which the project codes as "immediate effect".
   - The deferral now hands the new committee to whichever coalition and opposition the 2026 Knesset produces, which may not be the coalition that wrote it. `[conjectural]`
@@ -122,7 +125,7 @@
 **8. A third model: the United Kingdom**
 
 - **The model.** A returning officer certifies the result, and the House of Commons seats the member certified. Disputes go to an election court, not to the House.
-- **An example.** When Tony Benn, by then Viscount Stansgate, won the Bristol South-East by-election of 1961, the election court held him disqualified as a peer. `[verified by the author, source not cited]`
+- **An example.** When Tony Benn, by then Viscount Stansgate, won the Bristol South-East by-election of 1961, the election court held him disqualified as a peer. `[verified by the author, source not cited]` Justices Gorman and McNair held that he could not keep the seat after succeeding to his father's peerage, and that the runner-up took it without a new election. `[run: attested, Lexis, Tillman, 2025 Harv. J.L. & Pub. Pol'y Per Curiam 1, n.13]`
 - **What the contrast teaches:**
   - In this third arrangement, neither the chamber nor a security service decides who sits. An official certifies and a court decides disputes.
   - In Israel, the official who certifies is a Supreme Court justice. That puts Israel nearer this model than the American one, which is why his request to the Shin Bet matters. `[conjectural]`

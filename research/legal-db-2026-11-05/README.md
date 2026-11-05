@@ -16,10 +16,10 @@
 
 ## In brief
 
-- **The main note does not change.** The run changes no coded cell, no number and no verdict.
+- **The main note changes in two descriptions only.** The run changes no coded cell, no number and no verdict.
 - **Four open issues gain evidence:** 11, 12, 13 and 22. None of them reaches its stopping rule, so all four stay open.
 - **One point is time-sensitive.** The 2025 amendment that changes the Judicial Selection Committee takes effect when the 26th Knesset first meets. That meeting is reported for 10 November 2026. No ruling on the petitions against the amendment was found.
-- **Two of the note's descriptions of earlier scholarship can be made more exact.** These are put to the author below.
+- **Two of the note's descriptions of earlier scholarship were made exact**, at the author's direction (change log (bf); see Q9 below).
 - **The companion note** setting the American and Israeli checks side by side ([2026-11-05-us-israel-juxtaposition.md](../2026-11-05-us-israel-juxtaposition.md)) gains sources on four points.
 
 ## Question by question
@@ -116,11 +116,11 @@
 - **(a) Roznai, Dixon & Landau (2023):**
   - They use "proto-abusive" at pp. 294 and 301–04, and define it at p. 302. `[run: attested, Lexis, 56 Isr. L. Rev. 292]`
   - At p. 302 they write that "the effect of a law may itself be prima facie evidence of the intent". `[run: attested]`
-  - The note says, in its prior-art list and its ontology section, that they "treat effect as prima facie evidence of intent". Their word is "may". `[attested: medina-threat-conjecture-note.md, Prior art and the ontology]`
+  - The note said, in its prior-art list and its ontology section, that they "treat effect as prima facie evidence of intent". Their word is "may". Both places now quote them with the page (change log (bf); errors list, entry 75).
 - **(b) Roznai & Cohen (2023):**
   - The phrase "institutional vulnerability" does not appear.
   - They call Israel "especially vulnerable to populism, because of its unique institutional design factors" (p. 502), and argue the point at pp. 509–10. `[run: attested, Lexis, 56 Isr. L. Rev. 502]`
-  - The note's prior-art list uses the phrase, though not in quotation marks.
+  - The note's prior-art list used the phrase, though not in quotation marks. It now quotes their words with the pages (change log (bf)).
 - **(c) Singer (1958):** not found. It stays unchecked, as the verification pass of 4 November recorded. `[attested: research/2026-11-04-external-claims.md]`
 
 **Q10. The 1992 vote by party:** not found. No effect.

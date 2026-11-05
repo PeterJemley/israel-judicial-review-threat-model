@@ -1,0 +1,23 @@
+{
+ "10": {
+  "situated_beneficiary": {
+   "value": "No",
+   "person_or_government": "None identified",
+   "matter": "None identified. The operative provisions (new s.4(b)-(f) composition and majorities, new s.4A deadlock mechanism, new s.4B blackout periods) do not take effect until the 26th Knesset convenes, so on the day of passage they altered nobody's legal position in any matter then live.",
+   "admissible_fact": "None. Items 1-2: no pending proceeding or formal step dated on or before 27 March 2025 on which the enactment acts directly; the Committee petitions found were dated after passage, and the enactment does not apply to the current Committee. Item 3: it moves no deadline binding the sitting government. Item 4: the 'once per Knesset term' power in s.4A(a)(2) and the commencement clause apply to whichever minister and Knesset hold office from the 26th Knesset on, not to the sitting government's own measure or term.",
+   "fact_date": "n/a",
+   "source": "Enactment text: Knesset unofficial version (fs.knesset.gov.il/25/law/25_lsh_6190291.docx) and the Reshumot copy, Sefer HaChukim 3388, p.434 (fs.knesset.gov.il/25/law/25_lsr_6165425.pdf); Knesset OData KNS_Bill 2201200 and KNS_DocumentBill.",
+   "source_date": "Passed 27 March 2025 (sitting began 26 March 2025); published 1 April 2025 (Sefer HaChukim 3388, p.434).",
+   "support": "s.3: commences on the day the 26th Knesset's term begins; the Committee formed before then continues under the old text.",
+   "list_version": "(ae)",
+   "note": "Section 3 defers the whole enactment to the first day of the 26th Knesset; until a new Committee is formed, the existing one continues under the old text but may not select judges, and its other decisions need unanimity. On passage day the operative provisions did not reach the sitting Justice Minister, the sitting government or any pending selection matter. Search: the enactment text and Reshumot copy via Knesset OData and the linked fs.knesset.gov.il files; one web search for petitions about convening the Committee around March 2025, which found only a petition reported as filed in July 2025, after passage, and 2024 matters on which the enactment does not act. Petitions against the enactment itself are not matters it alters. Motive-based connections are excluded by the rules."
+  }
+ },
+ "deviations": [
+  "he.wikisource.org did not resolve through the reader's fetch tool, so the Knesset's own published copies were used.",
+  "fs.knesset.gov.il served the Reshumot PDF and the unofficial docx to a plain curl request (HTTP 200, no bot check), so nothing was circumvented. The Reshumot PDF's text extracted garbled after page 1; the full text was taken from the Knesset's unofficial docx, which matches the legible parts.",
+  "Downloads saved to the reader's own scratch folder; no pre-existing file opened.",
+  "Court outcomes in other cases reached the reader through a search-result summary without its opening any page: a conditional order to the Justice Minister on not convening the Committee; an order of 31 May (reported as 2026) to convene it for district-court vacancies; a ruling that he must cooperate with the Supreme Court President. Nothing about any court's treatment of this enactment reached it.",
+  "Not consulted: the bill's explanatory notes (Knesset bills 947, 13 February 2023, p.32), because the text settles the commencement question."
+ ]
+}

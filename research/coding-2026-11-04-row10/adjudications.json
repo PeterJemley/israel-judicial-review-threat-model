@@ -1,0 +1,17 @@
+{"adjudications": [
+ {"enactment": "10", "variable": "immediate_effect", "value": "Deferred", "basis": "stated",
+  "source": "Enacted text, s. 3 'תחילה ותחולה': Sefer HaHukim 3388 (1 April 2025), p. 434 (https://fs.knesset.gov.il/25/law/25_lsr_6165425.pdf), and the Knesset's unofficial version (https://fs.knesset.gov.il/25/law/25_lsh_6190291.docx); identical on this point.",
+  "support": "תחילתו של חוק-יסוד זה ביום תחילת כהונתה של הכנסת העשרים ושש",
+  "reasoning": "Section 3: this Basic Law comes into force on the day the 26th Knesset begins its term; from then until a committee is formed under it, the existing Judicial Selection Committee continues under the Basic Law as it stood before, may not select judges, and decides other matters only with the consent of all serving members. The 26th Knesset's term begins after the next general election, so the text fixes effect after the next general election: Deferred, stated. Confirms coder A from the amending law itself."},
+ {"enactment": "10", "variable": "coalition_only", "value": "", "basis": "Noam's standing on 27 March 2025 not established as opposition or as coalition by an attested source",
+  "source": "Knesset OData KNS_Faction (KnessetNum 25) and KNS_PersonToPosition (PersonID 30814); Jerusalem Post article-847410 (24 Mar 2025), article-861141 (15 Jul 2025), article-904171 (30 Jul 2026)",
+  "support": "Noam MK Avi Maoz left the coalition in March and has since operated independently. (Jerusalem Post, 15 July 2025)",
+  "reasoning": "Attested: Maoz's post as deputy minister in the PM's Office ran 2023-06-05 to 2025-03-26 (KNS_PersonToPosition); Noam's faction membership is open-ended and the Knesset data record no coalition or opposition status. He 'submitted his letter of resignation from the government' on 24 March 2025 (JPost 847410), which says nothing about leaving the coalition or joining the opposition. On 15 July 2025 JPost wrote that he 'left the coalition in March and has since operated independently', while its count of a 52-member opposition places Noam's seat outside the opposition; it gives no day in March. Search leads (not read) gave 25 March 2025 and a Reuters headline 'Ultra-conservative Israeli minister quits, will back Netanyahu in parliament'. None of the attested sources shows whether the departure came before the 27 March vote, and none classes Noam as an opposition faction. Yes needs Noam not to be opposition; No needs it to be opposition; neither is established, so the cell is blank. Every other vote for came from a coalition faction."}
+],
+"deviations": [
+ "jpost article-732878 (27 Feb 2023, Maoz's first resignation) was downloaded before its date was checked and not used.",
+ "Downloads of www.jns.org, www.ynetnews.com, www.israelnationalnews.com, www.fxempire.com and today.lorientlejour.com were refused by the session's egress proxy; no attempt to get around it. They hold the March 2025 reports that could settle Noam's status.",
+ "jpost article-904171 (30 Jul 2026) is outside the window and was used only as corroboration.",
+ "A 'Related Articles' sidebar on jpost 847410 named the High Court in an unrelated headline; not opened.",
+ "Interpretive point for the author: if a faction that has left the coalition but 'operates independently' is not an opposition faction, Yes follows whatever the timing."
+]}

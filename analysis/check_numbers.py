@@ -17,6 +17,7 @@ from collections import Counter
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 sys.path.insert(0, os.path.join(ROOT, "analysis"))
 import t1_revised as t1
+import frame_counts as fc
 
 def path(p): return os.path.join(ROOT, p)
 def rows(p): return list(csv.DictReader(io.open(path(p), encoding="utf-8")))
@@ -44,6 +45,11 @@ def subject(s): return sum(1 for r in FRAME if r["subject"] == s)
 def sample_count(col, val): return sum(1 for r in SAMPLE if r[col] == val)
 def kappa(var): return SAMPLE_SUM["agreement"][var]
 primary = [r for r in M4 if r["primary_analysis"] == "Yes" and r["class"] != "uncoded"]
+# The first run and its addenda of 22 October 2026 had row 8 uncoded: its coalition_only cell was
+# filled from the Knesset vote record on 4 November 2026 (change log (az)). Checks on the first run
+# use the configuration without it; checks on the current configuration use every coded row.
+FIRST_RUN_LATER_CODED = {"8"}
+first_run_primary = [r for r in primary if r["id"] not in FIRST_RUN_LATER_CODED]
 FIRST = [r for r in AS_BUILT if yes(r["sampled"])]
 REDRAW = [r for r in FRAME if yes(r["sampled"])]
 in_both = [r for r in REDRAW if yes(r["first_draw_sampled"])]
@@ -53,9 +59,11 @@ def decades(rows):
     parts = [f"{word(by_decade)} from the {d}0s" for d, by_decade in sorted(Counter(r["passage_date"][:3] for r in rows).items())]
     return ", ".join(parts[:-1]) + " and " + parts[-1]
 def readers(r): return [x for x in r["readers"].split("+") if x]
-def detect_first_run(): return t1.detect(len(primary), sum(1 for r in primary if r["outcome"] == "Adverse"),
-    sum(1 for r in primary if r["class"] == "discordant" and r["decision_rule_prediction"] == "Adverse"),
-    sum(1 for r in primary if r["class"] == "discordant" and r["decision_rule_prediction"] == "Not adverse"))
+def detect_on(rs): return t1.detect(len(rs), sum(1 for r in rs if r["outcome"] == "Adverse"),
+    sum(1 for r in rs if r["class"] == "discordant" and r["decision_rule_prediction"] == "Adverse"),
+    sum(1 for r in rs if r["class"] == "discordant" and r["decision_rule_prediction"] == "Not adverse"))
+def detect_first_run(): return detect_on(first_run_primary)
+def detect_current(): return detect_on(primary)
 
 # (file, text with {} for the computed value, function giving the value or a tuple of values)
 CHECKS = [
@@ -80,6 +88,11 @@ CHECKS = [
     ("research/frame/README.md", "| Rows reported by more than one reader (indirect amendments) | {} |", lambda: sum(1 for r in FRAME if len(readers(r)) > 1)),
     ("research/frame/README.md", "| Rows whose date is a publication date, not a passage date | {} |", lambda: sum(1 for r in FRAME if r["date_basis"] != "passed")),
     ("research/frame/README.md", "The frame as built gave {} laws", lambda: sum(1 for r in AS_BUILT if (r["passage_date"] or "9999") <= "2023-01-31")),
+    # Basic-Law change counts through January 2023 (issue 20; change log (bc))
+    ("research/frame/README.md", "and a re-enactment's repealed and new Basic Law as two (analysis/frame_counts.py) | {} |", lambda: fc.counts(path("research/frame/basic-law-frame.csv"))["changes"]),
+    ("research/frame/README.md", "| The same, counting a re-enacted Basic Law once | {} |", lambda: fc.counts(path("research/frame/basic-law-frame.csv"))["changes_reenactment_once"]),
+    ("research/frame/README.md", "and {} changes if each Basic Law a law amends is counted once", lambda: fc.counts(path("research/frame/basic-law-frame.csv"))["changes"]),
+    ("research/frame/README.md", "Counted once each, the frame as built gives {}, or {} counting a re-enacted Basic Law once", lambda: (fc.counts(path("research/frame/basic-law-frame-as-built.csv"))["changes"], fc.counts(path("research/frame/basic-law-frame-as-built.csv"))["changes_reenactment_once"])),
     ("research/frame/README.md", "{} rows. Seven were in the codebook already", lambda: word(len(challenged), True)),
     ("research/frame/README.md", "- {} rows carry the gazette publication date", lambda: word(sum(1 for r in FRAME if r["date_basis"] != "passed"), True)),
     ("research/frame/README.md", "- {} ordinary statutes that touched Basic Laws", lambda: word(sum(len(load(f"research/frame/frame-{n}.json")["ordinary_statute_amendments"]) for n in ("knesset", "government", "economy-judiciary-rights")), True)),
@@ -127,12 +140,17 @@ for var in ["named_beneficiary", "immediate_effect", "coalition_only", "expedite
     CHECKS.append(("research/coding-sample-2026-10-22/README.md", "| " + var + " | {} | {} |", lambda var=var: (kappa(var)["agree"], f"{kappa(var)['kappa']:.2f}")))
 CHECKS += [
     # T1 on the nine rows
-    ("README.md", "Only {} of the nine laws did, and the test needs at least six", lambda: word(sum(1 for r in M4 if r["class"] == "discordant"))),
+    ("README.md", "Only {} of the nine laws did, and the test needs at least six", lambda: word(detect_first_run()["discordant"])),
     ("README.md", "python3 analysis/t1_revised.py detect {} {} {} {}", lambda: tuple(detect_first_run()[k] for k in ("N", "K", "D_A", "D_N"))),
     ("README.md", "The check prints \"{}\"", lambda: detect_first_run()["verdict_before_outcomes"]),
     ("research/coding-2026-10-22/results.md", "K rises from 4 to {} of {}", lambda: (detect_first_run()["K"], detect_first_run()["N"])),
     ("research/coding-2026-10-22/results.md", "the attainable range of S is {} to {}, p is {} at both extremes", lambda: (detect_first_run()["S_min_attainable"], detect_first_run()["S_max_attainable"], detect_first_run()["p_at_S_max"])),
-    ("medina-threat-conjecture-note.md", "Inconclusive, declared before outcomes, on {} discordant row against the minimum of six", lambda: word(detect_first_run()["discordant"])),
+    ("medina-threat-conjecture-note.md", "Inconclusive, on {} discordant row against the minimum of six", lambda: word(detect_first_run()["discordant"])),
+    # T1 on the rows coded now (change log (az))
+    ("README.md", "python3 analysis/t1_revised.py detect {} {} {} {}", lambda: tuple(detect_current()[k] for k in ("N", "K", "D_A", "D_N"))),
+    ("README.md", "the record now has {} such laws", lambda: word(detect_current()["discordant"])),
+    ("research/coding-2026-10-22/results.md", "N = {}, K = {}, D_A = {}, D_N = {}; Inconclusive before outcomes, on {} discordant rows", lambda: tuple(detect_current()[k] for k in ("N", "K", "D_A", "D_N", "discordant"))),
+    ("medina-threat-conjecture-note.md", "the configuration is now {} discordant rows against the minimum of six", lambda: word(detect_current()["discordant"])),
 ]
 
 def run():

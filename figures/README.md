@@ -229,16 +229,16 @@ Alt text: A list of 38 claims and results with their status: 14 established, 2 r
 
 </details>
 
-## Errors list: 75 mistakes found so far in the project's own work, what caught each, and where each stands
+## Errors list: 86 mistakes found so far in the project's own work, what caught each, and where each stands
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="fig7-errors-dark.svg">
-  <img src="fig7-errors-light.svg" alt="A list of 75 errors: 71 in the research, 2 in reviews and 2 in process. 72 are corrected, 3 recorded and not undone, and 0 open.">
+  <img src="fig7-errors-light.svg" alt="A list of 86 errors: 82 in the research, 2 in reviews and 2 in process. 83 are corrected, 3 recorded and not undone, and 0 open.">
 </picture>
 
 The mistakes found so far in the project's own work, with what caught each and where each stands.
 
-Alt text: A list of 75 errors: 71 in the research, 2 in reviews and 2 in process. 72 are corrected, 3 recorded and not undone, and 0 open.
+Alt text: A list of 86 errors: 82 in the research, 2 in reviews and 2 in process. 83 are corrected, 3 recorded and not undone, and 0 open.
 
 <details><summary>Table view</summary>
 
@@ -319,6 +319,17 @@ Alt text: A list of 75 errors: 71 in the research, 2 in reviews and 2 in process
 | 73 | 2026-11-04 | misreading | Appendix 1 said Medina reads Justice Baron's "existential threats" as the threat to democratic identity rather than external attack; she paired an external and an internal threat (p. 682). | The author's check of p. 682 | Change log (ay). | Corrected |
 | 74 | 2026-11-04 | wrong count | Coder A gave the Reasonableness amendment's first reading as 64 to 54; the Knesset record has 64 to 56. The reading is not a coded cell. | The check of issue 15 against the Knesset's open data | Change log (ba). | Corrected |
 | 75 | 2026-11-05 | overstated claim | The note said Roznai, Dixon & Landau (2023) treat a law's effect as prima facie evidence of intent, in Prior art and in the ontology; they write that it "may itself be" such evidence (p. 302). | The legal-database run of 5 November 2026 (research/legal-db-2026-11-05/, Q9) | Change log (bf). | Corrected |
+| 76 | 2026-11-05 | wrong statement | The Harel evaluation said Sohlberg certified the result and then instructed the Shin Bet chief to investigate; his letter (29 October) came before the certification (4 November). The US–Israel comparison's table likewise placed Zini's claims after the certified result. | An outside reader's review of 5 November 2026 | Change log (bg). | Corrected |
+| 77 | 2026-11-05 | wrong statement | The US–Israel comparison said "the Shin Bet chief's dismissal was frozen on 21 March 2025" in a note where the Shin Bet chief otherwise means David Zini; the dismissed chief was Ronen Bar. | An outside reader's review of 5 November 2026 | Change log (bg). | Corrected |
+| 78 | 2026-11-05 | wrong design statement | The Harel evaluation described T1 as a blind coding of how the Supreme Court has ruled; T1's coders code each law's warning signs without being shown the ruling, and the signs are then compared with the rulings. | An outside reader's review of 5 November 2026 | Change log (bg). | Corrected |
+| 79 | 2026-11-05 | overstated claim | The US–Israel comparison's table said the US Attorney General had "found no fraud that could change the result"; he said the department had "not seen fraud on a scale that could have effected a different outcome". | An outside reader's review of 5 November 2026 | Change log (bg). | Corrected |
+| 80 | 2026-11-05 | misread source | The US–Israel comparison cited Art. I, § 2 as attesting that the Clerk is a House officer, which the text does not say, and gave 3 January as the date Congress meets without the Twentieth Amendment's "unless they shall by law appoint a different day". | An outside reader's review of 5 November 2026 | Change log (bg). | Corrected |
+| 81 | 2026-11-05 | stale text | The README said two laws in court were waiting to be scored (issues 8 and 10) after the 2025 row was scored and issue 10 closed, and said the project could not reach the Knesset's website after its open-data service became readable on 4 November. | An outside reader's review of 5 November 2026 | Change log (bg). | Corrected |
+| 82 | 2026-11-05 | overstated claim | The Harel evaluation listed anonymously sourced items as facts showing low capability, called a remark Zini was quoted as making in closed conversations an undertaking, and said the opposition "would dismiss" Zini where the article says it called for his dismissal. | An outside reader's review of 5 November 2026 | Change log (bg). | Corrected |
+| 83 | 2026-11-05 | wrong attribution | The Harel evaluation attributed the claim that Netanyahu controls the security agencies to the headline; it is in the article's body. | An outside reader's review of 5 November 2026 | Change log (bg). | Corrected |
+| 84 | 2026-11-05 | overstated claim | The US–Israel comparison said Basic Laws can be amended by a simple majority, twice, where the project's own text and Medina (p. 708) say most can. | An outside reader's review of 5 November 2026 | Change log (bg). | Corrected |
+| 85 | 2026-11-05 | overstated claim | The Harel evaluation drew from one justice's act as election-committee chair the general statement that members of the Court do not act as one bloc against the government. | An outside reader's review of 5 November 2026 | Change log (bg). | Corrected |
+| 86 | 2026-11-05 | wrong statement | The Harel evaluation said each of P1 to P5 follows from the article's hypotheses; P3 sets Zini's line against the attorney general's and P5 records the opposition's call, neither derived from H1 to H5. | An outside reader's review of 5 November 2026 | Change log (bg). | Corrected |
 
 </details>
 

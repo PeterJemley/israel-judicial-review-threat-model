@@ -2,7 +2,9 @@
 
 This project tests an argument in Barak Medina's 2026 article "On constitutional identity, democratic legitimacy, and judicial review in times of democratic backsliding: The case of Israel" (https://doi.org/10.1093/icon/moag052). Its main document, [the note](medina-threat-conjecture-note.md), treats the argument as a set of conjectures: guesses to be tested, each stated with the evidence that would prove it wrong. The note is updated as the work goes on, and every change is dated in its change log.
 
-Medina warns that Israel's democracy, and Israel itself, are at risk. The note's analyses rest on one formula from threat assessment: **Threat = Capability × Intent**. A threat is the product of what an actor can do and what it means to do, so it disappears if either is zero. Capability here is the governing coalition's power to change the Basic Laws, measured both on paper, by its seats, and in practice, after what can stop it, such as the Court, mass protest and allied governments. Intent is what the coalition means to do with that power, and the Court's warning signs are the note's evidence of it. The note splits Medina's warning into three claims, adds a fourth that asks whether the formula itself fits this case, names the other explanations for the same evidence, and proposes tests. Tables at the end of the note lay out the threat, starting with capability against intent over time. The data, which score Basic Laws on the Court's warning signs, are in the [codebook](codebook/) folder.
+Medina warns that Israel's democracy, and Israel itself, are at risk. The note's analyses rest on one formula from threat assessment: **Threat = Capability × Intent**. A threat is the product of what an actor can do and what it means to do, so it disappears if either is zero. Capability here is the governing coalition's power to change the Basic Laws, measured both on paper, by its seats, and in practice, after what can stop it, such as the Court, mass protest and foreign allies. Intent is what the coalition means to do with that power, and the warning signs that, according to Medina, the Court looks for (explained below) are the note's evidence of it. The note splits Medina's warning into three claims, adds a fourth that asks whether the formula itself fits this case, names the other explanations for the same evidence, and proposes tests. Tables at the end of the note lay out the threat, starting with capability against intent over time. The data, which score Basic Laws on those warning signs, are in the [codebook](codebook/) folder.
+
+**New here?** Start with [What this project is about](#what-this-project-is-about), in plain language. The list of files just below is for readers who want to check the work.
 
 ## Contents
 
@@ -25,19 +27,23 @@ This section is for you if you want to understand what this project says and kee
 
 Israel does not have a single written constitution. Instead, its parliament, called the Knesset, has passed a set of special laws called Basic Laws. Israel's Supreme Court treats these Basic Laws as the country's constitution.
 
-The Knesset can change a Basic Law fairly easily. Most parts of a Basic Law can be changed by a simple majority vote. Because of this, the Supreme Court has said that it can step in when the Knesset misuses its power to change Basic Laws. One example would be changing a Basic Law to help the government in office rather than to set a lasting rule for everyone. The Court calls this "abuse of constituent power", meaning misuse of the power to make constitutional law.
+The Knesset can change a Basic Law fairly easily. Most parts of a Basic Law can be changed by a simple majority vote. Because of this, the Supreme Court has said that it can step in when the Knesset misuses its power to change Basic Laws. It first did so in a 2017 case on a budget law, and set out tests for it in a 2021 case, *Shafir*. One example would be changing a Basic Law to help the government in office rather than to set a lasting rule for everyone. The Court calls this "abuse of constituent power", meaning misuse of the power to make constitutional law.
 
-This project studies an article by Professor Barak Medina, published in 2026. Medina argues that the government's 2023 plan to change the courts, often called the judicial overhaul, put Israel's democracy at risk. Since the Court's 1995 decision that it may strike down laws that conflict with the Basic Laws, critics have said its approach serves elites who want to keep their dominant position. Medina disagrees, for two reasons (pages 684–685):
+This project studies an article by Professor Barak Medina, published in 2026. Medina argues that the government's 2023 plan to change the courts, often called the judicial overhaul, put Israel's democracy at risk. Since the Court's 1995 decision that it may strike down laws that conflict with the Basic Laws (*United Mizrahi Bank*), critics have said its approach serves elites who want to keep their dominant position. Medina disagrees, for two reasons (pages 684–685):
 - The Court does not stop the public from pressing for change. It requires only that a change to Israel's constitutional identity be made by an explicit amendment, one with broad and lasting public support, passed by a majority that crosses party lines. Such a rule can at least slow a slide away from democracy. Medina takes this as an answer to the claim that the Court serves elites.
-- The 2023 plan was about more than the courts. On its face it dealt with judicial appointments and judicial review, but Medina states that its purpose was to change Israel's constitutional identity, its basic character, and he points to strong signs of that aim. Removing an independent judiciary and judicial review, he argues, is meant to make that change possible without formally amending the texts that define it, such as the Declaration of Independence. He is concerned that the government means, among other things, to allow banning parties that represent the Arab-Palestinian minority and to discriminate against women and that minority. Judicial review guards the most basic parts of a democracy, including the right to vote, equal treatment of all citizens and at least a minimal separation of powers. Threats to these, he says, are threats not to the interests or ideas of a liberal elite but to Israel's existence as a democracy.
+- The 2023 plan was about more than the courts.
+  - On its face it dealt with judicial appointments and judicial review. But Medina states that its purpose was to change Israel's constitutional identity, its basic character, and he points to strong signs of that aim.
+  - Removing an independent judiciary and judicial review, he argues, is meant to make that change possible without formally amending the texts that define it, such as the Declaration of Independence.
+  - He is concerned that the government means, among other things, to allow banning parties that represent the Arab-Palestinian minority and to discriminate against women and that minority.
+  - Judicial review guards the most basic parts of a democracy, including the right to vote, equal treatment of all citizens and at least a minimal separation of powers. Threats to these, he says, are threats not to the interests or ideas of a liberal elite but to Israel's existence as a democracy.
 
-This project tests one question that the evidence could answer either way. When the Court rules on a Basic Law, does it follow the warning signs it has named? Or does it follow the law's politics, as the critics say? The full argument is in [the note](medina-threat-conjecture-note.md).
+This project tests one question that the evidence could answer either way. When the Court rules on a Basic Law, does it follow the warning signs that, according to Medina, it looks for? Or does it follow the law's politics, as the critics say? The full argument is in [the note](medina-threat-conjecture-note.md).
 
 ### Words you will see
 
 - **Basic Law:** a law whose title begins "Basic Law", such as "Basic Law: The Knesset". A later law changes it, with the same title and a number, such as "Basic Law: The Knesset (Amendment No. 37)".
 - **Temporary Basic Law:** a Basic Law, or a change to one, that lasts only for a set time or a single occasion. Budget laws for named years are a common example.
-- **Warning signs:** four features that, according to Medina, the Court treats as signs of misuse:
+- **Warning signs:** four features that, according to Medina, the Court treats as signs of misuse. Whether the Court itself states them together, in its own words, is still being checked (issue 13). The four are:
   - the law helps the government in office, or a particular officeholder;
   - it takes effect right away;
   - only members of the governing parties voted for it;
@@ -46,7 +52,7 @@ This project tests one question that the evidence could answer either way. When 
 - **The full list:** this project's list of every Basic Law and every change to one since 1958. It is in [research/frame](research/frame/). The project's files call it "the frame".
 - **The 39 unchallenged laws:** a group of 39 laws from the full list that no one ever took to court. They show what an ordinary Basic Law looks like, for comparison. The project's files call them "the comparison sample".
 - **Scoring:** for each law, two scorers worked separately, without seeing how the Court ruled. They recorded which warning signs the law shows. Where they disagreed, a third reviewer decided, and wrote down why.
-- **Conjecture:** a guess the project sets out to test, stated with the evidence that would prove it wrong. Nothing in the project is yet a finding.
+- **Conjecture:** a guess the project sets out to test, stated with the evidence that would prove it wrong. Nothing in the project is yet a confirmed finding. Two guesses have been shown wrong, but only on evidence seen after the guesses were made, so those results are labelled exploratory (see Status).
 
 ### What the information shows so far
 
@@ -63,9 +69,9 @@ This project tests one question that the evidence could answer either way. When 
 | 2010s | 23 |
 | 2020s, to July 2026 | 22 |
 
-**What happened in court.** Fourteen of the 130 have come before the Supreme Court. The Court has struck down one: the 2023 change to Basic Law: The Judiciary, which limited the Court's power to review government decisions as "unreasonable". It did so in January 2024. In the other cases the Court did one of four things. It let the law stand but delayed when it would take effect. It warned that repeating a practice could lead it to strike a law down. It let the law stand, sometimes while reading it narrowly. Or it declined to decide. Two cases are still waiting for a ruling. One is against a 2025 change to the committee that chooses judges. The other is against Basic Law: Torah Study, passed in July 2026.
+**What happened in court.** Fourteen of the 130 have come before the Supreme Court. The Court has struck down one: the 2023 change to Basic Law: The Judiciary, which limited the Court's power to review government decisions as "unreasonable". It did so in January 2024. In the other cases it has decided, the Court did one of four things. It let the law stand but delayed when it would take effect. It warned that repeating a practice could lead it to strike a law down. It let the law stand, sometimes while reading it narrowly. Or it declined to decide. Two cases are still waiting for a ruling. One is against a 2025 change to the committee that chooses judges. The other is against Basic Law: Torah Study, passed in July 2026.
 
-**The first test.** The project ran its test once, on nine laws, and the result could not settle the question either way. To tell the two explanations apart, the test needs laws where they point in different directions. Only one of the nine laws did, and the test needs at least six. Since then the Incapacity amendment's final vote has been coded from the Knesset's record (change log (az)), and the record now has two such laws: still four short.
+**The first test.** The project ran its test once, on nine laws, and the result could not settle the question either way. To tell the two explanations apart, the test needs laws where they point in different directions. Only one of the nine laws did, and the test needs at least six. Since then the final vote on the 2023 Incapacity amendment, which limited how a sitting prime minister can be declared unfit for office, has been coded from the Knesset's record. The project now has two laws where the warning signs and the law's politics point different ways: still four short.
 
 **The 39 unchallenged laws.** Most of them are routine changes about how the Knesset and the government work:
 - 27 did not move away from the democratic values, or made them stronger;
@@ -83,15 +89,15 @@ You can follow the history of any one Basic Law in the full list:
 2. Filter the "subject" column to the Basic Law you want, for example "Knesset".
 3. Read the rows in date order.
 
-The "challenged" column says whether the change was taken to court. The "challenge_case" and "challenge_outcome" columns name the case and say briefly what the Court did. These short summaries were recorded early and are not final. The project's own score for each court case is in the [codebook](codebook/m4-codebook.csv), and it can differ from the summary. For example, a law the Court "upheld" while limiting how it applies counts as a ruling against the law.
+The "challenged" column says whether the change was taken to court. The "challenge_case" and "challenge_outcome" columns name the case and say briefly what the Court did. These short summaries were recorded early and are not final. The project's own score for each court case is in the [codebook](codebook/m4-codebook.csv), and it can differ from the summary. For example, under the project's rule a law the Court "upheld" while limiting how it applies counts as a ruling against the law. Whether one such case was really a limiting reading is an open question (issue 12).
 
-When the Knesset passes a new Basic Law, the project adds it to the full list. If someone takes it to court, the project scores it like the others and marks its outcome "Pending" until the Court rules. Two laws now in court are waiting to be scored this way (issues 8 and 10).
+When the Knesset passes a new Basic Law, the project adds it to the full list. If someone takes it to court, the project scores it like the others and marks its outcome "Pending" until the Court rules. The 2025 change to the committee that chooses judges has been scored this way and is marked Pending. Basic Law: Torah Study, challenged in 2026, is not yet scored (issue 8).
 
-The full list was last updated on 22 October 2026. Its newest entry is Basic Law: Torah Study of 13 July 2026. The project could not reach the Knesset's own website (issue 6). So for laws passed after December 2025, the list could not be checked against the Knesset's official records.
+The full list was last updated on 22 October 2026. Its newest entry is Basic Law: Torah Study of 13 July 2026. Since 4 November 2026 the project can read the Knesset's open-data service, but not its main website, which blocks automated requests (issue 6). The list's entries after December 2025 have not yet been checked against the Knesset's official records.
 
 ### How to keep up to date
 
-- **Read the "Status" section** of this page. It says where the project stands now. The "First in the queue" section below it says what is being worked on next.
+- **Read the "Status" section** of this page. In short: the project's one test has run once and could not settle the question either way, because it needs more cases. The Status section gives the detail. The "First in the queue" section below it says what is being worked on next.
 - **Read the change log.** It is a dated list, at the end of [the note](medina-threat-conjecture-note.md), of every change the project has made and why. It is the best single place to see what is new.
 - **Look at the open questions.** The [issues page](https://github.com/PeterJemley/israel-judicial-review-threat-model/issues) works like a public to-do list. Each issue describes one open question and what would answer it. Comments on an issue record progress. When a question is answered, the issue is closed.
 - **Get notified on GitHub.** If you have a free GitHub account, click the "Watch" button at the top of the repository page. Choose "All Activity" to be notified about every new issue and comment.
@@ -103,10 +109,10 @@ The full list was last updated on 22 October 2026. Its newest entry is Basic Law
 This project is not a news service. It is updated when the work is done, so it can be behind current events. To follow the Basic Laws and the Court directly, you can use the same sources the project uses:
 
 - **Hebrew Wikisource** has the current text of each Basic Law, with a list of its changes, in Hebrew: https://he.wikisource.org
-- **The Knesset's website** has the official laws and voting records: https://main.knesset.gov.il. This project cannot reach it, but you may be able to.
+- **The Knesset's website** has the official laws and voting records: https://main.knesset.gov.il. It blocks automated requests, so this project reads the Knesset's open-data service instead, but you can open the site in a browser.
 - **Open Knesset** is a volunteer project that copies the Knesset's public data on bills and votes: https://oknesset.org
 - **Versa**, run by Cardozo School of Law, publishes English translations of many Israeli Supreme Court rulings: https://versa.cardozo.yu.edu
-- **The Israel Democracy Institute**, an independent research institute, publishes explanations in English of new Basic Laws and court rulings: https://en.idi.org.il
+- **The Israel Democracy Institute**, a Jerusalem think tank, publishes explanations in English of new Basic Laws and court rulings: https://en.idi.org.il
 
 ## How to use this repository to check the work
 
@@ -189,6 +195,8 @@ python3 analysis/assemble.py research/coding-2026-10-22 out/m4-codebook.csv
 python3 analysis/assemble_sample.py research/coding-sample-2026-10-22 out/comparison-sample.csv rows-redraw.json research/frame/basic-law-frame.csv
 ```
 
+The script looks for `rows-redraw.json` inside the coding folder named first.
+
 6. Check that the rebuilt files match the ones in the repository. `cmp` prints nothing when two files are identical. On Windows, use `fc /b` instead.
 
 ```bash
@@ -214,7 +222,7 @@ python3 analysis/t1_revised.py detect 5 5 1 0
 python3 analysis/t1_revised.py detect 6 6 2 0
 ```
 
-The first line's four numbers come from the first run of T1, and the second's from the rows coded now, after the Incapacity amendment's coalition-only cell was filled on 4 November 2026 (change log (az)). In order, they are the rows in the test, the rows among them the Court ruled against, and two counts of the rows on which T1's two predictions disagree: those where the decision rule predicts an adverse ruling, and those where it predicts the opposite. The check prints "Inconclusive, declared before outcomes", which is the result recorded in [results.md](research/coding-2026-10-22/results.md).
+The first line's four numbers come from the first run of T1, on the five of its nine laws that had every cell the test needs (four had a blank cell and were left out as uncoded), and the second's from the rows coded now, after the Incapacity amendment's coalition-only cell was filled on 4 November 2026 (change log (az)). In order, they are the rows in the test, the rows among them the Court ruled against, and two counts of the rows on which T1's two predictions disagree: those where the decision rule predicts an adverse ruling, and those where it predicts the opposite. The check prints "Inconclusive, declared before outcomes", which is the result recorded in [results.md](research/coding-2026-10-22/results.md).
 
 9. Two more checks:
 
@@ -242,7 +250,7 @@ Open an issue on GitHub. Name the file, the row (its seq or id), the column, the
 
 ## Status
 
-Conjecture. Nothing in the note is a confirmed finding; two refutations are recorded, both exploratory (change log (ar)). T1 was run once, on 22 October 2026, on nine blind-recoded rows, and was inconclusive under its rule: one discordant row against a minimum of six. Because those rows shaped the rule, the run is exploratory (change log (as)). With the Incapacity amendment's coalition-only cell coded from the Knesset's roll call on 4 November 2026, two rows are discordant: still Inconclusive (change log (az)). T2 has been restated so that a move is judged by its aim, not only its target (change log (be)). The verdict was computed by code from the number of rows, the number of adverse outcomes and the fixed predictions alone, so the outcomes could not change it, although the person assembling the table had already seen them (change log (ab)). The other three tests are designs. Each revision is a commit; substantive changes are also logged in the note's change log with the date and reason.
+Conjecture. Nothing in the note is a confirmed finding; two refutations are recorded, both exploratory (change log (ar)). T1 was run once, on 22 October 2026, on nine blind-recoded rows, and was inconclusive under its rule: one discordant row against a minimum of six. Because those rows shaped the rule, the run is exploratory (change log (as)). With the Incapacity amendment's coalition-only cell coded from the Knesset's roll call on 4 November 2026, two rows are discordant: still Inconclusive (change log (az)). T2 has been restated so that a move is judged by its aim, not only its target (change log (be)). The verdict was computed by code from the count of rows, the count of rulings against the law and the fixed predictions alone, not from which laws those were, although the person assembling the table had already seen them (change log (ab)). The other three tests are designs. Each revision is a commit; substantive changes are also logged in the note's change log with the date and reason.
 
 ## First in the queue
 

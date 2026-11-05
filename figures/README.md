@@ -177,12 +177,12 @@ Alt text: A grid of deviation tier against coalition-only passage for 39 sampled
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="fig6-ledger-dark.svg">
-  <img src="fig6-ledger-light.svg" alt="A list of 38 claims and results with their status: 13 established, 2 refuted, 2 contested, 10 unclear, 2 inconclusive under a rule set before the run, 9 not yet checkable. None of the four claims is established or refuted.">
+  <img src="fig6-ledger-light.svg" alt="A list of 38 claims and results with their status: 14 established, 2 refuted, 2 contested, 9 unclear, 2 inconclusive under a rule set before the run, 9 not yet checkable. None of the four claims is established or refuted.">
 </picture>
 
 The note's claims, rivals and evidence items, and the main checks on the data, each with its status and the basis for it.
 
-Alt text: A list of 38 claims and results with their status: 13 established, 2 refuted, 2 contested, 10 unclear, 2 inconclusive under a rule set before the run, 9 not yet checkable. None of the four claims is established or refuted.
+Alt text: A list of 38 claims and results with their status: 14 established, 2 refuted, 2 contested, 9 unclear, 2 inconclusive under a rule set before the run, 9 not yet checkable. None of the four claims is established or refuted.
 
 <details><summary>Table view</summary>
 
@@ -212,8 +212,8 @@ Alt text: A list of 38 claims and results with their status: 13 established, 2 r
 | E9 | What the evidence already says | After the events the article reports: the 2025 amendment has deferred effect; the Court froze the Shin Bet chief's dismissal (21 March) and held it unlawful after the government had rescinded it, froze and then annulled the attorney general's dismissal, and in May 2026 ordered the selection committee convened | Unclear | From press reports in research/2025-2026-timeline.md, which applies them to the note's evidence item 9; the judgments are not read. The note's own wording of item 9 overstated the timeline until change log (aq); see the errors list. |
 | E10 | What the evidence already says | Medina: the Knesset increasingly exploited the amendment power in recent years, from the past decade, especially since late 2022 (pp. 696, 707, 708); the 2016, 2018 and 2020 rows carry abuse signs | Unclear | Rests on the paper, and on codebook rows 5 to 7 for the signs and outcomes. On it, the actor reading's prediction of near-zero threat before January 2023 fails (note: evidence item 10; change log (ar)). |
 | F1 | Checks on the data | The full list of 130 laws titled Basic Law, 1958 to 2026, corrected for the merge defect: after the split, every law of the list as first built is accounted for, and none appears twice | Established | research/frame/README.md, The defect and its correction; analysis/frame_merge_check.py; change log (al). This is not a check of completeness (row F2). |
-| F2 | Checks on the data | The full list's completeness, compared with the Court's count of 139 changes to 2023 | Unclear | 122 laws and 140 or 141 changes bracket the Court's 139, and the Court's counting rule is not stated, so the comparison neither confirms nor refutes completeness (research/frame/README.md). |
-| F3 | Checks on the data | The figure of 141 Basic-Law changes to January 2023 | Unclear | No script produces it, how it was first counted is not recorded, and under the stated rule it recomputes as 140 (research/audit-2026-10-25.md, finding 6; issue 20). |
+| F2 | Checks on the data | The full list's completeness, compared with the Court's count of 139 changes to 2023 | Unclear | 122 laws and 140 changes (137 counting a re-enacted Basic Law once) bracket the Court's 139, and the Court's counting rule is not stated, so the comparison neither confirms nor refutes completeness (research/frame/README.md; analysis/frame_counts.py). |
+| F3 | Checks on the data | The figure of Basic-Law changes to January 2023 | Established | analysis/frame_counts.py gives 140 under the stated rule, a re-enactment's repealed and new Basic Law counted as two, and 137 counting a re-enacted Basic Law once; the unscripted 141 was wrong by one (change log (bc); issue 20). |
 | F4 | Checks on the data | All 39 sampled laws: no challenge found in the searches made | Established | Two docket readers for each draw (research/frame/verification-a.json, verification-b.json, verification-redraw-a.json, verification-redraw-b.json); the searches did not reach the court database. |
 | F5 | Checks on the data | 3 of the sampled laws still need a court-database check | Not yet checkable | Basic Law: Referendum (2014) and the June and July 2020 State Economy amendments; the court database is unreachable (issue 6). |
 | F6 | Checks on the data | One final vote per law: 18 sampled laws whose found vote approved that law alone, and no vote shared | Established | codebook/comparison-sample.csv, final_vote columns; research/coding-sample-2026-10-22/README.md, The one-vote check. |
@@ -233,12 +233,12 @@ Alt text: A list of 38 claims and results with their status: 13 established, 2 r
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="fig7-errors-dark.svg">
-  <img src="fig7-errors-light.svg" alt="A list of 74 errors: 70 in the research, 2 in reviews and 2 in process. 70 are corrected, 3 recorded and not undone, and 1 open.">
+  <img src="fig7-errors-light.svg" alt="A list of 74 errors: 70 in the research, 2 in reviews and 2 in process. 71 are corrected, 3 recorded and not undone, and 0 open.">
 </picture>
 
 The mistakes found so far in the project's own work, with what caught each and where each stands.
 
-Alt text: A list of 74 errors: 70 in the research, 2 in reviews and 2 in process. 70 are corrected, 3 recorded and not undone, and 1 open.
+Alt text: A list of 74 errors: 70 in the research, 2 in reviews and 2 in process. 71 are corrected, 3 recorded and not undone, and 0 open.
 
 <details><summary>Table view</summary>
 
@@ -274,7 +274,7 @@ Alt text: A list of 74 errors: 70 in the research, 2 in reviews and 2 in process
 | 27 | 2026-10-25 | overstated claim | Change log (am) said each of 19 found votes approved one law; for the 1980 Jerusalem law that is not established. | The audit | Change log (ap). | Corrected |
 | 28 | 2026-10-25 | wrong count | Change log (am) said the adjudicator settled seven questions; it was three questions, ruling on seven rows. | The audit | Change log (ap). | Corrected |
 | 29 | 2026-10-25 | stale text | Passages written before the addenda to results.md, and the codebook README's sign counts, still read as current. | The audit | Change log (ap): dated pointers and updated counts. | Corrected |
-| 30 | 2026-10-25 | unscripted figure | The 141 and 137 Basic-Law change counts have no script, and recompute as 140 and 136 under the stated rule. | The audit | Open (issue 20). | Open |
+| 30 | 2026-10-25 | unscripted figure | The 141 and 137 Basic-Law change counts have no script, and recompute as 140 and 136 under the stated rule. | The audit | Change log (bc); analysis/frame_counts.py. | Corrected |
 | 34 | 2026-10-25 | misapplied check | The audit's plan proposed T1's power check on the 39-row sample, which never enters T1's main test. | Caught during the audit | research/audit-2026-10-25.md, A correction to the plan for this audit. | Corrected |
 | 31 | 2026-10-27 | misdated attribution | The README said critics objected to the Court's power to strike down Basic Laws, where Medina dates the critique to the Court's 1995 decision (p. 684, footnote 4); the same paragraph paraphrased Medina more strongly than his text in four places. | A line-by-line check against the article | Commit c9eb28b; issue 21, How the README states it. | Corrected |
 | 32 | 2026-10-27 | omission | The plain-language README opening dropped the formula Threat = Capability × Intent, on which the analyses rest. | The author | Commit 137f8ad. | Corrected |
@@ -325,12 +325,12 @@ Alt text: A list of 74 errors: 70 in the research, 2 in reviews and 2 in process
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="fig8-jigsaw-dark.svg">
-  <img src="fig8-jigsaw-light.svg" alt="An imagined figure, drawn in violet. Seven pieces surround an empty centre, the project's ideal: Would the 2023 package remove the institutional checks that make Israel a democracy? (half-filled, 3 of 4 items established or refuted); Does the threat reach the state itself? (empty and tilted, 0 of 3 items established or refuted); Does the Court follow its warning signs or the laws' politics? (half-filled, 6 of 10 items established or refuted); Does Capability × Intent fit this case? (half-filled, 1 of 4 items established or refuted); What was the 2023 plan for? (empty and tilted, 0 of 4 items established or refuted); Is the Court acting for its own power? (half-filled, 1 of 2 items established or refuted); Is the record of Basic Laws complete and correct? (half-filled, 3 of 8 items established or refuted). Three numbered threads join pieces; each is captioned below with its premises and a conjecture.">
+  <img src="fig8-jigsaw-light.svg" alt="An imagined figure, drawn in violet. Seven pieces surround an empty centre, the project's ideal: Would the 2023 package remove the institutional checks that make Israel a democracy? (half-filled, 3 of 4 items established or refuted); Does the threat reach the state itself? (empty and tilted, 0 of 3 items established or refuted); Does the Court follow its warning signs or the laws' politics? (half-filled, 6 of 10 items established or refuted); Does Capability × Intent fit this case? (half-filled, 1 of 4 items established or refuted); What was the 2023 plan for? (empty and tilted, 0 of 4 items established or refuted); Is the Court acting for its own power? (half-filled, 1 of 2 items established or refuted); Is the record of Basic Laws complete and correct? (half-filled, 4 of 8 items established or refuted). Three numbered threads join pieces; each is captioned below with its premises and a conjecture.">
 </picture>
 
 Imagined. Not a result. The project's questions as pieces around its ideal, with three conjectural threads.
 
-Alt text: An imagined figure, drawn in violet. Seven pieces surround an empty centre, the project's ideal: Would the 2023 package remove the institutional checks that make Israel a democracy? (half-filled, 3 of 4 items established or refuted); Does the threat reach the state itself? (empty and tilted, 0 of 3 items established or refuted); Does the Court follow its warning signs or the laws' politics? (half-filled, 6 of 10 items established or refuted); Does Capability × Intent fit this case? (half-filled, 1 of 4 items established or refuted); What was the 2023 plan for? (empty and tilted, 0 of 4 items established or refuted); Is the Court acting for its own power? (half-filled, 1 of 2 items established or refuted); Is the record of Basic Laws complete and correct? (half-filled, 3 of 8 items established or refuted). Three numbered threads join pieces; each is captioned below with its premises and a conjecture.
+Alt text: An imagined figure, drawn in violet. Seven pieces surround an empty centre, the project's ideal: Would the 2023 package remove the institutional checks that make Israel a democracy? (half-filled, 3 of 4 items established or refuted); Does the threat reach the state itself? (empty and tilted, 0 of 3 items established or refuted); Does the Court follow its warning signs or the laws' politics? (half-filled, 6 of 10 items established or refuted); Does Capability × Intent fit this case? (half-filled, 1 of 4 items established or refuted); What was the 2023 plan for? (empty and tilted, 0 of 4 items established or refuted); Is the Court acting for its own power? (half-filled, 1 of 2 items established or refuted); Is the record of Basic Laws complete and correct? (half-filled, 4 of 8 items established or refuted). Three numbered threads join pieces; each is captioned below with its premises and a conjecture.
 
 <details><summary>Table view</summary>
 
@@ -342,7 +342,7 @@ Alt text: An imagined figure, drawn in violet. Seven pieces surround an empty ce
 | PD | Does Capability × Intent fit this case? | D, RP, E7, E10 | 1 of 4 | half-filled |
 | PP | What was the 2023 plan for? | R1, R2, R3, R4 | 0 of 4 | empty and tilted |
 | P5 | Is the Court acting for its own power? | R5s, R5w | 1 of 2 | half-filled |
-| PF | Is the record of Basic Laws complete and correct? | F1, F2, F3, F4, F5, F6, F7, F8 | 3 of 8 | half-filled |
+| PF | Is the record of Basic Laws complete and correct? | F1, F2, F3, F4, F5, F6, F7, F8 | 4 of 8 | half-filled |
 
 Thread 1 (PF to PC). Premises: 14 of the 130 laws titled Basic Law came before the Court, challenged or ruled on as to their binding force (research/frame/basic-law-frame.csv), and T1 needs six laws on which its two predictions differ (note, T1 as revised, step 7). Conjecture: Perhaps the Court's own record is too small to tell doctrine from politics, and a test might need other courts' records.
 

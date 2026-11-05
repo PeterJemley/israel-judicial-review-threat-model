@@ -229,16 +229,16 @@ Alt text: A list of 38 claims and results with their status: 14 established, 2 r
 
 </details>
 
-## Errors list: 74 mistakes found so far in the project's own work, what caught each, and where each stands
+## Errors list: 75 mistakes found so far in the project's own work, what caught each, and where each stands
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="fig7-errors-dark.svg">
-  <img src="fig7-errors-light.svg" alt="A list of 74 errors: 70 in the research, 2 in reviews and 2 in process. 71 are corrected, 3 recorded and not undone, and 0 open.">
+  <img src="fig7-errors-light.svg" alt="A list of 75 errors: 71 in the research, 2 in reviews and 2 in process. 72 are corrected, 3 recorded and not undone, and 0 open.">
 </picture>
 
 The mistakes found so far in the project's own work, with what caught each and where each stands.
 
-Alt text: A list of 74 errors: 70 in the research, 2 in reviews and 2 in process. 71 are corrected, 3 recorded and not undone, and 0 open.
+Alt text: A list of 75 errors: 71 in the research, 2 in reviews and 2 in process. 72 are corrected, 3 recorded and not undone, and 0 open.
 
 <details><summary>Table view</summary>
 
@@ -318,6 +318,7 @@ Alt text: A list of 74 errors: 70 in the research, 2 in reviews and 2 in process
 | 72 | 2026-11-04 | overcorrection | Change log (aq) dropped the Court's freeze of the Shin Bet dismissal and (at) dropped its March date, though the Court froze it on 21 March 2025, the day after the cabinet vote. | The first verification pass on the external claims (Jerusalem Post) | Change log (av). | Corrected |
 | 73 | 2026-11-04 | misreading | Appendix 1 said Medina reads Justice Baron's "existential threats" as the threat to democratic identity rather than external attack; she paired an external and an internal threat (p. 682). | The author's check of p. 682 | Change log (ay). | Corrected |
 | 74 | 2026-11-04 | wrong count | Coder A gave the Reasonableness amendment's first reading as 64 to 54; the Knesset record has 64 to 56. The reading is not a coded cell. | The check of issue 15 against the Knesset's open data | Change log (ba). | Corrected |
+| 75 | 2026-11-05 | overstated claim | The note said Roznai, Dixon & Landau (2023) treat a law's effect as prima facie evidence of intent, in Prior art and in the ontology; they write that it "may itself be" such evidence (p. 302). | The legal-database run of 5 November 2026 (research/legal-db-2026-11-05/, Q9) | Change log (bf). | Corrected |
 
 </details>
 

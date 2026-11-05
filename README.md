@@ -7,13 +7,15 @@ Medina warns that Israel's democracy, and Israel itself, are at risk. The note's
 ## Contents
 
 - [medina-threat-conjecture-note.md](medina-threat-conjecture-note.md): the note. Its last section is a dated change log.
-- [codebook/m4-codebook.csv](codebook/m4-codebook.csv): the M4 codebook as data, blind-recoded on 22 October 2026 under the revised T1; a blank cell is a value no permitted source settled. The table it replaced is kept beside it as `m4-codebook-illustrative-2026-10-22.csv`. See [codebook/README.md](codebook/README.md).
-- [analysis/](analysis/): the exact permutation test, the detectability check and the script that assembles the codebook from the coding files.
+- [codebook/m4-codebook.csv](codebook/m4-codebook.csv): the M4 codebook as data, blind-recoded on 22 October 2026 under the revised T1; a blank cell is a value no permitted source settled. Since then the 1994 outcome was settled on the judgment's text, the Incapacity amendment's coalition-only cell was coded from the Knesset's roll call, and a tenth row was added for the March 2025 Judicial Selection amendment, whose outcome is Pending. The table it replaced is kept beside it as `m4-codebook-illustrative-2026-10-22.csv`. See [codebook/README.md](codebook/README.md).
+- [codebook/m4-descriptive.csv](codebook/m4-descriptive.csv): descriptive columns for each codebook row: days from first reading to final vote, votes for, and the opposition's share of them, each with its source.
+- [analysis/](analysis/): the exact permutation test, the detectability check, the script that assembles the codebook from the coding files, the frame's change counts (`frame_counts.py`), the descriptive columns (`descriptive.py`), and `check_numbers.py`, which fails if the prose drifts from the data.
 - [research/coding-2026-10-22/](research/coding-2026-10-22/): the coding sheet, both coders' sheets, the adjudications, the docket reader's outcomes, and [results.md](research/coding-2026-10-22/results.md), the first run's result: inconclusive before outcomes, on one discordant row against a minimum of six.
 - [codebook/comparison-sample.csv](codebook/comparison-sample.csv): the comparison sample, 39 unchallenged laws titled Basic Law, every third from the first in chronological order, coded on the same columns. See [research/coding-sample-2026-10-22/README.md](research/coding-sample-2026-10-22/README.md).
 - [research/frame/](research/frame/): the frame of every law titled Basic Law since 1958 (130 rows), the challenges marked, the draw and its verification.
 - [research/coding-sample-2026-10-22/](research/coding-sample-2026-10-22/): the comparison sample's coding sheets, every role's reports, the adjudications and the one-vote check.
-- [research/](research/): working notes from source searches, kept for provenance. They are unverified until applied to the note.
+- [research/coding-2026-11-04-incapacity/](research/coding-2026-11-04-incapacity/) and [research/coding-2026-11-04-row10/](research/coding-2026-11-04-row10/): the Incapacity amendment's roll call and its coding, and every role's sheet and report for the 2025 row.
+- [research/](research/): working notes from source searches, kept for provenance. They are unverified until applied to the note. Among them: the verification of the round-1 review's external claims ([2026-11-04-external-claims.md](research/2026-11-04-external-claims.md)), the Knesset-record check of reading dates and tallies ([verification-2026-11-04-issue15/](research/verification-2026-11-04-issue15/README.md)), and an evaluation of Amos Harel's Haaretz analysis of 4 November 2026 with predictions recorded before they resolve ([2026-11-05-harel-evaluation.md](research/2026-11-05-harel-evaluation.md)).
 
 ## How to use this repository to stay informed
 
@@ -63,7 +65,7 @@ This project tests one question that the evidence could answer either way. When 
 
 **What happened in court.** Fourteen of the 130 have come before the Supreme Court. The Court has struck down one: the 2023 change to Basic Law: The Judiciary, which limited the Court's power to review government decisions as "unreasonable". It did so in January 2024. In the other cases the Court did one of four things. It let the law stand but delayed when it would take effect. It warned that repeating a practice could lead it to strike a law down. It let the law stand, sometimes while reading it narrowly. Or it declined to decide. Two cases are still waiting for a ruling. One is against a 2025 change to the committee that chooses judges. The other is against Basic Law: Torah Study, passed in July 2026.
 
-**The first test.** The project ran its test once, on nine laws, and the result could not settle the question either way. To tell the two explanations apart, the test needs laws where they point in different directions. Only one of the nine laws did, and the test needs at least six.
+**The first test.** The project ran its test once, on nine laws, and the result could not settle the question either way. To tell the two explanations apart, the test needs laws where they point in different directions. Only one of the nine laws did, and the test needs at least six. Since then the Incapacity amendment's final vote has been coded from the Knesset's record (change log (az)), and the record now has two such laws: still four short.
 
 **The 39 unchallenged laws.** Most of them are routine changes about how the Knesset and the government work:
 - 27 did not move away from the democratic values, or made them stronger;
@@ -209,9 +211,10 @@ It prints a summary that should read 130 rows, 14 challenged, 116 unchallenged a
 
 ```bash
 python3 analysis/t1_revised.py detect 5 5 1 0
+python3 analysis/t1_revised.py detect 6 6 2 0
 ```
 
-The four numbers come from the first run of T1. In order, they are the rows in the test, the rows among them the Court ruled against, and two counts of the rows on which T1's two predictions disagree: those where the decision rule predicts an adverse ruling, and those where it predicts the opposite. The check prints "Inconclusive, declared before outcomes", which is the result recorded in [results.md](research/coding-2026-10-22/results.md).
+The first line's four numbers come from the first run of T1, and the second's from the rows coded now, after the Incapacity amendment's coalition-only cell was filled on 4 November 2026 (change log (az)). In order, they are the rows in the test, the rows among them the Court ruled against, and two counts of the rows on which T1's two predictions disagree: those where the decision rule predicts an adverse ruling, and those where it predicts the opposite. The check prints "Inconclusive, declared before outcomes", which is the result recorded in [results.md](research/coding-2026-10-22/results.md).
 
 9. Two more checks:
 
@@ -229,7 +232,7 @@ The first lines of each script in [analysis/](analysis/) say what it reads and w
 
 ### What the repository cannot do yet
 
-- **Reach the Knesset's own websites.** They have been unreachable from this project from the start (issue 6). Enactment texts come from Internet Archive copies, and votes from the Open Knesset mirror. The script analysis/vote_extracts.py needs tables downloaded from that mirror, and its first lines say which.
+- **Read the Knesset's main website automatically.** Its open-data service and specific gazette files can be read, but the main site shows a bot check, so bill pages and explanatory notes are read in a browser (issue 6). Votes come from the Knesset's open data and the Open Knesset mirror, both from October 2003 on. The script analysis/vote_extracts.py needs tables downloaded from that mirror, and its first lines say which.
 - **Score most laws passed before October 2003.** Final-reading votes from before then rarely name the voters, so many rows have a blank coalition_only cell and cannot be scored.
 - **Fully blind its coders.** The coders, readers and adjudicators were separate language-model agents, each given only its written sheet. Withholding documents does not remove what a model already knows. [results.md](research/coding-2026-10-22/results.md) sets out that limit.
 
@@ -239,13 +242,13 @@ Open an issue on GitHub. Name the file, the row (its seq or id), the column, the
 
 ## Status
 
-Conjecture. Nothing in the note is a finding. T1 was run once, on 22 October 2026, on nine blind-recoded rows, and was inconclusive under its pre-registered rule: one discordant row against a minimum of six. The verdict was computed by code from the number of rows, the number of adverse outcomes and the fixed predictions alone, so the outcomes could not change it, although the person assembling the table had already seen them (change log (ab)). The other three tests are designs. Each revision is a commit; substantive changes are also logged in the note's change log with the date and reason.
+Conjecture. Nothing in the note is a confirmed finding; two refutations are recorded, both exploratory (change log (ar)). T1 was run once, on 22 October 2026, on nine blind-recoded rows, and was inconclusive under its rule: one discordant row against a minimum of six. Because those rows shaped the rule, the run is exploratory (change log (as)). With the Incapacity amendment's coalition-only cell coded from the Knesset's roll call on 4 November 2026, two rows are discordant: still Inconclusive (change log (az)). T2 has been restated so that a move is judged by its aim, not only its target (change log (be)). The verdict was computed by code from the number of rows, the number of adverse outcomes and the fixed predictions alone, so the outcomes could not change it, although the person assembling the table had already seen them (change log (ab)). The other three tests are designs. Each revision is a commit; substantive changes are also logged in the note's change log with the date and reason.
 
 ## First in the queue
 
-Issue 6, pinned: every Knesset website has been unreachable from this project since it began, so the search for the unit, the vote records for four rows and the bill texts were all done without it. The comparison sample has since been coded without it, but it still gates three things: the court-database checks on three sampled rows, the vote records of the twenty sampled rows passed between 1959 and 2003, and the press-sourced values of the two 2023 rows (issue 15). The Incapacity amendment's missing vote breakdown may not need it, because the Open Knesset tables used for the redraw reach 2024 ([research/audit-2026-10-25.md](research/audit-2026-10-25.md), finding 4). It takes precedence over the other open issues.
+Issue 6, pinned: the Knesset's own records. Since 4 November 2026 the Knesset's open-data service and specific files on its file server can be read, and they settled the Incapacity amendment's roll call (issue 19) and the reading dates and tallies of issue 15. Two things remain: the main Knesset site shows a bot check to automated requests, so bill pages and explanatory notes are browser-only; and the vote data begin in October 2003, so the 1992 and 1969 roll calls, and those of the twenty sampled rows passed between 1959 and 2003, still need the Knesset record itself. The court-database checks on three sampled rows also remain, since the Supreme Court's site does not answer.
 
-The rest of the research queue is the open issues labelled `verification` (as of 25 October 2026, issues 2, 4 and 8 to 15 besides issue 6: the unit, the comparison sample, the 2025 row, judgments still unread, the Court's stated signs checked against the judgments, docket searches, and press-sourced values to replace), one `enhancement` (issue 16, descriptive columns) and one `design` question the note must settle before test T4 runs (issue 17). Each issue states the cells affected, the problem, the check, and the stopping rule.
+The rest of the research queue is the open issues labelled `verification` (as of 5 November 2026, issues 4, 8, 9, 11 to 14 and 22 besides issue 6: the unit, the comparison sample, judgments still unread, the Court's stated signs checked against the judgments, docket searches, tertiary sources to replace, and the question on the commencement default put to a scholar) and one discussion (issue 21). Closed since 25 October: issue 2 (Resler, change log (av)), issue 10 (the 2025 row, (bb)), issue 15 (reading dates and tallies, (ba)), issue 16 (descriptive columns, (bd)), issue 17 (what it means for the Court to have closed an instrument, (ar)), issue 19 (the Incapacity amendment's coalition-only cell, (az)), issue 20 (the frame's change counts, (bc)) and issue 23 (T2's target and aim, (be)). Each issue states the cells affected, the problem, the check, and the stopping rule.
 
 ## Criticism
 

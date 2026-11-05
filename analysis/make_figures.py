@@ -313,13 +313,15 @@ def fig4():
     write_csv("fig4-t1-reach", ["N", "K", "discordant", "verdict_possible", "passing_splits"], data)
     # The first run's configuration as results.md records it (N = 5, K = 4, one discordant law predicted Adverse),
     # and the same after the 1994 row was recoded Adverse in the third addendum (K = 5).
-    first, recoded = t1.detect(5, 4, 1, 0), t1.detect(5, 5, 1, 0)
+    # And the configuration after the Incapacity row's coalition-only cell was coded (change log (az)).
+    first, recoded, now = t1.detect(5, 4, 1, 0), t1.detect(5, 5, 1, 0), t1.detect(6, 6, 2, 0)
     title = "Can T1 reach a verdict on this record? Only if every codable law left is discordant, and only for some numbers of Adverse outcomes"
     sub = ("A calculation from T1's rule as revised on 22 October 2026, written after nine rows' outcomes were known and fixed before the blind recoding. "
            "It uses only the number of laws (N), the number with Adverse outcomes (K) and the number on which T1's two predictions differ.")
     desc = ("Grid of the configurations T1 could face with ten coded laws. A verdict is possible only with six discordant laws and six or seven Adverse "
             "outcomes, or five if a contestable Adverse code were reversed; with eight or more Adverse outcomes, or fewer than six discordant laws, no verdict is possible. "
-            "The first run had five laws, four Adverse and one discordant, and could reach no verdict; nor could it after the 1994 row was recoded Adverse.")
+            "The first run had five laws, four Adverse and one discordant, and could reach no verdict; nor could it after the 1994 row was recoded Adverse, "
+            "nor with six laws and two discordant after the Incapacity row was coded.")
     def draw(th):
         w = 960; b, y0 = header(th, w, title, sub, kind="calculation")
         top, x0, cw, chh = y0 + 70, 200, 118, 52
@@ -345,13 +347,15 @@ def fig4():
         y = top + 6 * chh + 26
         notes = [f"Where the project stands: the first run had N = {first['N']} coded laws, {first['K']} of them Adverse, and {first['discordant']} discordant; "
                  f"T1's check returned \"{first['verdict_before_outcomes']}\". After the 1994 row was recoded Adverse, K = {recoded['K']} of {recoded['N']} and the check "
-                 f"again returned \"{recoded['verdict_before_outcomes']}\" (research/coding-2026-10-22/results.md, third addendum).",
+                 f"again returned \"{recoded['verdict_before_outcomes']}\" (research/coding-2026-10-22/results.md, third addendum). With the Incapacity row coded, "
+                 f"N = {now['N']}, K = {now['K']} and {now['discordant']} discordant, and the check returns \"{now['verdict_before_outcomes']}\" (fourth addendum; change log (az)).",
                  "Why ten: on the challenge reader's provisional outcome classes, the frame holds 11 challenged Basic Laws decided from Mizrahi Bank (1995) onward "
-                 "with an outcome of Adverse or Not adverse; five are coded, "
-                 "the 1992 law cannot be coded until a record names its voters, and five remain codable (the Incapacity amendment, issue 19, and the four "
+                 "with an outcome of Adverse or Not adverse; six are coded, "
+                 "the 1992 law cannot be coded until a record names its voters, and four remain codable (the four "
                  "judged laws of issue 8). Six of the ten already have Adverse outcomes, so K is at least 6, unless a contestable code is reversed: the Nation-State "
-                 "and 1994 codes are both flagged (codebook/README.md; ledger F11). The existing discordant law is one the decision "
-                 "rule predicts Adverse, so every split has at least one such law. A split such as 3/3 gives the discordant laws the decision rule predicts Adverse, then those it predicts Not adverse.",
+                 "code is flagged (codebook/README.md; issue 12), the 1994 code having been settled on the judgment's text (ledger F11). With two discordant laws "
+                 "already, six is reached only if all four codable laws are discordant. Both existing discordant laws are ones the decision "
+                 "rule predicts Adverse, so every split has at least two such laws. A split such as 3/3 gives the discordant laws the decision rule predicts Adverse, then those it predicts Not adverse.",
                  "Calculation: analysis/t1_revised.py, detect, for every split. Audit: research/audit-2026-10-25.md, finding 3. Table: figures/data/fig4-t1-reach.csv."]
         fb, yy = footer(th, y, notes, w)
         return yy + 10, title, desc, b + fb

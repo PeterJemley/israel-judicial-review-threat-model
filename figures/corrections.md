@@ -21,7 +21,7 @@ Three of the findings trace to the repository's own prose rather than the figure
 |---|---|---|
 | W1 | Jigsaw piece PA asked whether the package would remove "every check", broader than Claim A. | It now asks about "the institutional checks that make Israel a democracy". |
 | W2 | Ledger row E4 was marked Contested, but its basis contests the project's coding, not Medina's statement. | Now Unclear: it rests on the paper, and the judgment is unread (issue 12). |
-| W3 | Ledger row R2 was marked Contested, though the note records it as refuted and no source contests that. | Now Refuted, with the note's basis. This reverses a default proposed when the figures were planned. |
+| W3 | Ledger row R2 was marked Contested, though the note records it as refuted and no source contests that. | Now Refuted, with the note's basis. This reverses a default proposed when the figures were planned. On 29 October, change log (ar) withdrew the note's refutation on the round-1 review's finding 3, and the row is Contested again. |
 | W4 | Figure 4 said the first run had all 5 laws Adverse. It had 4 of 5; the fifth came from the later recoding of the 1994 row. | The note under figure 4 gives both configurations, from results.md. |
 | W5 | Figure 4's floor of six Adverse outcomes relies on two codes flagged as contestable, and its count of 11 rows dropped "provisional". | A row for K = 5 is added, labelled as reachable only if a contestable code were reversed. The note names the two codes and restores "provisional". |
 | W6 | The errors list missed at least eight errors that meet its own rule. | Nine entries added (12, 14, 15, 16, 18, 19, 21, 23 and 24), and entry 31 expanded. |

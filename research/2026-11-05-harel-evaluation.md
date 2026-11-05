@@ -6,6 +6,15 @@
 
 **What "the project" is.** This repository tests a sentence in Barak Medina's 2026 article in I·CON (p. 685): that the 2023 judicial plan posed "an imminent risk to Israel's existence as a democracy, and, in fact, to Israel's very existence", and that these are "not threats to private interests or ideologies of the liberal elite". It reads that sentence through the threat-assessment formula Threat = Capability × Intent. The main document, "the note", is [medina-threat-conjecture-note.md](../medina-threat-conjecture-note.md); the [README](../README.md) is the plain-language entry point. Labels the project uses are explained below where they first appear.
 
+**Labels used in this evaluation.**
+- **H1 to H5** are hypotheses: the five parts into which this evaluation breaks the article's claim, each treated as a hypothesis to be tested against the evidence. They are:
+  - H1, intent: Netanyahu is trying to evade the election results;
+  - H2, capability: he controls the security agencies;
+  - H3, mechanism: the Shin Bet chief's allegations against Arab MKs are the means;
+  - H4, constraint: only the attorney general and the Shin Bet chief's clumsiness stand in the way;
+  - H5, consequence: this is Israel's worst constitutional crisis.
+- **P1 to P5** are predictions that follow from those hypotheses, each with the result that would refute it, recorded on 5 November 2026 before they resolve: the swearing-in, the certification of results, the investigation, the attorney general, and the Shin Bet chief's tenure.
+
 **Tags.**
 - `[press: Harel]`: reported in the article on the record, or attributed to a named person.
 - `[press, anonymous: Harel]`: attributed in the article to unnamed sources.
@@ -32,7 +41,7 @@
 
 ## 2. The article's claim, broken into parts
 
-The project read Medina's sentence as several separate claims, each of which could be right or wrong on its own. The article's claim is broken up the same way:
+The project read Medina's sentence as several separate claims, each of which could be right or wrong on its own. The article's claim is broken up the same way, into five hypotheses (H):
 
 - **H1, intent:** Netanyahu is "actively trying to hold a regime coup", evading recognition of the results. `[analysis: Harel]`
 - **H2, capability:** he has taken control of the security agencies, "particularly the Shin Bet and police". `[analysis: Harel]`

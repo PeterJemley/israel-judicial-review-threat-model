@@ -17,6 +17,7 @@ from collections import Counter
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 sys.path.insert(0, os.path.join(ROOT, "analysis"))
 import t1_revised as t1
+import frame_counts as fc
 
 def path(p): return os.path.join(ROOT, p)
 def rows(p): return list(csv.DictReader(io.open(path(p), encoding="utf-8")))
@@ -87,6 +88,11 @@ CHECKS = [
     ("research/frame/README.md", "| Rows reported by more than one reader (indirect amendments) | {} |", lambda: sum(1 for r in FRAME if len(readers(r)) > 1)),
     ("research/frame/README.md", "| Rows whose date is a publication date, not a passage date | {} |", lambda: sum(1 for r in FRAME if r["date_basis"] != "passed")),
     ("research/frame/README.md", "The frame as built gave {} laws", lambda: sum(1 for r in AS_BUILT if (r["passage_date"] or "9999") <= "2023-01-31")),
+    # Basic-Law change counts through January 2023 (issue 20; change log (bc))
+    ("research/frame/README.md", "and a re-enactment's repealed and new Basic Law as two (analysis/frame_counts.py) | {} |", lambda: fc.counts(path("research/frame/basic-law-frame.csv"))["changes"]),
+    ("research/frame/README.md", "| The same, counting a re-enacted Basic Law once | {} |", lambda: fc.counts(path("research/frame/basic-law-frame.csv"))["changes_reenactment_once"]),
+    ("research/frame/README.md", "and {} changes if each Basic Law a law amends is counted once", lambda: fc.counts(path("research/frame/basic-law-frame.csv"))["changes"]),
+    ("research/frame/README.md", "Counted once each, the frame as built gives {}, or {} counting a re-enacted Basic Law once", lambda: (fc.counts(path("research/frame/basic-law-frame-as-built.csv"))["changes"], fc.counts(path("research/frame/basic-law-frame-as-built.csv"))["changes_reenactment_once"])),
     ("research/frame/README.md", "{} rows. Seven were in the codebook already", lambda: word(len(challenged), True)),
     ("research/frame/README.md", "- {} rows carry the gazette publication date", lambda: word(sum(1 for r in FRAME if r["date_basis"] != "passed"), True)),
     ("research/frame/README.md", "- {} ordinary statutes that touched Basic Laws", lambda: word(sum(len(load(f"research/frame/frame-{n}.json")["ordinary_statute_amendments"]) for n in ("knesset", "government", "economy-judiciary-rights")), True)),

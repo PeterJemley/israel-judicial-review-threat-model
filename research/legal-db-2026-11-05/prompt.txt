@@ -1,0 +1,49 @@
+You're helping me, a law student, verify facts for a public research project on Israeli constitutional law. I'm signed in to Westlaw, Lexis and Bloomberg Law through my law school. Use them in my browser to answer the questions below. Use the databases only for reading and searching in the ordinary way: no bulk downloading, and no copying of whole documents. Quote at most 25 words from any source.
+
+Ground rules
+- Say only what a source you actually opened says. If a fact reaches you only through a search-result snippet or a headnote, tag it as a lead, not as attested.
+- Every case gets its full citation. For Israeli cases, use the HCJ number (e.g. HCJ 5658/23).
+- If a database doesn't have something, say so and say what you searched. "Not found, searched X in Y with terms Z" is a useful answer.
+- Don't fill gaps from memory or by inference. Mark any inference of your own as conjectural.
+- Stop on a question after about 15 minutes if nothing turns up, and move on.
+
+Questions, in priority order
+
+1. The commencement default for Israeli statutes. When a Knesset statute or Basic Law has no commencement clause, does it take effect on the day of publication in Reshumot, under section 10(a) of the Law and Administration Ordinance, 5708-1948? Or does another rule apply? Section 10(a)'s text speaks of an "ordinance", so the question is whether courts or scholars apply it to Knesset laws. Look in English scholarship on Israeli law: Suzie Navot, The Constitution of Israel; Aharon Barak's writing on interpretation; the Israel Law Review. Also look for any Israeli case applying s. 10(a) to a statute.
+
+2. Petitions against the March 2025 amendment to Basic Law: The Judiciary (the Judicial Selection Committee; passed 27 March 2025, takes effect with the 26th Knesset). Find: (a) the HCJ numbers of the petitions; (b) the date of the conditional order (order nisi); (c) whether any ruling has been given since 13 October 2026, and if so its date, panel, vote and disposition. The case was heard by eleven justices on 21 June 2026.
+
+3. Hasson, HCJ 5555/18 (the Nation-State Basic Law, judgment of 8 July 2021). In an English translation or in English scholarship, find what the Court held about sections 1, 4 and 7 of the law. Did it read any of them more narrowly than their text on its face, or only declare the law valid with a general statement about harmonious interpretation? Record the vote, and whether any petition was granted in part.
+
+4. The two budget cases: HCJ 8260/16, Academic Center of Law and Business v. Knesset, 6 September 2017; HCJ 5969/20, Shafir v. Knesset, 23 May 2021. For each, find the panel, the vote on each holding, and the exact words of the warning or declaration of invalidity, quoting up to 25 words. Find also any passage where the Court lists the signs of an abuse of constituent power. The signs the project uses are: the amendment addresses a specific interest of the current government; it takes effect immediately; it was supported only by coalition members; it was expedited. Say whether the Court treats these as a set, and as a presumption.
+
+5. Incapacity, HCJ 2412/23 (3 January 2024). Record the vote on the finding that the amendment served a personal purpose, separately from the 6 to 5 vote on deferring it.
+
+6. Who can refuse to seat a certified Knesset member? Under Israeli law, once the Central Elections Committee certifies the results, can the Knesset, its speaker or any official refuse to swear in an elected member? Who hears a challenge to an election result (an election appeal), and where is that provided (the Knesset Elections Law, Basic Law: The Knesset)? English sources only.
+
+7. Avi Maoz and the coalition, March 2025. On what date did Avi Maoz (the Noam party) leave the governing coalition, not just his deputy-minister post? Was it before or after 27 March 2025? Did Noam then count as an opposition faction? Search news databases (Lexis, Westlaw news) for Israeli and wire reports from 20 to 31 March 2025.
+
+8. US and UK points: (a) Re Parliamentary Election for Bristol South-East [1964] 2 QB 257 (the Tony Benn case): the date of decision, which court decided it, and the holding in one sentence. (b) The AP interview of 1 December 2020 in which Attorney General William Barr said the Justice Department had not found fraud that could change the election result. Give the AP story's exact quotation and date, from a news database. (c) David Cole, in the New York Review of Books, 2026, on how many federal injunctions were issued against the administration and how few the Solicitor General appealed. Give the article's title, date and the figures, if a database holds it.
+
+9. Prior-art checks in the full text: (a) Roznai, Dixon & Landau, "Judicial Reform or Abusive Constitutionalism in Israel", 56 Israel Law Review 292 (2023): do they treat a change's effect as "prima facie evidence" of intent, and do they use the term "proto-abusive"? Quote with page numbers. (b) Roznai & Cohen, "Populist Constitutionalism and the Judicial Overhaul in Israel", 56 Israel Law Review 502 (2023): do they discuss Israel's "institutional vulnerability"? Quote with page numbers. (c) J. David Singer, "Threat-Perception and the Armament-Tension Dilemma", 2 Journal of Conflict Resolution 90 (1958): does he state threat perception as estimated capability combined with estimated intent? Quote with page number.
+
+10. The 17 March 1992 vote on Basic Law: Human Dignity and Liberty (32 to 21, one abstention). Does any English source give the vote by party or by member? Low priority; stop quickly if nothing appears.
+
+Format of your answer
+Return one Markdown document, with no tables, in this shape:
+
+# Legal-database research, [date]
+## Summary
+- One line per question: answered, partly answered, or not found.
+## Q1. [short title]
+- Answer: [one to three sentences]
+- Source: [full citation; database; document title; page or paragraph]
+- Quotation: "[up to 25 words]"
+- Tag: [attested: Westlaw | Lexis | Bloomberg Law, citation] or [lead: snippet or headnote only] or [conjectural]
+- Searched: [database, search terms, date range]
+- Not found / open: [what you couldn't establish]
+## Q2. ...
+## Sources
+- Every document opened, with its full citation and database.
+
+Give one block for each question, in order, including the ones you couldn't answer. If two sources disagree, report both and say so.

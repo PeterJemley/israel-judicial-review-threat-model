@@ -1,0 +1,11 @@
+id,case,first_reading_date,final_vote_date,days_first_to_final,days_source,votes_for,opposition_votes_for,opposition_share,share_source,note
+1,Basic Law: Human Dignity and Liberty (1992),,,,,,,,,
+2,"Knesset and Local Authorities Elections (Financing, Limitation of Expenses and Audit) Law, 5729-1969",,,,,,,,,
+3,"Elections (Confirmation of Validity of Laws) Law, 5729-1969",,,,,,,,,
+4,"Basic Law: Freedom of Occupation (Amendment), 1994 (override clause)",,,22,"both coders' notes on expedited (research/coding-2026-10-22/coder-A.json, coder-B.json)",,,,,
+5,"Basic Law: State Budget for 2017 and 2018 (Special Provisions) (Temporary Provision), 2016",2016-07-19,2016-08-02,14,"Knesset open data, KNS_PlenumVote 24994 and 25188 (bill 2006018)",50,1,1/50,"Knesset open data, KNS_PlenumVoteResult for vote 25188; opposition members as named in coder-A.json and checked in the roll call",
+6,"Basic Law: The Knesset (Amendment No. 50, Temporary Provision), 2020",,,7,"both coders' notes on expedited (research/coding-2026-10-22/coder-A.json, coder-B.json)",,0,0,coalition_only Yes in the codebook (no roll call in the Knesset's open data),
+7,"Basic Law: Israel, the Nation State of the Jewish People (2018)",2018-05-01,2018-07-19,79,"Knesset open data, KNS_PlenumVote 29393 and 31013 (bill 565913)",62,0,0,"Knesset open data, KNS_PlenumVoteResult for vote 31013; coalition_only Yes in the codebook",earlier committee-referral votes not used as the first reading: 26916 (2017-05-10)
+8,"Basic Law: The Government (Amendment No. 12), 2023",2023-03-13,2023-03-23,10,"Knesset open data, KNS_PlenumVote 38391 and 38567 (bill 2201424)",61,0,0,"Knesset open data, KNS_PlenumVoteResult for vote 38567; coalition_only Yes in the codebook",
+9,"Basic Law: The Judiciary (Amendment No. 3), 2023",2023-07-11,2023-07-24,13,"Knesset open data, KNS_PlenumVote 39566 and 39785 (bill 2207472)",64,0,0,"Knesset open data, KNS_PlenumVoteResult for vote 39785; coalition_only Yes in the codebook",
+10,"Basic Law: The Judiciary (Amendment No. 4), 2025",2023-02-20,2025-03-27,766,"Knesset open data, KNS_PlenumVote 38298 and 43884 (bill 2201200)",67,,,,

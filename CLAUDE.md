@@ -17,6 +17,7 @@ The project tests the threat claim in Medina (2026) under Threat = Capability ×
 - **Research notes in `research/` tag every claim with its source.** Use `[attested: ...]` for a text actually read, `[abstract: ...]`, `[search-lead]` for a search summary not read, and `[conjectural]` for an inference. A search summary is never applied to the note as fact.
 - **Commit messages carry no co-author or AI attribution lines** (change log (ao)). The note and README do not mention the AI tools used, beyond the disclosure that the coding roles were language-model agents.
 - **Edit CSVs by text, not by rewriting them with a CSV library,** so their hand-written quoting is kept.
+- **Explain project labels inline in anything an outside reader may see** (a research note sent to someone, an email, a summary). Say what R-structure, C-model, the rivals R1 to R5, the tests T1 to T4, Claims A to D, the matrices and "exploratory" mean where each first appears; don't rely on the note's labels key.
 
 ## Environment notes
 

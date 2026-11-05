@@ -52,7 +52,22 @@
 - **Rivals.** The article's own account is power retention after an election, which is rival R1. The means is targeting Arab MKs and voters, the first of Medina's aims of concern (p. 685). T2's precedence rule would code such moves as identity moves (R3), because it codes by target, not aim. That is a design flaw this case exposes; opened as issue 23 on 5 November 2026. `[conjectural]`
 - **Claim A.** The case engages the right to vote, the first item on Medina's p. 685 list. It is new evidence on the threat, not a test of C-A, which concerns the 2023 plan. `[conjectural]`
 - **Claim B.** The passage on Israel as "a toxic brand" and possible congressional sanctions is speculation, not an allied policy event. T3 does not count it. `[conjectural]`
-- **Claim C.** Under discussion with the author; not settled here.
+- **Claim C, the p. 684 half** (the Court's doctrine is not a device for preserving a liberal elite's hegemony; tested by T1). Not touched. No Basic Law and no ruling is involved, and T1's unit is the Court's rulings on Basic Laws. `[conjectural]`
+- **Claim C, the p. 685 half** (the threats "are not threats to private interests or ideologies of the liberal elite", but to the right to vote, equal citizenship and a minimal separation of powers). Counted as evidence, at the author's direction (5 November 2026). It is press-sourced and exploratory, and it is not a T2 result, since T2 has not been run and its coding rule is open (issue 23).
+  - The reported moves are aimed at the franchise and standing of Arab MKs and voters after a certified election: a security-service inquiry into foreign funding of Arab MKs, and broadcasts framing the result as "Ballot Box Terror".
+  - That is a minority that is not the liberal elite, and the right at stake is the first on Medina's p. 685 list.
+  - On the facts reported on the record, the episode is the kind of threat the sentence describes. `[press: Harel]` `[conjectural]`
+  - Two qualifications travel with it. The aim may be power retention (R1) rather than identity (R3), so it evidences a threat to the franchise more than an identity transformation (issue 23). And the reported acts are by allies, broadcasters and the Shin Bet chief, not shown to be the government's own (H1).
+- **The elite critique's reply on framing.** The source is an analysis piece in Haaretz, the outlet most identified with the liberal elite the critique names. On the critique's own terms, the framing is the elite's. The project's rule answers part of this:
+  - only reported facts confirmed by a second outlet or an official record are to be relied on;
+  - claims from unnamed sources are leads;
+  - the author's characterization (a "regime coup", "propaganda outlet", "lackeys") is tagged as analysis and carries no evidential weight here.
+
+  The facts that carry the p. 685 point, the election committee's certification and Sohlberg's letter, are on the record and should be checked against a second outlet before the note relies on them. `[conjectural]`
+- **Sohlberg, as context for the enacting-bloc version of the elite rival** (at the author's direction, 5 November 2026; recorded, not tested). That version, which the note names but does not code, holds that the Court acts against a governing bloc whatever an enactment's content.
+  - A Supreme Court justice, as chair of the Central Elections Committee, certified the result and then, without consulting the attorney general, instructed the Shin Bet chief to investigate suspicions of foreign funding. The coalition's media were advancing those suspicions. `[press: Harel]`
+  - On that report, members of the Court do not act as one bloc against the government. That qualifies a reading of the enacting-bloc version as a claim about the Court as a single actor.
+  - It is an act outside a judgment, so it does not enter T1, and it is no test of the rival. `[conjectural]`
 
 ## 4. Candidate gaps in the ontology (not applied)
 

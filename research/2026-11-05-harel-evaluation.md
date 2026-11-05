@@ -18,7 +18,7 @@
 - The committee's chair, Justice Noam Sohlberg, said Shin Bet intelligence "allegedly indicates" foreign money flowing into Israel, "originating from unknown parties with undisclosed and even hostile interests", involving "thousands of people, perhaps even more". `[press: Harel]`
 - One day after the election, Sohlberg and Shin Bet chief David Zini both said electoral integrity was maintained. `[press: Harel]`
 - "Last Thursday" (29 October), Sohlberg sent a public letter instructing Zini to investigate suspicions of foreign funding, without consulting the attorney general. `[press: Harel]`
-- On the weekend before the election, the Shin Bet told the attorney general it had information on "a few hundred thousand shekels from a foreign country" reaching one or two Arab MKs. `[press, anonymous: Harel]`
+- On the weekend before the election, the Shin Bet told the attorney general it had information on "a few hundred thousand shekels from a foreign country" reaching one or two Arab MKs (Members of the Knesset, Israel's parliament). `[press, anonymous: Harel]`
 - At a Saturday-night meeting (31 October), with police present:
   - Zini presented claims "without a unified and convincing line";
   - he raised allegations against four Arab MKs and asked to investigate one on security grounds;
@@ -42,12 +42,12 @@ The project read Medina's sentence as several separate claims, each of which cou
 
 ## 3. Evaluation under Capability × Intent and the project's readings
 
-- **Intent (H1) is attributed through proxies, not shown.**
+- **Intent (H1, the claim that Netanyahu is trying to evade the results) is attributed through proxies, not shown.**
   - The article cites no act or statement by Netanyahu, who "has not appeared in public for more than a week".
   - The evidence is Channel 14's broadcasts, MKs and activists "affiliated with" him, and Likud's reported dissatisfaction with Zini, itself as reported by Channel 14.
   - The project found the same gap in Medina's sentence: indications of an aim standing in for an aim established by acts (p. 685).
   - On the project's rule, a claim resting on proxies is a lead, not an established fact, until an act or a record confirms it. `[conjectural]`
-- **Effective capability (H2) is low on the article's own facts.** "Effective" capability means what an actor can do once others push back, as distinct from formal capability, what it could do unopposed.
+- **Effective capability (H2, the claim that he controls the security agencies) is low on the article's own facts.** "Effective" capability means what an actor can do once others push back, as distinct from formal capability, what it could do unopposed.
   - The committee certified the results.
   - The attorney general imposed a criminal evidentiary standard.
   - Only a limited joint investigation opened.
@@ -70,14 +70,14 @@ The project read Medina's sentence as several separate claims, each of which cou
   - This case exposed that flaw. T2 has since been restated to code each move's target and its aim separately, and to decide the rivals by aim (the note's change log, item (be); [issue 23](https://github.com/PeterJemley/israel-judicial-review-threat-model/issues/23)). `[conjectural]`
 - **Medina's claim about democracy (the project's Claim A).** That claim is that the 2023 plan would put at imminent risk the right to vote, equal citizenship and a minimal separation of powers. The case engages the right to vote. It is new evidence on that threat, not a test of the project's conjecture about the 2023 plan itself, which concerns the plan as enacted. `[conjectural]`
 - **Medina's claim about the state's survival (Claim B).** The project's test for that claim, T3, counts only allied policy events (sanctions, aid decisions), not statements or forecasts. The passage on Israel as "a toxic brand" and possible congressional sanctions is speculation, so T3 does not count it. `[conjectural]`
-- **Medina's claim about the liberal elite (Claim C), first half.** At p. 684 Medina defends the Court's doctrine as not a device for preserving a liberal elite's hegemony. The project tests that with T1, a blind coding of how the Supreme Court has ruled on challenged Basic Laws. This case involves no Basic Law and no ruling, so it falls outside T1's cases and does not touch that half. `[conjectural]`
+- **Medina's claim about the liberal elite (Claim C), first half.** At p. 684 Medina defends the Court's doctrine as not a device for preserving a liberal elite's hegemony. The project tests that with T1, a blind coding of how the Supreme Court has ruled on challenged Basic Laws, the statutes that together serve Israel in place of a written constitution. This case involves no Basic Law and no ruling, so it falls outside T1's cases and does not touch that half. `[conjectural]`
 - **Claim C, second half.** The p. 685 sentence itself says the threats "are not threats to private interests or ideologies of the liberal elite", but to the right to vote, equal citizenship and a minimal separation of powers. The case is counted as evidence on this half, at the author's direction (5 November 2026). It is press-sourced and exploratory, meaning assessed after the facts were known, so it cannot count as a test. It is also not a result of T2, which has not been run.
   - The reported moves are aimed at the franchise and standing of Arab MKs and voters after a certified election: a security-service inquiry into foreign funding of Arab MKs, and broadcasts framing the result as "Ballot Box Terror".
   - That is a minority that is not the liberal elite, and the right at stake is the first on Medina's p. 685 list.
   - On the facts reported on the record, the episode is the kind of threat the sentence describes. `[press: Harel]` `[conjectural]`
   - Two qualifications travel with it:
-    - The aim may be power retention (R1) rather than identity transformation (R3), so it evidences a threat to the franchise more than a change of identity.
-    - The reported acts are by allies, broadcasters and the Shin Bet chief, and are not shown to be the government's own (H1).
+    - The aim may be power retention (rival R1, narrow self-interest) rather than transforming the state's constitutional identity (rival R3, Medina's account), so it evidences a threat to the franchise more than a change of identity.
+    - The reported acts are by allies, broadcasters and the Shin Bet chief, and are not shown to be the government's own: the article's intent claim (H1) rests on proxies.
 - **The elite critique's reply on framing.** The critique Medina answers holds that the Court serves a liberal elite; he cites Hirschl and Gavison for it (fn. 4).
   - The source here is an analysis piece in Haaretz, the outlet most identified with that elite. On the critique's own terms, the framing is the elite's.
   - The project's rule answers part of this:
@@ -112,12 +112,12 @@ This case shows four gaps. At the author's direction they are listed only, not a
 
 Each prediction follows from the article's claims. Each refuter is fixed now. Results will be recorded in an addendum with the sources read, and anything assessed only after the fact will be labelled exploratory.
 
-**P1. The swearing-in.** (H3: "Netanyahu's next move could be an attempt to thwart the swearing-in of the Knesset and the appointment of a new speaker".)
+**P1. The swearing-in.** (The article's mechanism claim, H3: "Netanyahu's next move could be an attempt to thwart the swearing-in of the Knesset and the appointment of a new speaker".)
 - **Supported if:** by the end of Tuesday 10 November 2026, the swearing-in is postponed, or a formal step to delay or prevent it is taken by the government, the outgoing speaker, Likud or a coalition faction. A formal step means a petition to a court, a request to the Central Elections Committee, a government or presidium decision, or a refusal to convene.
 - **Refuted if:** the 26th Knesset is sworn in on 10 November 2026 and no such formal step is taken.
 - **The election of a new speaker** is recorded separately, with the date and any formal step to delay it.
 
-**P2. The certification.** (H1: "Evading recognition of election results".)
+**P2. The certification.** (The article's intent claim, H1: "Evading recognition of election results".)
 - **Supported if:** by 30 November 2026, Likud, a coalition faction or the government formally asks the Central Elections Committee or a court to annul, reopen or suspend the certified results, in whole or in part.
 - **Refuted if:** no such formal request is made by that date.
 - **Not counted:** statements, broadcasts and calls by individual MKs or commentators. They are recorded, but they are not a formal request.
@@ -127,15 +127,15 @@ Each prediction follows from the article's claims. Each refuter is fixed now. Re
 - **The attorney general's line supported if:** by that date the investigation stays limited, with no charge recommended against an MK.
 - **Unknown:** if nothing is reported, the result is recorded as unknown.
 
-**P4. The constraint (H4).**
+**P4. The constraint.** (The article's constraint claim, H4: the only obstacles left are the attorney general and Zini's clumsiness.)
 - **Supported if:** by 31 December 2026, the attorney general is dismissed, suspended or overridden in this matter, or the Shin Bet acts against her instructions in it, as reported by two outlets or an official record.
 - **Refuted if:** neither happens by that date.
 
 **P5. A conditional prediction, for the record.** If a government is formed without Netanyahu's coalition, the opposition said it would dismiss Zini "immediately". Supported if he is dismissed within 60 days of that government's swearing-in. Not tested if no such government is formed.
 
 **What each outcome would teach**
-- If P1 and P2 are both refuted, while P3 and P4 favour the attorney general's line:
+- If P1 (the swearing-in) and P2 (the certification) are both refuted, while P3 (the investigation) and P4 (the attorney general) favour the attorney general's line:
   - the article's claim that the security services have been captured (H2) fails on events;
   - what survives is the structural reading: a standing weakness in oversight that did not become an act.
-- If P1 or P2 is supported: H1 gains its first evidence from acts, as distinct from proxies.
-- If P4 is supported: the one remaining check by another state institution named in H4 failed. That would be the case for which the catalogue's missing instrument would be needed.
+- If P1 (the swearing-in) or P2 (the certification) is supported: the article's intent claim (H1) gains its first evidence from acts, as distinct from proxies.
+- If P4 (the attorney general) is supported: the one remaining check by another state institution that the article names (H4) failed. That would be the case for which the catalogue's missing instrument would be needed.

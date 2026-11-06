@@ -2,6 +2,8 @@
 
 **What "the project" is.** This repository tests a sentence in Barak Medina's 2026 article in the *International Journal of Constitutional Law* (I·CON), p. 685. The sentence says the 2023 judicial plan posed "an imminent risk to Israel's existence as a democracy, and, in fact, to Israel's very existence", and that these are "not threats to private interests or ideologies of the liberal elite". The project reads that sentence through the threat-assessment formula Threat = Capability × Intent: what an actor can do, multiplied by what it means to do. The main document, "the note", is [medina-threat-conjecture-note.md](../medina-threat-conjecture-note.md); the [README](../README.md) is the plain-language entry point. Labels the project uses are explained where they first appear.
 
+**Author.** Peter Jemley, who maintains this project. "The project's author" below means him.
+
 **Source.** Amos Harel, "Netanyahu Is Plotting a Final Power Grab for Israel's Democracy. His Loyalist Shin Bet Chief Is the Key", Haaretz (English), "Analysis", 4 November 2026, 18:40 IST. Read in full from a copy the project's author saved on 5 November 2026 at 07:52. The copy is not stored in this repository.
 
 **Status.** A research note only, written at the project author's direction on 5 November 2026. Nothing here is applied to the note. Claims from unnamed sources are leads until a second outlet or an official record confirms them. Corrected on 5 November 2026 after an outside reader's review (see the main note's change log, item (bg)).
@@ -98,7 +100,7 @@ The project reads Medina's sentence as several separate claims, each of which co
     - The aim may be power retention (rival R1, narrow self-interest) rather than transforming the state's constitutional identity (rival R3, Medina's account). So it evidences a threat to the franchise more than a change of identity.
     - The acts are not shown to be directed by Netanyahu or the cabinet. The actors are his political allies, broadcasters, and the Shin Bet chief, who heads a government agency. The article's intent claim (H1) rests on indirect signs.
 - **The elite critique's reply on framing.** The critique Medina answers holds that the Court serves a liberal elite. He cites Ran Hirschl and Ruth Gavison for it (his fn. 4).
-  - The source here is an analysis piece in Haaretz, the outlet most identified with that elite. On the critique's own terms, the framing is the elite's.
+  - The source here is an analysis piece in Haaretz, a paper the critique's proponents would count as the liberal elite's own. On the critique's terms, then, the framing is the elite's. `[conjectural]`
   - The project's rule answers part of this:
     - only reported facts confirmed by a second outlet or an official record are to be relied on;
     - claims from unnamed sources are leads;

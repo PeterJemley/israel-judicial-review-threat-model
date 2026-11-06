@@ -109,7 +109,7 @@
 
 - **(a) Benn's case:** Justices Gorman and McNair held that Anthony Wedgwood Benn could not keep his Commons seat after succeeding to his father's peerage, and that the runner-up took the seat without a new election. `[run: attested, Lexis, Tillman, 2025 Harv. J.L. & Pub. Pol'y Per Curiam 1, n.13]` The date of decision and the court's formal name were not found.
 - **(b) Barr:** the Associated Press interview of 1 December 2020 is now read in the AP story as printed the next day. `[run: attested, Lexis, Spokesman-Review, 2 December 2020, at A3]`
-- **(c) David Cole on federal injunctions:** not found. The companion note keeps the figure as verified by the author, source not cited.
+- **(c) David Cole on federal injunctions:** not found. The companion note cut the figures on 6 November, for want of a written source.
 
 **Q9. Earlier scholarship the note cites (the note's prior-art list)**
 

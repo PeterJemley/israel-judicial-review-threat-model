@@ -2,6 +2,8 @@
 
 **What this is.** A research note, written to stand beside the evaluation of Amos Harel's Haaretz analysis of 4 November 2026 ([2026-11-05-harel-evaluation.md](2026-11-05-harel-evaluation.md)).
 
+**Author.** Peter Jemley, who maintains this project.
+
 **What "the project" is.** This repository tests a sentence in Barak Medina's 2026 article in the *International Journal of Constitutional Law* (I·CON), p. 685: that the 2023 judicial plan posed "an imminent risk to Israel's existence as a democracy". It reads that claim through the threat-assessment formula Threat = Capability × Intent: what an actor can do, multiplied by what it means to do. The project's main document is [the note](../medina-threat-conjecture-note.md); the [README](../README.md) is the plain-language entry point. Project labels are explained where they appear.
 
 **Timing.** A week apart in autumn 2026, both countries held elections that went against their governing parties:
@@ -10,10 +12,9 @@
 
 **What this comparison does.** It sets the checks on each executive side by side, to see which survive when the executive and the legislature are joined, as in Israel, and which only exist when they are separate, as in the United States. Nothing here is applied to the project's main note. Corrected on 5 November 2026 after an outside reader's review (the main note's change log, item (bg)).
 
-**Sources.** The comparisons were prompted by a broadcast discussion of the US midterms that the project's author has checked. It is not cited; each fact below carries its own source. Tags:
+**Sources.** The comparisons were prompted by a broadcast discussion of the US midterms that the project's author has checked. It is not cited; each fact below carries its own source. Claims for which no written source was found were cut on 6 November 2026. Tags:
 - `[attested: ...]`: a text read for this note;
 - `[press: ...]` and `[analysis: ...]`: a news report or an analysis piece, read;
-- `[verified by the author, source not cited]`;
 - `[run: ...]`: found in the project author's legal-database run of 5 November 2026 ([legal-db-2026-11-05/](legal-db-2026-11-05/README.md)), with that run's own tag, and not re-read for this note;
 - `[conjectural]`: this note's inference.
 
@@ -24,7 +25,7 @@
 | 1. Who certifies an election, and who can refuse to seat a winner | The states run and count elections; each chamber of Congress is "the judge of the elections, returns and qualifications of its own members"; the Clerk of the outgoing House makes the roll of members-elect | The Central Elections Committee, chaired by a Supreme Court justice, certifies; the new Knesset is sworn in on 10 November |
 | 2. Law enforcement and security services | The Attorney General's independence rests on convention; in 2020 the Attorney General, William Barr, said the department had not seen fraud on a scale that could change the result | The attorney general's dismissal was annulled by the Court; the Shin Bet chief, David Zini, raised foreign-funding claims in the week after the election |
 | 3. The legislature | Separate from the executive: the purse, the veto and its two-thirds override, Senate consent; both chambers projected to pass to the Democrats | Ordinarily joined to the executive by coalition discipline; after 27 October, possibly an "unusually independent Knesset" |
-| 4. The courts | Federal injunctions against the administration, most left unappealed | The High Court struck one 2023 amendment and deferred another, and ordered the judicial selection committee convened |
+| 4. The courts | Federal courts can enjoin the executive; figures on injunctions were cut for want of a written source | The High Court struck one 2023 amendment and deferred another, and ordered the judicial selection committee convened |
 | 5. Judicial appointments | Need the Senate's consent | Set by the 2025 Judicial Selection amendment, which takes effect with the new Knesset |
 | 6. A written constitution | One document, hard to amend; protective only as far as officials comply | No single document; most Basic Laws amendable by a simple majority |
 | 7. After power changes hands | Impeachment needs two thirds of the senators present to convict | The opposition calls for the Shin Bet chief's dismissal and may roll back overhaul laws |
@@ -56,7 +57,6 @@ A third model, the United Kingdom (row 8 below): the returning officer's certifi
 - **United States:**
   - The Constitution gives the Attorney General no stated role; the department's independence from the President rests on convention. `[conjectural]`
   - On 1 December 2020 the Attorney General, William Barr, told the Associated Press that the department had "not seen fraud on a scale that could have effected a different outcome". `[run: attested, Lexis, Michael Balsamo (AP), Spokesman-Review, 2 December 2020, at A3]`
-  - He left office later that month. `[verified by the author, source not cited]`
 - **Israel:**
   - The government's dismissal of Attorney General Gali Baharav-Miara (August 2025) was frozen by the High Court (Israel's Supreme Court sitting as the High Court of Justice) and annulled 7 to 0 on 14 December 2025. `[attested: research/2025-2026-timeline.md]`
   - The dismissal of the then Shin Bet chief, Ronen Bar, was frozen on 21 March 2025, the day after the cabinet's vote. `[press: Jerusalem Post, 21 March 2025]` `[attested: research/2025-2026-timeline.md]` for his name.
@@ -85,7 +85,7 @@ A third model, the United Kingdom (row 8 below): the returning officer's certifi
 
 **4. The courts**
 
-- **United States:** federal courts issued more than 100 injunctions against the administration. The Solicitor General appealed only a handful to the Supreme Court, and the rest remain in force. `[verified by the author, source not cited]` A search of Westlaw and Lexis on 5 November did not find a written source for the figures. `[run: not found]`
+- **United States:** federal courts can enjoin the executive, and the Solicitor General decides which orders to appeal. `[conjectural]` The figures a broadcast gave for injunctions issued against the administration and appealed were cut on 6 November 2026: a search of Westlaw and Lexis found no written source for them. `[run: not found]`
 - **Israel:**
   - The High Court struck the Reasonableness amendment and deferred the Incapacity amendment to the next Knesset, in January 2024. `[attested: codebook/m4-codebook.csv, rows 8 and 9]`
   - On 31 May 2026 it ordered the justice minister to convene the Judicial Selection Committee. He called the order "an apparently illegal decision". `[attested: research/2025-2026-timeline.md]`
@@ -127,7 +127,7 @@ A third model, the United Kingdom (row 8 below): the returning officer's certifi
 **8. A third model: the United Kingdom**
 
 - **The model.** A returning officer certifies the result, and the House of Commons seats the member certified. Disputes go to an election court, not to the House. `[conjectural: a general account; the statute, the Representation of the People Act 1983, was not read here because legislation.gov.uk is blocked from this session]`
-- **An example.** When Tony Benn, by then Viscount Stansgate, won the Bristol South-East by-election of 1961, the election court held him disqualified as a peer. `[verified by the author, source not cited]` Justices Gorman and McNair held that he could not keep the seat after succeeding to his father's peerage, and that the runner-up took it without a new election. `[run: attested, Lexis, Tillman, 2025 Harv. J.L. & Pub. Pol'y Per Curiam 1, n.13]`
+- **An example.** Tony Benn, by then Viscount Stansgate, won the Bristol South-East by-election of 1961. Two judges, Gorman and McNair JJ, held that he could not keep the seat after succeeding to his father's peerage, and that the runner-up took it without a new election. `[run: attested, Lexis, Tillman, 2025 Harv. J.L. & Pub. Pol'y Per Curiam 1, n.13]`
 - **What the contrast teaches:**
   - In this third arrangement, neither the chamber nor a security service decides who sits. An official certifies and a court decides disputes.
   - In Israel, the official who certifies is a Supreme Court justice, Noam Sohlberg. That puts Israel nearer this model than the American one. In this model the certifying official and a court, not a security service, settle disputes. That is why Sohlberg's instruction to the Shin Bet chief to investigate matters. `[conjectural]`

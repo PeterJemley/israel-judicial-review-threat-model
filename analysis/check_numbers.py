@@ -148,7 +148,7 @@ CHECKS += [
     ("medina-threat-conjecture-note.md", "Inconclusive, on {} discordant row against the minimum of six", lambda: word(detect_first_run()["discordant"])),
     # T1 on the rows coded now (change log (az))
     ("README.md", "python3 analysis/t1_revised.py detect {} {} {} {}", lambda: tuple(detect_current()[k] for k in ("N", "K", "D_A", "D_N"))),
-    ("README.md", "the record now has {} such laws", lambda: word(detect_current()["discordant"])),
+    ("README.md", "The project now has {} laws where the warning signs and the law's politics point different ways", lambda: word(detect_current()["discordant"])),
     ("research/coding-2026-10-22/results.md", "N = {}, K = {}, D_A = {}, D_N = {}; Inconclusive before outcomes, on {} discordant rows", lambda: tuple(detect_current()[k] for k in ("N", "K", "D_A", "D_N", "discordant"))),
     ("medina-threat-conjecture-note.md", "the configuration is now {} discordant rows against the minimum of six", lambda: word(detect_current()["discordant"])),
 ]

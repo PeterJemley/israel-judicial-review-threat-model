@@ -14,6 +14,8 @@
 
 **What was read.** The Versa translation of HCJ 5658/23, *Movement for Quality Government in Israel v. Knesset* (https://versa.cardozo.yu.edu/opinions/movement-quality-government-israel-v-knesset), read on 5 November 2026. It translates President (emer.) Hayut's opinion only, which ends at para. 214. The other justices' opinions are not translated there.
 
+**Update, 8 November 2026.** The Incapacity judgment has now been read, in Hebrew. See the addendum at the end. The sections before it stand as written on 5 November.
+
 **Tags.**
 - `[attested: Versa, HCJ 5658/23, para. n]`: Hayut's opinion, read in that translation; every quotation below was checked against it word for word.
 - `[conjectural]`: this note's inference.
@@ -71,3 +73,74 @@ Any one of these would do:
 - the author allows `www.idi.org.il` and `en.idi.org.il` in the environment's network settings;
 - the author attaches the judgment's PDF;
 - the author attaches Medina's p. 699 with its footnotes, which says where to look first.
+
+## Addendum, 8 November 2026: the Incapacity judgment read (HCJ 2412/23)
+
+**What was read.** The full judgment in HCJ 2412/23 and HCJ 2466/23, *Movement for Quality Government in Israel v. Knesset*, 3 January 2024: 212 pages, in Hebrew. It was read from the Israel Democracy Institute's copy (https://www.idi.org.il/media/22632/full-verdict-of-supreme-court-regarding-incapacitation-of-prime-minister-january-3-2024.pdf), downloaded on 8 November 2026 once the author allowed the host. No English translation was found; Versa has none. The copy is not stored in this repository.
+
+**How it is quoted.** Each passage is given in the Hebrew original, with this note's own English rendering. The renderings are unofficial. Where a point turns on a word, the Hebrew governs.
+- `[attested: HCJ 2412/23, Hebrew original, opinion and para.; rendering this note's]`
+
+### Who held what
+
+- **The operative order is a single holding.** The case was "decided by a majority (Hayut, Vogelman, Amit, Barak-Erez, Baron and Grosskopf), against the dissent of Sohlberg, Mintz, Elron, Willner and Stein, as stated in the judgment of the Acting President". In Hebrew: "הוחלט ברוב דעות ... כנגד דעתם החולקת של ... כאמור בפסק דינו של מ"מ הנשיא". `[attested: HCJ 2412/23, Hebrew original, operative paragraph; rendering this note's]`
+- **The lead opinion** is Acting President Vogelman's. He holds that "a series of clear and unequivocal indications" shows the amendment's purpose was personal, so it fails the generality test (para. 56). The remedy defers it to the next Knesset. `[attested: HCJ 2412/23, Hebrew original, Vogelman, para. 56; rendering this note's]`
+
+### Personal purpose, opinion by opinion (issue 11)
+
+There was no separate vote on personal purpose, but every opinion takes a position on it.
+
+- **Six found a personal purpose:** the majority.
+- **Four found none:**
+  - Sohlberg: the inquiry should have stopped at the text, "free of any dimension of personality", and held the amendment general. Even on the wider approach, "there is no evidence before us of a personal arrangement" (para. 74).
+  - Mintz: "it is not a personal amendment in our case" ("לא מדובר בענייננו בתיקון פרסונלי", para. 49).
+  - Elron: even on the approach of the doctrine's supporters, "I do not think the amendment's purpose is distinctly personal" ("איני סבור שתכלית התיקון היא פרסונלית באופן מובהק", para. 3).
+  - Stein: he accepts that the law's initiators also wished to protect Netanyahu from a declaration of incapacity (para. 5), but holds that "such a law cannot be considered personal" ("חוק כזה אינו יכול להיחשב לפרסונלי", para. 12).
+- **One did not decide:** Willner. She holds that generality concerns the norm's application, not the personal considerations of the members of the Knesset who voted for it. "Even if personal considerations stood before the members of the Knesset" in enacting it, that "does not change this conclusion" (para. 2).
+
+`[attested: HCJ 2412/23, Hebrew original, each opinion at the paragraph given; renderings this note's]` The count, six for, four against and one holding the question irrelevant, is this note's reading of the opinions. `[conjectural]`
+
+### The signs (issue 13)
+
+**In the lead opinion (Vogelman):**
+- **An open list of indications.**
+  - A personal purpose may be identified from "the totality of the circumstances of the legislation".
+  - "Hasty and rushed legislation may be an indication of a personal purpose" ("חקיקה נמהרת וחפוזה עשויה להוות אינדיקציה לקיומה של תכלית פרסונלית").
+  - The timing may raise a personal "suspicion".
+  - The content may show it, especially where it is "tailored to the measurements" of a specific person.
+  - "This is not a 'closed list' of indications" ("אין מדובר ב'רשימה סגורה' של אינדיקציות").
+
+  `[attested: HCJ 2412/23, Hebrew original, Vogelman, para. 54; rendering this note's]`
+- **Immediate effect.**
+  - "Immediate application of a Basic Law does not, in itself, establish that there was an abuse of constituent power." The legislature's intent about when the law applies may, however, show its purpose (para. 53).
+  - But "where a Basic Law concerns the prime minister, immediate application raises, in and of itself, a suspicion of personality, since immediate application means application to one person whose identity is known" ("תחולה מידית מעוררת, מניה וביה, חשד לפרסונליות", para. 78).
+
+  `[attested: HCJ 2412/23, Hebrew original, Vogelman, paras. 53 and 78; rendering this note's]`
+- **Which way the presumption runs.** "The claim that a Basic Law does not meet the generality requirement undermines its presumption of constitutionality, and must therefore rest on a firm and substantial foundation" ("חותרת תחת חזקת חוקתיותו ומשכך עליה להישען על תשתית איתנה וממשית"). The presumption here favours the law. `[attested: HCJ 2412/23, Hebrew original, Vogelman, para. 56; rendering this note's]`
+- **Coalition votes** appear once, in a general remark, not as an indication applied to this amendment. In the last decade, he writes, the Knessets enacted and amended Basic Laws dozens of times, "sometimes in expedited procedures relying on the votes of coalition members only" ("לעתים בהליכים מזורזים שנשענים על קולות חברי הקואליציה בלבד"). `[attested: HCJ 2412/23, Hebrew original, Vogelman, para. 93; rendering this note's]`
+
+**In two other majority opinions:**
+- **Hayut:** "the hurried manner in which the amendment was advanced, and the timing of the completion of the legislative process, also give the amendment the marks of an amendment intended for a personal purpose". She notes an expedited process of about a month ("האופן הבהול שבו קודמה הצעת התיקון ... נותנים בתיקון סימנים כתיקון שנועד לתכלית פרסונאלית"). `[attested: HCJ 2412/23, Hebrew original, Hayut, para. 6; rendering this note's]`
+- **Grosskopf, on the two stages.** He restates *Shafir*'s two stages: first a "suspicious characteristic", from a list that is not closed; then justification (para. 13).
+- **Grosskopf, on a presumption.** He proposes "a presumption that the active application of a substantive change with a distinct personal implication requires justification" ("נכון לקבוע חזקה לפיה החלה אקטיבית של שינוי מהותי בעל השלכה פרסונלית מובהקת מחייבת צידוק"). That presumption, he writes, "can be seen as a further category of suspicious characteristic, or as a subset of the characteristic of lack of generality". He reads Vogelman's opinion as implying it "between the lines" (para. 18).
+
+`[attested: HCJ 2412/23, Hebrew original, Grosskopf, paras. 13 and 18; rendering this note's]`
+
+### What the two judgments show together
+
+- **Not a set.** The four signs do not appear as a set to be counted in either judgment. The question in both is whether the amendment has a personal purpose (the generality test), answered from an open list of indications weighed together. `[conjectural]`
+- **Immediate effect and haste** are indications of a personal purpose in both judgments. Immediate effect never suffices by itself. `[conjectural]`
+- **Coalition votes.** In the Reasonableness judgment, Hayut treats the coalition majority as sharpening a generality concern (para. 192). In the Incapacity judgment's lead opinion they appear only in a general remark (para. 93). Neither opinion treats them as an independent sign. `[conjectural]`
+- **The only presumption against an amendment is Grosskopf's proposal**, in a concurring opinion. Two features, immediate application and a distinct personal implication, shift the burden of justification. *Shafir*'s second stage likewise shifts the burden once any one suspicious characteristic is found. The lead opinion speaks of a presumption of constitutionality, which the challenger must overcome. `[conjectural]`
+- **What this means for Medina's guideline.** As the project states it (p. 699), it is not in the words of either judgment. It may be Medina's synthesis of these opinions: the lead opinion's indications, Grosskopf's presumption and the remarks on coalition votes. His footnote at p. 699 would show what he cites, and it has not been seen. `[conjectural]`
+
+### Effect on the project
+
+- **Issue 13.** What has been read meets the stopping rule's "differs" branch:
+  - fewer signs: coalition votes are not an independent sign, and in Grosskopf's presumption two features suffice;
+  - a weighing of an open list, not a count of four;
+  - a presumption of constitutionality in the lead opinion.
+
+  The rule says the difference "is a criticism of the test's design and is logged; the prediction table is not changed until the note says how, with fresh expectations recorded". Logging it in the main note is for the author to direct. The two budget judgments themselves were not read. Their tests are known from the Court's own later summaries (HCJ 5658/23, Hayut, para. 58; HCJ 2412/23, Grosskopf, para. 13). `[conjectural]`
+- **Issue 11.** The count above answers the open question for codebook row 8. Its stopping rule says to replace the press-sourced docket note with quotations from the judgment. Row 8's note in research/coding-2026-10-22/docket.json (6 to 5, personal purpose, deferral) agrees with the judgment, and can be re-sourced at the author's direction. The two budget rows, 5 and 6, remain press-sourced. `[attested: research/coding-2026-10-22/docket.json, row 8]`
+- **Row 8's coding is unchanged:** outcome Deferred, counted as Adverse.

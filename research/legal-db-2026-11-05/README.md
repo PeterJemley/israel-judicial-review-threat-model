@@ -90,7 +90,7 @@
 - **Effect:**
   - The project's record of the panel matches. `[attested: research/frame/challenges.json]`
   - The prompt assumed two separate counts. The English sources do not support that assumption.
-  - Whether any minority justice accepted the finding of personal purpose remains open. The project states no separate count, and should not until the judgment is read.
+  - Whether any minority justice accepted the finding of personal purpose remained open after the run. It was settled on 8 November from the judgment itself: four dissenters found no personal purpose, and one, Justice Willner, held the question irrelevant ([2026-11-05-court-signs.md](../2026-11-05-court-signs.md), addendum).
 
 **Q6. Who can refuse to seat a certified Knesset member**
 

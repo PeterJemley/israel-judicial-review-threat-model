@@ -88,7 +88,7 @@ Each objection is followed by Medina's answer in the rejoinder, where he gave on
 
 ## 3. What this changes in the project
 
-- **The README** now carries the exchange, briefly, in each section it bears on, with one fuller account under "What critics have said, and Medina's answer". It was written at the author's direction on 9 November 2026.
+- **The README** now carries the exchange, briefly, in each section it bears on, with one fuller account under "The published reply to Medina, and his answer". It was written at the author's direction on 9 November 2026.
 - **The note's Prior art** now includes the rejoinder (change log (bk)).
 - **Two issues are opened, both exploratory**, meaning set after the data were seen. No recoding is done yet.
   - [Issue 33](https://github.com/PeterJemley/israel-judicial-review-threat-model/issues/33): recode the Jerusalem laws, and any other Jewish-side Basic Laws in the data, against a baseline widened as the reply proposes, as a sensitivity check.

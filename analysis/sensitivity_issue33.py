@@ -40,8 +40,9 @@ def sample_summary(rows):
             "tiers": dict(sorted(tiers.items())), "direction": dict(sorted(Counter(r["direction"] for r in rows).items())),
             "classes": dict(sorted(Counter(r["class"] for r in rows).items()))}
 
-def main(final_path):
-    final = json.load(io.open(final_path, encoding="utf-8"))
+def compute(final_path=None):
+    """The comparison as a dict: changed rows, T1's configuration both ways, the sample's summary both ways."""
+    final = json.load(io.open(final_path or path("research/recode-2026-11-09-issue33/final.json"), encoding="utf-8"))
     recode = {k: {c: value(v.get(c)) for c in ("deviation_tier", "direction")} for k, v in final.items()}
     code = load_csv("codebook/m4-codebook.csv")
     sample = load_csv("codebook/comparison-sample.csv")
@@ -54,10 +55,9 @@ def main(final_path):
                 "recoded": [r["deviation_tier"], r["direction"], r["class"], r["decision_rule_prediction"], r["elite_prediction"]]}
                for o, r in list(zip(a, b)) + list(zip(sa, sb))
                if (o["deviation_tier"], o["direction"]) != (r["deviation_tier"], r["direction"])]
-    print(json.dumps({"recoded_rows_changed": changed,
-                      "T1_current_configuration": {"original": configuration(a), "recoded": configuration(b)},
-                      "comparison_sample": {"original": sample_summary(sa), "recoded": sample_summary(sb)}},
-                     indent=1, ensure_ascii=False))
+    return {"recoded_rows_changed": changed,
+            "T1_current_configuration": {"original": configuration(a), "recoded": configuration(b)},
+            "comparison_sample": {"original": sample_summary(sa), "recoded": sample_summary(sb)}}
 
 if __name__ == "__main__":
-    main(sys.argv[1] if len(sys.argv) > 1 else path("research/recode-2026-11-09-issue33/final.json"))
+    print(json.dumps(compute(sys.argv[1] if len(sys.argv) > 1 else None), indent=1, ensure_ascii=False))

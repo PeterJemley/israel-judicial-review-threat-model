@@ -18,6 +18,8 @@ ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 sys.path.insert(0, os.path.join(ROOT, "analysis"))
 import t1_revised as t1
 import frame_counts as fc
+import sensitivity_issue33 as s33
+S33 = s33.compute()
 
 def path(p): return os.path.join(ROOT, p)
 def rows(p): return list(csv.DictReader(io.open(path(p), encoding="utf-8")))
@@ -149,6 +151,12 @@ CHECKS += [
     # T1 on the rows coded now (change log (az))
     ("README.md", "python3 analysis/t1_revised.py detect {} {} {} {}", lambda: tuple(detect_current()[k] for k in ("N", "K", "D_A", "D_N"))),
     ("README.md", "The project now has {} laws where the warning signs and the law's politics point different ways", lambda: word(detect_current()["discordant"])),
+    # Issue 33: the exploratory recode, computed by analysis/sensitivity_issue33.py from research/recode-2026-11-09-issue33/final.json
+    ("README.md", "the sample's count of laws that do not depart from the values falls from {} to {}", lambda: (S33["comparison_sample"]["original"]["none_or_entrenches"], S33["comparison_sample"]["recoded"]["none_or_entrenches"])),
+    ("research/recode-2026-11-09-issue33/results.md", "| No departure from the five values, or entrenches one | {} | {} |", lambda: (S33["comparison_sample"]["original"]["none_or_entrenches"], S33["comparison_sample"]["recoded"]["none_or_entrenches"])),
+    ("research/recode-2026-11-09-issue33/results.md", "| Limited departure | {} | {} |", lambda: (S33["comparison_sample"]["original"]["limited"], S33["comparison_sample"]["recoded"]["limited"])),
+    ("research/recode-2026-11-09-issue33/results.md", "| Illiberal direction | {} | {} |", lambda: (S33["comparison_sample"]["original"]["direction"].get("Illiberal", 0), S33["comparison_sample"]["recoded"]["direction"].get("Illiberal", 0))),
+    ("medina-threat-conjecture-note.md", "T1's current configuration is unchanged (N {}, K {}, D_A {}, D_N {}; Inconclusive)", lambda: tuple(S33["T1_current_configuration"]["recoded"][k] for k in ("N", "K", "D_A", "D_N")) if S33["T1_current_configuration"]["recoded"] == S33["T1_current_configuration"]["original"] else ("changed",) * 4),
     ("research/coding-2026-10-22/results.md", "N = {}, K = {}, D_A = {}, D_N = {}; Inconclusive before outcomes, on {} discordant rows", lambda: tuple(detect_current()[k] for k in ("N", "K", "D_A", "D_N", "discordant"))),
     ("medina-threat-conjecture-note.md", "the configuration is now {} discordant rows against the minimum of six", lambda: word(detect_current()["discordant"])),
 ]

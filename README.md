@@ -71,7 +71,7 @@ Medina's account has also drawn a published reply. The next section sets it out,
   - *Where the project's evidence bears:* the project counts one opposition vote as cross-party support. [Issue 34](https://github.com/PeterJemley/israel-judicial-review-threat-model/issues/34) tested a variant drawn from Medina's answer: for laws touching Jewish–Arab interests, cross-party support counts only if a member of an Arab party (Hadash, Ra'am, Balad, Ta'al or their joint lists) voted for.
     - No member of an Arab party voted for any such law that has a member-by-member roll call: the Nation-State law, and the 2018 and 2024 Jerusalem amendments.
     - T1's result does not change. In the comparison sample, the 2024 Jerusalem amendment, whose cross-party support came only from Jewish opposition parties, becomes a law passed by coalition votes only.
-    - The check is exploratory, and the primary sign is unchanged ([results](research/variant-2026-11-09-issue34/results.md)).
+    - The check is exploratory, and by the author's decision the primary sign stands ([results](research/variant-2026-11-09-issue34/results.md)).
 - **Would the rule protect minorities?**
   - *The reply:* if a Knesset mustered "an overwhelming (Jewish) majority in favor of restricting minority rights", the logic "would require the Court to uphold such a measure". So the proposal "may, in fact, place them at risk" (page 722).
   - *Medina:* the model should be compared with its alternatives. Israel's formal procedural rules are minimal. A judge-made ban on changing core values "risks undermining public trust in the judiciary". Reading strong procedural requirements into the existing law "may well be a superior alternative".

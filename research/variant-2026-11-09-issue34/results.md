@@ -58,4 +58,5 @@ It stays Inconclusive. Row 7's sign was already Yes, and row 1 is uncoded.
 - **Where the variant bites.** It matters only where a law that touches Jewish–Arab interests drew its cross-party support from Jewish opposition parties alone. In the project's data that is one law, the 2024 Jerusalem amendment. It does not reach T1's result, because the one qualifying law that went to the Court, the Nation-State law, had no opposition support of any kind. `[conjectural]`
 - **It cannot reach earlier votes.** It cannot be applied to votes before October 2003, for want of member-by-member roll calls in the data. Those are four of the seven qualifying rows.
 - **Its definitions are the project's own.** The qualifying rule leans on the project's existing direction notes, and the list of Arab parties is the project's own. Another definition could qualify other laws.
-- **It is exploratory.** It was defined after the data were seen, and the primary sign is unchanged unless the author decides otherwise.
+- **It is exploratory.** It was defined after the data were seen.
+- **The author's decision.** On 9 November 2026 the author decided to keep the primary sign, with this variant reported beside it. Issue 34 is closed.

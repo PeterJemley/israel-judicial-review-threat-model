@@ -53,4 +53,4 @@ Row 1, Basic Law: Human Dignity and Liberty, is uncoded under both rules, becaus
 - **The rule came after the outcomes.** It was written knowing every outcome, so the comparison against outcomes is exploratory and cannot count as a test.
 - **One characteristic is not coded.** The rule uses two of *Shafir*'s three suspicious characteristics. The third, poor fit with the constitutional fabric, is not coded. Neither is the narrower rule in HCJ 2412/23 that immediate effect alone raises suspicion for a Basic Law concerning the prime minister.
 - **`situated_beneficiary` was itself designed after outcomes were known.** It was built on a closed list fixed after the first run (change log (ac) to (af)).
-- **The decision is the author's.** The 22 October table stays the primary rule unless the author decides otherwise.
+- **The author's decision.** On 9 November 2026 the author decided to keep the 22 October table as the primary rule, with this alternative reported beside it. Issue 13 is closed.

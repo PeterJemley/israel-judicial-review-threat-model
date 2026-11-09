@@ -64,7 +64,7 @@ Medina's account has also drawn a published reply. The next section sets it out,
     - [Issue 33](https://github.com/PeterJemley/israel-judicial-review-threat-model/issues/33) rescored them on a list of values widened along the reply's lines. The reply proposes no list, so the widened list is the project's own construction.
     - Two scorers, working separately, agreed on every score: all four Jerusalem laws become a limited, illiberal departure, and the Nation-State law a sharp one.
     - T1's result does not change, but the sample's count of laws that do not depart from the values falls from 27 to 23.
-    - The check is exploratory, because it was set after the scores were seen, and the primary scores stand unless the author decides otherwise ([results](research/recode-2026-11-09-issue33/results.md)).
+    - The check is exploratory, because it was set after the scores were seen, and, by the author's decision, the primary scores stand ([results](research/recode-2026-11-09-issue33/results.md)).
 - **What broad support means.**
   - *The reply:* it is unclear what "overwhelming" support means, or how a court could measure public support, and Knesset votes alone "cannot suffice" as evidence of it (page 721). In a Knesset of many parties, bipartisan decision-making "correlates only weakly with minority protection, especially for the Arab minority" (page 722).
   - *Medina:* where a change "affects interests in conflict between Jewish and Arab citizens", the support required "could—indeed should—be interpreted to include support from parties representing the Arab-Palestinian minority". He does not say how a court would measure public support.

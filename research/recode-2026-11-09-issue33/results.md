@@ -60,4 +60,4 @@ These classes feed the challenge-stage analysis, which has not been run.
 - **The coders are not independent of each other.** Both are instances of the same kind of model. Their full agreement is weaker evidence than agreement between two independent human coders would be. The README's limits section sets out the same point for all the project's coding.
 - **One code rests on an inference.** The 2024 code rests on the coders' reading of which foreign missions section 6A would exclude, which the text does not state.
 - **The scope is small.** Only five rows were recoded. Basic Law: Israel Lands and the amendments to section 7A are not in the codebook or the sample.
-- **The decision stays with the author.** The primary codes are unchanged unless the author decides otherwise.
+- **The author's decision.** On 9 November 2026 the author decided to keep the primary codes, with this recode reported beside them. Issue 33 is closed.

@@ -8,6 +8,8 @@
 
 **Why.** Rosen-Zvi and Yarom argue that Medina's account of Israel's constitutional identity leaves out its Jewish side. They read Basic Law: Jerusalem as reinforcing "the subjection of Palestinians living in the eastern parts of the city to Israeli rule", while granting that its effect on material rights is "mostly indirect" (I·CON 24 (2026), p. 718). The project's coders score each law against five democratic values: free and equal elections, core human rights and equality, separation of powers, the rule of law, and an independent judiciary. They coded the Jerusalem laws as engaging the values only through their holy-places clause, or not at all. The reply proposes no list of values. The widened reading on the sheet is the project's own construction along the reply's lines. See [2026-11-09-reply-and-rejoinder.md](../2026-11-09-reply-and-rejoinder.md), objections O4 to O8.
 
+**Result (9 November 2026).** The two coders agreed on all ten cells. All four Jerusalem laws became a limited, illiberal departure, and the Nation-State law a sharp one. T1's result is unchanged; the comparison sample's count of laws that do not depart from the values falls from 27 to 23. Of the five rows, four came out as expected; the exception was the 2024 amendment. See [results.md](results.md).
+
 ## Fixed before any recoding (committed before the coders ran)
 
 **Which rows.** The selection rule takes the Basic Laws the reply names as Jewish-leaning, and amendments to them:

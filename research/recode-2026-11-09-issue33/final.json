@@ -1,0 +1,52 @@
+{
+ "16": {
+  "deviation_tier": {
+   "value": "Limited",
+   "provenance": "agreed"
+  },
+  "direction": {
+   "value": "Illiberal",
+   "provenance": "agreed"
+  }
+ },
+ "64": {
+  "deviation_tier": {
+   "value": "Limited",
+   "provenance": "agreed"
+  },
+  "direction": {
+   "value": "Illiberal",
+   "provenance": "agreed"
+  }
+ },
+ "103": {
+  "deviation_tier": {
+   "value": "Limited",
+   "provenance": "agreed"
+  },
+  "direction": {
+   "value": "Illiberal",
+   "provenance": "agreed"
+  }
+ },
+ "127": {
+  "deviation_tier": {
+   "value": "Limited",
+   "provenance": "agreed"
+  },
+  "direction": {
+   "value": "Illiberal",
+   "provenance": "agreed"
+  }
+ },
+ "row7": {
+  "deviation_tier": {
+   "value": "Sharp",
+   "provenance": "agreed"
+  },
+  "direction": {
+   "value": "Illiberal",
+   "provenance": "agreed"
+  }
+ }
+}

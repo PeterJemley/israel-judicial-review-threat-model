@@ -229,16 +229,16 @@ Alt text: A list of 38 claims and results with their status: 14 established, 2 r
 
 </details>
 
-## Errors list: 86 mistakes found so far in the project's own work, what caught each, and where each stands
+## Errors list: 87 mistakes found so far in the project's own work, what caught each, and where each stands
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="fig7-errors-dark.svg">
-  <img src="fig7-errors-light.svg" alt="A list of 86 errors: 82 in the research, 2 in reviews and 2 in process. 83 are corrected, 3 recorded and not undone, and 0 open.">
+  <img src="fig7-errors-light.svg" alt="A list of 87 errors: 83 in the research, 2 in reviews and 2 in process. 84 are corrected, 3 recorded and not undone, and 0 open.">
 </picture>
 
 The mistakes found so far in the project's own work, with what caught each and where each stands.
 
-Alt text: A list of 86 errors: 82 in the research, 2 in reviews and 2 in process. 83 are corrected, 3 recorded and not undone, and 0 open.
+Alt text: A list of 87 errors: 83 in the research, 2 in reviews and 2 in process. 84 are corrected, 3 recorded and not undone, and 0 open.
 
 <details><summary>Table view</summary>
 
@@ -330,6 +330,7 @@ Alt text: A list of 86 errors: 82 in the research, 2 in reviews and 2 in process
 | 84 | 2026-11-05 | overstated claim | The US–Israel comparison said Basic Laws can be amended by a simple majority, twice, where the project's own text and Medina (p. 708) say most can. | An outside reader's review of 5 November 2026 | Change log (bg). | Corrected |
 | 85 | 2026-11-05 | overstated claim | The Harel evaluation drew from one justice's act as election-committee chair the general statement that members of the Court do not act as one bloc against the government. | An outside reader's review of 5 November 2026 | Change log (bg). | Corrected |
 | 86 | 2026-11-05 | wrong statement | The Harel evaluation said each of P1 to P5 follows from the article's hypotheses; P3 sets Zini's line against the attorney general's and P5 records the opposition's call, neither derived from H1 to H5. | An outside reader's review of 5 November 2026 | Change log (bg). | Corrected |
+| 87 | 2026-11-09 | overstated claim | The note said Medina "reports the Court stating" four signs together and twice relied on "the Court's statement of the signs as a set (p. 699)"; Medina reports guidelines the Court established, gives the four-sign sentence as their specific form, and cites no judgment for it. | The author's check of pp. 698–699 | Change log (bj). | Corrected |
 
 </details>
 

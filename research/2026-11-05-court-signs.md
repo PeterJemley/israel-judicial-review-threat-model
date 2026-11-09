@@ -146,3 +146,23 @@ There was no separate vote on personal purpose, but every opinion takes a positi
 - **Row 8's coding is unchanged:** outcome Deferred, counted as Adverse.
 
 **Done on 9 November 2026, at the author's direction.** The difference is logged in the main note (change log (bi)), and the note's paragraph on the warning signs says so. The prediction table is unchanged. Row 8's docket note now cites the judgment for the count on personal purpose.
+
+## Addendum, 9 November 2026: Medina's p. 699 read
+
+**Source.** Images of pp. 698–699 of Medina (2026) that the author supplied on 9 November 2026. `[attested: Medina, I·CON 24 (2026), p. 699]`
+
+**What the page says.**
+- Medina writes that the Court "has addressed this challenge by establishing guidelines to detect abuse of power". He gives them as "examining the motives behind the amendment, its impact on partisan interests, the nature of the legislative process, and the form of the amendment".
+- He then writes: "Specifically, an amendment addressing a specific interest of the current government, which takes immediate effect, is supported only by coalition members, and is enacted through an expedited process, is likely to be classified as serving an illegitimate purpose—and thus as an abuse of power—unless proven otherwise."
+- There is no footnote on the page, and no judgment is cited for that sentence. The next paragraph gives the 2017 budget case as "one example".
+
+**What it shows.**
+- Medina presents the four signs as the specific form of guidelines the Court established. He does not quote the Court for them.
+- His sentence states a sufficient condition: all four signs together make an illegitimate purpose likely, unless the government shows otherwise. That is compatible with the two judgments read above, where all four would be strong indications of a personal purpose and would shift the burden of justification. `[conjectural]`
+- The difference logged under issue 13 therefore lies mainly in the project's use of the sentence, not in the sentence itself. The project counts the signs (F), and treats a low count as the absence of an abusive purpose, which is its own threshold. The Court allows one indication, weighed with the rest, to suffice. `[conjectural]`
+
+**Applied.** The main note now quotes Medina's words and no longer says he "reports the Court stating" the signs (change log (bj); errors list, entry 87).
+
+**Also on p. 698, bearing on issue 12 (Hasson).**
+- Medina writes that "in a controversial decision, the Court avoided applying this doctrine to the specific case, opting instead to interpret Article 7 in a way that rendered it ineffective". As a result, he says, Article 7 "was interpreted as not exempting the government from the duty to treat all citizens as equals, including in the subject matters it covers". `[attested: Medina, p. 698]`
+- This is Medina's reading of the judgment, which agrees with the codebook's coding of row 7 as narrowed. Issue 12's stopping rule asks for the judgment itself. `[conjectural]`

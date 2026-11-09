@@ -22,6 +22,8 @@ import sensitivity_issue33 as s33
 S33 = s33.compute()
 import variant_issue34 as v34
 V34 = v34.compute()
+import open_list_issue13 as o13
+O13 = o13.compute()
 
 def path(p): return os.path.join(ROOT, p)
 def rows(p): return list(csv.DictReader(io.open(path(p), encoding="utf-8")))
@@ -159,6 +161,12 @@ CHECKS += [
     ("research/recode-2026-11-09-issue33/results.md", "| Limited departure | {} | {} |", lambda: (S33["comparison_sample"]["original"]["limited"], S33["comparison_sample"]["recoded"]["limited"])),
     ("research/recode-2026-11-09-issue33/results.md", "| Illiberal direction | {} | {} |", lambda: (S33["comparison_sample"]["original"]["direction"].get("Illiberal", 0), S33["comparison_sample"]["recoded"]["direction"].get("Illiberal", 0))),
     ("medina-threat-conjecture-note.md", "T1's current configuration is unchanged (N {}, K {}, D_A {}, D_N {}; Inconclusive)", lambda: tuple(S33["T1_current_configuration"]["recoded"][k] for k in ("N", "K", "D_A", "D_N")) if S33["T1_current_configuration"]["recoded"] == S33["T1_current_configuration"]["original"] else ("changed",) * 4),
+    # Issue 13: the exploratory alternative rule, computed by analysis/open_list_issue13.py
+    ("research/revision-2026-11-09-issue13/results.md", "| Discordant, decision rule predicting Adverse (D_A) | {} | {} |", lambda: (O13["T1_current_configuration"]["table"]["D_A"], O13["T1_current_configuration"]["alternative"]["D_A"])),
+    ("research/revision-2026-11-09-issue13/results.md", "| Discordant, decision rule predicting Not adverse (D_N) | {} | {} |", lambda: (O13["T1_current_configuration"]["table"]["D_N"], O13["T1_current_configuration"]["alternative"]["D_N"])),
+    ("research/revision-2026-11-09-issue13/results.md", "| Discordant rows against the minimum of six | {} | {} |", lambda: (O13["T1_current_configuration"]["table"]["discordant"], O13["T1_current_configuration"]["alternative"]["discordant"])),
+    ("medina-threat-conjecture-note.md", "Under it, T1's configuration is N {}, K {}, D_A {}, D_N {}", lambda: tuple(O13["T1_current_configuration"]["alternative"][k] for k in ("N", "K", "D_A", "D_N"))),
+    ("medina-threat-conjecture-note.md", "the alternative rule is right on {} of the four discordant rows", lambda: word(O13["discordant_rows_against_outcomes"]["alternative"]["decision_rule_right"])),
     # Issue 34: the exploratory Arab-party variant, computed by analysis/variant_issue34.py from research/variant-2026-11-09-issue34/roll-calls.json
     ("research/variant-2026-11-09-issue34/results.md", "| `coalition_only` No | {} | {} |", lambda: (V34["comparison_sample"]["original"]["coalition_only"].get("No", 0), V34["comparison_sample"]["variant"]["coalition_only"].get("No", 0))),
     ("research/variant-2026-11-09-issue34/results.md", "| `coalition_only` Yes | {} | {} |", lambda: (V34["comparison_sample"]["original"]["coalition_only"].get("Yes", 0), V34["comparison_sample"]["variant"]["coalition_only"].get("Yes", 0))),

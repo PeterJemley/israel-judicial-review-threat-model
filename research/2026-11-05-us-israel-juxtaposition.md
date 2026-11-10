@@ -99,6 +99,16 @@ A third model, the United Kingdom (row 8 below): the returning officer's certifi
   - The Court issued conditional orders on 2 December 2025, requiring the Knesset and the government to explain why the law should not be struck down. Eleven justices heard the petitions on 21 June 2026. `[run: attested, Lexis, Jerusalem Post, 3 December 2025 and 27 July 2026]`
   - A search of Lexis news reports through 5 November 2026 found no ruling. `[run: attested, Lexis, titles read to 5 November 2026]`
   - Unless the Court rules or issues an interim order first, the amendment takes effect when the new Knesset first meets, on 10 November. `[conjectural]`, following the run's own inference.
+  - *Recorded on 10 November 2026, at the scheduled check-in (sources as in the Harel evaluation's addendum of that date):*
+    - **No ruling and no interim order were found before the Knesset first met.**
+      - The Jerusalem Post reports of 5, 9 and 10 November read for the check-in do not mention the petitions. `[press: JPost, articles 913918, 914332, 914409, 914426 and live updates 914399]`
+      - Web searches on 10 November found no report of a ruling or an interim order. `[search-lead]`
+      - The Court's own docket was not searched, because the petitions' HCJ numbers have not been found.
+    - **The 26th Knesset first met on 10 November.** The open data mark it as the current Knesset from that day. `[attested: Knesset open data, plenum session 2245487 and the table of Knesset terms]`
+    - **So, by its text, the amendment took effect on 10 November.** No source read says that it is now treated as in force, or that the committee in its new form has been made up or has met. `[conjectural]`
+    - **The Incapacity amendment applies from the same day.** Under the Court's January 2024 ruling, it applies from the start of the 26th Knesset. `[run: attested, Lexis, Jerusalem Post, 4 January 2024]` That is codebook row 8, coded as deferred to the 26th Knesset. `[attested: research/frame/challenges.json]`
+    - **Repeal bills.** On the first day, Yashar submitted bills "aimed at repealing laws enacted as part of the outgoing government's judicial overhaul". `[press: JPost, live updates 914399, 10 November]` The report does not say whether they include this amendment.
+    - **The codebook is unchanged.** Row 10 stays Pending.
 - **What the contrast teaches:**
   - Because the amendment starts only with the next Knesset, it does not show one of the Court's signs of abuse, an amendment taking effect at once for the government that passed it, which the project codes as "immediate effect".
   - That delayed start now hands the new committee to whichever coalition and opposition the 2026 Knesset produces, which may not be the coalition that wrote it. `[conjectural]`
@@ -145,3 +155,17 @@ From Keinon's analysis, recorded now so it can be checked:
   - **Supported if** a speaker from outside the outgoing coalition is elected by 30 November 2026.
   - **Not supported if** Ohana, or another coalition member, holds the chair on that date.
   - Whether the Arab parties' votes were needed is recorded with the result.
+- **Progress on E1, 10 November 2026.** There is no verdict yet: E1 resolves by 30 November. Sources are as listed in the Harel evaluation's addendum of 10 November.
+  - **Ohana holds the chair.** The open data list him as speaker of the 26th Knesset from 10 November. That entry was last updated on 4 November, before the session, so it records continuity in office, not an election. `[attested: Knesset open data, office-holders table]`
+  - **The candidate.** The opposition bloc named Yashar's Matan Kahana. `[press: JPost, 10 November, article 914409]`
+  - **The request.** On 10 November, Yashar submitted a request signed by more than 61 MKs for a vote to replace Ohana. `[press: JPost, 10 November, article 914426]`
+  - **The date.** Ohana set the plenum vote for Tuesday of the following week, "despite his strong opposition to the intentions of the emerging coalition". `[press: JPost, 10 November, article 914426]` That Tuesday is 17 November. `[conjectural: this note's reading of "next week on Tuesday"]`
+  - **The haredi (ultra-Orthodox) parties.**
+    - United Torah Judaism said the speaker should be replaced only when a new government is formed. `[press: JPost, 9 November, article 914332]`
+    - Shas said it continues to support Netanyahu's efforts to form the government. `[press: JPost, live updates 914399, 10 November]`
+  - **The Arab parties.**
+    - The Joint List said it would request an urgent session to replace Ohana. `[press: JPost, 5 November, article 913918]`
+    - Ohana's post of 5 November on the timing of the vote was addressed to six party leaders, among them Yousef Jabareen (Joint List) and Mansour Abbas (Ra'am). `[attested: the post, quoted in Hebrew in the same report]`
+    - The sources read do not say who signed the request of 10 November.
+    - On Keinon's figures (the opposition bloc's 48 seats and the Arab parties' 19), a request with more than 61 signatures cannot come from the bloc alone. It must carry signatures from outside it, from the Arab parties or elsewhere. `[conjectural, on Keinon's figures]`
+  - **The vote.** Its result, and whether the Arab parties' votes were needed, will be recorded after 17 November.

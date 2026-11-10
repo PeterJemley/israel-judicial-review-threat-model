@@ -171,3 +171,50 @@ These are the project's tests of possibilities the article raises. The article h
   - what survives is the structural reading: a standing weakness in oversight that did not become an act.
 - If P1 or P2 is supported, the article's intent claim (H1) gains its first evidence from acts rather than indirect signs.
 - If P4 is supported, the one remaining check by another state institution that the article names (H4) failed. That would be the case for which the catalogue's missing instrument would be needed.
+
+### Addendum, 10 November 2026: P1 recorded, and how P2 to P5 stand
+
+*Written on the evening of 10 November 2026, at the scheduled check-in. The predictions above are not edited.*
+
+**Sources read for this addendum.** Each was downloaded and read in full.
+- The Knesset's open-data service, read on 10 November 2026: its tables of Knesset terms, plenum sessions and their agenda items, and office-holders. Tagged `[attested: Knesset open data]`.
+- Five Jerusalem Post pages:
+  - Anna Barsky and Keshet Neev, 5 November (article 913918);
+  - Shir Perets and Keshet Neev, 9 November (article 914332);
+  - Nachum Perry and Jerusalem Post Staff, 10 November (article 914409);
+  - Keshet Neev and James Genn, 10 November (article 914426);
+  - the paper's live updates of 10 November (914399).
+
+  Tagged `[press: JPost, date]`, or `[press, anonymous: JPost, date]` for what a report attributes to unnamed sources.
+- Web-search summaries not read as articles are tagged `[search-lead]`.
+- **Gaps.** Ynetnews (ynetnews.com) and JNS (jns.org) are blocked from this session. The Times of Israel showed a bot check, which was not passed. Their reports are search leads only.
+
+**P1, the swearing-in: refuted, on the sources read.**
+- The 26th Knesset held its opening session on Tuesday 10 November 2026. The session is recorded as opening at 16:00 Israel time, and its one agenda item is the opening session of the 26th Knesset. `[attested: Knesset open data, plenum session 2245487]`
+- The members were sworn in at that session, which President Isaac Herzog addressed. `[press: JPost, 10 November, article 914409]`
+- None of the sources read reports a formal step to delay or prevent the swearing-in by the government, the outgoing speaker, Likud or a coalition faction. That means no petition, no request to the Central Elections Committee, no government or presidium decision, and no refusal to convene.
+- Five days earlier, the outgoing speaker, Amir Ohana of Likud, wrote that "There will be no clinging to the altar", and that people could "stop promoting conspiracy theories in the media". `[press: JPost, 5 November, article 913918, translating his post on X]` The first phrase is a Hebrew idiom for holding on at any cost. `[conjectural: this note's gloss]`
+- **Result.** P1's refuting condition is met: the 26th Knesset was sworn in on 10 November 2026, and no formal step of the kinds listed was reported. A step these sources did not report cannot be ruled out. `[conjectural]`
+- **What this shows.** As section 5 says, a refuted prediction shows that a possibility the article raised did not happen ("could be an attempt to thwart the swearing-in"). It does not show that the article said it would. `[conjectural]`
+- **Disruptions at the ceremony.** These are recorded here, but none is a formal step under P1:
+  - Itamar Ben-Gvir interrupted the oath of the Joint List's leader, Yousef Jabareen, accusing him of "pledging allegiance to Hamas".
+  - Gilad Kariv of the Democrats left the plenum, accusing Ohana of a politicized speech.
+
+  `[press: JPost, 10 November, article 914409]`
+
+**The election of a new speaker, recorded separately as P1 requires.**
+- **Ohana's rule, before the session.** He said the customary time to elect a speaker is when a government is formed. The exception is a letter signed by a majority of MKs, at least 61, asking for an earlier vote. `[press: JPost, 5 November, article 913918]` If a majority asked, he would set the debate "for an early date, and no later than a week". `[attested: his post of 5 November, quoted in Hebrew in the same report; the English is this note's unofficial rendering]`
+- **The request.** On 10 November, Yashar submitted a request signed by more than 61 MKs to replace Ohana. It nominated Yashar's Matan Kahana. `[press: JPost, 10 November, article 914426 and live updates 914399]`
+- **The date.** Ohana set the plenum vote for Tuesday of the following week, "despite his strong opposition to the intentions of the emerging coalition". `[press: JPost, 10 November, article 914426]` That Tuesday is 17 November. `[conjectural: this note's reading of "next week on Tuesday"]`
+- **Not a delay under P1.** The vote falls within the week Ohana had promised. It is not a refusal to convene, so it is not a formal step to delay under P1's definition. `[conjectural]`
+- **An alleged plan, before the session.** Unnamed sources in the opposition bloc claimed that Likud planned to disrupt the vote, including by physically keeping MKs out of the plenum. The report says the claim was not confirmed. `[press, anonymous: JPost, 5 November, article 913918]` Under this note's rule for unnamed sources, it is a lead.
+- **Next.** The result of the vote will be recorded under expectation E1 in the companion note ([2026-11-05-us-israel-juxtaposition.md](2026-11-05-us-israel-juxtaposition.md)).
+
+**P2 to P5 so far.**
+- **P2, the certification (resolves 30 November): open.** None of the sources read reports a formal request to annul, reopen or suspend the certified results.
+  - On Sunday 8 November, President Herzog gave Gadi Eisenkot the mandate to form a government. `[press: JPost, 10 November, article 914426]`
+  - That step came after the committee published its results. It does not bear on whether a formal request will be made by 30 November. `[conjectural]`
+- **P3, the investigation (resolves 31 December): open.** None of the sources read reports on the joint investigation.
+- **P4, the constraint (resolves 31 December): open.** None of the sources read reports the attorney general dismissed, suspended or overridden, or the Shin Bet acting against her instructions.
+- **P5, the conditional prediction: not yet tested.** No government has been formed. By law, Eisenkot has 28 days from 8 November, and the president may extend that by up to 14 days. `[press: JPost, 10 November, article 914426]`
+- **Against the first case under "What each outcome would teach".** That case needs four results. One now holds, since P1 is refuted; the other three are open. `[conjectural]`

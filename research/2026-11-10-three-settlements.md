@@ -10,9 +10,9 @@
 - **Britain: a recorded debate.** The Inner Temple, "The Social Context of the Law: Britain's Unwritten Constitution", YouTube, recorded 4 November 2019 and published 12 November 2019, 1 hour 4 minutes (https://www.youtube.com/watch?v=YIlkY90Cck8).
   - The speakers are Lord Sumption, a retired Justice of the UK Supreme Court, and Professor Vernon Bogdanor, a historian of the British constitution. Professor Dawn Oliver chaired.
   - It was read from a clean-verbatim edit of the video's automatic transcript, supplied by the project's author on 9 November 2026 and not stored in this repository.
-  - **The speakers are paraphrased here, not quoted.** Their words will be quoted only once checked against the video.
+  - **Most points are paraphrased, not quoted.** Four passages were checked against the video by the project's author on 10 November 2026 and found accurate; only those are quoted. Other words will be quoted only once checked the same way.
   - Each point cites the video's chapter, by its start time: 3:50 (Bogdanor's opening), 12:04 (Sumption's opening), 24:36 (the discussion) and 40:02 (questions and closing).
-  - Tag: `[video: Inner Temple, chapter m:ss; paraphrased]`.
+  - Tags: `[video: Inner Temple, chapter m:ss; paraphrased]`, or `[video: Inner Temple, chapter m:ss; words checked against the video by the author, 10 November 2026]` for a quoted passage. The exact second of each passage was not recorded.
 - **The United States: Bickel.** Alexander M. Bickel, *The Least Dangerous Branch* (2d ed., Yale University Press, 1986), as given in the project author's own summary ([bickel-2026-11-10/](bickel-2026-11-10/README.md)). He checked its quotations against the 2nd edition; the summary records that the second round, on 10 November 2026, was read on the page images. `[author's statement, 10 November 2026; summary, "About this summary"]` This project has not read the book.
   - Tag: `[summary: Bickel, p. n]`, with the book's page.
   - The summary's section comparing Bickel with Israeli cases is not from the book; it is tagged `[summary: Bridges]`.
@@ -27,7 +27,7 @@
 ### How hard is it to change the constitutional rules?
 
 - **Britain: by ordinary statute.**
-  - Sumption says any constitutional rule can be made, changed or repealed by an ordinary Act of Parliament. His examples are devolution and the rules for dissolving Parliament. `[video: Inner Temple, chapter 12:04; paraphrased]`
+  - Sumption: "Any constitutional rule can be created, amended or abrogated in this country by ordinary parliamentary legislation, as has happened, for example, with devolution, or with changes to the rules for dissolving Parliament." `[video: Inner Temple, chapter 12:04; words checked against the video by the author, 10 November 2026]`
   - Sumption calls the Fixed-term Parliaments Act 2011 Britain's one attempt to entrench a constitutional provision. A one-line Act, passed by a simple majority, got round it. `[video: Inner Temple, chapter 12:04; paraphrased]`
   - Bogdanor draws the opposite lesson from the same Act: fundamental change was brought in quickly, without proper scrutiny, by a makeshift majority. `[video: Inner Temple, chapter 24:36; paraphrased]`
 - **The United States: by supermajorities.**
@@ -40,11 +40,11 @@
 ### Who guards against abuse by a majority?
 
 - **Sumption: politics.**
-  - The political process, by making room for divisions of interest and opinion, is in his view far more effective than the law at avoiding majority tyranny. `[video: Inner Temple, chapter 12:04; paraphrased]`
+  - "The political process is essentially a mechanism for accommodating divisions of interest and opinion in our society, so that we can live together. It is by far the most effective way, in my view — much more effective than the law — of avoiding so-called majoritarian tyranny." `[video: Inner Temple, chapter 12:04; words checked against the video by the author, 10 November 2026]`
   - Weighing a right against a public interest, such as privacy against the work of the intelligence services, is a choice between incommensurable aims. In his view such choices belong to politics, not to judges. `[video: Inner Temple, chapter 40:02; paraphrased]`
 - **Bogdanor: judges, once consensus fails.**
   - The consensus and conventions that Sumption's view relies on have broken down. `[video: Inner Temple, chapters 3:50 and 24:36; paraphrased]`
-  - Judges are needed for the rights of small and unpopular minorities, such as asylum seekers, prisoners and suspected terrorists, especially in periods of moral panic. `[video: Inner Temple, chapters 24:36 and 40:02; paraphrased]`
+  - "I do want judges to decide matters of human rights, particularly when we are dealing with small and unpopular minorities." `[video: Inner Temple, chapter 24:36; words checked against the video by the author, 10 November 2026]` Later he named them: "asylum seekers, prisoners and suspected terrorists, whose rights are not defended, particularly in periods of moral panic, and we can't rely on politicians to defend them." `[video: Inner Temple, chapter 40:02; words checked against the video by the author, 10 November 2026]`
 - **Bickel: courts, with restraint.**
   - He quotes Thayer's warning that judicial review tends to "dwarf the political capacity of the people, and to deaden its sense of moral responsibility" (pp. 21–22). That is Sumption's worry, in an American voice. `[summary: Bickel, pp. 21–22]` `[conjectural]` for the link.
   - He quotes Learned Hand: "a society so riven that the spirit of moderation is gone, no court *can* save" (p. 23). `[summary: Bickel, p. 23]`
@@ -112,7 +112,7 @@ None of these is applied, and none is tested. Each says which part of the projec
    - Bickel's version: "To the extent that they are instruments of decisive change, Justices are time bombs, not warheads that explode on impact" (p. 31). He notes exceptions where appointments changed doctrine quickly, Grant's two in 1870 and Justice Black's in 1937 (pp. 31–32). `[summary: Bickel, pp. 31–32]`
    - The 2025 Judicial Selection amendment removes the Bar Association's two members from the committee that selects judges, and adds lawyers nominated by the coalition and by the opposition. `[attested: research/frame/challenges.json]` By its text it took effect when the 26th Knesset first met, on 10 November 2026. No ruling or interim order was found in the press reports and searches read for the project's check-in that day; the Court's docket was not searched. `[press and search-lead, as recorded in research/2026-11-05-us-israel-juxtaposition.md, row 5]`
 9. **The liberal elite, from inside.**
-   - Bogdanor closed by saying the problems had arisen because the liberal elite, himself included, are bad losers. He said this of the 2016 referendum. `[video: Inner Temple, chapter 40:02; paraphrased]`
+   - Bogdanor closed by saying the problems had arisen "because we in the liberal elite are such bad losers". He said this of the 2016 referendum. `[video: Inner Temple, chapter 40:02; words checked against the video by the author, 10 November 2026]`
    - The note's Claim C ("not elite interest") has two halves. At p. 685, Medina says the plan's threats are not to "private interests or ideologies of the liberal elite". At p. 684, he defends the Court's doctrine against the critique that it preserves the hegemony of a liberal elite. `[attested: the note, "The question"]`
    - Bogdanor's remark is a member of a liberal elite describing it from inside, about a vote it lost. It is recorded, not tested. `[conjectural]`
 10. **Temporary provisions.**
@@ -123,6 +123,6 @@ None of these is applied, and none is tested. Each says which part of the projec
 ## 4. What this note does not do
 
 - It changes no coded cell, number or verdict, and nothing in the main note.
-- It does not quote Sumption, Bogdanor or Oliver. Their words will be quoted only once checked against the video.
+- It quotes Sumption and Bogdanor only in the four passages the author checked against the video. Everything else they said is paraphrased, and Oliver is not quoted.
 - It does not use Bickel as evidence about Israel. His book supplies questions and distinctions, and the Israeli facts come from the project's own records.
 - It tests nothing. Points 1 and 2 are open as issues 40 and 41. The others are candidates.

@@ -229,16 +229,16 @@ Alt text: A list of 38 claims and results with their status: 14 established, 2 r
 
 </details>
 
-## Errors list: 88 mistakes found so far in the project's own work, what caught each, and where each stands
+## Errors list: 89 mistakes found so far in the project's own work, what caught each, and where each stands
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="fig7-errors-dark.svg">
-  <img src="fig7-errors-light.svg" alt="A list of 88 errors: 84 in the research, 2 in reviews and 2 in process. 85 are corrected, 3 recorded and not undone, and 0 open.">
+  <img src="fig7-errors-light.svg" alt="A list of 89 errors: 85 in the research, 2 in reviews and 2 in process. 86 are corrected, 3 recorded and not undone, and 0 open.">
 </picture>
 
 The mistakes found so far in the project's own work, with what caught each and where each stands.
 
-Alt text: A list of 88 errors: 84 in the research, 2 in reviews and 2 in process. 85 are corrected, 3 recorded and not undone, and 0 open.
+Alt text: A list of 89 errors: 85 in the research, 2 in reviews and 2 in process. 86 are corrected, 3 recorded and not undone, and 0 open.
 
 <details><summary>Table view</summary>
 
@@ -332,6 +332,7 @@ Alt text: A list of 88 errors: 84 in the research, 2 in reviews and 2 in process
 | 86 | 2026-11-05 | wrong statement | The Harel evaluation said each of P1 to P5 follows from the article's hypotheses; P3 sets Zini's line against the attorney general's and P5 records the opposition's call, neither derived from H1 to H5. | An outside reader's review of 5 November 2026 | Change log (bg). | Corrected |
 | 87 | 2026-11-09 | overstated claim | The note said Medina "reports the Court stating" four signs together and twice relied on "the Court's statement of the signs as a set (p. 699)"; Medina reports guidelines the Court established, gives the four-sign sentence as their specific form, and cites no judgment for it. | The author's check of pp. 698–699 | Change log (bj). | Corrected |
 | 88 | 2026-11-10 | wrong statement | The legal-database note said codebook row 8 (Incapacity) is "coded Deferred to the 26th Knesset"; row 8's outcome is coded Adverse, and the deferral is the Court's order as recorded in the frame, not a code. | An outside reader's review of the 10 November check-in | research/legal-db-2026-11-05/README.md, Q2, corrected on 10 November 2026. | Corrected |
+| 89 | 2026-11-10 | overstated claim | The legal-database note described the codebook as laws titled Basic Law challenged before the High Court, "each coded blind"; rows 2 and 3 are ordinary statutes, row 1 was a civil appeal, and blindness is not claimed for the coding (change log (ab)). | An outside reader's review of the three-settlements note | research/legal-db-2026-11-05/README.md, corrected on 10 November 2026. | Corrected |
 
 </details>
 

@@ -25,7 +25,8 @@ Medina warns that Israel's democracy, and Israel itself, are at risk. The note's
   - an evaluation of Amos Harel's Haaretz analysis of 4 November 2026, with predictions recorded before they resolve ([2026-11-05-harel-evaluation.md](research/2026-11-05-harel-evaluation.md)), and a companion setting the checks in the United States and Israel side by side after their elections of autumn 2026 ([2026-11-05-us-israel-juxtaposition.md](research/2026-11-05-us-israel-juxtaposition.md));
   - the author's Westlaw, Lexis and Bloomberg Law run of 5 November 2026 on ten open questions, with what each finding changes ([legal-db-2026-11-05/](research/legal-db-2026-11-05/README.md)); it changes no coded cell or verdict;
   - a reading of the Reasonableness and Incapacity judgments for where the Court states its signs of abuse ([2026-11-05-court-signs.md](research/2026-11-05-court-signs.md)): neither states the four signs as a set, and the lead opinion in the Incapacity case speaks of a presumption of constitutionality, not of abuse;
-  - the published exchange on Medina's article, Rosen-Zvi and Yarom's reply and Medina's rejoinder, objection by objection ([2026-11-09-reply-and-rejoinder.md](research/2026-11-09-reply-and-rejoinder.md)).
+  - the published exchange on Medina's article, Rosen-Zvi and Yarom's reply and Medina's rejoinder, objection by objection ([2026-11-09-reply-and-rejoinder.md](research/2026-11-09-reply-and-rejoinder.md));
+  - a comparison of three constitutional settlements, Britain's, the United States' and Israel's, listing candidate points for the project and applying none ([2026-11-10-three-settlements.md](research/2026-11-10-three-settlements.md)). It draws on a 2019 Inner Temple debate between Lord Sumption and Vernon Bogdanor, and on the author's summary of Alexander Bickel's *The Least Dangerous Branch* ([bickel-2026-11-10/](research/bickel-2026-11-10/README.md)).
 
 ## How to use this repository to stay informed
 

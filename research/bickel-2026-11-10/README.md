@@ -8,8 +8,8 @@
 
 ## Provenance
 
-- **Who wrote it.** Peter Jemley, the project's author, from his PDF of the 2nd edition. `[author's statement, 10 November 2026]`
-- **How its quotations were checked.** The author checked them against the printed pages of the 2nd edition, in two rounds, on 9 and 10 November 2026. `[author's statement, 10 November 2026]` The summary's own "About this summary" records 34 corrections in the first round and 30 in the second, the second made on the page images. `[attested: summary.md]`
+- **Who wrote it.** Peter Jemley, the project's author, from the 2nd edition. `[author's statement, 10 November 2026]`
+- **How its quotations were checked.** The author checked them against the 2nd edition. `[author's statement, 10 November 2026]` The summary's own "About this summary" records two rounds: 34 corrections on 9 November 2026, and 30 on 10 November, when every quotation was read on the printed page image. `[attested: summary.md]`
 - **What this project has and has not read.** It has read the summary, not the book.
 
 ## How the project uses it
@@ -22,7 +22,7 @@
 
 ## The Israeli material in the Bridges, set against the project's records
 
-Checked on 10 November 2026. The "codebook" is the project's table of laws titled Basic Law that were challenged before the High Court, one numbered row per law ([codebook/m4-codebook.csv](../../codebook/m4-codebook.csv)). The "docket" is the project's record of each ruling ([coding-2026-10-22/docket.json](../coding-2026-10-22/docket.json)).
+Checked on 10 November 2026. The "codebook" is the project's table of enactments the Supreme Court has ruled on, one numbered row per law ([codebook/m4-codebook.csv](../../codebook/m4-codebook.csv)). Most rows are Basic Laws or amendments to them; rows 2 and 3 are ordinary statutes of 1969, and row 1 was decided on a civil appeal. The "docket" is the project's record of each ruling ([coding-2026-10-22/docket.json](../coding-2026-10-22/docket.json)).
 
 **Consistent with the project's records**
 - **Mizrahi Bank:** decided 9 November 1995. `[attested: codebook row 1]`
@@ -36,11 +36,11 @@ Checked on 10 November 2026. The "codebook" is the project's table of laws title
 
 **Points that need care**
 - **HCJ 3872/93.** The summary could not confirm this number for the 1993 Meatrael (Mitral) decision.
-  - The project's list of challenged laws records it as *Mitral Ltd. v. Prime Minister*, 22 October 1993, on the authority of Hebrew Wikipedia. `[attested: research/frame/challenges.json]`
+  - The project records it as HCJ 3872/93 *Mitral Ltd. v. Prime Minister*, 22 October 1993, among the cases excluded from its list of challenges because no Basic Law was challenged. `[attested: research/frame/challenges.json, excluded candidates]` Its docket entry for row 4 cites Hebrew Wikipedia for the case. `[attested: docket row 4]`
   - Neither the summary nor the project has the judgment, so the number stays unconfirmed in both.
 - **Two Ressler cases.** They should not be confused:
   - Bridge 3's *Ressler v. Minister of Defence* (HCJ 910/86, 1988) is the standing and justiciability case.
-  - Codebook row 3 rests on a different case, HCJ 60/77 *Ressler* (1977), on the 1969 law confirming the validity of election laws. `[attested: docket row 3]`
+  - Codebook row 3, on the 1969 law confirming the validity of election laws, rests on different cases: HCJ 60/77 *Ressler* (1977) and HCJ 246/81 (1981). The text of HCJ 60/77 was not read. `[attested: docket row 3]`
 - **Upholding or ruling against.** Bridges 4 and 9 describe *Hasson* and the 1994 override (HCJ 4676/94) as the Court upholding the laws. The project codes both rows Adverse, under its rule that a law upheld but read narrowly counts as Adverse. `[attested: docket rows 4 and 7]`
   - Both descriptions can be true; they count different things.
   - Issue 12 asks whether *Hasson* was a true narrowing.

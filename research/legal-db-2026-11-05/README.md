@@ -45,6 +45,11 @@
 - **Effect on row 10:** none. The row's docket entry, which records the case as Pending with no ruling found to 13 October, now holds to 5 November in the English press. `[attested: change log (bb)]`
 - **Time-sensitive:** unless the Court rules or issues an interim order first, the amendment takes effect on 10 November. `[run: conjectural]` The check-in of 11 November will record what happened.
 - **A second amendment starts the same day.** Under the Court's January 2024 ruling, the Incapacity amendment also applies from the start of the 26th Knesset. `[run: attested, Lexis, Jerusalem Post, 4 January 2024]` That matches codebook row 8, coded Deferred to the 26th Knesset. `[attested: research/frame/challenges.json]` So both deferred amendments come into force on the same day. `[conjectural]`
+- **Recorded on 10 November 2026.** The check-in was held on 10 November, a day earlier than the bullet above says. Its full record is under row 5 of [the comparison note](../2026-11-05-us-israel-juxtaposition.md).
+  - **No ruling and no interim order were found before the 26th Knesset first met, on 10 November.** The Jerusalem Post reports of 5 to 10 November read for the check-in do not mention the petitions, and web searches found nothing. `[press: Jerusalem Post, read for the check-in; search-lead]`
+  - **So, by its text, the amendment took effect on 10 November.** No source read says that it is treated as in force, or that the committee in its new form has been made up. `[conjectural]`
+  - **The Incapacity amendment applies from the same day** (row 8).
+  - **Row 10 stays Pending, and no codebook cell changes.** Its docket entry now holds to 10 November in the reports read.
 - **Where the press disagrees:** reports give six or nine consolidated petitions, and five or six members as the new committee's threshold. The project relies on neither figure.
 
 **Q3. Hasson, HCJ 5555/18, the Nation-State law (issue 12, codebook row 7)**

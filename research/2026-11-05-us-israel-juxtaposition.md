@@ -169,3 +169,28 @@ From Keinon's analysis, recorded now so it can be checked:
     - The report of 10 November calls the request "the letter signed by the MKs in the oppostion bloc" [sic]. It does not list the signatories. `[press: JPost, 10 November, article 914426]`
     - The bloc won 48 seats. `[analysis: Keinon]` `[press: JPost, 9 November, article 914332]` With the Arab parties' 19 (Keinon), a request with more than 61 signatures cannot come from those 48 alone. Either the paper's "opposition bloc" includes MKs outside the 48, or the signatures came from outside the bloc, from the Arab parties or elsewhere. `[conjectural]`
   - **The vote.** Its result, and whether the Arab parties' votes were needed, will be recorded after 17 November.
+- **Progress on E1, 17 November 2026.** There is no verdict yet: E1 resolves by 30 November. This entry was written at a check-in held at about 22:00 Israel time on 17 November.
+  - **Sources read for this entry.** Each was downloaded and read in full:
+    - the Knesset's open-data service, read at about 22:00 Israel time: its tables of plenum sessions, their agenda items, votes and office-holders, tagged `[attested: Knesset open data]`;
+    - the Jerusalem Post report by Keshet Neev of 17 November (article 915171), tagged `[press: JPost, 17 November]`.
+
+    Ynetnews and JNS were blocked from the network used on 10 November, and the Times of Israel showed a bot check; none of them was used.
+  - **The vote was on the agenda but had not been held when this was written.**
+    - The 26th Knesset's fourth plenum session opened at 16:00 Israel time on 17 November. Its second agenda item is "Election of the Speaker of the 26th Knesset" (this note's unofficial rendering of the Hebrew). `[attested: Knesset open data, plenum session 2246405 and its agenda items]`
+    - When the record was read, the session had no closing time and no vote was recorded for it. Ohana was still listed as speaker. `[attested: Knesset open data]`
+    - The Jerusalem Post reported that the plenum had convened for a debate ahead of the vote. It added that the vote could be "pushed into the night" if a minister of the caretaker government gave a long speech and refused to leave the podium, and that the bloc led by Gadi Eisenkot's Yashar party was working to prevent such a filibuster. `[press: JPost, 17 November, article 915171, citing an N12 report for the filibuster]`
+    - None of the sources read reports the result. It will be recorded at a follow-up check-in.
+  - **The candidates.**
+    - The bloc's candidate is Yashar's Matan Kahana. `[press: JPost, 17 November, article 915171]`
+    - Likud put forward Ofir Katz as a rival candidate, backed by Shas. Likud officials said United Torah Judaism would also support him. `[press: JPost, 17 November, article 915171]`
+    - The report says a separate vote is held on each candidate, and the one receiving the majority of votes is elected. `[press: JPost, 17 November, article 915171]`
+  - **The Arab parties.**
+    - The Joint List announced that it would support Kahana. Its MK Yousef Jabareen said the faction would continue to "serve as a safety net" for the Eisenkot-led bloc. `[press: JPost, 17 November, article 915171]`
+    - The report counts the bloc at 67 MKs including the Arab parties, against 53 for Netanyahu's bloc with the haredi (ultra-Orthodox) parties. It says that, "With the expected support of the Arab parties", the bloc has the majority it needs. `[press: JPost, 17 November, article 915171]`
+    - Without the Arab parties' 19 MKs, the bloc's 48 fall short of 61. If Kahana wins only with their votes, the answer to E1's question whether those votes were needed will be yes. This depends on the tally. `[conjectural]`
+    - The same report counts the 67 as "the bloc". That suggests its earlier "letter signed by the MKs in the oppostion bloc" [sic] (10 November) may have counted Arab-party MKs as part of the bloc. The signatories are still not listed. `[conjectural]`
+  - **A conditional offer, refused.** On Monday, 16 November, the finance minister, Bezalel Smotrich, offered his party's support for Kahana on two conditions:
+    - that Kahana refuse to appoint deputy speakers from Ra'am or the Joint List;
+    - that his term depend on the formation of a government, with his resignation if the incoming government asked for it.
+
+    Kahana rejected the offer, calling it an "anti-statesmanlike demand". `[press: JPost, 17 November, article 915171]` The date is this note's reading of the report's "On Monday". `[conjectural]`

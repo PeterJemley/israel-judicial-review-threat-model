@@ -194,3 +194,29 @@ From Keinon's analysis, recorded now so it can be checked:
     - that his term depend on the formation of a government, with his resignation if the incoming government asked for it.
 
     Kahana rejected the offer, calling it an "anti-statesmanlike demand". `[press: JPost, 17 November, article 915171]` The date is this note's reading of the report's "On Monday". `[conjectural]`
+- **E1 result, recorded on 18 November 2026: supported.**
+  - **The test.** E1 is "Supported if a speaker from outside the outgoing coalition is elected by 30 November 2026" (above).
+  - **The result.** Matan Kahana of Yashar was elected speaker of the 26th Knesset on 17 November 2026, before the deadline. Yashar is Gadi Eisenkot's party, in the bloc opposed to the outgoing coalition, so the supported condition is met.
+  - **Sources read for this entry.**
+    - The Knesset's open-data service, read at about 09:00 Israel time on 18 November. The queries covered office-holders in the speaker's position (122 and 123) for the 26th Knesset, the person and faction records for the new speaker, and plenum sessions and votes from 17 November. Tagged `[attested: Knesset open data]`.
+    - The Jerusalem Post report by Keshet Neev, article 915171, as updated after the vote under the headline "Knesset elects Yashar's Kahana as new speaker, ousting Ohana despite Likud challenge". Downloaded and read in full. Tagged `[press: JPost, 17 November, updated]`.
+    - Ynetnews, JNS and the Times of Israel were not tried, for the reasons given in the 17 November entry.
+  - **The Knesset's record.**
+    - Ohana's term as speaker is recorded as ending on 17 November.
+    - Person 30662, Matan Kahana, a member of the Yashar faction, holds the speaker's position from 17 November.
+    - Both entries were made at about 23:20 Israel time on 17 November.
+
+    `[attested: Knesset open data, office-holders and persons]`
+  - **No vote in the record yet.** When read, the votes table had no entry for the session, and the session record had no closing time. `[attested: Knesset open data, plenum session 2246405]`
+  - **The tally.** Kahana "secured a majority of 66 votes over Likud candidate MK Ofir Katz, who received 52 votes in support". A separate vote was held for each candidate. `[press: JPost, 17 November, updated, article 915171]`
+  - **Who voted for whom.**
+    - Netanyahu came to the Knesset to vote for Katz, and MKs from Shas and United Torah Judaism also voted for him.
+    - From the Eisenkot-led bloc, only Ra'am's MK Yasir Hujeirat did not vote for Kahana.
+
+    `[press: JPost, 17 November, updated, article 915171]`
+  - **Delay.** The debate "continued into the late evening due to filibusters". It was shortened slightly by a deal between the two blocs. Under the deal, legislation to repeal laws passed by the outgoing coalition would advance on Monday rather than Wednesday. `[press: JPost, 17 November, updated, article 915171]`
+  - **Were the Arab parties' votes needed? Yes, on the report's figures.**
+    - The report counts the bloc's potential backing at 67 including the Arab parties' 19, and says only Hujeirat of the bloc did not vote for Kahana. `[press: JPost, 17 November, updated, article 915171]`
+    - Kahana's 66 votes therefore include 18 from Ra'am and the Joint List. The bloc's other 48 would have been fewer than Katz's 52. `[conjectural: arithmetic on the report's figures; the roll call was not read]`
+  - **Compliance with rulings.** After his election, Kahana said that for as long as he serves as speaker, the Knesset will comply unequivocally with court rulings. These are the report's words, not his. `[press: JPost, 17 November, updated, article 915171]` This bears on issue 41, which proposes separating rejection of a ruling's principle from defiance of its order. `[conjectural]`
+  - **What it means for the comparison.** The section "What the juxtaposition means for the project", above, anticipated this case. It said that if the 26th Knesset elected a speaker against the outgoing government, the coalition's capability and the system's weak points would come apart for the model conjecture. The case has now arisen. Nothing is applied to the main note, and whether the case bears on that conjecture is for the note to decide. `[conjectural]`

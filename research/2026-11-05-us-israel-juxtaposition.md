@@ -109,6 +109,13 @@ A third model, the United Kingdom (row 8 below): the returning officer's certifi
     - **The Incapacity amendment applies from the same day.** Under the Court's January 2024 ruling, it applies from the start of the 26th Knesset. `[run: attested, Lexis, Jerusalem Post, 4 January 2024; research/frame/challenges.json]` It is codebook row 8, whose outcome is coded Adverse because the Court deferred it. `[attested: codebook/m4-codebook.csv, row 8]` That it now applies follows from the date. `[conjectural]`
     - **Repeal bills.** On the first day, Yashar submitted bills "aimed at repealing laws enacted as part of the outgoing government's judicial overhaul". `[press: JPost, live updates 914399, 10 November]` Yashar is Gadi Eisenkot's party, in the opposition bloc. The fuller report names repeal bills on the broadcasting law and on the attorney general's powers. Neither report names this amendment. `[press: JPost, 10 November, article 914426]`
     - **The codebook is unchanged.** Row 10 stays Pending.
+  - *Recorded on 19 November 2026:*
+    - **Bills to undo the amendment have been tabled.** The Knesset's open data list 154 private bills among the items of the 17 November plenum session, each "laid on the Knesset's table for a preliminary reading" (this note's rendering of the Hebrew status). `[attested: Knesset open data, plenum session 2246405, its agenda items and status 104]`
+      - Nine are titled as repeals of Basic Law: The Judiciary (Amendment No. 4), the 2025 Judicial Selection amendment.
+      - Three would change the composition of the committee that selects judges.
+    - **No reading yet.** Tabling is the step before a bill's preliminary reading; none of these bills had been voted on. `[attested: Knesset open data, plenum votes from 17 November]`
+    - **Timing.** Under a deal made during the speaker debate of 17 November, legislation to repeal laws of the outgoing coalition was to advance on Monday rather than Wednesday. `[press: JPost, 17 November, article 915171]` The report does not name these bills.
+    - **The codebook is unchanged.** Row 10 stays Pending.
 - **What the contrast teaches:**
   - Because the amendment starts only with the next Knesset, it does not show one of the Court's signs of abuse, an amendment taking effect at once for the government that passed it, which the project codes as "immediate effect".
   - That delayed start now hands the new committee to whichever coalition and opposition the 2026 Knesset produces, which may not be the coalition that wrote it. `[conjectural]`
@@ -233,3 +240,12 @@ From Keinon's analysis, recorded now so it can be checked:
     - Other MKs' votes might have differed had the Arab parties not taken part: Smotrich had offered his party's support on conditions, and Kahana had refused it (17 November entry). `[conjectural]`
   - **Compliance with rulings.** The report says Kahana also said that for as long as he serves as speaker, the Knesset will comply unequivocally with court rulings. These are the report's words, not his. `[press: JPost, 17 November, article 915171]` This bears on issue 41, which proposes separating rejection of a ruling's principle from defiance of its order. `[conjectural]`
   - **What it means for the comparison.** The section "What the juxtaposition means for the project", above, anticipated this case: if the 26th Knesset elected a speaker against the outgoing government, the coalition's capability and the system's weak points would come apart. That bears on the model conjecture, the project's claim that the two are one fact. The case has now arisen. Nothing is applied to the main note, and whether it bears on that conjecture is for the note to decide. `[conjectural]`
+- **The roll call, recorded on 19 November 2026.** The Knesset's open data now hold a named roll call for each candidate. They replace the arithmetic above with the record. `[attested: Knesset open data, plenum votes 46730 and 46731 and their member-by-member results, read on 19 November]`
+  - **How the votes worked.** One vote was on "the proposal to elect MK Matan Kahana" and one on "the candidacy of MK Ofir Katz" (this note's renderings of the Hebrew). In each, a member is recorded either as voting for or as present.
+  - **Kahana: 66 for.** By faction:
+    - Yashar 21, B'Yachad (Naftali Bennett's party) 12, the Democrats 8 and Yisrael Beytenu 7, making 48;
+    - the Joint List 11 and Ra'am 7, making 18.
+  - **Katz: 52 for.** By faction: Likud 26, Otzma Yehudit 7, United Torah Judaism 7, Shas 6, and Religious Zionism with Zehut 6.
+  - **Method.** The faction of each member is taken from the Knesset's record of faction membership for the 26th Knesset. The faction names here are this note's short English forms. `[attested: Knesset open data, office-holders]`
+  - **Were the Arab parties' votes needed?** Yes, on the votes as cast. Without the 18 votes from the Joint List and Ra'am, Kahana's other 48 were fewer than Katz's 52. `[attested: the roll calls]` That they were "needed" holds everyone else's vote fixed. `[conjectural]`
+  - **Who holds the chair.** Kahana is still recorded as speaker on 19 November. `[attested: Knesset open data, position 122, last updated 17 November]` E1's not-supported condition looks at 30 November.

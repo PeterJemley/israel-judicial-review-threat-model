@@ -1,7 +1,7 @@
 # Issue 34: results (9 November 2026; exploratory)
 
 **What was run.**
-- **Fixed first.** The qualifying rule, the definition of an Arab party and the expectations were committed (5ab6cda) before any roll call was read. They are in [README.md](README.md).
+- **Fixed first.** The qualifying rule, the definition of an Arab party and the expectations were committed (69e697f; 5ab6cda before the history rewrite of 19 November 2026) before any roll call was read. They are in [README.md](README.md).
 - **The roll calls** come from the Knesset's open-data service: the member-by-member results of each final-reading vote, and each member's faction on that date. They are extracted to [roll-calls.json](roll-calls.json).
 - **The results** come from `python3 analysis/variant_issue34.py`.
 

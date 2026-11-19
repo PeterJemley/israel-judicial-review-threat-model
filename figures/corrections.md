@@ -26,7 +26,7 @@ Three of the findings trace to the repository's own prose rather than the figure
 | W5 | Figure 4's floor of six Adverse outcomes relies on two codes flagged as contestable, and its count of 11 rows dropped "provisional". | A row for K = 5 is added, labelled as reachable only if a contestable code were reversed. The note names the two codes and restores "provisional". |
 | W6 | The errors list missed at least eight errors that meet its own rule. | Nine entries added (12, 14, 15, 16, 18, 19, 21, 23 and 24), and entry 31 expanded. |
 | W7 | Errors entry 10 was marked Corrected, but matrix M2 still lacks an interpretation row. | Restated as the wrong statement in change log (p), and marked "Recorded, not undone". |
-| W8 | Errors entry 17 (now 37) cited the wrong commit, and its "what caught it" had no source. | It cites old commit 0c53bc7 and the rewritten fc6b81b, and says that what caught it is not recorded. |
+| W8 | Errors entry 17 (now 37) cited the wrong commit, and its "what caught it" had no source. | It cites old commit 0c53bc7 and the rewritten fc6b81b (837ff7a since the history rewrite of 19 November 2026), and says that what caught it is not recorded. |
 | W9 | Two README errors were filed as review errors. | Moved to research. Reviews now hold 2 entries. |
 | W10 | Errors entry 19 (now 26) was marked Corrected, but the same words survive in the codebook README. | Marked open. |
 | W11 | The figures README and the script said no number was typed by hand. Many are, in the curated files and as fixed values. | Both now say which numbers are computed, which are curated, and which fixed values are set in the script. |

@@ -1,7 +1,7 @@
 # Issue 33: results (9 November 2026; exploratory)
 
 **What was run.**
-- **The sheet.** It is in [sheet.md](sheet.md), and the expectations are in [README.md](README.md). Both were committed (3389ecd) before either coder ran.
+- **The sheet.** It is in [sheet.md](sheet.md), and the expectations are in [README.md](README.md). Both were committed (4504c5d; 3389ecd before the history rewrite of 19 November 2026) before either coder ran.
 - **The coders.** Two coders, each a separate language-model agent given only the sheet, coded the five rows. Their returns are [coder-A.json](coder-A.json) and [coder-B.json](coder-B.json), committed as filed.
 - **Agreement.** They agreed on all ten cells, so nothing went to the adjudicator. The agreed codes are in [final.json](final.json).
 - **The results** come from `python3 analysis/sensitivity_issue33.py`.

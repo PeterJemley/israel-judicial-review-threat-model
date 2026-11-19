@@ -1,6 +1,6 @@
 # Adversarial review of the note, round 1, 28 October 2026
 
-**Target.** medina-threat-conjecture-note.md as of commit e400000. The body was read in depth, and the change log only for contradictions with the body. Nothing in the note has been changed.
+**Target.** medina-threat-conjecture-note.md as of commit 65986a5 (e400000 before the history rewrite of 19 November 2026). The body was read in depth, and the change log only for contradictions with the body. Nothing in the note has been changed.
 
 **Readers.** There were two readers, each a language-model agent run fresh, and neither knew what the other was doing.
 - **What they were given:** the note, the article's text extracted from the published PDF, the project's records under research/, codebook/ and analysis/, and the note's assignment.

@@ -1,7 +1,7 @@
 # Issue 13: T1 under the alternative rule (9 November 2026; exploratory)
 
 **What was run.**
-- **Fixed first.** The alternative rule and the expectations were committed (e35820e) before the script was written. They are in [README.md](README.md).
+- **Fixed first.** The alternative rule and the expectations were committed (7c88bfd; e35820e before the history rewrite of 19 November 2026) before the script was written. They are in [README.md](README.md).
 - **The results** come from `python3 analysis/open_list_issue13.py`. Every figure matched the expectations worked out by hand.
 
 ## The primary-analysis rows

@@ -240,22 +240,28 @@ These are the project's tests of possibilities the article raises. The article h
 *Written on 19 November 2026, at the project author's request. The predictions above are not edited. P2 resolves on 30 November; P3 and P4 on 31 December.*
 
 **Sources read for this addendum.** Each was downloaded and read in full:
-- three Jerusalem Post pages:
-  - Shir Perets, 28 October (article 913133);
-  - a 103FM interview reported on 17 November (article 915181);
-  - Jerusalem Post Staff, 17 November (article 915222).
+- Shir Perets, Jerusalem Post, 28 October (article 913133);
+- a 103FM interview reported by the Jerusalem Post on 17 November (article 915181);
+- Jerusalem Post Staff, 17 November (article 915222).
 
-  Tagged `[press: JPost, date]`.
-- Web-search summaries not read as articles are tagged `[search-lead]`.
+These are tagged `[press: JPost, date]`. Web-search summaries not read as articles are tagged `[search-lead]`.
+
+**Gaps.** Every press fact here comes from one outlet. Ynetnews (ynetnews.com), JNS (jns.org) and the Times of Israel (timesofisrael.com) were not tried: the first two were blocked from the network used on 10 November, and the third showed a bot check then. P4 needs two outlets or an official record.
 
 **P2, the certification: open.** No formal request to annul, reopen or suspend the certified results was found in the sources read.
-- **Before certification.** On 28 October, the day after the election and a week before the results were certified, the Central Elections Committee said it had received Likud's submission under its routine procedure. Under that procedure, parties flag polling stations whose results they believe need further examination. `[press: JPost, 28 October, article 913133]` That submission predates the certified results, so it is not the request P2 counts. `[conjectural]`
-- **A statement, not a request.** On 17 November, Likud's election-integrity director, Sagi Keizler, said 1,281 complaints from polling stations in Arab communities had gone uninvestigated. He added: "We're not saying the elections were stolen from us; we're saying investigate." `[press: JPost, 17 November, article 915181, from a 103FM interview]` Under P2's rules, statements are recorded but not counted.
+- **Before certification.** On 28 October, the day after the election and a week before the results were certified, the Central Elections Committee said it had received Likud's submission under its routine procedure. Under that procedure, parties submit data from polling stations "where they believe the results require further examination". `[press: JPost, 28 October, article 913133]`
+  - In this note's reading, made after the fact, that submission is not the request P2 counts, for two reasons: it predates the certified results, and it asks for further examination, not annulment, reopening or suspension. `[conjectural]`
+- **Statements.** The same day, Likud said in a statement that "The elections in the State of Israel were stolen by Arab parties that support terrorism and the destruction of the Jewish state", by what it called criminal offenses. `[press: JPost, 28 October, article 913133]`
+  - On 17 November, Likud's election-integrity director, Sagi Keizler, said: "There were no elections in the Arab sector and no democracy in the Arab sector." He said 1,281 complaints had gone uninvestigated, and that irregularities "unquestionably compromised the integrity of the elections". He also said: "We're not saying the elections were stolen from us; we're saying investigate." `[press: JPost, 17 November, article 915181, from a 103FM interview]`
+  - Neither is a formal request to the Central Elections Committee or a court, and the second asks for investigation, not annulment. `[conjectural]`
 - **An intention, not confirmed.** A search summary says a Likud lawyer told the Jerusalem Post that the party intends to seek invalidation of results at some polling stations. The article was not identified. `[search-lead]`
 
 **P3, the investigation: open.**
-- On 17 November, Justice Noam Sohlberg, who chairs the Central Elections Committee, said there was currently no evidence that voters were bribed on a scale that could affect the results. He spoke after a briefing from the Shin Bet chief, David Zini. `[press: JPost, 17 November, article 915222]`
-- The Shin Bet is continuing to investigate. The committee said the inquiry's focus is shifting "toward suspected subversion and foreign influence beyond the core electoral process and its results". `[press: JPost, 17 November, article 915222]`
-- None of the three events that would support Zini's line was reported in the sources read: an investigation of more than one MK, a recommendation of charges against an MK, or a Shin Bet security investigation of an MK.
+- On 17 November, Justice Noam Sohlberg, who chairs the Central Elections Committee, said there was currently no evidence that voters were bribed on a scale that could affect the results. He spoke after a briefing from the Shin Bet chief, David Zini, and said the Shin Bet is continuing to look into the matter. `[press: JPost, 17 November, article 915222]`
+- In the report's words, the inquiry's focus is shifting "toward suspected subversion and foreign influence beyond the core electoral process and its results", according to the committee's statement. `[press: JPost, 17 November, article 915222]`
+- None of the three conditions for Zini's line was reported in the sources read. They are that the joint investigation "formally extends to more than one MK", that it "recommends charges against any MK", or that "the Shin Bet opens a security-grounds investigation of an MK".
+- The attorney general's line needs at least one report on the investigation and none of those three things by 31 December. This is such a report. `[conjectural]`
 
-**P4, the constraint: open.** Sohlberg said he had checked with the joint investigation team and had not found that the attorney general's legal advisers refused investigation requests submitted by the Shin Bet. `[press: JPost, 17 November, article 915222]` No dismissal, suspension or override of the attorney general was reported.
+**P4, the constraint: open.**
+- Sohlberg said he had checked with the joint investigation team and had not found that the attorney general's legal advisers refused investigation requests submitted by the Shin Bet. `[press: JPost, 17 November, article 915222]`
+- No dismissal, suspension or override of the attorney general was reported. Nor was any report that the Shin Bet acted against her instructions.
